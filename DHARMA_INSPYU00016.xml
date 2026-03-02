@@ -74,440 +74,439 @@
 			<div type="edition">
 				<ab>
 					<lb n="1"/>
-					<milestone unit="face" n="A" corresp="#face_A"/>
-					<!-- AG: is linking to layoutDesc with corresp to be handled in this way? We return to the same milestone A/b/C/d multiple times in this text, whose lines go around four faces of a stone.-->
+					<milestone unit="face" n="A"/>
 					<supplied reason="lost">ma</supplied><unclear>h</unclear>ībhujām·
-					<space type="horizontal" quantity="1" unit="character"/>
+					<space quantity="1" unit="character"/>
 					tga<unclear>m·</unclear>ṃḥ diṃṁ tiṁ pmir·<unclear>ḥ</unclear>
 						<unclear>saḥ</unclear>
-					<space type="horizontal" quantity="1" unit="character"/>
+					<space quantity="1" unit="character"/>
 					°unnata
-					<space type="horizontal" quantity="1" unit="character"/>
+					<space quantity="1" unit="character"/>
 					kdir·ṃṁ tr̥ vaṃ kviṃṁ
-					<space type="horizontal" quantity="1" unit="character"/>
+					<space quantity="1" unit="character"/>
 					porusa
-					<space type="horizontal" quantity="1" unit="character"/>
-					°o <unclear>saḥ</unclear> pir·ṁ tgaṃtext
-					<space type="horizontal" quantity="1" unit="character"/>
+					<space/>					
+					°o <unclear>saḥ</unclear> pir·ṁ tgaṃ
+					<space quantity="1" unit="character"/>
 					śriyām·
-					<space type="horizontal" quantity="1" unit="character"/>
-					°o sri yaṁ <del rend="erasure">ḥ</del>
-					<space type="horizontal" quantity="1" unit="character"/>
+					<space quantity="1" unit="character"/>
+					°o sri yaṁ <del>ḥ</del>
+					<space quantity="1" unit="character"/>
 					°idam·
-					<space type="horizontal" quantity="1" unit="character"/>
+					<space quantity="1" unit="character"/>
 					<unclear>n</unclear>aḥ yaṁ
-					<space type="horizontal" quantity="1" unit="character"/>
+					<space quantity="1" unit="character"/>
 					virodha
-					<space type="horizontal" quantity="1" unit="character"/>
+					<space quantity="1" unit="character"/>
 					tim·ṁ kaṅ·ṁ
-					<space type="horizontal" quantity="1" unit="character"/>
+					<space quantity="1" unit="character"/>
 					°upaśama
-					<space type="horizontal" quantity="1" unit="character"/>
+					<space quantity="1" unit="character"/>
 					°o paṅ· dlim·ḥ
-					<space type="horizontal" quantity="1" unit="character"/>
+					<space quantity="1" unit="character"/>
 					°eka
-					<space type="horizontal" quantity="1" unit="character"/>
+					<space quantity="1" unit="character"/>
 					°ik· <gap reason="illegible" quantity="1" unit="character"/>
 					
-					<space type="horizontal" quantity="1" unit="character"/>
+					<space quantity="1" unit="character"/>
 					kāraṇaṁ
-					<milestone unit="face" n="b" corresp="#face_b"/>
+					<milestone unit="face" n="b"/>
 					tiṁ plaṁḥ
-					<space type="horizontal" quantity="1" unit="character"/>
+					<space quantity="1" unit="character"/>
 					°itaḥ
-					<space type="horizontal" quantity="1" unit="character"/>
+					<space quantity="1" unit="character"/>
 					yaṁ pin·ṁḥ
-					<space type="horizontal" quantity="1" unit="character"/>
+					<space quantity="1" unit="character"/>
 					pradhāryya
-					<space type="horizontal" quantity="1" unit="character"/>
+					<space quantity="1" unit="character"/>
 					drun·ḥ ta ṅar·ḥ dam·ṃḥ
-					<space type="horizontal" quantity="1" unit="character"/>
+					<space quantity="1" unit="character"/>
 					°āyati
-					<space type="horizontal" quantity="1" unit="character"/>
+					<space quantity="1" unit="character"/>
 					knat·ṁḥ du<unclear>k·</unclear>ṃ
-					<milestone unit="face" n="C" corresp="#face_C"/>
+					<milestone unit="face" n="C"/>
 					<gap reason="illegible" quantity="5" unit="character"/>
-					<space type="horizontal" quantity="1" unit="character"/>
+					<space quantity="1" unit="character"/>
 					dor· dam·ḥ <unclear>kn</unclear>iḥ
-					<space type="horizontal" quantity="1" unit="character"/>
+					<space quantity="1" unit="character"/>
 					vyadhāyi
-					<space type="horizontal" quantity="1" unit="character"/>
+					<space quantity="1" unit="character"/>
 					lam· ta sdam·ḥ
-					<space type="horizontal" quantity="1" unit="character"/>
+					<space quantity="1" unit="character"/>
 					yena
-					<space type="horizontal" quantity="1" unit="character"/>
+					<space quantity="1" unit="character"/>
 					pdik·ṃṁ
-					<space type="horizontal" quantity="1" unit="character"/>
+					<space quantity="1" unit="character"/>
 					°ekadine
-					<space type="horizontal" quantity="1" unit="character"/>
+					<space quantity="1" unit="character"/>
 					t<unclear>va</unclear> ta<unclear>k</unclear>·ṁ duk·ṃ
-					<space type="horizontal" quantity="1" unit="character"/>
+					<space quantity="1" unit="character"/>
 					puradvayam·
-					<space type="horizontal" quantity="1" unit="character"/>
+					<space quantity="1" unit="character"/>
 					tiṁ priṅ·ḥ kni
-					<space type="horizontal" quantity="1" unit="character"/>
+					<space quantity="1" unit="character"/>
 					tam·
-					<space type="horizontal" quantity="1" unit="character"/>
+					<space quantity="1" unit="character"/>
 					pau
-					<space type="horizontal" quantity="1" unit="character"/>
+					<space quantity="1" unit="character"/>
 					°āsrava
-					<space type="horizontal" quantity="1" unit="character"/>
+					<space quantity="1" unit="character"/>
 					tin·ṁ lim·ṁ tin·ṁ<gap reason="lost" quantity="10" unit="character"/>
 					
-					<milestone unit="face" n="d" corresp="#face_d"/>
+					<milestone unit="face" n="d"/>
 					°o tcat· tca
 					puradvaya
-					<space type="horizontal" quantity="1" unit="character"/>
+					<space quantity="1" unit="character"/>
 					tiṁ priṅ·ḥ kni
-					<space type="horizontal" quantity="1" unit="character"/>
+					<space quantity="1" unit="character"/>
 					°ekāntahita
-					<space type="horizontal" quantity="1" unit="character"/>
+					<space quantity="1" unit="character"/>
 					tak·ṁ scaṅ·ḥ °o paṅ· hip· syaṁ
 					<lb n="2"/>
-					<milestone unit="face" n="A" corresp="#face_A"/>
+					<milestone unit="face" n="A"/>
 					°upadeśinam·
-					<space type="horizontal" quantity="1" unit="character"/>
+					<space quantity="1" unit="character"/>
 					°o khñon·ḥ tiṁ thmi<unclear>n</unclear>·ḥ
-					<space type="horizontal" quantity="1" unit="character"/>
+					<space quantity="1" unit="character"/>
 					°abhipraṇamya
-					<space type="horizontal" quantity="1" unit="character"/>
+					<space quantity="1" unit="character"/>
 					<unclear>g</unclear>aṁḥ drun·ḥ ta sba
-					<space type="horizontal" quantity="1" unit="character"/>
+					<space quantity="1" unit="character"/>
 					°aryyaguhādhipāhvayam·
-					<space type="horizontal" quantity="1" unit="character"/>
+					<space quantity="1" unit="character"/>
 					ḅay·ṁḥ gauṃ vam· kviṃṁ °o rmiṅ·
-					<space type="horizontal" quantity="1" unit="character"/>
+					<space quantity="1" unit="character"/>
 					°dayānukūla
-					<space type="horizontal" quantity="1" unit="character"/>
+					<space quantity="1" unit="character"/>
 					tin·ṁ da<choice>
 							<unclear>k</unclear>
 							<unclear>r</unclear>
 						</choice>·ṃṁ tin·ṁ yav· °o <unclear>v</unclear>r<unclear>el</unclear>· ndrom·ṃ
-					<space type="horizontal" quantity="1" unit="character"/>
+					<space quantity="1" unit="character"/>
 					°agrasamādhilābhinam·
-					<space type="horizontal" quantity="1" unit="character"/>
+					<space quantity="1" unit="character"/>
 					kdam·ṁ tin·ṁ rniṅ·ṁ sdin·ṁ tdik·ṃ °o kdi<unclear>ṃ</unclear> ḅay·ṁḥ di<unclear>m·ṃṁ</unclear>
 					<g type="ddanda">.</g>
-					<space type="horizontal" quantity="1" unit="character"/>
+					<space quantity="1" unit="character"/>
 					y<supplied reason="lost">ataḥ</supplied>
-					<milestone unit="face" n="b" corresp="#face_b"/>
+					<milestone unit="face" n="b"/>
 					pd<unclear>i</unclear>k·<supplied reason="lost">ṃ</supplied>ṁ pin·ṁḥ
-					<space type="horizontal" quantity="1" unit="character"/>
+					<space quantity="1" unit="character"/>
 					prabhr̥tya
-					<space type="horizontal" quantity="1" unit="character"/>
+					<space quantity="1" unit="character"/>
 					drun·ḥ ta pr̥ tum·
-					<space type="horizontal" quantity="1" unit="character"/>
+					<space quantity="1" unit="character"/>
 					°abhyudayāya
-					<space type="horizontal" quantity="1" unit="character"/>
+					<space quantity="1" unit="character"/>
 					°o paṅ· tdluṅ·ḥ kliṁḥ °o plaṁḥ
-					<milestone unit="face" n="C" corresp="#face_C"/>
+					<milestone unit="face" n="C"/>
 					<gap reason="illegible" quantity="3" unit="character"/><unclear>m·</unclear>
-					<space type="horizontal" quantity="1" unit="character"/>
+					<space quantity="1" unit="character"/>
 					<gap reason="illegible" quantity="3" unit="character"/>vaṅ·ṃ
-					<space type="horizontal" quantity="1" unit="character"/>
+					<space quantity="1" unit="character"/>
 					ta<unclear>t·</unclear>
 					pau
-					<space type="horizontal" quantity="1" unit="character"/>
+					<space quantity="1" unit="character"/>
 					°agrapā<unclear>d</unclear>āmvuja
-					<space type="horizontal" quantity="1" unit="character"/>
+					<space quantity="1" unit="character"/>
 					°o plaṁḥ traḥ sdin·ṁ tdik·ṃ
-					<space type="horizontal" quantity="1" unit="character"/>
+					<space quantity="1" unit="character"/>
 					pīṭhalāñchitaḥ
-					<space type="horizontal" quantity="1" unit="character"/>
+					<space quantity="1" unit="character"/>
 					°o <unclear>dṅey·</unclear>ḥ du<unclear>r</unclear>· ḅin·ṁḥ ta tdit·ṁ
-					<space type="horizontal" quantity="1" unit="character"/>
+					<space quantity="1" unit="character"/>
 					°ayam·
-					<space type="horizontal" quantity="1" unit="character"/>
+					<space quantity="1" unit="character"/>
 					naḥ yaṁ
-					<space type="horizontal" quantity="1" unit="character"/>
+					<space quantity="1" unit="character"/>
 					kriyā
-					<space type="horizontal" quantity="1" unit="character"/>
+					<space quantity="1" unit="character"/>
 					tsaṁḥ
-					<space type="horizontal" quantity="1" unit="character"/>
+					<space quantity="1" unit="character"/>
 					kāraṇayā
-					<space type="horizontal" quantity="1" unit="character"/>
+					<space quantity="1" unit="character"/>
 					<unclear>t</unclear>i<supplied reason="lost">n·</supplied>ṁ<gap reason="lost" extent="unknown"/>
 						<!-- MM: I see what might be a final consonant in the 2014 RTI, but Luce has a black area; could this and the tin·m in line 5 be like the ka ~ kap· alternation? -->
 						<gap reason="illegible" quantity="1" unit="character"/>
 						<gap reason="lost" quantity="7" unit="character"/>
 					
 					<supplied reason="lost">nr̥</supplied>
-					<milestone unit="face" n="d" corresp="#face_d"/>
+					<milestone unit="face" n="d"/>
 					<unclear>pa</unclear>
 					tdav·ṃḥ
-					<space type="horizontal" quantity="1" unit="character"/>
+					<space quantity="1" unit="character"/>
 					śrījayacandravarmmaṇā
 					srijan·travar·ma kviṃṁ °o rmiṅ·<g type="ddanda">.</g>
-					<space type="horizontal" quantity="1" unit="character"/>
+					<space quantity="1" unit="character"/>
 					°ataḥ
 					<lb n="3"/>
-					<milestone unit="face" n="A" corresp="#face_A"/>
+					<milestone unit="face" n="A"/>
 					yaṁ pin·ṁḥ
-					<space type="horizontal" quantity="1" unit="character"/>
+					<space quantity="1" unit="character"/>
 					prabhr̥ty eva
-					<space type="horizontal" quantity="1" unit="character"/>
+					<space quantity="1" unit="character"/>
 					dru<unclear>n</unclear>·ḥ ta pr̥ tum· ṭloC·ḥ
-					<space type="horizontal" quantity="1" unit="character"/>
+					<space quantity="1" unit="character"/>
 					vigāḍha
-					<space type="horizontal" quantity="1" unit="character"/>
+					<space quantity="1" unit="character"/>
 					tim·ṁ daṅ·ṁ tim·ṁ gaṃ
-					<space type="horizontal" quantity="1" unit="character"/>
+					<space quantity="1" unit="character"/>
 					niścayaḥ
-					<space type="horizontal" quantity="1" unit="character"/>
+					<space quantity="1" unit="character"/>
 					°o ndo<unclear>y</unclear>· tdam·ḥ
-					<space type="horizontal" quantity="1" unit="character"/>
+					<space quantity="1" unit="character"/>
 					paraspara
-					<space type="horizontal" quantity="1" unit="character"/>
+					<space quantity="1" unit="character"/>
 					tim·ṁ daṅ·ṁ tim·ṁ ra
-					<space type="horizontal" quantity="1" unit="character"/>
+					<space quantity="1" unit="character"/>
 					prītirasa
-					<space type="horizontal" quantity="1" unit="character"/>
+					<space quantity="1" unit="character"/>
 					°o kiC·ṁ kCeṅ· °o kdiv·ṃṁ cev· din·ṃ
-					<space type="horizontal" quantity="1" unit="character"/>
+					<space quantity="1" unit="character"/>
 					°upaghātinam·
-					<space type="horizontal" quantity="1" unit="character"/>
+					<space quantity="1" unit="character"/>
 					kce k<unclear>ga</unclear>
-					<space type="horizontal" quantity="1" unit="character"/>
+					<space quantity="1" unit="character"/>
 					°aham·
-					<space type="horizontal" quantity="1" unit="character"/>
+					<space quantity="1" unit="character"/>
 					gay·ṁḥ
-					<space type="horizontal" quantity="1" unit="character"/>
+					<space quantity="1" unit="character"/>
 					na
-					<space type="horizontal" quantity="1" unit="character"/>
+					<space quantity="1" unit="character"/>
 					ḅaḥ
-					<space type="horizontal" quantity="1" unit="character"/>
+					<space quantity="1" unit="character"/>
 					bhūyaḥ
-					<space type="horizontal" quantity="1" unit="character"/>
+					<space quantity="1" unit="character"/>
 					g<unclear>o</unclear>t· <gap reason="illegible" quantity="1" unit="character"/>
-					<milestone unit="face" n="b" corresp="#face_b"/>
+					<milestone unit="face" n="b"/>
 					<unclear>ka</unclear>ravāṇi
-					<space type="horizontal" quantity="1" unit="character"/>
+					<space quantity="1" unit="character"/>
 					ta<!-- trace that could be final consonant below this akṣaras seems less deep and therefore more probable accidental --> pliṁḥ<!-- AG+MM: to be checked on 2014 RTI, because hilṁḥ sems possible from 2016 RTI. --> saṁḥ tim·ṁ kaṅ·ṁ
-					<space type="horizontal" quantity="1" unit="character"/>
+					<space quantity="1" unit="character"/>
 					sahānuja
-					<space type="horizontal" quantity="1" unit="character"/>
+					<space quantity="1" unit="character"/>
 					ṅit·ṁ kdaṅ· nḅun·ḥ mrauy·ḥ
-					<space type="horizontal" quantity="1" unit="character"/>
-					śrīhārivikra<unclear>m</unclear><supplied reason="lost">e</supplied><milestone unit="face" n="C" corresp="#face_C"/><supplied reason="lost">ṇa ca</supplied>
-					<space type="horizontal" quantity="1" unit="character"/>
+					<space quantity="1" unit="character"/>
+					śrīhārivikra<unclear>m</unclear><supplied reason="lost">e</supplied><milestone unit="face" n="C"/><supplied reason="lost">ṇa ca</supplied>
+					<space quantity="1" unit="character"/>
 					<gap reason="illegible" quantity="5" unit="character"/> sri<unclear>ha</unclear>rivi<unclear>k·</unclear>krama <unclear>°o rm</unclear>iṅ·<g type="ddanda">.</g>
-					<space type="horizontal" quantity="1" unit="character"/>
+					<space quantity="1" unit="character"/>
 					bhaveyuḥ
-					<space type="horizontal" quantity="1" unit="character"/>
+					<space quantity="1" unit="character"/>
 					leḥ ce °o kap· ñaḥ
-					<space type="horizontal" quantity="1" unit="character"/>
+					<space quantity="1" unit="character"/>
 					°asmat·
-					<space type="horizontal" quantity="1" unit="character"/>
+					<space quantity="1" unit="character"/>
 					ga<unclear>y</unclear>·ṁḥ 
-					<space type="horizontal" quantity="1" unit="character"/>
+					<space quantity="1" unit="character"/>
 					punaḥ
-					<space type="horizontal" quantity="1" unit="character"/>
+					<space quantity="1" unit="character"/>
 					k<unclear>n</unclear>aC·ṁḥ
-					<space type="horizontal" quantity="1" unit="character"/>
+					<space quantity="1" unit="character"/>
 					°ātmajāś ca ye
-					<space type="horizontal" quantity="1" unit="character"/>
+					<space quantity="1" unit="character"/>
 					pdiṃ<unclear>k</unclear>·ṁ gi saḥ pli<unclear>ṁ</unclear> vaṅ·ṃ hnaut·
-					<space type="horizontal" quantity="1" unit="character"/>
+					<space quantity="1" unit="character"/>
 					saputtrasantāna
-					<space type="horizontal" quantity="1" unit="character"/>
+					<space quantity="1" unit="character"/>
 					ṅit·ṁ <unclear>k</unclear>da<unclear>ṅ</unclear>·
-					<space type="horizontal" quantity="1" unit="character"/><gap reason="lost" quantity="6" unit="character"/>
+					<space quantity="1" unit="character"/><gap reason="lost" quantity="6" unit="character"/>
 					
 					<supplied reason="lost">tin·ṁ</supplied>
-						<milestone unit="face" n="d" corresp="#face_d"/>ḅun·ḥ tim·ṁ tak· kiṁ ce hvuṃ
-					<space type="horizontal" quantity="1" unit="character"/>
+						<milestone unit="face" n="d"/>ḅun·ḥ tim·ṁ tak· kiṁ ce hvuṃ
+					<space quantity="1" unit="character"/>
 					na te
-					<space type="horizontal" quantity="1" unit="character"/>
+					<space quantity="1" unit="character"/>
 					ḅaḥ po vaṅ·ṃ
-					<space type="horizontal" quantity="1" unit="character"/>
+					<space quantity="1" unit="character"/>
 					virotsyanti
-					<space type="horizontal" quantity="1" unit="character"/>
-					lam· hliṁḥ skaṅ·ṁ <space type="horizontal" quantity="1" unit="character"/> mra vaṅ·ṃ
+					<space quantity="1" unit="character"/>
+					lam· hliṁḥ skaṅ·ṁ <space quantity="1" unit="character"/> mra vaṅ·ṃ
 					<lb n="4"/>
-					<milestone unit="face" n="A" corresp="#face_A"/>
+					<milestone unit="face" n="A"/>
 					saha tva <unclear>dā</unclear>tmajaiḥ
-					<space type="horizontal" quantity="1" unit="character"/>
+					<space quantity="1" unit="character"/>
 					ḅay·ṁḥ la saḥ pli<unclear>ṁ</unclear> vaṅ·ṃ daṅ·ṃ
-					<space type="horizontal" quantity="1" unit="character"/>
+					<space quantity="1" unit="character"/>
 					saputtrasantāna
-					<space type="horizontal" quantity="1" unit="character"/>
+					<space quantity="1" unit="character"/>
 					ṅit·ṁ kdaṅ· saḥ tin·ṁ ḅun·ḥ tim·ṁ ta<unclear>k</unclear>·
-					<space type="horizontal" quantity="1" unit="character"/>
+					<space quantity="1" unit="character"/>
 					paramparāgataiḥ
-					<space type="horizontal" quantity="1" unit="character"/>
+					<space quantity="1" unit="character"/>
 					tin·ṁ ḅun·ḥ ti<unclear>m</unclear>·ṁ del·ṃṁḥ kiṁ ce hvuṃ vaṅ·ṃ daṅ·ṃ<g type="ddanda">.</g>
 					°imam·
-					<space type="horizontal" quantity="1" unit="character"/>
+					<space quantity="1" unit="character"/>
 					naḥ yaṁ
-					<space type="horizontal" quantity="1" unit="character"/>
+					<space quantity="1" unit="character"/>
 					sad<supplied reason="lost">ācā</supplied>ra
-					<space type="horizontal" quantity="1" unit="character"/>
+					<space quantity="1" unit="character"/>
 					mra sdin·ṁ <unclear>°o</unclear> got·
-					<space type="horizontal" quantity="1" unit="character"/>
+					<space quantity="1" unit="character"/>
 					pathāgatam·
-					<space type="horizontal" quantity="1" unit="character"/>
-					°o de(l·ṃḥ) <milestone unit="face" n="b" corresp="#face_b"/><supplied reason="lost">la</supplied>m·ḥ pin·ṁḥ kiṁ ce
+					<space quantity="1" unit="character"/>
+					°o de(l·ṃḥ) <milestone unit="face" n="b"/><supplied reason="lost">la</supplied>m·ḥ pin·ṁḥ kiṁ ce
 					vidhim·
-					<space type="horizontal" quantity="1" unit="character"/>
+					<space quantity="1" unit="character"/>
 					tiṁ krin·ṁ tiṁ sca thṅam·ḥ tin·ṁ ti din·ṃṁ
-					<space type="horizontal" quantity="1" unit="character"/>
+					<space quantity="1" unit="character"/>
 					caranti
-					<space type="horizontal" quantity="1" unit="character"/>
+					<space quantity="1" unit="character"/>
 					lam· pgau<unclear>t·</unclear>
-					<milestone unit="face" n="C" corresp="#face_C"/>
+					<milestone unit="face" n="C"/>
 					ye
-					<space type="horizontal" quantity="1" unit="character"/>
+					<space quantity="1" unit="character"/>
 					<unclear>pdi</unclear><supplied reason="lost">k·ṃṁ</supplied><unclear>na</unclear>ḥ tse<unclear>C·</unclear>
 						<unclear>vaṅ·ṃ</unclear>
-					<space type="horizontal" quantity="1" unit="character"/>
+					<space quantity="1" unit="character"/>
 					<!-- MM2AG: although I expect pdik·ṃṁ as a gloss for ye and can kind of see it in the RTI, the PPPB rubbing shows that the akṣara after ye has no subscript consonant: i.e., no -d-ṃ- -->
 					<unclear>°a</unclear>pa<unclear>nna</unclear>gasambhavā<unclear>ya</unclear>
 					<gap reason="illegible" quantity="1" unit="character"/> g<unclear>i</unclear> sḅuC· mrauy·ḥ pin·ṁḥ
 					<!-- MM2AG: treated (g/ḅ)a(l/k)· as case of unclear rather than supplied -->
-					<space type="horizontal" quantity="1" unit="character"/>
+					<space quantity="1" unit="character"/>
 					te
-					<space type="horizontal" quantity="1" unit="character"/>
+					<space quantity="1" unit="character"/>
 					<unclear>t</unclear>i<unclear>·</unclear>ṃ ba vaṅ·ṃ
-					<space type="horizontal" quantity="1" unit="character"/>
+					<space quantity="1" unit="character"/>
 					bhavantu
-					<space type="horizontal" quantity="1" unit="character"/>
+					<space quantity="1" unit="character"/>
 					<unclear>peḥ</unclear> ce °o ka ñaḥ
-					<space type="horizontal" quantity="1" unit="character"/>
+					<space quantity="1" unit="character"/>
 					sar<unclear>v</unclear>ve
 					°o hnaut·
 					nirujāḥ
-					<space type="horizontal" quantity="1" unit="character"/>
+					<space quantity="1" unit="character"/>
 					ḅa kca
-					<space type="horizontal" quantity="1" unit="character"/>
+					<space quantity="1" unit="character"/>
 					cirāyusaḥ
-					<space type="horizontal" quantity="1" unit="character"/>
+					<space quantity="1" unit="character"/>
 					droṅ· hra
-					<space type="horizontal" quantity="1" unit="character"/>
+					<space quantity="1" unit="character"/>
 					sadā
 					
 						<gap reason="illegible" quantity="1" unit="character"/>
 						<unclear>tiṁ</unclear>
 						<gap reason="illegible" quantity="2" unit="character"/>
 					
-					<space type="horizontal" quantity="1" unit="character"/>
+					<space quantity="1" unit="character"/>
 					
 						<gap reason="illegible" quantity="1" unit="character"/>
 						<gap reason="lost" quantity="2" unit="character"/>
 						<unclear>u</unclear>
-						<milestone unit="face" n="d" corresp="#face_d"/>daya
-					<space type="horizontal" quantity="1" unit="character"/>
+						<milestone unit="face" n="d"/>daya
+					<space quantity="1" unit="character"/>
 					°o kdir·ṃṁ tr̥ vaṃ
-					<space type="horizontal" quantity="1" unit="character"/>
+					<space quantity="1" unit="character"/>
 					°artthasiddhayaḥ
-					<space type="horizontal" quantity="1" unit="character"/>
+					<space quantity="1" unit="character"/>
 					°o paṅ· sdlaṅ·ḥ kliṁḥ khmi<unclear>ṅ</unclear>· kta vaṅ·ṃ<g type="ddanda">.</g>
 					<lb n="5"/>
-					<milestone unit="face" n="A" corresp="#face_A"/>
+					<milestone unit="face" n="A"/>
 					<unclear>v</unclear>i<unclear>la</unclear>ṅghito
-					<space type="horizontal" quantity="1" unit="character"/>
+					<space quantity="1" unit="character"/>
 					ḅin·ṁḥ ta bak·ṁ tvan·ṃṁḥ
-					<space type="horizontal" quantity="1" unit="character"/>
+					<space quantity="1" unit="character"/>
 					yaiḥ
-					<space type="horizontal" quantity="1" unit="character"/>
+					<space quantity="1" unit="character"/>
 					pdik·ṃṁ vaṅ·ṃ
-					<space type="horizontal" quantity="1" unit="character"/>
+					<space quantity="1" unit="character"/>
 					°ayam·
-					<space type="horizontal" quantity="1" unit="character"/>
+					<space quantity="1" unit="character"/>
 					naḥ yaṁ
-					<space type="horizontal" quantity="1" unit="character"/>
+					<space quantity="1" unit="character"/>
 					°aryyagocaro
-					<space type="horizontal" quantity="1" unit="character"/>
+					<space quantity="1" unit="character"/>
 					mra <unclear>s</unclear>din·ṁ °o go<unclear>t·</unclear> rheC·
-					<space type="horizontal" quantity="1" unit="character"/>
+					<space quantity="1" unit="character"/>
 					bhavantu
-					<space type="horizontal" quantity="1" unit="character"/>
+					<space quantity="1" unit="character"/>
 					paṁ<unclear>ḥ ce</unclear> °o kap· ñaḥ
-					<space type="horizontal" quantity="1" unit="character"/>
+					<space quantity="1" unit="character"/>
 					te
-					<space type="horizontal" quantity="1" unit="character"/>
+					<space quantity="1" unit="character"/>
 					pau vaṅ·ṃ
-					<space type="horizontal" quantity="1" unit="character"/>
+					<space quantity="1" unit="character"/>
 					vigrahakāryya
-					<space type="horizontal" quantity="1" unit="character"/>
+					<space quantity="1" unit="character"/>
 					tim·ṁ kaṅ·ṁ tim·ṁ vaṅ·ṃ prat· paṅ·
-					<space type="horizontal" quantity="1" unit="character"/>
+					<space quantity="1" unit="character"/>
 					vibhramaḥ
-					<space type="horizontal" quantity="1" unit="character"/>
+					<space quantity="1" unit="character"/>
 					kmuṅ· kmi<unclear>C</unclear>·ṁ
-					<space type="horizontal" quantity="1" unit="character"/>
+					<space quantity="1" unit="character"/>
 					nirantara
-					<unclear>ḅa</unclear> sar·<milestone unit="face" n="b" corresp="#face_b"/><gap reason="illegible" quantity="1" unit="character"/>
+					<unclear>ḅa</unclear> sar·<milestone unit="face" n="b"/><gap reason="illegible" quantity="1" unit="character"/>
 						<unclear>k</unclear>·ḥ
-					<space type="horizontal" quantity="1" unit="character"/>
+					<space quantity="1" unit="character"/>
 					vyādhiparītamūrttayaḥ
-					<space type="horizontal" quantity="1" unit="character"/>
+					<space quantity="1" unit="character"/>
 					kca ḅiṁḥ vin·ṁḥ ncit·ṁ kviṃṁ °o hyaḥ
-					<space type="horizontal" quantity="1" unit="character"/>
+					<space quantity="1" unit="character"/>
 					sadā
-					<space type="horizontal" quantity="1" unit="character"/>
+					<space quantity="1" unit="character"/>
 					nṅa<unclear>p</unclear>· duk·ṃ
-					<milestone unit="face" n="C" corresp="#face_C"/>
+					<milestone unit="face" n="C"/>
 					<gap reason="illegible" quantity="3" unit="character"/><unclear>mbha</unclear>
-					<space type="horizontal" quantity="1" unit="character"/>
+					<space quantity="1" unit="character"/>
 					ti<unclear>n·</unclear>ṁ droḥ kdiṃ °o pa<unclear>ṅ·</unclear> duk·ṃ
-					<space type="horizontal" quantity="1" unit="character"/>
+					<space quantity="1" unit="character"/>
 					niva<unclear>ddh</unclear>asid<unclear>dh</unclear>ayaḥ
-					<space type="horizontal" quantity="1" unit="character"/>
+					<space quantity="1" unit="character"/>
 					taṁ tya<unclear>ṅ·</unclear>ḥ kviṃṁ °o khmi<unclear>ṅ</unclear>· kta<g type="ddanda">.</g>
-					<space type="horizontal" quantity="1" unit="character"/>
+					<space quantity="1" unit="character"/>
 					°ayam·
-					<space type="horizontal" quantity="1" unit="character"/>
+					<space quantity="1" unit="character"/>
 					naḥ yaṁ
-					<space type="horizontal" quantity="1" unit="character"/>
+					<space quantity="1" unit="character"/>
 					kr<unclear>i</unclear>yākāraṇayaḥ
-					<space type="horizontal" quantity="1" unit="character"/>
+					<space quantity="1" unit="character"/>
 					tsaṁḥ ti<unclear>n·</unclear>ṁ yaḥ °o krin·ṁ
 					<!-- MM: where reading stopped as of 10 February morning -->
-					<space type="horizontal" quantity="1" unit="character"/>
+					<space quantity="1" unit="character"/>
 					tathaiva
-					<space type="horizontal" quantity="1" unit="character"/>
+					<space quantity="1" unit="character"/>
 					<unclear>p</unclear>o nay· ṭlo<unclear>n</unclear>·ḥ
-					<space type="horizontal" quantity="1" unit="character"/>
+					<space quantity="1" unit="character"/>
 					te
-					<space type="horizontal" quantity="1" unit="character"/>
+					<space quantity="1" unit="character"/>
 					pau vaṅ·ṃ
-					<space type="horizontal" quantity="1" unit="character"/>
-					para<supplied reason="lost">sparaṁ</supplied><milestone unit="face" n="d" corresp="#face_d"/>sauhr̥dam·
-					<space type="horizontal" quantity="1" unit="character"/>
+					<space quantity="1" unit="character"/>
+					para<supplied reason="lost">sparaṁ</supplied><milestone unit="face" n="d"/>sauhr̥dam·
+					<space quantity="1" unit="character"/>
 					°o ḅin·ṁḥ ce tkoḥ hak· °o hliḥ
-					<space type="horizontal" quantity="1" unit="character"/>
+					<space quantity="1" unit="character"/>
 					°ā bhuva sthiteḥ
-					<space type="horizontal" quantity="1" unit="character"/>
-					tgam·ṃḥ °o tco<unclear>ṅ</unclear>·<lb n="6"/><milestone unit="face" n="A" corresp="#face_A"/><unclear>ha</unclear>ḥ k<unclear>m</unclear>V
-					<space type="horizontal" quantity="1" unit="character"/>
+					<space quantity="1" unit="character"/>
+					tgam·ṃḥ °o tco<unclear>ṅ</unclear>·<lb n="6"/><milestone unit="face" n="A"/><unclear>ha</unclear>ḥ k<unclear>m</unclear>V
+					<space quantity="1" unit="character"/>
 					priyānujenāpi
-					<space type="horizontal" quantity="1" unit="character"/>
+					<space quantity="1" unit="character"/>
 					<unclear>°o</unclear> ḅin·ṁḥ kroḥ tsaḥ tom·
-					<space type="horizontal" quantity="1" unit="character"/>
+					<space quantity="1" unit="character"/>
 					sadā
-					<space type="horizontal" quantity="1" unit="character"/>
+					<space quantity="1" unit="character"/>
 					nṅap· duṃ<unclear>k</unclear>·
-					<space type="horizontal" quantity="1" unit="character"/>
+					<space quantity="1" unit="character"/>
 					°anu<unclear>v</unclear>arttyate
-					<space type="horizontal" quantity="1" unit="character"/>
+					<space quantity="1" unit="character"/>
 					ḅi<unclear>n·</unclear>ṁḥ na<unclear>ḥ</unclear> pgau<unclear>t·</unclear>
-					<space type="horizontal" quantity="1" unit="character"/>
+					<space quantity="1" unit="character"/>
 					sahānujai<supplied reason="lost">ḥ</supplied>
-					<space type="horizontal" quantity="1" unit="character"/>
+					<space quantity="1" unit="character"/>
 					ṅit·ṁ kda<unclear>ṅ·</unclear> nḅ<supplied reason="lost">un·</supplied><unclear>ḥ ra</unclear>
-					<space type="horizontal" quantity="1" unit="character"/>
+					<space quantity="1" unit="character"/>
 					puttra
-					<space type="horizontal" quantity="1" unit="character"/>
+					<space quantity="1" unit="character"/>
 					°o saḥ
-					<space type="horizontal" quantity="1" unit="character"/>
+					<space quantity="1" unit="character"/>
 					kula
-					<space type="horizontal" quantity="1" unit="character"/>
+					<space quantity="1" unit="character"/>
 					°o ṭruḥ hnau<unclear>r</unclear>·ḥ
-					<space type="horizontal" quantity="1" unit="character"/>
+					<space quantity="1" unit="character"/>
 					kramānugaiḥ
-					<space type="horizontal" quantity="1" unit="character"/>
+					<space quantity="1" unit="character"/>
 					°o da<unclear>l·</unclear>ṃṁḥ dal·ṃṁḥ knat·<unclear>ṁ</unclear>ḥ tḅiṁḥ vaṃ
-					<g type="ddanda">.</g><g><g type="scroll"/></g>
+					<g type="ddanda">.</g><g type="scroll"/>
 				</ab>
 			</div>
 			<div type="apparatus">
