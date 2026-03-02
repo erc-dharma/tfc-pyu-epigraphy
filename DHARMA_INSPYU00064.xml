@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_SQF.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>stone slab Sin Phyu Ywa village (Beinnaka old city), Pyawbwe</title>
+                <respStmt>
+                    <resp>author of digital edition</resp>
+                <persName ref="part:argr"><forename>Arlo</forename><surname>Griffiths</surname></persName><persName ref="part:mami"><forename>Marc</forename><surname>Miyake</surname></persName><persName ref="part:jukw"><forename>Julian Karl</forename><surname>Wheatley</surname></persName></respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>DHARMA</authority>
+                <pubPlace><!-- Fill in here the place or places where the encoding has been done --></pubPlace>
+                <idno type="filename">DHARMA_INSPYU00064</idno>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">
+                        <p>This work is licensed under the Creative Commons Attribution 4.0 Unported
+                            Licence. To view a copy of the licence, visit
+                            https://creativecommons.org/licenses/by/4.0/ or send a letter to
+                            Creative Commons, 444 Castro Street, Suite 900, Mountain View,
+                            California, 94041, USA.</p>
+                    </licence>
+                </availability>
+                <date from="2019" to="2025">2019-2025</date>
+            </publicationStmt>
+            <sourceDesc><!-- only the handDesc can be filled in at this stage -->
+                <msDesc><!-- //// NB: the msIdentifier had to be added for validation purposes ///. It will be edited later with the metadata spreadsheet -->
+                    <msIdentifier>
+                        <repository>DHARMAbase</repository>
+                        <idno/><!-- don't modify this -->
+                    </msIdentifier>
+                    <msContents><!-- describe the intellectual content of an inscription -->
+                        <summary><!-- //// NOT MANDATORY  ////--></summary> <!-- offers the possibility to give a summary of the inscription's content -->
+                    </msContents>
+                    <physDesc>
+                        <handDesc>
+                            <p><!-- The script name(s) will be inserted here at a later stage from the metadata spreasheet. At this stage, you can mention here in a free-text paragraph any characteristics of the writing observed more than once in this inscription that seem unusual/uncommon or otherwise noteworthy given the general characteristics of the script in question. See EGD 11.2. --></p>
+                            <!-- If you need to identify individual hands (EGD §7.5/) in addition to one or more paragraphs of general palaeographic description, wrap <summary> around the <p> or <p>s above, and, outside <summary>, create <handNote> elements for each hand as follows:
+						<summary><p><p/></summary>
+						<handNote xml:id="Pallava00001_hand1"></handNote>
+						<handNote xml:id="Pallava00001_hand2"></handNote>
+					 -->
+                        </handDesc>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>The project DHARMA has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme (grant agreement no 809994).</p>
+            </projectDesc>
+            <schemaRef type="guide" key="EGDv01" url="https://halshs.archives-ouvertes.fr/halshs-02888186"/><!-- UPDATE the link once the release is made official -->
+            <listPrefixDef>
+                <prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)" replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
+                    <p>Public URIs with the prefix bib to point to a Zotero Group Library named ERC-DHARMA whose data are open to the public.</p>
+                </prefixDef>
+                <prefixDef ident="part" matchPattern="([a-z]+)" replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_idListMembers_v01.xml#$1">
+                    <p>Internal URIs using the part prefix to point to person elements in the <ref>DHARMA_idListMembers_v01.xml</ref> file.</p>
+                </prefixDef>
+            </listPrefixDef>
+        </encodingDesc>
+        <revisionDesc>
+            <change who="part:mime" when="2026-03-02">Conversion to DHARMA guidelines</change>
+        </revisionDesc>
+    </teiHeader>
+    <text xml:space="preserve">
+      <body>
+			<div type="edition" xml:lang="pyx-Latn">
+				<ab>
+					<lb n="1"/>
+					<supplied reason="lost">sid</supplied>dha<unclear>m·</unclear> <g>2</g><g type="ddanda">.</g>  <g type="ddanda">.</g> ta ktoy· tdav·ḥ <gap reason="illegible" quantity="3" unit="character"/> hnam· kaṅ· sgaṃ kraṅ· kdaṅ· san·ḥ <gap reason="illegible" quantity="1" unit="character"/> kdiṅ· <gap reason="illegible" quantity="5" unit="character"/>t· <gap reason="illegible" quantity="1" unit="character"/>n· <gap reason="illegible" quantity="1" unit="character"/> ta ḅiṁḥ rom· tar· ṅav· <gap reason="lost" extent="unknown" unit="character"/>
+					<lb n="2"/>
+					pr̥ kul· toy· tkir·ṃḥ ṭiḥ <gap reason="illegible" quantity="2" unit="character"/> tar· ṅav·ḥ <gap reason="illegible" quantity="1" unit="character"/> tvaṃṁ tin·ṁ doṅ· tol· ṅav· toy· tkir·ṁḥ <unclear>°o</unclear> saḥ tdav·ḥ may· doṃ koy· khmik·ṁḥ kli skuy· tar· dav·ḥ kdaṅ· saḥ <unclear>p</unclear>li pla <gap reason="lost" extent="unknown" unit="character"/>
+					<lb n="3"/>
+					<gap reason="lost" extent="unknown" unit="character"/> <unclear>p</unclear>draṅ· <gap reason="illegible" quantity="2" unit="character"/> gaḥ ṅa ṅav· <unclear>to</unclear>y· <supplied reason="lost">tki</supplied>r·<unclear>ṁḥ</unclear> °o saḥ tar· dav·ḥ <gap reason="illegible" quantity="1" unit="character"/>v· tim·ṁ goṃḥ toy· ṅav· pr̥ kul· sma toy· tkir·ṁḥ kliṁḥ ryaḥ <space type="horizontal" quantity="1" unit="character"/> kdaṅ· saḥ pli pla ro<unclear>m·</unclear> dṅok· sdak· tar· dav·ḥ °o ḅin·ṁḥ <gap reason="illegible" quantity="1" unit="character"/>·ḥ <unclear>de/kha</unclear> <gap reason="illegible" quantity="5" unit="character"/>
+					<lb n="4"/>
+					<gap reason="lost" quantity="1" unit="character"/> <gap reason="lost" extent="unknown" unit="character"/> <unclear>m</unclear>u tiṁ ḅay·ṁḥ tdu<unclear>n·</unclear> °o <gap reason="illegible" quantity="3" unit="character"/> <space type="horizontal" quantity="1" unit="character"/> tdav·ṃḥ °oṅ· <gap reason="illegible" quantity="1" unit="character"/>v· tim·ṁ goṃḥ tol· <unclear>ṅa</unclear>v· pr̥ kul· sma toy·ṁ tkir·ṁḥ kliṁḥ ryaḥ <gap reason="illegible" quantity="2" unit="character"/>t· ṅav·ḥ tay· pin·ṁ ti <gap reason="illegible" quantity="1" unit="character"/>ḥ ti nan·ḥ pṅa<unclear>t</unclear>· <space type="horizontal" quantity="1" unit="character"/> °o tcu <gap reason="illegible" quantity="1" unit="character"/> ḅaḥ ti <gap reason="illegible" quantity="11" unit="character"/>
+					<lb n="5"/>
+					<gap reason="illegible" quantity="1" unit="character"/> <gap reason="lost" extent="unknown" unit="character"/> ple kya kci sa <gap reason="illegible" quantity="2" unit="character"/> dra phva <gap reason="illegible" quantity="1" unit="character"/> pay·ṁḥ pat· kaṅ· gap·ṃ tsaḥ tiṁ pli tiṁ plaṁ Ci rom· nba rka °o tin·ṁ mu tin·ṁ gam·ḥ nut· °o ḅiṁ li tṅam· <space type="horizontal" quantity="1" unit="character"/> ntu yaḥ kna stu kaṁ msauṅ· tim· <gap reason="illegible" quantity="8" unit="character"/> pla <gap reason="illegible" quantity="1" unit="character"/>
+					<lb n="6"/>
+					ṭlo<supplied reason="lost">C·</supplied> laḥ <gap reason="illegible" quantity="1" unit="character"/>ḥ ti<unclear>r</unclear>· kdaṃ <gap reason="illegible" quantity="1" unit="character"/> <space type="horizontal" quantity="1" unit="character"/> tda<unclear>v</unclear>·<unclear>ṃ</unclear>ḥ °o<unclear>ṅ·</unclear> dla<unclear>v·</unclear> ti<unclear>m·</unclear>ṁ goṃḥ dol· ṅav· pr̥ <unclear>kul</unclear>· s<unclear>m</unclear>a toy· tkir·ṁḥ kliṁḥ ryaḥ <space type="horizontal" quantity="1" unit="character"/> °o ḅin·ṁḥ ptau<unclear>r</unclear>·ḥ tkin·ṁḥ tin·ṁ ga<supplied reason="lost">ṃḥ</supplied> <space type="horizontal" quantity="1" unit="character"/> tr̥ hnam· mra °o ḅin·ṁḥ sgaul·ṃḥ yaṁ <space type="horizontal" quantity="1" unit="character"/> tna saḥ msauṅ· du<unclear>k·</unclear> kṅuḥ <gap reason="illegible" quantity="1" unit="character"/> maṅ·ḥ pli tin·ṁ ñaḥ tna <gap reason="illegible" quantity="4" unit="character"/>
+					<lb n="7"/>
+					<gap reason="illegible" quantity="4" unit="character"/> Civ· <gap reason="illegible" quantity="1" unit="character"/> <unclear>r</unclear>la
+					duk·ṁ ceṅ· tiṁ priṅ·ḥ dhat· tgam·ṃḥ pin·ṁḥ <space type="horizontal" quantity="1" unit="character"/> tdim·ṃṁ mgaul·ṃ mra tim·ṁ ñaḥ kda<unclear>ṅ</unclear>· sguṅ·ṁ priṅ·ḥ ti kdul·ḥ  plum· <space type="horizontal" quantity="1" unit="character"/> yaṁ tiv·ḥ tkit·ṁ tiṅ·ṁ ḅa tar· ḅin·ṁḥ rom· ñaḥ duk·ṃ ḅaṁḥ ti<unclear>n·</unclear> sat· pCay· <space type="horizontal" quantity="1" unit="character"/> mat· ta ṅuḥ <gap reason="illegible" quantity="6" unit="character"/>
+					<lb n="8"/>
+					CCiṁ ndak· skuy· tam· <unclear>ḅ</unclear>iṁ p<unclear>v</unclear>aṃ <space type="horizontal" quantity="1" unit="character"/> gaṃḥ tr̥ hnam· tam· ḅiṁ tiṁ phi <space type="horizontal" quantity="1" unit="character"/> tam· ḅiṁ piṁ tvol·ṃḥ ḅaṁḥ tr̥ hnam· mra ḅin·ṁḥ tset· <g type="ddanda">.</g> <g>@</g>
+					<!--transcription here--></ab>
+			</div>
+			<div type="apparatus">
+				<listApp/>
+			</div>
+			<div type="translation" xml:lang="eng">
+				<p><!--english translation here--></p>
+			</div>
+			<div type="commentary">
+				<p>6. <seg type="graphemic">ṭlo(C·)</seg>: final consonant supplied since <seg type="graphemic">ṭlo</seg> and <seg type="graphemic">tlo</seg> are not attested.</p>
+				<!-- MM: not sure if that's the reason -->
+				<p>6. <seg type="graphemic">ga(ṃḥ)</seg>: subscript dot and visarga supplied on basis of <seg type="graphemic">tin·ṁ gaṃḥ</seg> in 21.6.</p>
+				<!-- MM: not sure if that's the reason -->
+			</div>
+			<div type="bibliography">
+				<p>Published in <bibl><ptr target="bib:SeinWin2016_01"/><citedRange>131-5</citedRange></bibl>: 8 lines of eye drawings with Burmese transliteration. Re-edited here from our team’s RTIs.</p>
+				<!-- <listBibl type="secondary-bibliography">
+				</listBibl> -->
+			<listBibl type="primary"><bibl><ptr target="bib:CPI2018_01"/><citedRange unit="item">DHARMA_INSPYU00064</citedRange></bibl></listBibl></div>
+		</body>
+  </text>
+</TEI>

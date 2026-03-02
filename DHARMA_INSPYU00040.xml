@@ -1,0 +1,329 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_SQF.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Slab from Top of Htingonsu Hill, Kunzeik</title>
+                <respStmt>
+                    <resp>author of digital edition</resp>
+                <persName ref="part:argr"><forename>Arlo</forename><surname>Griffiths</surname></persName><persName ref="part:dcla"><forename>D. Christian</forename><surname>Lammerts</surname></persName></respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>DHARMA</authority>
+                <pubPlace><!-- Fill in here the place or places where the encoding has been done --></pubPlace>
+                <idno type="filename">DHARMA_INSPYU00040</idno>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">
+                        <p>This work is licensed under the Creative Commons Attribution 4.0 Unported
+                            Licence. To view a copy of the licence, visit
+                            https://creativecommons.org/licenses/by/4.0/ or send a letter to
+                            Creative Commons, 444 Castro Street, Suite 900, Mountain View,
+                            California, 94041, USA.</p>
+                    </licence>
+                </availability>
+                <date from="2019" to="2025">2019-2025</date>
+            </publicationStmt>
+            <sourceDesc><!-- only the handDesc can be filled in at this stage -->
+                <msDesc><!-- //// NB: the msIdentifier had to be added for validation purposes ///. It will be edited later with the metadata spreadsheet -->
+                    <msIdentifier>
+                        <repository>DHARMAbase</repository>
+                        <idno/><!-- don't modify this -->
+                    </msIdentifier>
+                    <msContents><!-- describe the intellectual content of an inscription -->
+                        <summary><!-- //// NOT MANDATORY  ////--></summary> <!-- offers the possibility to give a summary of the inscription's content -->
+                    </msContents>
+                    <physDesc>
+                        <handDesc>
+                            <p><!-- The script name(s) will be inserted here at a later stage from the metadata spreasheet. At this stage, you can mention here in a free-text paragraph any characteristics of the writing observed more than once in this inscription that seem unusual/uncommon or otherwise noteworthy given the general characteristics of the script in question. See EGD 11.2. --></p>
+                            <!-- If you need to identify individual hands (EGD §7.5/) in addition to one or more paragraphs of general palaeographic description, wrap <summary> around the <p> or <p>s above, and, outside <summary>, create <handNote> elements for each hand as follows:
+						<summary><p><p/></summary>
+						<handNote xml:id="Pallava00001_hand1"></handNote>
+						<handNote xml:id="Pallava00001_hand2"></handNote>
+					 -->
+                        </handDesc>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>The project DHARMA has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme (grant agreement no 809994).</p>
+            </projectDesc>
+            <schemaRef type="guide" key="EGDv01" url="https://halshs.archives-ouvertes.fr/halshs-02888186"/><!-- UPDATE the link once the release is made official -->
+            <listPrefixDef>
+                <prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)" replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
+                    <p>Public URIs with the prefix bib to point to a Zotero Group Library named ERC-DHARMA whose data are open to the public.</p>
+                </prefixDef>
+                <prefixDef ident="part" matchPattern="([a-z]+)" replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_idListMembers_v01.xml#$1">
+                    <p>Internal URIs using the part prefix to point to person elements in the <ref>DHARMA_idListMembers_v01.xml</ref> file.</p>
+                </prefixDef>
+            </listPrefixDef>
+        </encodingDesc>
+        <revisionDesc>
+            <change who="part:mime" when="2026-03-02">Conversion to DHARMA guidelines</change>
+        </revisionDesc>
+    </teiHeader>
+    <text xml:space="preserve">
+      <body>
+			<div type="edition" xml:lang="pli-Latn">
+				<div type="textpart" n="A">
+					<ab><lb n="1"/>
+						<g>||||</g>
+						tena
+						samayena
+						<space type="horizontal" quantity="1" unit="chars"/>
+						buddho
+						bhagavā
+						°uruvelāyaṁ
+						viharati
+						na<unclear>jjā</unclear>
+						<supplied reason="lost">ne</supplied><lb n="2" break="no"/>ra<unclear>ñja</unclear><supplied reason="lost">r</supplied>ātire
+						bodhirukkhamūle
+						<space type="horizontal" quantity="1" unit="chars"/>
+						pathamābhisaṁbudddho
+						°atha
+						kho
+						bhagavā
+						bodh<supplied reason="lost">iru</supplied><lb n="3" break="no"/><supplied reason="lost">k</supplied>khamūle
+						sattāhaṁ
+						°ekapallaṅkena
+						nisīdi
+						vimuttisukhapaṭisaṁvedi
+						°atha
+						<supplied reason="lost">kho</supplied>
+						<lb n="4"/>
+						bhagavā
+						<supplied reason="lost">ra</supplied>ttiyā
+						pathamaṁ
+						yāmaṁ
+						paṭicchasamuppādaṁ
+						°a<unclear>nulo</unclear>mapaṭilomaṁ
+						mana<unclear>s</unclear><supplied reason="lost">ākāsi</supplied>
+						<lb n="5"/>
+						°avijjāpaccayā
+						sakhārā
+						saṁkhārapaccayā
+						viññāṇaṁ
+						vi<supplied reason="lost">ññā</supplied>ṇapaccayā
+						nāmarūpaṁ
+						<unclear>nā</unclear><supplied reason="lost">marūpa</supplied><lb n="6" break="no"/>paccayā
+						salāyatanaṁ
+						salāyatanapac<supplied reason="lost">c</supplied>ayā
+						pha<unclear>ss</unclear><supplied reason="lost">o</supplied>
+						phassapaccayā
+						vedanā
+						vedan<supplied reason="lost">ā</supplied><unclear>pacca</unclear><lb n="7" break="no"/>yā
+						taṇhā
+						taṇhāpacayā
+						°upādānaṁ
+						°u<unclear>pādā</unclear>napaccayā
+						bhavo
+						bhavapaccayā
+						jāti
+						jātipaccayā
+						<lb n="8"/>
+						jarāmaraṇa
+						sokaparidevadukkhadoma<unclear>na</unclear>ssa
+						°u<unclear>pā</unclear>yāsā
+						saṁbhavanti
+						<gap reason="illegible" quantity="1" unit="chars"/>vam
+						etassa
+						kemalassa
+						dukkhakkhandha<lb n="9" break="no"/>samudayo
+						hoti
+						°avijjāya
+						vvava
+						°a<unclear>s</unclear>e<unclear>sa</unclear>viroganirodhā
+						saṁkhāranirodho
+						saṁkhāranirodhā
+						viññāṇaniro<supplied reason="lost">dho</supplied>
+						<lb n="10"/>
+						<unclear>vi</unclear>ññāṇanirodhā
+						nāmarūpanirodhā
+						nāmarūpanirodhā
+						salāyatananirodho
+						<unclear>sa</unclear>lāyatananirodhā
+						phassa<supplied reason="lost">ni</supplied><lb n="11" break="no"/><supplied reason="lost">ro</supplied>dho
+						phassanirodhā
+						vedanānirodho
+						vedanānirodhā
+						taṇhānirodho
+						taṇhānirodhā
+						°upādānanirodho
+						°upādā<unclear>na</unclear><lb n="12" break="no"/><unclear>n</unclear>irodhā
+						bhavanirodho
+						bhavanirodhā
+						jātinirodho
+						jātinirodhā
+						jarāmaraṇasokaparideva<lb n="13" break="no"/>dukkhadomanassa
+						°upāyāsā
+						nijjhanti
+						°evam
+						<unclear>e</unclear>tassa
+						kevalassa
+						dukkhakkhandhassa
+						ni<unclear>ro</unclear><lb n="14" break="no"/>dho
+						hoti
+						°atha
+						kho
+						<unclear>bhaga</unclear>vā
+						°e<unclear>tam</unclear>
+						<unclear>a</unclear>tthaṁ
+						viditvā
+						tāyaṁ
+						velāyaṁ
+						<unclear>°ima</unclear>
+						°udāna
+						<lb n="15"/>
+						°udānesi
+						yadā
+						have
+						pā<unclear>tubha</unclear>veti
+						dhammā  <space type="horizontal" quantity="1" unit="chars"/>
+						°ātāpino
+						<lb n="16"/>
+						jhāyino
+						brāhmaṇassa
+						<unclear>°atha</unclear>ssa
+						kaṁkhā
+						va<unclear>pa</unclear>yanti
+						sa<unclear>v</unclear><supplied reason="lost">vā</supplied>
+						<lb n="17"/>
+						yato
+						pajānāti
+						sahetudhaṁman
+						ti
+						<g>|||||</g>
+						<lb n="18"/>
+						°atha
+						kho
+						bha<supplied reason="lost">ga</supplied>vā
+						ra<unclear>t</unclear><supplied reason="lost">t</supplied>i<supplied reason="lost">yā</supplied>
+						maj<supplied reason="lost">jh</supplied>i<unclear>maṁ</unclear>
+						<lb n="19"/>
+						<supplied reason="lost">yā</supplied>maṁ
+						pa<supplied reason="lost">ṭ</supplied>iccha<supplied reason="lost">sa</supplied>mu<supplied reason="lost">ppā</supplied><unclear>da</unclear>ṁ</ab>
+				</div>
+				<div type="textpart" n="B">
+					<ab>
+						<lb n="1"/>
+						<space type="horizontal" quantity="16" unit="chars"/>
+						ridevadukkhadomanassa
+						°upāyāsā
+						ni<unclear>ru</unclear>j<supplied reason="lost">jha</supplied><unclear>n</unclear><supplied reason="lost">t</supplied>i
+						<supplied reason="lost">°evam</supplied>
+						<supplied reason="lost">etassa</supplied>
+						<supplied reason="lost">keva</supplied><lb n="2" break="no"/>lassa
+						dukkhakkhandhassa
+						nirodho
+						hoti
+						<space type="horizontal" quantity="1" unit="chars"/>
+						°atha
+						kho
+						bhagavā
+						°etam
+						atthaṁ
+						viditvā
+						tāyaṁ
+						velāyaṁ
+						°imaṁ
+						°udānaṁ
+						°udā<unclear>n</unclear>e<supplied reason="lost">si</supplied>
+						<supplied reason="lost">yadā</supplied>
+						<supplied reason="lost">have</supplied>
+						<supplied reason="lost">pātu</supplied><lb n="3" break="no"/>bhavanti
+						dhammā  °ātāpino
+						jhāyi<unclear>n</unclear>o
+						brāhmanassa
+						<space type="horizontal" quantity="1" unit="chars"/>
+						°athassa
+						ka<unclear>ṁ</unclear>khā
+						vapayanti
+						sa
+						vi<unclear>dhūpaya</unclear><supplied reason="lost">n</supplied>
+						<supplied reason="lost">tiṭṭhati</supplied>
+						<supplied reason="lost">mārasenaṁ</supplied>
+						<lb n="4"/>
+						suriyyo
+						va
+						°obhāsaya
+						°antalikkheṁti
+						<g type="fleuron"/><g type="fleuron"/>
+					</ab>
+				</div>
+			</div>
+			<div type="apparatus">
+				<listApp>
+					<app>
+						<note> In each case of <foreign xml:lang="pli-Latn">viññāṇa</foreign>, we are doubtful as to the presence of <seg type="graphemic">ā</seg>. We do not actually see with certainty which element would represent the <seg type="graphemic">ā</seg>. Perhaps the middle akṣaras of the word should all be read as <seg type="graphemic">ñā</seg> with single <seg type="graphemic">ñ</seg>.</note>
+					</app>
+					<app loc="A2">
+						<lem>nerañjarātire</lem>
+						<note>Correct <foreign xml:lang="pli-Latn">nerañjarātīre</foreign>. Instead of genitive construction <foreign xml:lang="pli-Latn">nerañjarāya tīre</foreign> (PTS), we find a <foreign xml:lang="san-Latn">tatpuruṣa</foreign>.</note>
+					</app>
+					<app loc="A3">
+						<lem>-mūle</lem>
+						<note>Note the shape of <seg type="graphemic">le</seg>.</note>
+					</app>
+					<app loc="A3">
+						<lem>-saṁvedi</lem>
+						<note>Correct <foreign xml:lang="pli-Latn">-saṁvedī</foreign>.</note>
+					</app>
+					<app loc="A8">
+						<lem>saṁbhavanti <gap reason="illegible" quantity="1" unit="chars"/>vam</lem>
+						<note>It is very hard to read expected <foreign xml:lang="pli-Latn">saṁbhavanti °evam</foreign>, and we hesitantly propose that we might read <foreign xml:lang="pli-Latn">saṁbhavanti-y-evam</foreign> and consider that we are dealing here with a hiatus-breaking insertion of <seg type="graphemic">y</seg>.</note>
+					</app>
+					<app loc="A8-9">
+						<note>It cannot be excluded that an akṣara <seg type="graphemic">ssa</seg> (PTS) has gone missing at the end of line 9, but we tentatively assume that we again have a <foreign xml:lang="san-Latn">tatpuruṣa</foreign> rather than a genitive construction (cf. line 2).</note>
+					</app>
+					<app loc="A9">
+						<lem>°avijjāya vvava</lem>
+						<note>It seems impossible to read the expected sequence <foreign xml:lang="pli-Latn">°avijjāya tv eva</foreign> (PTS).</note>
+					</app>
+					<app loc="A13">
+						<lem>nijjhanti</lem>
+						<note>The lapicide has forgotten the akṣara <seg type="graphemic">ru</seg> (PTS <foreign xml:lang="pli-Latn">nirujjhanti</foreign>); see face B, l. 1.</note>
+					</app>
+					<app loc="A14">
+						<lem>hoti</lem>
+						<note>PTS reads <foreign xml:lang="pli-Latm">hotīti || 2 ||</foreign>.</note>
+					</app>
+					<app loc="A15">
+						<lem>pā<unclear>tubha</unclear>veti</lem>
+						<note>It appears impossible to read <foreign xml:lang="pli-Latn">pātubhavanti</foreign> (PTS) here, but on the back of the stone, line 2, we do find this expected reading.</note>
+					</app>
+					<app loc="A16">
+						<lem>jhāyino</lem>
+						<note>This variant reading for PTS <foreign xml:lang="pli-Latn">jhāyato</foreign> is not an error; it recurs on the back, in line 3. It is also recorded by Oldenberg among variants from Burmese manuscripts.</note>
+					</app>
+				</listApp>
+			</div>
+			<div type="translation" xml:lang="eng">
+				<p><!--english translation here--></p>
+			</div>
+			<div type="commentary">
+				<p>Face B is written upside-down compared with A, which would <hi rend="italics">prima facie</hi> indicate that the stone was to be flipped over like a palmleaf after the end of face A. But there is no clear continuity between the two faces, as the largest part of the second face is left blank. Four akṣaras, perhaps to be read <foreign xml:lang="pli-Latn">savadgati</foreign>, stand at the right extremity of face B, at some distance above the lines of text transliterated here, which cover the bottom of the back, and of which the first starts not in the left margin but around the middle of the stone.</p>
+			</div>
+			<div type="bibliography">
+				<!--Aung Thaw 1972: 110-111. — Luce 1974: 126. — PPPB I, 176. — von Hinüber 1991: 25 n. 53. — Skilling 1997b: 95 n. 7. — Sein Win 1998b. — Stadtner 2011: 48-9. — Maung Maung Swe 2011.-->
+				<!--[Todo: markup citedRange elements if necessary]-->
+				<p>This inscription was referred to in several publications before its integral text was finally published by <bibl><ptr target="bib:SeinWin2016_01"/><citedRange>194-200</citedRange></bibl>. Re-edited here from our team's photographs and RTIs.</p>
+				<listBibl type="primary"><bibl><ptr target="bib:CPI2018_01"/><citedRange unit="item">DHARMA_INSPYU00040</citedRange></bibl></listBibl><listBibl type="secondary">
+					<bibl><ptr target="bib:AungThaw1972_01"/><citedRange>110-111</citedRange></bibl>
+					<bibl><ptr target="bib:Luce1974_01"/><citedRange>126</citedRange></bibl>
+					<bibl><ptr target="bib:Luce1985_01"/><citedRange>I, 176</citedRange></bibl>
+					<bibl><ptr target="bib:Hinüber1991"/><citedRange>25 n. 53</citedRange></bibl>
+					<bibl><ptr target="bib:Skilling1997b"/><citedRange>95 n. 7</citedRange></bibl>
+					<bibl><ptr target="bib:SeinWin1998b"/></bibl>
+					<bibl><ptr target="bib:Stadtner2011_01"/><citedRange>48-9</citedRange></bibl>
+					<bibl><ptr target="bib:MaungMaungSwe2011_01"/></bibl>
+				</listBibl>
+			</div>
+		</body>
+  </text>
+</TEI>

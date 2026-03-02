@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_SQF.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Stone Urn from Payagyi Pagoda</title>
+                <respStmt>
+                    <resp>author of digital edition</resp>
+                <persName ref="part:argr"><forename>Arlo</forename><surname>Griffiths</surname></persName><persName ref="part:mami"><forename>Marc</forename><surname>Miyake</surname></persName><persName ref="part:jukw"><forename>Julian Karl</forename><surname>Wheatley</surname></persName></respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>DHARMA</authority>
+                <pubPlace><!-- Fill in here the place or places where the encoding has been done --></pubPlace>
+                <idno type="filename">DHARMA_INSPYU00006</idno>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">
+                        <p>This work is licensed under the Creative Commons Attribution 4.0 Unported
+                            Licence. To view a copy of the licence, visit
+                            https://creativecommons.org/licenses/by/4.0/ or send a letter to
+                            Creative Commons, 444 Castro Street, Suite 900, Mountain View,
+                            California, 94041, USA.</p>
+                    </licence>
+                </availability>
+                <date from="2019" to="2025">2019-2025</date>
+            </publicationStmt>
+            <sourceDesc><!-- only the handDesc can be filled in at this stage -->
+                <msDesc><!-- //// NB: the msIdentifier had to be added for validation purposes ///. It will be edited later with the metadata spreadsheet -->
+                    <msIdentifier>
+                        <repository>DHARMAbase</repository>
+                        <idno/><!-- don't modify this -->
+                    </msIdentifier>
+                    <msContents><!-- describe the intellectual content of an inscription -->
+                        <summary><!-- //// NOT MANDATORY  ////--></summary> <!-- offers the possibility to give a summary of the inscription's content -->
+                    </msContents>
+                    <physDesc>
+                        <handDesc>
+                            <p><!-- The script name(s) will be inserted here at a later stage from the metadata spreasheet. At this stage, you can mention here in a free-text paragraph any characteristics of the writing observed more than once in this inscription that seem unusual/uncommon or otherwise noteworthy given the general characteristics of the script in question. See EGD 11.2. --></p>
+                            <!-- If you need to identify individual hands (EGD §7.5/) in addition to one or more paragraphs of general palaeographic description, wrap <summary> around the <p> or <p>s above, and, outside <summary>, create <handNote> elements for each hand as follows:
+						<summary><p><p/></summary>
+						<handNote xml:id="Pallava00001_hand1"></handNote>
+						<handNote xml:id="Pallava00001_hand2"></handNote>
+					 -->
+                        </handDesc>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>The project DHARMA has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme (grant agreement no 809994).</p>
+            </projectDesc>
+            <schemaRef type="guide" key="EGDv01" url="https://halshs.archives-ouvertes.fr/halshs-02888186"/><!-- UPDATE the link once the release is made official -->
+            <listPrefixDef>
+                <prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)" replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
+                    <p>Public URIs with the prefix bib to point to a Zotero Group Library named ERC-DHARMA whose data are open to the public.</p>
+                </prefixDef>
+                <prefixDef ident="part" matchPattern="([a-z]+)" replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_idListMembers_v01.xml#$1">
+                    <p>Internal URIs using the part prefix to point to person elements in the <ref>DHARMA_idListMembers_v01.xml</ref> file.</p>
+                </prefixDef>
+            </listPrefixDef>
+        </encodingDesc>
+        <revisionDesc>
+            <change who="part:mime" when="2026-03-02">Conversion to DHARMA guidelines</change>
+        </revisionDesc>
+    </teiHeader>
+    <text xml:space="preserve">
+      <body>
+			<div type="edition">
+				<ab>
+					<lb n="1"/>
+					<g type="siddham"/>
+					<g type="ddanda">.</g> tdaṃḥ ḅaṁḥ °o lu
+					snuḥ
+					<supplied reason="lost">s</supplied>ihavikrama ḅaṁḥ sniḥ hraṁ su rla hniṁ tiṁ phvuṃ plaṁ ta kiṁ kha °o sniḥ sniḥ plaṁ
+					su plaṁ rla
+					tko tiṁ phvuṃ
+					npu tiṁ tdaṃḥ ḅaṁḥ °o ru kleḥ yaṁ </ab>
+				<!-- MM2AG: should I do anything with the red in the RTF? -->
+				<!-- AG2MM3: editing conventions to be revised. -->
+			</div>
+			<div type="apparatus">
+				<listApp>
+					<app loc="1">
+						<lem>lu</lem>
+						<note>See note on PYU <ref target="DHARMA_INSPYU00001">1</ref>.</note>
+						<note>Blagden also proposed <seg type="graphemic">roṃ</seg>, <seg type="graphemic">reṃ</seg> and <seg type="graphemic">nūṃ</seg> as possible readings.</note>
+					</app>
+					<app loc="1">
+						<lem>npu</lem>
+						<note>See note on PYU <ref target="DHARMA_INSPYU00005">5</ref>.</note>
+					</app>
+				<app loc="1">
+						<lem>lu</lem>
+						<rdg source="bib:Blagden1913-1914_01">(bhūṃ)</rdg>
+						<rdg source="bib:ThaMyat1963_01">bhū</rdg>
+					</app><app loc="1">
+						<lem>snuḥ</lem>
+						<rdg source="bib:Blagden1913-1914_01">s(n)ūḥ</rdg>
+						<rdg source="bib:ThaMyat1963_01">snūḥ</rdg>
+					</app><app loc="1">
+						<lem>su rla</lem>
+						<rdg source="bib:Blagden1913-1914_01">sū (de)</rdg>
+						<rdg source="bib:ThaMyat1963_01">sū (de)</rdg>
+					</app><app loc="1">
+						<lem>plaṁ</lem>
+						<rdg source="bib:Blagden1913-1914_01">p(ḷ)aṁ</rdg>
+					</app><app loc="1">
+						<lem>kiṁ kha</lem>
+						<rdg source="bib:Blagden1913-1914_01">(k)iṁ (kha)</rdg>
+					</app><app loc="1">
+						<lem>plaṁ</lem>
+						<rdg source="bib:Blagden1913-1914_01">p(ḷ)aṁ</rdg>
+					</app><app loc="1">
+						<lem>su plaṁ rla</lem>
+						<rdg source="bib:Blagden1913-1914_01">sū p(ḷ)aṁ (de)</rdg>
+						<rdg source="bib:ThaMyat1963_01">sū plaṁ (de)</rdg>
+					</app><app loc="1">
+						<lem>tko</lem>
+						<rdg source="bib:Blagden1913-1914_01">t(k)o</rdg>
+					</app><app loc="1">
+						<lem>phvuṃ</lem>
+						<rdg source="bib:ThaMyat1963_01">phvu</rdg>
+						<!-- MM: PR has phvuṃ earlier; I suspect the absence of ṃ here is accidental -->
+					</app><app loc="1">
+						<lem>npu</lem>
+						<rdg source="bib:Blagden1913-1914_01">(t)pū</rdg>
+						<rdg source="bib:ThaMyat1963_01">nsū</rdg>
+					</app><app loc="1">
+						<lem>kleḥ</lem>
+						<rdg source="bib:Blagden1913-1914_01">(kḷ)eḥ</rdg>
+					</app></listApp>
+			</div>
+			<div type="translation" xml:lang="eng">
+				<p>Blagden:</p>
+				<ab>Year 80 (718 AD), 2nd month, 4th day; Sihavikrama died, aged 44 years, 9 months and 20 days.</ab>
+				<p>San Win:</p>
+				<ab>On the 20th day of the 9th month of the (Pyu = 363) year 44 King Siha Vikrama died. He was 80 years old.</ab>
+			</div>
+			<div type="commentary">
+				<p>Vague traces of punctuation signs followed by another text after this one are visible on the estampages.</p>
+				<p>Note the allograph of <seg type="graphemic">u</seg> in <seg type="graphemic">phvuṃ</seg>.</p>
+				<p>Note <seg type="graphemic">sniḥ sniḥ plaṁ su plaṁ rla tko tiṁ phvuṃ nsu tiṁ</seg> ‘on year 44, month 9 (and?) day 20’</p>
+			</div>
+			<div type="bibliography">
+				<!--ASI 1911-12, 147. — ASB 1912, 7, 11. — Blagden 1913-14 (B). — PR, 47 (B), 50. — PPPB I, 48, 57 n. 13, 126-7. — Shafer 1943: 339. — Guy 2014: 76-7 (cat. 24).-->
+				<!--[Todo: markup citedRange elements if necessary]-->
+				<p><bibl><ptr target="bib:ASI"/><citedRange>1911-12: 147</citedRange></bibl> notes the discovery of 006 along with 005, two urns “inscribed with legends in the Pyu character”. <bibl><ptr target="bib:ASB"/><citedRange>1912: 7, 11</citedRange></bibl>, also notes Venkayya’s reading of the name [S]ihavikrama. <bibl><ptr target="bib:Blagden1913-1914_01"/><citedRange>(B1)</citedRange></bibl> provides a complete transliteration and a tentative translation. (He also mentions the second, highly effaced inscription, his B2, that follows on the same line as B1, but he attempts no reading. This inscription is now generally regarded as unrecoverable.) <bibl><ptr target="bib:ThaMyat1963_01"/><citedRange>47 (D), 50</citedRange></bibl>, has eye copy, a Burmese transliteration (with minor changes from Blagden) and English translation. <bibl><ptr target="bib:Luce1985_01"/><citedRange>I, 48, 57 n. 13, 126-7</citedRange></bibl>, is an overview. <bibl><ptr target="bib:SeinWin2016_01"/><citedRange>63</citedRange></bibl> has a transliteration in Burmese script (again, with minor changes) and a glossary. Re-edited here from published photographs.</p>
+				<listBibl type="primary"><bibl><ptr target="bib:CPI2018_01"/><citedRange unit="item">DHARMA_INSPYU00006</citedRange></bibl></listBibl><listBibl type="secondary">
+					<bibl><ptr target="bib:Shafer1943_01"/><citedRange>339</citedRange></bibl>
+					<bibl><ptr target="bib:Guy2014_01"/><citedRange>76-7 (cat. 24)</citedRange></bibl>
+				</listBibl>
+			</div>
+		</body>
+  </text>
+</TEI>

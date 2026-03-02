@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_SQF.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Halin Horseshoe Stone</title>
+                <respStmt>
+                    <resp>author of digital edition</resp>
+                <persName ref="part:argr"><forename>Arlo</forename><surname>Griffiths</surname></persName><persName ref="part:mami"><forename>Marc</forename><surname>Miyake</surname></persName><persName ref="part:jukw"><forename>Julian Karl</forename><surname>Wheatley</surname></persName></respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>DHARMA</authority>
+                <pubPlace><!-- Fill in here the place or places where the encoding has been done --></pubPlace>
+                <idno type="filename">DHARMA_INSPYU00027</idno>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">
+                        <p>This work is licensed under the Creative Commons Attribution 4.0 Unported
+                            Licence. To view a copy of the licence, visit
+                            https://creativecommons.org/licenses/by/4.0/ or send a letter to
+                            Creative Commons, 444 Castro Street, Suite 900, Mountain View,
+                            California, 94041, USA.</p>
+                    </licence>
+                </availability>
+                <date from="2019" to="2025">2019-2025</date>
+            </publicationStmt>
+            <sourceDesc><!-- only the handDesc can be filled in at this stage -->
+                <msDesc><!-- //// NB: the msIdentifier had to be added for validation purposes ///. It will be edited later with the metadata spreadsheet -->
+                    <msIdentifier>
+                        <repository>DHARMAbase</repository>
+                        <idno/><!-- don't modify this -->
+                    </msIdentifier>
+                    <msContents><!-- describe the intellectual content of an inscription -->
+                        <summary><!-- //// NOT MANDATORY  ////--></summary> <!-- offers the possibility to give a summary of the inscription's content -->
+                    </msContents>
+                    <physDesc>
+                        <handDesc>
+                            <p><!-- The script name(s) will be inserted here at a later stage from the metadata spreasheet. At this stage, you can mention here in a free-text paragraph any characteristics of the writing observed more than once in this inscription that seem unusual/uncommon or otherwise noteworthy given the general characteristics of the script in question. See EGD 11.2. --></p>
+                            <!-- If you need to identify individual hands (EGD §7.5/) in addition to one or more paragraphs of general palaeographic description, wrap <summary> around the <p> or <p>s above, and, outside <summary>, create <handNote> elements for each hand as follows:
+						<summary><p><p/></summary>
+						<handNote xml:id="Pallava00001_hand1"></handNote>
+						<handNote xml:id="Pallava00001_hand2"></handNote>
+					 -->
+                        </handDesc>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>The project DHARMA has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme (grant agreement no 809994).</p>
+            </projectDesc>
+            <schemaRef type="guide" key="EGDv01" url="https://halshs.archives-ouvertes.fr/halshs-02888186"/><!-- UPDATE the link once the release is made official -->
+            <listPrefixDef>
+                <prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)" replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
+                    <p>Public URIs with the prefix bib to point to a Zotero Group Library named ERC-DHARMA whose data are open to the public.</p>
+                </prefixDef>
+                <prefixDef ident="part" matchPattern="([a-z]+)" replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_idListMembers_v01.xml#$1">
+                    <p>Internal URIs using the part prefix to point to person elements in the <ref>DHARMA_idListMembers_v01.xml</ref> file.</p>
+                </prefixDef>
+            </listPrefixDef>
+        </encodingDesc>
+        <revisionDesc>
+            <change who="part:mime" when="2026-03-02">Conversion to DHARMA guidelines</change>
+        </revisionDesc>
+    </teiHeader>
+    <text xml:space="preserve">
+      <body>
+			<div type="edition" xml:lang="pyx-Latn">
+				<ab>
+					<lb n="1"/><g>1</g> sīddham· <g>2</g>
+					<g type="ddanda">.</g> ktoy· tin·ṁ mu tin·ṁ gam·ṃḥ °o tma knuy· rla kar· graha °o
+					nhay·ḥ tduy· rliy·ṁ tmay·ḥ °o kdlav· mdip·ṁ npa kdaṅ·ṃ tnav· °o dav·ṃḥ
+					thak· nu loḥ sduk·ṃ sdav·ṃḥ duk·ṃ kgoy· nu hnam· mra tmir· tin·ṁ li tim·ṁ
+					ṅoy· kbo ḅa knaḥ tin·ṁ kir·ṁḥ ma tniṅ· tniṅ· <lb n="2"/>toy· toy· tim·ṁ ñaḥ
+					vāṅ·ṃ sgaul·ṃ pṅat· tiṁ priṅ·ḥ tliṅ· nīl· nu hnam· cuk· git·ṃṁ kha ktoy·
+					kgoy· tit·ṁ mat· vit·ṃṁ kli tduṅ·ṃ mra tim·ṁ ñaḥ gi rom·ḥ ndha knaṅ·ṁ tim·ṁ gaṃ ḅa cot· ḅa sat· viṃṁ <space type="horizontal" quantity="1" unit="character"/> tar· dav·ṃḥ
+					°oṅ· tin·ṁ dlin·ṃṁ kli kgaṃḥ śritrivik·grama dra tdav·ṃḥ nu val·ṃḥ may· viy·ṃṁ doṅ·ḥ gay·ṃḥ mayaḥ toy· sridhara vit·ṃṁ tam· pay·<unclear>ṁ</unclear>ḥ tdav·ṃḥ <lb n="3"/>kṭlot· rom· tṅok· sdak·ṃ tar· ḅin·ṁḥ tgav·ḥ tak· °o kul· vuḥ tlaḥ kdaṅ· mūṅ·ḥ kjik·ṁ tin·ṁ ṅam· °o pguṃ kdrap·ṁ pil·ṁḥ tdav·ṃḥ kdaṅ· priṅ·ḥ tar· ḅin·ṁḥ tmu nim·ḥ diṃ yaṁ trom·ḥ tin·ṁ <choice>
+						<unclear>ba</unclear>
+						<unclear>kha</unclear>
+					</choice>
+					<!-- MM: ba/kha for very strange ɔ-shape --> dri ḅaḥ ti sat· pdraul·ḥ ta
+					thraṅ·ḥ din·ṃṁ tar· ḅin·ṁḥ krol·ḥ gim·ṁ ti saṁḥ tar· dav·ṃḥ
+					<unclear>d</unclear>aṅ·ṁ kni din·ṃṁ tar· ḅin·ṁḥ hmuy·ḥ tguṅ·ṃ tar· mek· tar· hak· din·ṃṁ tar· ḅiṁḥ ṅay·ṁḥ sduṅ· ta tiy· saṁḥ tar· dav·ṃḥ daṅ·ṃṁ kni din·ṃṁ <lb n="4"/>tar· ḅin·ṁḥ sgaul·ṃ pgaṃḥ tar· dav·ṃḥ śritrivik·grama °oṅ· tin·ṁ dlin·ṁ kli kgaṃḥ dra tar· dav·ṃḥ <choice>
+						<unclear>tr̥</unclear>
+						<unclear>nr̥</unclear>
+						<unclear>nu</unclear>
+					</choice> val·ṃḥ may· viy·ṃṁ doṅ·ḥ gaṃḥ sridhara nom· vīṃṁ gay·ṁḥ °o kli priṅ·ḥ mra tim·ṁ ñaḥ <unclear>v</unclear>it·<unclear>ṃṁ</unclear> ḅa phik·ṁ pdak·ṃ <unclear>p</unclear>daṅ·ṃ tnay· tiṁ phak· pin·ṁḥ ca ksaḥ ḅa nh<unclear>li</unclear>ḥ <!-- MM/AG: formerly nhūi, then nhluiḥ, but now only slightly less strange --> kron·ḥ trom·ḥ tin·ṁ ba tkin·ṁ <choice>
+						<unclear>nu</unclear>
+						<unclear>tr̥</unclear>
+					</choice> yaḥ ka hav· ḅin·ṁḥ sat· pdrol·ḥ daṅ·ṁ ḅaḥ pay·ṁḥ tiṁ sṭlip·ṁ <!-- AG: formerly sdlip·ṁ --> tiṁ knaṅ· yaṁ dri gay·ṁḥ <unclear>v</unclear>aṅ·ṃ <lb n="5"/>ti ñaḥ <choice>
+						<unclear>nu</unclear>
+						<unclear>tr̥</unclear>
+					</choice> tiṁ priṅ·ḥ ḅa phik·ṁ °o dav·ṃḥ tdav·ṃḥ ḅa phik·ṁ °o priṅ·ḥ ta
+					tin·ṁ man· ktiṅ·ḥ ta krav·ṁḥ tiṁ sgauk·ṃ tin·ṁ gil·ṁ kdla t<unclear>ma</unclear> tin·ṁ <unclear>t</unclear>ar· °o ḅin·ṁḥ nhmok· nhmol·ḥ le vim·ṃ t<unclear>e</unclear> pat· <!-- MM: compare pa here with s and p later in the line --> pdrol·ḥ tam· day·ṃḥ srut· <gap reason="lost" quantity="1" unit="character"/> vīṃṁ tir·ṁ mu truk· <choice>
+						<unclear>sr̥</unclear>
+						<unclear>su</unclear>
+					</choice> kim·ṁ °o kdal·ḥ lam· ḅiṁ <choice>
+						<unclear>pr̥</unclear>
+						<unclear>pu</unclear>
+					</choice> hṅut· ṭraṅ· tin·ṁ yaṅ· hraṁ <unclear>kun</unclear>· nam· °o kdiṃ
+					lam· ḅiṁ knol· tiṁ phlav·ḥ knuy· rla kar· graha °o dav·ṃḥ lam· ḅiṁ knam·ḥ
+					tiṁ phi <lb n="6"/><unclear>m</unclear>dip·ṁ ndha kdaṅ·ṃ tna °o kdiṃ lam· ḅiṁ pniḥ pṭraḥ thak· kaṅ·ḥ <gap reason="lost" quantity="1" unit="character"/>ḥ °o tnaḥ lam· ḅiṁ ti<unclear>n</unclear>·ṁ gu<unclear>v·</unclear> ti<unclear>n</unclear>·ṁ hraut· <choice>
+						<unclear>tr̥</unclear>
+						<unclear>nu</unclear>
+					</choice> h<choice>
+						<unclear>r̥</unclear>
+						<unclear>u</unclear>
+					</choice>m· pra tmir· tin· li tim·ṁ ṅoy· °o haut· <unclear>la</unclear>m· ḅiṁ tir·ṁ <unclear>ṭ</unclear>ra<unclear>ṅ</unclear>·ḥ krak· mla mran·ḥ <choice>
+						<unclear>tr̥</unclear>
+						<unclear>nu</unclear>
+					</choice>
+					<unclear>va</unclear>r· <unclear>ta</unclear>r· ḅiṁḥ <unclear>ka</unclear>r· tla °o tḅaṅ· lam· ḅiṁ tiṁ phṅat· kor·ḥ kam· tiṁ pguṃ kthor·ḥ °o nhmuy·ḥ la<unclear>m</unclear>· ḅiṁ <choice>
+						<unclear>tr̥</unclear>
+						<unclear>nu</unclear>
+					</choice> mil·ṁ kdaṃ tiṁ priṅ·ḥ kdaṅ· dav·ṃḥ gi rom·ḥ nba na nin·ṁ mat· tim·ṁ gaṃ <choice>
+						<unclear>kha</unclear>
+						<unclear>le</unclear>
+					</choice> ṅuḥ kral· ksar· kkor·ḥ kkaḥ <lb n="7"/>vīṃṁ <choice>
+						<unclear>tr̥</unclear>
+						<unclear>nu</unclear>
+					</choice> hnam· tin·ṁ gil·ṁ tim·ṁ gol·ṃ tim·ṁ ñaḥ °o ḅin·ṁḥ tam·ḥ ṅar·ḥ paṅ· lam· ḅiṁ ṅam·ḥ rma lam· ḅiṁ hi ṅat· ṅit·ṁ k<unclear>d</unclear>aṅ· <unclear>°o</unclear> kap· <space type="horizontal" quantity="6" unit="character"/>
+					<g type="ddanda">.</g><g>@</g>
+				</ab>
+			</div>
+			<div type="apparatus">
+				<listApp>
+					
+				</listApp>
+			</div>
+			<div type="translation" xml:lang="eng">
+				<p>
+					<!--english translation here-->
+				</p>
+			</div>
+			<div type="commentary">
+				<p>1. <foreign>knuy· rla kar· graha</foreign>: cf. the same sequence that appears in l. 5 below, while <foreign>rla</foreign> is found by itself in the urn inscriptions.</p>
+				<p>1. <foreign>kdaṅ·ṃ</foreign>: the same word occurs at the beginning of l. 6; what may also be the same word occurs twice as <foreign>kdaṅ·</foreign> in l. 3, and once each in l. 6 and 7.</p>
+				<p>2. <foreign>vāṅ·ṃ</foreign>: the superscript graph is provisionally interpreted as a length mark, cf. the end of PYU <ref target="DHARMA_INSPYU00020">20</ref>. Alternatively, we could read <foreign>vīṅ·ṃ</foreign>.</p>
+				<p><foreign>tliṅ·</foreign>: or read <foreign><unclear>k</unclear>liṅ·</foreign>?</p>
+				<p>2. <foreign>ndha</foreign>: very likely a botched <foreign>nba</foreign> — cf. <foreign>nba kdaṅ·ṃṁ</foreign> at beginning of l. 6, and <foreign>kdaṅ· … nba</foreign> at end of l. 6.</p>
+				<p>2. <foreign>knaṅ·ṁ</foreign>: or should this be read as <foreign>kdaṅ·ṁ</foreign>?</p>
+				<p>2. <foreign>sat· viṃṁ</foreign>: perhaps the <seg type="graphemic">t·</seg> is skewed to the left, in which case the intended reading would be <foreign>sa vit·ṃṁ</foreign>. Note the occurrence of <foreign>vit·ṃṁ</foreign> earlier in the line; but <foreign>sat·</foreign> also occurs a few times. Emend to <foreign>sat· vit·ṃṁ</foreign>?</p>
+				<p>2. <foreign>nu val·ṃḥ</foreign>: the same sequence occurs in l. 4 as well as in PYU <ref target="DHARMA_INSPYU00024">24</ref>.</p>
+				<p>2. <foreign>gay·ṃḥ</foreign>: note the absence of <seg type="graphemic">ṁ</seg> in this word which figures as <foreign>gay·ṁḥ</foreign> in PYU <ref target="DHARMA_INSPYU00016">16</ref>, l. 3 (an error for <foreign>gay·ṃṁḥ</foreign>?); note the apparent absence of <seg type="graphemic">y·</seg> in the parallel passage in l. 4.</p>
+				<p>3. <foreign>kṭlot·</foreign>: or should this be read as <foreign>kdlot·</foreign>?</p>
+				<p>3. <foreign>tgav·ḥ</foreign>: should this be emended as <foreign>tgav·ṃḥ</foreign>? Or should we take the lower dot from <foreign>ḅin·ṁḥ</foreign> here and read the preceding akṣara <foreign>ḅin·ḥ</foreign>?</p>
+				<!-- MM2AG: should akṣara be tagged as foreign? -->
+				<!-- AG2MM: I tend to take the view that such technical terms borrowed into English need not be italicized, but I am certainly inconsistent in this regard myself. -->
+				<p>4. <foreign>gaṃḥ</foreign>: should this be emended as <foreign>gay·ṃḥ</foreign>? Cf. l. 2.</p>
+				<p>4. <foreign>vīṃṁ</foreign>: the superscript graph is provisionally interpreted as a length mark, cf. l. 2. The same word recurs in l. 5 and 7.</p>
+				<p>4. <foreign>nh<unclear>li</unclear>ḥ</foreign>: the interpretation of this sign is very uncertain. The long descender merges with the leftward extension of the <seg type="graphemic">r</seg> element on the next akṣara, and it is thus unclear whether <seg type="graphemic">r</seg> is intended here too, or not. If not, then we must either be dealing with a botched (loopless) <seg type="graphemic">u</seg> or with an irregular downward extension of the <seg type="graphemic">l</seg>.
+					We tentatively favor this last interpretation. Were one to assume combination of <seg type="graphemic">u</seg> and <seg type="graphemic">i</seg>, one would have to accept a combination otherwise unattested in Pyu script. Either way, scribal error is likely here.</p>
+				<p>4. <foreign>ba</foreign>: emend <foreign>ḅa</foreign>?</p>
+				<p>4. <foreign>gay·ṃṁḥ</foreign>: cf. <foreign>gay·ṃḥ</foreign> in line 1,
+					<foreign>gaṃḥ</foreign> in this line, and <foreign>gay·ṁḥ</foreign> in PYU <ref target="DHARMA_INSPYU00016">16</ref>, l. 3 (an error for <foreign>gay·ṃṁḥ</foreign>?).</p>
+				<p>5. <foreign>?</foreign>: comparison with l. 4 <foreign>nom· vīṃṁ</foreign> makes us search for <foreign>nom·</foreign> before <foreign>vīṃṁ</foreign>; very faint traces of a possible vocalisation <seg type="graphemic">o</seg> seem detectable, but there certainly is no <foreign>m·</foreign> below this illegible akṣara.</p>
+				<p>5. <foreign><unclear>kun</unclear>·</foreign>: the interpretation of this sign with an unprecedented sign in the shape of an inverted S crossing through the <seg type="graphemic">k</seg>'s descender is entirely uncertain.</p>
+				<p>6. <foreign><unclear>ka</unclear>r·</foreign>: we very tentatively presume that what looks like <seg type="graphemic">ṃ</seg> under the next akṣara is a truncated right appendix for the present one, so we can read <seg type="graphemic">ka</seg> here.</p>
+				<p>6. <foreign>nhmuy·ḥ</foreign>: the same word figures in PYU <ref target="DHARMA_INSPYU00032">32</ref>, l. 8.</p>
+				<p>6. <foreign>ksar· kkor·ḥ kkaḥ</foreign>: note the gemination of <seg type="graphemic">k</seg> after <seg type="graphemic">r</seg>.</p>
+				<p>7. For a similarly large gap before final punctuation, see PYU <ref target="DHARMA_INSPYU00020">20</ref>.</p>
+				<p/>
+				<p>Phraseological Parallels</p>
+				<p/>
+				<p>(1) <foreign>knuy· rla kar· graha °o</foreign></p>
+				<p>(5) <foreign> knuy· rla kar· graha °o</foreign></p>
+				<p/>
+				<p>(1) <foreign>mdip·ṁ npa kdaṅ·ṃ tnav·</foreign></p>
+				<p>(6) <foreign>(m)dip·ṁ ndha kdaṅ·ṃ tna</foreign></p>
+				<p/>
+				<p>(1) <foreign>mra tmir· tin·ṁ li tim·ṁ ṅoy·</foreign></p>
+				<p>(6) <foreign>pra tmir· tin· li tim·ṁ ṅoy·</foreign></p>
+				<p/>
+				<p>(2) <foreign>vit·ṃṁ kli tduṅ·ṃ mra tim·ṁ ñaḥ</foreign></p>
+				<p>(4) <foreign>kli priṅ·ḥ mra tim·ṁ ñaḥ (v)it·ṃṁ</foreign></p>
+				<p/>
+				<p>(2) <foreign>°oṅ· tin·ṁ dlin·ṃṁ kli kgaṃḥ</foreign></p>
+				<p>(4) <foreign>°oṅ· tin·ṁ dlin·ṁ kli kgaṃḥ</foreign></p>
+				<p/>
+				<p>(2) <foreign>dra tdav·ṃḥ (tr̥/nu) val·ṃḥ may· viy·ṃṁ doṅ·ḥ gay·ṃḥ mayaḥ toy· sridhara vit·ṃṁ tam· pay·(ṁ)ḥ tdav·ṃḥ</foreign></p>
+				<p>(4) <foreign>dra tar· dav·ṃḥ (tr̥/nu) val·ṃḥ may· viy·ṃṁ doṅ·ḥ gaṃḥ sridhara nom· vīṃṁ gay·(ṁ)ḥ</foreign></p>
+				<p/>
+				<p>(3) <foreign>tar· bin·ṁḥ / tar· bin·ṁḥ tmu / din·ṃṁ tar· bin·ṁḥ (p/h)muy·ḥ / din·ṃṁ tar· bin·ṁḥ /</foreign></p>
+				<p>(4) <foreign>tar· bin·ṁḥ</foreign></p>
+				<p>(6) <foreign>tar· bin·ṁḥ</foreign></p>
+				<p/>
+				<p>(5) <foreign>ta tin·ṁ man·</foreign></p>
+				<p>(6) <foreign>na nin·ṁ mat·</foreign></p>
+			</div>
+			<div type="bibliography">
+				<!--ASB 1964, 19-20, 59. — PPPB I, 65, 75 n. 26, 149.-->
+				<!--[Todo: markup citedRange elements if necessary]-->
+				<p>First mentioned in <bibl><ptr target="bib:ASB"/><citedRange>1964: 19-20</citedRange></bibl>, citing the name <seg type="graphemic">sri trivigrama</seg> from the inscription. Luce describes the inscription in <bibl><ptr target="bib:Luce1985_01"/><citedRange>I, 65, 75 n. 26, 149</citedRange></bibl>, as “seven Tircul lines interlined with seven of Brahmi” (i.e., our sublinear finals), noting royal titles beginning in line 2 and adding bibliographic information. <bibl><ptr target="bib:SeinWin2016_01"/><citedRange>22-8</citedRange></bibl> provides eye-drawing and new transliteration (in Burmese script). Re-edited here from published photographs and our team’s RTIs.</p>
+				<!-- <listBibl type="secondary-bibliography">
+					<note>This volume of ASB  is labeled 1964 in English but 1963-4 in Burmese.</note>
+				</listBibl>	-->
+			<listBibl type="primary"><bibl><ptr target="bib:CPI2018_01"/><citedRange unit="item">DHARMA_INSPYU00027</citedRange></bibl></listBibl></div>
+		</body>
+  </text>
+</TEI>

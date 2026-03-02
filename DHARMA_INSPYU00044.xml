@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_SQF.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Bawbawgyi Pagoda Rim Tablet with Vibhaṅga Citation</title>
+                <respStmt>
+                    <resp>author of digital edition</resp>
+                <persName ref="part:argr"><forename>Arlo</forename><surname>Griffiths</surname></persName><persName ref="part:mami"><forename>Marc</forename><surname>Miyake</surname></persName><persName ref="part:jukw"><forename>Julian Karl</forename><surname>Wheatley</surname></persName></respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>DHARMA</authority>
+                <pubPlace><!-- Fill in here the place or places where the encoding has been done --></pubPlace>
+                <idno type="filename">DHARMA_INSPYU00044</idno>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">
+                        <p>This work is licensed under the Creative Commons Attribution 4.0 Unported
+                            Licence. To view a copy of the licence, visit
+                            https://creativecommons.org/licenses/by/4.0/ or send a letter to
+                            Creative Commons, 444 Castro Street, Suite 900, Mountain View,
+                            California, 94041, USA.</p>
+                    </licence>
+                </availability>
+                <date from="2019" to="2025">2019-2025</date>
+            </publicationStmt>
+            <sourceDesc><!-- only the handDesc can be filled in at this stage -->
+                <msDesc><!-- //// NB: the msIdentifier had to be added for validation purposes ///. It will be edited later with the metadata spreadsheet -->
+                    <msIdentifier>
+                        <repository>DHARMAbase</repository>
+                        <idno/><!-- don't modify this -->
+                    </msIdentifier>
+                    <msContents><!-- describe the intellectual content of an inscription -->
+                        <summary><!-- //// NOT MANDATORY  ////--></summary> <!-- offers the possibility to give a summary of the inscription's content -->
+                    </msContents>
+                    <physDesc>
+                        <handDesc>
+                            <p><!-- The script name(s) will be inserted here at a later stage from the metadata spreasheet. At this stage, you can mention here in a free-text paragraph any characteristics of the writing observed more than once in this inscription that seem unusual/uncommon or otherwise noteworthy given the general characteristics of the script in question. See EGD 11.2. --></p>
+                            <!-- If you need to identify individual hands (EGD §7.5/) in addition to one or more paragraphs of general palaeographic description, wrap <summary> around the <p> or <p>s above, and, outside <summary>, create <handNote> elements for each hand as follows:
+						<summary><p><p/></summary>
+						<handNote xml:id="Pallava00001_hand1"></handNote>
+						<handNote xml:id="Pallava00001_hand2"></handNote>
+					 -->
+                        </handDesc>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>The project DHARMA has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme (grant agreement no 809994).</p>
+            </projectDesc>
+            <schemaRef type="guide" key="EGDv01" url="https://halshs.archives-ouvertes.fr/halshs-02888186"/><!-- UPDATE the link once the release is made official -->
+            <listPrefixDef>
+                <prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)" replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
+                    <p>Public URIs with the prefix bib to point to a Zotero Group Library named ERC-DHARMA whose data are open to the public.</p>
+                </prefixDef>
+                <prefixDef ident="part" matchPattern="([a-z]+)" replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_idListMembers_v01.xml#$1">
+                    <p>Internal URIs using the part prefix to point to person elements in the <ref>DHARMA_idListMembers_v01.xml</ref> file.</p>
+                </prefixDef>
+            </listPrefixDef>
+        </encodingDesc>
+        <revisionDesc>
+            <change who="part:mime" when="2026-03-02">Conversion to DHARMA guidelines</change>
+        </revisionDesc>
+    </teiHeader>
+    <text xml:space="preserve">
+      <body>
+			<div type="edition" xml:lang="pli-Latn">
+				<ab>
+					<lb n="1"/>vedanakkhandh<unclear>o</unclear>
+					<space type="horizontal" quantity="1" unit="character"/> saññā<unclear>kkha</unclear><milestone unit="fragment" n="2"/>ndh<unclear>o</unclear>
+					<space type="horizontal" quantity="1" unit="character"/> saṅkhārakkhandho <space type="horizontal" quantity="1" unit="character"/><gap reason="lost" extent="3" unit="character"/><milestone unit="fragment" n="3"/><gap reason="lost" extent="3" unit="character"/><gap extent="1" reason="illegible" unit="character"/><gap extent="104" reason="lost" unit="character" precision="low"/><milestone unit="fragment" next="1"/>nā <space type="horizontal" quantity="1" unit="character"/>
+					saṁphumatattaṁ <lb n="2"/>°ayaṁ vuccati chaṭṭhāya<unclear>ta</unclear><milestone unit="fragment" n="2"/><supplied reason="lost">na</supplied>paccayā phasso <g type="ddanda">.</g> naṁttha kanama <milestone unit="fragment" next="3"/><supplied reason="lost">pha</supplied><unclear>s</unclear>sapaccayā vedanā <space type="horizontal" quantity="1" unit="character"/> yaṁ ceta<gap extent="140" reason="lost" unit="character" precision="low"/><milestone unit="fragment" n="1"/>di<unclear>ṭṭh</unclear>ivip<unclear>ph</unclear>anditaṁ <space type="horizontal" quantity="1" unit="character"/> diṭṭhi <lb n="3" break="no"/>saññojanaṁ <space type="horizontal" quantity="1" unit="character"/> gā<unclear>ho</unclear>
+					<milestone unit="fragment" n="2"/>paṭiṭṭhāho <space type="horizontal" quantity="1" unit="character"/> °abhin<unclear>i</unclear>ve<unclear>so</unclear>
+					<space type="horizontal" quantity="1" unit="character"/>
+					<milestone unit="fragment" n="3"/>parāmāso <space type="horizontal" quantity="1" unit="character"/> kummag<unclear>g</unclear>o <gap extent="110" reason="lost" unit="character" precision="low"/><milestone unit="fragment" n="1"/><g>⎨</g><g>|||</g><g>⋮</g><g>|||</g><g>⋮</g><g>|||</g><g>⎬</g>
+				</ab>
+			</div>
+			<div type="apparatus">
+				<listApp/>
+			</div>
+			<div type="translation" xml:lang="eng">
+				<p><!--english translation here--></p>
+			</div>
+			<div type="commentary">
+				<p>The arrangement of the text as printed by <bibl><ptr target="bib:Finot1912"/><citedRange>135</citedRange></bibl> is incorrect; the same author was quite wrong when, in a subsequent article (<bibl><ptr target="bib:Finot1913_01"/><citedRange>194</citedRange></bibl>), he wrote as follows: <quote type="block"><foreign>on constate que le début des trois lignes forme une sorte de tranche isolée du reste par un intervalle que rien ne justifie. Il est extrêmement probable
+							que le graveur copiait un texte écrit sur deux pièces séparées. Comme il ne comprenait sans doute fort peu de ce qu’il écrivait, il a commis la maladresse de mal ajuster les lignes, et il a placé sur les lignes 1 et 2 le début des lignes 2 et 3.</foreign></quote><!-- AG2MM: not use of quote type=block, obviating need to create separate <p> --> It seems the support would, in its original state, have been circular, and the text would have gone all around, so that the
+					beginning and end of each line is preserved. The start of the text is <foreign>vedanakkhandho</foreign>.</p>
+			</div>
+			<div type="bibliography">
+				<!--ASI 1910-11, 89. — ASI 1911-12, 141-2. — Finot 1912: 134-135 — Finot 1913. — ASB 1912, 10-1; 1913, 21. — PR, 35-36. — PPPB I, 61, 74 n. 4, 175-6. — Stargardt 1995: 201.-->
+				<!--[Todo: markup citedRange elements if necessary]-->
+				<p><bibl><ptr target="bib:ASI"/><citedRange>1910-11: 89</citedRange></bibl> describes the discovery of two of the three fragments of this inscription, estampages of which were sent to M.L. Finot who recognized it to be excerpts from the Pali canon written in an archaic script. The discovery of the third, central, stone fragment was reported in <bibl><ptr target="bib:ASI"/><citedRange>1911-12: 141-2</citedRange></bibl>. Estampages were sent to Finot who identified excerpts from the Abhidhamma Vibhaṅga and provided a transliteration and translation of the three excerpts. <bibl><ptr target="bib:Finot1912"/><citedRange>134-5</citedRange></bibl> and <bibl><ptr target="bib:Finot1913_01"/><citedRange>193-5</citedRange></bibl> also report on the inscription. (Finot misconstrues the format of the text which, as it turns out, preserves only the beginning and end of an inscription that would have originally encircled the stone.) <bibl><ptr target="bib:ThaMyat1963_01"/><citedRange>35-36</citedRange></bibl>, probably in error, gives slightly different eye drawings of the inscription together with Burmese transliterations (apparently based on Finot’s Pali reading in Journal Asiatique). <bibl><ptr target="bib:Luce1985_01"/><citedRange>I, 61, 74 n. 4, 175-6</citedRange></bibl>, provides an overview. <bibl><ptr target="bib:SeinWin2016_01"/><citedRange>104-10</citedRange></bibl> reproduces Tha Myat’s reading(s) and then provides his own. Re-edited here from published photographs.</p>
+				<listBibl type="primary"><bibl><ptr target="bib:CPI2018_01"/><citedRange unit="item">DHARMA_INSPYU00044</citedRange></bibl></listBibl><listBibl type="secondary">
+					<bibl><ptr target="bib:ASB"/><citedRange>1912: 10-1</citedRange></bibl>
+					<bibl><ptr target="bib:ASB"/><citedRange>1913: 21</citedRange></bibl>
+					<bibl><ptr target="bib:Stargardt1995"/><citedRange>201</citedRange></bibl>
+				</listBibl>
+			</div>
+		</body>
+  </text>
+</TEI>

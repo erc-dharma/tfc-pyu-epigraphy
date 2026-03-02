@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_SQF.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Thegon Stone Slab</title>
+                <respStmt>
+                    <resp>author of digital edition</resp>
+                <persName ref="part:argr"><forename>Arlo</forename><surname>Griffiths</surname></persName><persName ref="part:mami"><forename>Marc</forename><surname>Miyake</surname></persName><persName ref="part:jukw"><forename>Julian Karl</forename><surname>Wheatley</surname></persName></respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>DHARMA</authority>
+                <pubPlace><!-- Fill in here the place or places where the encoding has been done --></pubPlace>
+                <idno type="filename">DHARMA_INSPYU00021</idno>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">
+                        <p>This work is licensed under the Creative Commons Attribution 4.0 Unported
+                            Licence. To view a copy of the licence, visit
+                            https://creativecommons.org/licenses/by/4.0/ or send a letter to
+                            Creative Commons, 444 Castro Street, Suite 900, Mountain View,
+                            California, 94041, USA.</p>
+                    </licence>
+                </availability>
+                <date from="2019" to="2025">2019-2025</date>
+            </publicationStmt>
+            <sourceDesc><!-- only the handDesc can be filled in at this stage -->
+                <msDesc><!-- //// NB: the msIdentifier had to be added for validation purposes ///. It will be edited later with the metadata spreadsheet -->
+                    <msIdentifier>
+                        <repository>DHARMAbase</repository>
+                        <idno/><!-- don't modify this -->
+                    </msIdentifier>
+                    <msContents><!-- describe the intellectual content of an inscription -->
+                        <summary><!-- //// NOT MANDATORY  ////--></summary> <!-- offers the possibility to give a summary of the inscription's content -->
+                    </msContents>
+                    <physDesc>
+                        <handDesc>
+                            <p><!-- The script name(s) will be inserted here at a later stage from the metadata spreasheet. At this stage, you can mention here in a free-text paragraph any characteristics of the writing observed more than once in this inscription that seem unusual/uncommon or otherwise noteworthy given the general characteristics of the script in question. See EGD 11.2. --></p>
+                            <!-- If you need to identify individual hands (EGD §7.5/) in addition to one or more paragraphs of general palaeographic description, wrap <summary> around the <p> or <p>s above, and, outside <summary>, create <handNote> elements for each hand as follows:
+						<summary><p><p/></summary>
+						<handNote xml:id="Pallava00001_hand1"></handNote>
+						<handNote xml:id="Pallava00001_hand2"></handNote>
+					 -->
+                        </handDesc>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>The project DHARMA has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme (grant agreement no 809994).</p>
+            </projectDesc>
+            <schemaRef type="guide" key="EGDv01" url="https://halshs.archives-ouvertes.fr/halshs-02888186"/><!-- UPDATE the link once the release is made official -->
+            <listPrefixDef>
+                <prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)" replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
+                    <p>Public URIs with the prefix bib to point to a Zotero Group Library named ERC-DHARMA whose data are open to the public.</p>
+                </prefixDef>
+                <prefixDef ident="part" matchPattern="([a-z]+)" replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_idListMembers_v01.xml#$1">
+                    <p>Internal URIs using the part prefix to point to person elements in the <ref>DHARMA_idListMembers_v01.xml</ref> file.</p>
+                </prefixDef>
+            </listPrefixDef>
+        </encodingDesc>
+        <revisionDesc>
+            <change who="part:mime" when="2026-03-02">Conversion to DHARMA guidelines</change>
+        </revisionDesc>
+    </teiHeader>
+    <text xml:space="preserve">
+      <body>
+			<div type="edition" xml:lang="pyx-Latn">
+				<ab>
+					<lb n="1"/>1<g type="ddanda">.</g><space type="horizontal" quantity="1" unit="character"/> hmi tir·ṁ gin·ṁ mū liḥ liy·ḥ paṅ·ḥ pū nun· nḅaṁḥ tir·ṁ ḅuḥ tim· <gap reason="illegible" quantity="3" unit="character"/> tiṁ <gap reason="illegible" quantity="6" unit="character"/> mra ra sri <gap extent="unknown" reason="lost"/>
+					<lb n="2"/><gap reason="illegible" quantity="1" unit="line"/>
+					<lb n="3"/>ḅam·ṁḥ thar· mrat·ṁ si rgaṃ hraC·ṁ Cam· pu tit·ṁ pra nsaṁḥ pra ru ḅay·ṁḥ nik· ta saṅ· pat· ram·ṁḥ ḅaṁḥ <gap reason="lost" quantity="3" unit="character"/> °o ndiṃ viṃṁ hraṁ tha ḅaṁḥ mir· draḥ <gap extent="unknown" reason="lost"/>
+					<lb n="4"/>paṅ· saḥ °o ram· tiṁ prat· ksaḥ mra ña <!-- MM: this character
+						has the top curl of ña absent from ra but is missing the right-hand stroke
+						of ña. --> yaṁ ñaḥ pduy·ḥ pat·ṁḥ pgau ka ḅin·ṁḥ saṁḥ mu du <gap reason="lost" quantity="4" unit="character"/>
+					<gap reason="illegible" quantity="1" unit="character"/> nor· draḥ ḅay·ṁḥ tir·ṁ hnaṁ muḥ raḥ <gap reason="illegible" quantity="3" unit="character"/> pla °o tiṁ laṁ mra ra ma Cuḥ <lb n="5"/>dit·ṁ pay·ṁḥ ktaṅ·ḥ va tir·ṁ vuḥ tir·ṁ ryaḥ <gap reason="illegible" quantity="1" unit="character"/>ḥ tit·ṁ siḥ tir·ṁ guṃḥ tiṁ ktiṅ· <gap reason="lost" quantity="2" unit="character"/> Cdat·ṁ yaṁ pūḥ <gap reason="illegible" quantity="1" unit="character"/> Ci pti viṃṁ °o baḥ knaḥ paṁḥ <gap reason="illegible" quantity="1" unit="character"/> ti <gap reason="illegible" quantity="2" unit="character"/> ma yaṁ mūḥ °o biṁḥ <lb n="6"/><gap extent="unknown" reason="lost"/>
+					<gap reason="illegible" quantity="1" unit="character"/> bak· drim· gam· taḥ ṅu hliC·ṁ riṁ khat· kdlon· tiṁ dak·ṃṁ <gap reason="illegible" quantity="1" unit="character"/> sriḥ tar· dav·ṃḥ gir· sri <gap reason="lost" quantity="3" unit="character"/> sa ba va hmi yaṁ rña <!-- MM: very strange-looking akṣara with l-like left stroke, presumably an error since ñl- is an un-Sino-Tibetan cluster --> mū daṅ· <gap reason="illegible" quantity="1" unit="character"/> mri <gap reason="illegible" quantity="1" unit="character"/>y· <gap reason="illegible" quantity="1" unit="character"/>m· <gap reason="illegible" quantity="1" unit="character"/>
+					<gap reason="illegible" quantity="1" unit="character"/>ṅ· <gap reason="illegible" quantity="1" unit="character"/>ṅ· <gap reason="illegible" quantity="1" unit="character"/>n· <gap reason="illegible" quantity="1" unit="character"/>n· va <gap reason="illegible" quantity="2" unit="character"/> phiḥ tin·ṁ gaṃḥ <gap reason="illegible" quantity="1" unit="character"/>
+					<g type="ddanda">.</g>
+				</ab>
+			</div>
+			<div type="apparatus">
+				<listApp/>
+			</div>
+			<div type="translation" xml:lang="eng">
+				<p><!--english translation here--></p>
+			</div>
+			<div type="commentary">
+				<p>2. This line is obliterated except for some <seg type="graphemic">i</seg> vowels, <seg type="graphemic">r</seg> medials and <seg type="graphemic">m</seg> and <seg type="graphemic">y</seg> finals.</p>
+			</div>
+			<div type="bibliography">
+				<p>Eye drawings and a Burmese transliteration of the inscription are published in <bibl><ptr target="bib:SeinWin2016_01"/><citedRange>100-2</citedRange></bibl>. Re-edited here from our team’s RTIs.</p>
+				<!-- <listBibl type="secondary-bibliography">
+				</listBibl> -->
+			<listBibl type="primary"><bibl><ptr target="bib:CPI2018_01"/><citedRange unit="item">DHARMA_INSPYU00021</citedRange></bibl></listBibl></div>
+		</body>
+  </text>
+</TEI>

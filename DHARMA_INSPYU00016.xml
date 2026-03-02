@@ -1,0 +1,579 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_SQF.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Socle of Kan Wet Khaung Mound Stone Buddha Image</title>
+                <respStmt>
+                    <resp>author of digital edition</resp>
+                <persName ref="part:argr"><forename>Arlo</forename><surname>Griffiths</surname></persName><persName ref="part:mami"><forename>Marc</forename><surname>Miyake</surname></persName><persName ref="part:jukw"><forename>Julian Karl</forename><surname>Wheatley</surname></persName></respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>DHARMA</authority>
+                <pubPlace><!-- Fill in here the place or places where the encoding has been done --></pubPlace>
+                <idno type="filename">DHARMA_INSPYU00016</idno>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">
+                        <p>This work is licensed under the Creative Commons Attribution 4.0 Unported
+                            Licence. To view a copy of the licence, visit
+                            https://creativecommons.org/licenses/by/4.0/ or send a letter to
+                            Creative Commons, 444 Castro Street, Suite 900, Mountain View,
+                            California, 94041, USA.</p>
+                    </licence>
+                </availability>
+                <date from="2019" to="2025">2019-2025</date>
+            </publicationStmt>
+            <sourceDesc><!-- only the handDesc can be filled in at this stage -->
+                <msDesc><!-- //// NB: the msIdentifier had to be added for validation purposes ///. It will be edited later with the metadata spreadsheet -->
+                    <msIdentifier>
+                        <repository>DHARMAbase</repository>
+                        <idno/><!-- don't modify this -->
+                    </msIdentifier>
+                    <msContents><!-- describe the intellectual content of an inscription -->
+                        <summary><!-- //// NOT MANDATORY  ////--></summary> <!-- offers the possibility to give a summary of the inscription's content -->
+                    </msContents>
+                    <physDesc>
+                        <handDesc>
+                            <p><!-- The script name(s) will be inserted here at a later stage from the metadata spreasheet. At this stage, you can mention here in a free-text paragraph any characteristics of the writing observed more than once in this inscription that seem unusual/uncommon or otherwise noteworthy given the general characteristics of the script in question. See EGD 11.2. --></p>
+                            <!-- If you need to identify individual hands (EGD §7.5/) in addition to one or more paragraphs of general palaeographic description, wrap <summary> around the <p> or <p>s above, and, outside <summary>, create <handNote> elements for each hand as follows:
+						<summary><p><p/></summary>
+						<handNote xml:id="Pallava00001_hand1"></handNote>
+						<handNote xml:id="Pallava00001_hand2"></handNote>
+					 -->
+                        </handDesc>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>The project DHARMA has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme (grant agreement no 809994).</p>
+            </projectDesc>
+            <schemaRef type="guide" key="EGDv01" url="https://halshs.archives-ouvertes.fr/halshs-02888186"/><!-- UPDATE the link once the release is made official -->
+            <listPrefixDef>
+                <prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)" replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
+                    <p>Public URIs with the prefix bib to point to a Zotero Group Library named ERC-DHARMA whose data are open to the public.</p>
+                </prefixDef>
+                <prefixDef ident="part" matchPattern="([a-z]+)" replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_idListMembers_v01.xml#$1">
+                    <p>Internal URIs using the part prefix to point to person elements in the <ref>DHARMA_idListMembers_v01.xml</ref> file.</p>
+                </prefixDef>
+            </listPrefixDef>
+        </encodingDesc>
+        <revisionDesc>
+            <change who="part:mime" when="2026-03-02">Conversion to DHARMA guidelines</change>
+        </revisionDesc>
+    </teiHeader>
+    <text xml:space="preserve">
+      <body>
+			<div type="edition">
+				<ab>
+					<lb n="1"/>
+					<milestone unit="face" n="A" corresp="#face_A"/>
+					<!-- AG: is linking to layoutDesc with corresp to be handled in this way? We return to the same milestone A/b/C/d multiple times in this text, whose lines go around four faces of a stone.-->
+					<supplied reason="lost">ma</supplied><unclear>h</unclear>ībhujām·
+					<space type="horizontal" quantity="1" unit="character"/>
+					tga<unclear>m·</unclear>ṃḥ diṃṁ tiṁ pmir·<unclear>ḥ</unclear>
+						<unclear>saḥ</unclear>
+					<space type="horizontal" quantity="1" unit="character"/>
+					°unnata
+					<space type="horizontal" quantity="1" unit="character"/>
+					kdir·ṃṁ tr̥ vaṃ kviṃṁ
+					<space type="horizontal" quantity="1" unit="character"/>
+					porusa
+					<space type="horizontal" quantity="1" unit="character"/>
+					°o <unclear>saḥ</unclear> pir·ṁ tgaṃtext
+					<space type="horizontal" quantity="1" unit="character"/>
+					śriyām·
+					<space type="horizontal" quantity="1" unit="character"/>
+					°o sri yaṁ <del rend="erasure">ḥ</del>
+					<space type="horizontal" quantity="1" unit="character"/>
+					°idam·
+					<space type="horizontal" quantity="1" unit="character"/>
+					<unclear>n</unclear>aḥ yaṁ
+					<space type="horizontal" quantity="1" unit="character"/>
+					virodha
+					<space type="horizontal" quantity="1" unit="character"/>
+					tim·ṁ kaṅ·ṁ
+					<space type="horizontal" quantity="1" unit="character"/>
+					°upaśama
+					<space type="horizontal" quantity="1" unit="character"/>
+					°o paṅ· dlim·ḥ
+					<space type="horizontal" quantity="1" unit="character"/>
+					°eka
+					<space type="horizontal" quantity="1" unit="character"/>
+					°ik· <gap reason="illegible" quantity="1" unit="character"/>
+					
+					<space type="horizontal" quantity="1" unit="character"/>
+					kāraṇaṁ
+					<milestone unit="face" n="b" corresp="#face_b"/>
+					tiṁ plaṁḥ
+					<space type="horizontal" quantity="1" unit="character"/>
+					°itaḥ
+					<space type="horizontal" quantity="1" unit="character"/>
+					yaṁ pin·ṁḥ
+					<space type="horizontal" quantity="1" unit="character"/>
+					pradhāryya
+					<space type="horizontal" quantity="1" unit="character"/>
+					drun·ḥ ta ṅar·ḥ dam·ṃḥ
+					<space type="horizontal" quantity="1" unit="character"/>
+					°āyati
+					<space type="horizontal" quantity="1" unit="character"/>
+					knat·ṁḥ du<unclear>k·</unclear>ṃ
+					<milestone unit="face" n="C" corresp="#face_C"/>
+					<gap reason="illegible" quantity="5" unit="character"/>
+					<space type="horizontal" quantity="1" unit="character"/>
+					dor· dam·ḥ <unclear>kn</unclear>iḥ
+					<space type="horizontal" quantity="1" unit="character"/>
+					vyadhāyi
+					<space type="horizontal" quantity="1" unit="character"/>
+					lam· ta sdam·ḥ
+					<space type="horizontal" quantity="1" unit="character"/>
+					yena
+					<space type="horizontal" quantity="1" unit="character"/>
+					pdik·ṃṁ
+					<space type="horizontal" quantity="1" unit="character"/>
+					°ekadine
+					<space type="horizontal" quantity="1" unit="character"/>
+					t<unclear>va</unclear> ta<unclear>k</unclear>·ṁ duk·ṃ
+					<space type="horizontal" quantity="1" unit="character"/>
+					puradvayam·
+					<space type="horizontal" quantity="1" unit="character"/>
+					tiṁ priṅ·ḥ kni
+					<space type="horizontal" quantity="1" unit="character"/>
+					tam·
+					<space type="horizontal" quantity="1" unit="character"/>
+					pau
+					<space type="horizontal" quantity="1" unit="character"/>
+					°āsrava
+					<space type="horizontal" quantity="1" unit="character"/>
+					tin·ṁ lim·ṁ tin·ṁ<gap reason="lost" quantity="10" unit="character"/>
+					
+					<milestone unit="face" n="d" corresp="#face_d"/>
+					°o tcat· tca
+					puradvaya
+					<space type="horizontal" quantity="1" unit="character"/>
+					tiṁ priṅ·ḥ kni
+					<space type="horizontal" quantity="1" unit="character"/>
+					°ekāntahita
+					<space type="horizontal" quantity="1" unit="character"/>
+					tak·ṁ scaṅ·ḥ °o paṅ· hip· syaṁ
+					<lb n="2"/>
+					<milestone unit="face" n="A" corresp="#face_A"/>
+					°upadeśinam·
+					<space type="horizontal" quantity="1" unit="character"/>
+					°o khñon·ḥ tiṁ thmi<unclear>n</unclear>·ḥ
+					<space type="horizontal" quantity="1" unit="character"/>
+					°abhipraṇamya
+					<space type="horizontal" quantity="1" unit="character"/>
+					<unclear>g</unclear>aṁḥ drun·ḥ ta sba
+					<space type="horizontal" quantity="1" unit="character"/>
+					°aryyaguhādhipāhvayam·
+					<space type="horizontal" quantity="1" unit="character"/>
+					ḅay·ṁḥ gauṃ vam· kviṃṁ °o rmiṅ·
+					<space type="horizontal" quantity="1" unit="character"/>
+					°dayānukūla
+					<space type="horizontal" quantity="1" unit="character"/>
+					tin·ṁ da<choice>
+							<unclear>k</unclear>
+							<unclear>r</unclear>
+						</choice>·ṃṁ tin·ṁ yav· °o <unclear>v</unclear>r<unclear>el</unclear>· ndrom·ṃ
+					<space type="horizontal" quantity="1" unit="character"/>
+					°agrasamādhilābhinam·
+					<space type="horizontal" quantity="1" unit="character"/>
+					kdam·ṁ tin·ṁ rniṅ·ṁ sdin·ṁ tdik·ṃ °o kdi<unclear>ṃ</unclear> ḅay·ṁḥ di<unclear>m·ṃṁ</unclear>
+					<g type="ddanda">.</g>
+					<space type="horizontal" quantity="1" unit="character"/>
+					y<supplied reason="lost">ataḥ</supplied>
+					<milestone unit="face" n="b" corresp="#face_b"/>
+					pd<unclear>i</unclear>k·<supplied reason="lost">ṃ</supplied>ṁ pin·ṁḥ
+					<space type="horizontal" quantity="1" unit="character"/>
+					prabhr̥tya
+					<space type="horizontal" quantity="1" unit="character"/>
+					drun·ḥ ta pr̥ tum·
+					<space type="horizontal" quantity="1" unit="character"/>
+					°abhyudayāya
+					<space type="horizontal" quantity="1" unit="character"/>
+					°o paṅ· tdluṅ·ḥ kliṁḥ °o plaṁḥ
+					<milestone unit="face" n="C" corresp="#face_C"/>
+					<gap reason="illegible" quantity="3" unit="character"/><unclear>m·</unclear>
+					<space type="horizontal" quantity="1" unit="character"/>
+					<gap reason="illegible" quantity="3" unit="character"/>vaṅ·ṃ
+					<space type="horizontal" quantity="1" unit="character"/>
+					ta<unclear>t·</unclear>
+					pau
+					<space type="horizontal" quantity="1" unit="character"/>
+					°agrapā<unclear>d</unclear>āmvuja
+					<space type="horizontal" quantity="1" unit="character"/>
+					°o plaṁḥ traḥ sdin·ṁ tdik·ṃ
+					<space type="horizontal" quantity="1" unit="character"/>
+					pīṭhalāñchitaḥ
+					<space type="horizontal" quantity="1" unit="character"/>
+					°o <unclear>dṅey·</unclear>ḥ du<unclear>r</unclear>· ḅin·ṁḥ ta tdit·ṁ
+					<space type="horizontal" quantity="1" unit="character"/>
+					°ayam·
+					<space type="horizontal" quantity="1" unit="character"/>
+					naḥ yaṁ
+					<space type="horizontal" quantity="1" unit="character"/>
+					kriyā
+					<space type="horizontal" quantity="1" unit="character"/>
+					tsaṁḥ
+					<space type="horizontal" quantity="1" unit="character"/>
+					kāraṇayā
+					<space type="horizontal" quantity="1" unit="character"/>
+					<unclear>t</unclear>i<supplied reason="lost">n·</supplied>ṁ<gap reason="lost" extent="unknown"/>
+						<!-- MM: I see what might be a final consonant in the 2014 RTI, but Luce has a black area; could this and the tin·m in line 5 be like the ka ~ kap· alternation? -->
+						<gap reason="illegible" quantity="1" unit="character"/>
+						<gap reason="lost" quantity="7" unit="character"/>
+					
+					<supplied reason="lost">nr̥</supplied>
+					<milestone unit="face" n="d" corresp="#face_d"/>
+					<unclear>pa</unclear>
+					tdav·ṃḥ
+					<space type="horizontal" quantity="1" unit="character"/>
+					śrījayacandravarmmaṇā
+					srijan·travar·ma kviṃṁ °o rmiṅ·<g type="ddanda">.</g>
+					<space type="horizontal" quantity="1" unit="character"/>
+					°ataḥ
+					<lb n="3"/>
+					<milestone unit="face" n="A" corresp="#face_A"/>
+					yaṁ pin·ṁḥ
+					<space type="horizontal" quantity="1" unit="character"/>
+					prabhr̥ty eva
+					<space type="horizontal" quantity="1" unit="character"/>
+					dru<unclear>n</unclear>·ḥ ta pr̥ tum· ṭloC·ḥ
+					<space type="horizontal" quantity="1" unit="character"/>
+					vigāḍha
+					<space type="horizontal" quantity="1" unit="character"/>
+					tim·ṁ daṅ·ṁ tim·ṁ gaṃ
+					<space type="horizontal" quantity="1" unit="character"/>
+					niścayaḥ
+					<space type="horizontal" quantity="1" unit="character"/>
+					°o ndo<unclear>y</unclear>· tdam·ḥ
+					<space type="horizontal" quantity="1" unit="character"/>
+					paraspara
+					<space type="horizontal" quantity="1" unit="character"/>
+					tim·ṁ daṅ·ṁ tim·ṁ ra
+					<space type="horizontal" quantity="1" unit="character"/>
+					prītirasa
+					<space type="horizontal" quantity="1" unit="character"/>
+					°o kiC·ṁ kCeṅ· °o kdiv·ṃṁ cev· din·ṃ
+					<space type="horizontal" quantity="1" unit="character"/>
+					°upaghātinam·
+					<space type="horizontal" quantity="1" unit="character"/>
+					kce k<unclear>ga</unclear>
+					<space type="horizontal" quantity="1" unit="character"/>
+					°aham·
+					<space type="horizontal" quantity="1" unit="character"/>
+					gay·ṁḥ
+					<space type="horizontal" quantity="1" unit="character"/>
+					na
+					<space type="horizontal" quantity="1" unit="character"/>
+					ḅaḥ
+					<space type="horizontal" quantity="1" unit="character"/>
+					bhūyaḥ
+					<space type="horizontal" quantity="1" unit="character"/>
+					g<unclear>o</unclear>t· <gap reason="illegible" quantity="1" unit="character"/>
+					<milestone unit="face" n="b" corresp="#face_b"/>
+					<unclear>ka</unclear>ravāṇi
+					<space type="horizontal" quantity="1" unit="character"/>
+					ta<!-- trace that could be final consonant below this akṣaras seems less deep and therefore more probable accidental --> pliṁḥ<!-- AG+MM: to be checked on 2014 RTI, because hilṁḥ sems possible from 2016 RTI. --> saṁḥ tim·ṁ kaṅ·ṁ
+					<space type="horizontal" quantity="1" unit="character"/>
+					sahānuja
+					<space type="horizontal" quantity="1" unit="character"/>
+					ṅit·ṁ kdaṅ· nḅun·ḥ mrauy·ḥ
+					<space type="horizontal" quantity="1" unit="character"/>
+					śrīhārivikra<unclear>m</unclear><supplied reason="lost">e</supplied><milestone unit="face" n="C" corresp="#face_C"/><supplied reason="lost">ṇa ca</supplied>
+					<space type="horizontal" quantity="1" unit="character"/>
+					<gap reason="illegible" quantity="5" unit="character"/> sri<unclear>ha</unclear>rivi<unclear>k·</unclear>krama <unclear>°o rm</unclear>iṅ·<g type="ddanda">.</g>
+					<space type="horizontal" quantity="1" unit="character"/>
+					bhaveyuḥ
+					<space type="horizontal" quantity="1" unit="character"/>
+					leḥ ce °o kap· ñaḥ
+					<space type="horizontal" quantity="1" unit="character"/>
+					°asmat·
+					<space type="horizontal" quantity="1" unit="character"/>
+					ga<unclear>y</unclear>·ṁḥ 
+					<space type="horizontal" quantity="1" unit="character"/>
+					punaḥ
+					<space type="horizontal" quantity="1" unit="character"/>
+					k<unclear>n</unclear>aC·ṁḥ
+					<space type="horizontal" quantity="1" unit="character"/>
+					°ātmajāś ca ye
+					<space type="horizontal" quantity="1" unit="character"/>
+					pdiṃ<unclear>k</unclear>·ṁ gi saḥ pli<unclear>ṁ</unclear> vaṅ·ṃ hnaut·
+					<space type="horizontal" quantity="1" unit="character"/>
+					saputtrasantāna
+					<space type="horizontal" quantity="1" unit="character"/>
+					ṅit·ṁ <unclear>k</unclear>da<unclear>ṅ</unclear>·
+					<space type="horizontal" quantity="1" unit="character"/><gap reason="lost" quantity="6" unit="character"/>
+					
+					<supplied reason="lost">tin·ṁ</supplied>
+						<milestone unit="face" n="d" corresp="#face_d"/>ḅun·ḥ tim·ṁ tak· kiṁ ce hvuṃ
+					<space type="horizontal" quantity="1" unit="character"/>
+					na te
+					<space type="horizontal" quantity="1" unit="character"/>
+					ḅaḥ po vaṅ·ṃ
+					<space type="horizontal" quantity="1" unit="character"/>
+					virotsyanti
+					<space type="horizontal" quantity="1" unit="character"/>
+					lam· hliṁḥ skaṅ·ṁ <space type="horizontal" quantity="1" unit="character"/> mra vaṅ·ṃ
+					<lb n="4"/>
+					<milestone unit="face" n="A" corresp="#face_A"/>
+					saha tva <unclear>dā</unclear>tmajaiḥ
+					<space type="horizontal" quantity="1" unit="character"/>
+					ḅay·ṁḥ la saḥ pli<unclear>ṁ</unclear> vaṅ·ṃ daṅ·ṃ
+					<space type="horizontal" quantity="1" unit="character"/>
+					saputtrasantāna
+					<space type="horizontal" quantity="1" unit="character"/>
+					ṅit·ṁ kdaṅ· saḥ tin·ṁ ḅun·ḥ tim·ṁ ta<unclear>k</unclear>·
+					<space type="horizontal" quantity="1" unit="character"/>
+					paramparāgataiḥ
+					<space type="horizontal" quantity="1" unit="character"/>
+					tin·ṁ ḅun·ḥ ti<unclear>m</unclear>·ṁ del·ṃṁḥ kiṁ ce hvuṃ vaṅ·ṃ daṅ·ṃ<g type="ddanda">.</g>
+					°imam·
+					<space type="horizontal" quantity="1" unit="character"/>
+					naḥ yaṁ
+					<space type="horizontal" quantity="1" unit="character"/>
+					sad<supplied reason="lost">ācā</supplied>ra
+					<space type="horizontal" quantity="1" unit="character"/>
+					mra sdin·ṁ <unclear>°o</unclear> got·
+					<space type="horizontal" quantity="1" unit="character"/>
+					pathāgatam·
+					<space type="horizontal" quantity="1" unit="character"/>
+					°o de(l·ṃḥ) <milestone unit="face" n="b" corresp="#face_b"/><supplied reason="lost">la</supplied>m·ḥ pin·ṁḥ kiṁ ce
+					vidhim·
+					<space type="horizontal" quantity="1" unit="character"/>
+					tiṁ krin·ṁ tiṁ sca thṅam·ḥ tin·ṁ ti din·ṃṁ
+					<space type="horizontal" quantity="1" unit="character"/>
+					caranti
+					<space type="horizontal" quantity="1" unit="character"/>
+					lam· pgau<unclear>t·</unclear>
+					<milestone unit="face" n="C" corresp="#face_C"/>
+					ye
+					<space type="horizontal" quantity="1" unit="character"/>
+					<unclear>pdi</unclear><supplied reason="lost">k·ṃṁ</supplied><unclear>na</unclear>ḥ tse<unclear>C·</unclear>
+						<unclear>vaṅ·ṃ</unclear>
+					<space type="horizontal" quantity="1" unit="character"/>
+					<!-- MM2AG: although I expect pdik·ṃṁ as a gloss for ye and can kind of see it in the RTI, the PPPB rubbing shows that the akṣara after ye has no subscript consonant: i.e., no -d-ṃ- -->
+					<unclear>°a</unclear>pa<unclear>nna</unclear>gasambhavā<unclear>ya</unclear>
+					<gap reason="illegible" quantity="1" unit="character"/> g<unclear>i</unclear> sḅuC· mrauy·ḥ pin·ṁḥ
+					<!-- MM2AG: treated (g/ḅ)a(l/k)· as case of unclear rather than supplied -->
+					<space type="horizontal" quantity="1" unit="character"/>
+					te
+					<space type="horizontal" quantity="1" unit="character"/>
+					<unclear>t</unclear>i<unclear>·</unclear>ṃ ba vaṅ·ṃ
+					<space type="horizontal" quantity="1" unit="character"/>
+					bhavantu
+					<space type="horizontal" quantity="1" unit="character"/>
+					<unclear>peḥ</unclear> ce °o ka ñaḥ
+					<space type="horizontal" quantity="1" unit="character"/>
+					sar<unclear>v</unclear>ve
+					°o hnaut·
+					nirujāḥ
+					<space type="horizontal" quantity="1" unit="character"/>
+					ḅa kca
+					<space type="horizontal" quantity="1" unit="character"/>
+					cirāyusaḥ
+					<space type="horizontal" quantity="1" unit="character"/>
+					droṅ· hra
+					<space type="horizontal" quantity="1" unit="character"/>
+					sadā
+					
+						<gap reason="illegible" quantity="1" unit="character"/>
+						<unclear>tiṁ</unclear>
+						<gap reason="illegible" quantity="2" unit="character"/>
+					
+					<space type="horizontal" quantity="1" unit="character"/>
+					
+						<gap reason="illegible" quantity="1" unit="character"/>
+						<gap reason="lost" quantity="2" unit="character"/>
+						<unclear>u</unclear>
+						<milestone unit="face" n="d" corresp="#face_d"/>daya
+					<space type="horizontal" quantity="1" unit="character"/>
+					°o kdir·ṃṁ tr̥ vaṃ
+					<space type="horizontal" quantity="1" unit="character"/>
+					°artthasiddhayaḥ
+					<space type="horizontal" quantity="1" unit="character"/>
+					°o paṅ· sdlaṅ·ḥ kliṁḥ khmi<unclear>ṅ</unclear>· kta vaṅ·ṃ<g type="ddanda">.</g>
+					<lb n="5"/>
+					<milestone unit="face" n="A" corresp="#face_A"/>
+					<unclear>v</unclear>i<unclear>la</unclear>ṅghito
+					<space type="horizontal" quantity="1" unit="character"/>
+					ḅin·ṁḥ ta bak·ṁ tvan·ṃṁḥ
+					<space type="horizontal" quantity="1" unit="character"/>
+					yaiḥ
+					<space type="horizontal" quantity="1" unit="character"/>
+					pdik·ṃṁ vaṅ·ṃ
+					<space type="horizontal" quantity="1" unit="character"/>
+					°ayam·
+					<space type="horizontal" quantity="1" unit="character"/>
+					naḥ yaṁ
+					<space type="horizontal" quantity="1" unit="character"/>
+					°aryyagocaro
+					<space type="horizontal" quantity="1" unit="character"/>
+					mra <unclear>s</unclear>din·ṁ °o go<unclear>t·</unclear> rheC·
+					<space type="horizontal" quantity="1" unit="character"/>
+					bhavantu
+					<space type="horizontal" quantity="1" unit="character"/>
+					paṁ<unclear>ḥ ce</unclear> °o kap· ñaḥ
+					<space type="horizontal" quantity="1" unit="character"/>
+					te
+					<space type="horizontal" quantity="1" unit="character"/>
+					pau vaṅ·ṃ
+					<space type="horizontal" quantity="1" unit="character"/>
+					vigrahakāryya
+					<space type="horizontal" quantity="1" unit="character"/>
+					tim·ṁ kaṅ·ṁ tim·ṁ vaṅ·ṃ prat· paṅ·
+					<space type="horizontal" quantity="1" unit="character"/>
+					vibhramaḥ
+					<space type="horizontal" quantity="1" unit="character"/>
+					kmuṅ· kmi<unclear>C</unclear>·ṁ
+					<space type="horizontal" quantity="1" unit="character"/>
+					nirantara
+					<unclear>ḅa</unclear> sar·<milestone unit="face" n="b" corresp="#face_b"/><gap reason="illegible" quantity="1" unit="character"/>
+						<unclear>k</unclear>·ḥ
+					<space type="horizontal" quantity="1" unit="character"/>
+					vyādhiparītamūrttayaḥ
+					<space type="horizontal" quantity="1" unit="character"/>
+					kca ḅiṁḥ vin·ṁḥ ncit·ṁ kviṃṁ °o hyaḥ
+					<space type="horizontal" quantity="1" unit="character"/>
+					sadā
+					<space type="horizontal" quantity="1" unit="character"/>
+					nṅa<unclear>p</unclear>· duk·ṃ
+					<milestone unit="face" n="C" corresp="#face_C"/>
+					<gap reason="illegible" quantity="3" unit="character"/><unclear>mbha</unclear>
+					<space type="horizontal" quantity="1" unit="character"/>
+					ti<unclear>n·</unclear>ṁ droḥ kdiṃ °o pa<unclear>ṅ·</unclear> duk·ṃ
+					<space type="horizontal" quantity="1" unit="character"/>
+					niva<unclear>ddh</unclear>asid<unclear>dh</unclear>ayaḥ
+					<space type="horizontal" quantity="1" unit="character"/>
+					taṁ tya<unclear>ṅ·</unclear>ḥ kviṃṁ °o khmi<unclear>ṅ</unclear>· kta<g type="ddanda">.</g>
+					<space type="horizontal" quantity="1" unit="character"/>
+					°ayam·
+					<space type="horizontal" quantity="1" unit="character"/>
+					naḥ yaṁ
+					<space type="horizontal" quantity="1" unit="character"/>
+					kr<unclear>i</unclear>yākāraṇayaḥ
+					<space type="horizontal" quantity="1" unit="character"/>
+					tsaṁḥ ti<unclear>n·</unclear>ṁ yaḥ °o krin·ṁ
+					<!-- MM: where reading stopped as of 10 February morning -->
+					<space type="horizontal" quantity="1" unit="character"/>
+					tathaiva
+					<space type="horizontal" quantity="1" unit="character"/>
+					<unclear>p</unclear>o nay· ṭlo<unclear>n</unclear>·ḥ
+					<space type="horizontal" quantity="1" unit="character"/>
+					te
+					<space type="horizontal" quantity="1" unit="character"/>
+					pau vaṅ·ṃ
+					<space type="horizontal" quantity="1" unit="character"/>
+					para<supplied reason="lost">sparaṁ</supplied><milestone unit="face" n="d" corresp="#face_d"/>sauhr̥dam·
+					<space type="horizontal" quantity="1" unit="character"/>
+					°o ḅin·ṁḥ ce tkoḥ hak· °o hliḥ
+					<space type="horizontal" quantity="1" unit="character"/>
+					°ā bhuva sthiteḥ
+					<space type="horizontal" quantity="1" unit="character"/>
+					tgam·ṃḥ °o tco<unclear>ṅ</unclear>·<lb n="6"/><milestone unit="face" n="A" corresp="#face_A"/><unclear>ha</unclear>ḥ k<unclear>m</unclear>V
+					<space type="horizontal" quantity="1" unit="character"/>
+					priyānujenāpi
+					<space type="horizontal" quantity="1" unit="character"/>
+					<unclear>°o</unclear> ḅin·ṁḥ kroḥ tsaḥ tom·
+					<space type="horizontal" quantity="1" unit="character"/>
+					sadā
+					<space type="horizontal" quantity="1" unit="character"/>
+					nṅap· duṃ<unclear>k</unclear>·
+					<space type="horizontal" quantity="1" unit="character"/>
+					°anu<unclear>v</unclear>arttyate
+					<space type="horizontal" quantity="1" unit="character"/>
+					ḅi<unclear>n·</unclear>ṁḥ na<unclear>ḥ</unclear> pgau<unclear>t·</unclear>
+					<space type="horizontal" quantity="1" unit="character"/>
+					sahānujai<supplied reason="lost">ḥ</supplied>
+					<space type="horizontal" quantity="1" unit="character"/>
+					ṅit·ṁ kda<unclear>ṅ·</unclear> nḅ<supplied reason="lost">un·</supplied><unclear>ḥ ra</unclear>
+					<space type="horizontal" quantity="1" unit="character"/>
+					puttra
+					<space type="horizontal" quantity="1" unit="character"/>
+					°o saḥ
+					<space type="horizontal" quantity="1" unit="character"/>
+					kula
+					<space type="horizontal" quantity="1" unit="character"/>
+					°o ṭruḥ hnau<unclear>r</unclear>·ḥ
+					<space type="horizontal" quantity="1" unit="character"/>
+					kramānugaiḥ
+					<space type="horizontal" quantity="1" unit="character"/>
+					°o da<unclear>l·</unclear>ṃṁḥ dal·ṃṁḥ knat·<unclear>ṁ</unclear>ḥ tḅiṁḥ vaṃ
+					<g type="ddanda">.</g><g><g type="scroll"/></g>
+				</ab>
+			</div>
+			<div type="apparatus">
+				<listApp/>
+			</div>
+			<div type="translation" xml:lang="eng">
+				<p><!--english translation here--></p>
+			</div>
+			<div type="commentary">
+				<p>1A. <seg type="graphemic">tga(m·)ṃḥ</seg>: what must be the same word,
+					perhaps meaning 'earth', also occurs in 5d (whence we assume presence of
+					final <seg type="graphemic">m·</seg> here) and in <ref target="DHARMA_INSPYU00017">17</ref>, l. 5.</p>
+				<p>1A. <seg type="graphemic">°idam· [n]aḥ yaṁ</seg>: below (2C, 4A, 5A, 5C), we repeatedly find the sequence <seg type="graphemic">naḥ yaṁ</seg>, once somewhat unclearly but thrice without any possibility of doubt as to the reading <seg type="graphemic">n</seg> rather than <seg type="graphemic">t</seg>, after direct-case forms (<foreign>ayam</foreign>, <foreign>imam</foreign>) of the Sanskrit near-deictic pronoun, of which <foreign>idam</foreign> is another instance. The reading
+						<seg type="graphemic">t</seg> here seems beyond doubt. We therefore have to consider the possibilities (a) that the difference <seg type="graphemic">taḥ/naḥ</seg> represents a linguistic reality, (b) that <seg type="graphemic">taḥ</seg> is a scribal error for <seg type="graphemic">naḥ</seg>, or (c) that damage to the stone has caused an intended <seg type="graphemic">na</seg> to take the shape of <seg type="graphemic">ta</seg>.</p>
+				<p>1A. <seg type="graphemic">°ik· ?</seg>: the challenging syllable might contain <seg type="graphemic">g</seg> in second position.</p>
+				<p>1b. <seg type="graphemic">kna[t]·ḥ</seg>: our reading is partly founded on the assumption that the penultimate word of the text, in 6A, is the same as we see here. There is no anusvāra there, hence we assume possible anusvāra here is actually accidental.</p>
+				<p>1b. <seg type="graphemic">du[k·]ṃ</seg>: this word is tentatively read here on the assumption this line ends with the same word as 5d.</p>
+				<p>1C. The first five akṣaras of this line must have been in Sanskrit with prosodic pattern – ⏑ – ⏑ –.</p>
+				<p>1C. <seg type="graphemic">tva</seg>: if the reading is correct, then
+					compare the word <seg type="graphemic">tva</seg> in l. 1 of <ref target="DHARMA_INSPYU00007">PYU 7</ref>-<ref target="DHARMA_INSPYU00008">8</ref>.</p>
+				<p>2A. <seg type="graphemic">gaṁḥ</seg>: restore <seg type="graphemic">gay·ṁḥ</seg>?</p>
+				<p>2A. <seg type="graphemic">aryyaguhādhipāhvayam</seg>: emend <seg type="graphemic">°āryya-</seg>.</p>
+				<p>2A. <seg type="graphemic">y(ataḥ)</seg>: restoration on the basis of the Pyu gloss.</p>
+				<p>2C. <seg type="graphemic">[t]i(n·)ṁ</seg> ◇ reading established on the basis of comparison with 5C.</p>
+				<p>2d. <seg type="graphemic">(nr̥)[pa]</seg>: restoration on the basis of the Pyu gloss.</p>
+				<p>2d. <seg type="graphemic">srijan·travar·ma</seg>: this gloss does not represent the element jaya in the Sanskrit.</p>
+				<p>3A. <seg type="graphemic">paraspara</seg>: it would be possible to read here <seg type="graphemic">parasparaṁ</seg>, but we consider the ostensible anusvāra an accidental unevenness in the stone.</p>
+				<p>3A. <seg type="graphemic">cev·</seg>: we assume appendages to the right are serifs indicating <seg type="graphemic">c</seg> rather than <seg type="graphemic">kh</seg>.</p>
+				<p>3b <seg type="graphemic">ṅit·ṁ kdaṅ·</seg>: see 4A and 6A.</p>
+				<p>3b–C. <seg type="graphemic">śrīhārivikra[m](e)(ṇa ca)</seg>: the restoration, with <seg type="graphemic">ca</seg> serving no other purpose than to complete the meter, is stylistically unsatisfactory, and also otherwise implausible a trace of <seg type="graphemic">-e</seg> should be visible if the antepenultimate syllable of the verse were really <seg type="graphemic">me</seg></p>
+				<p>3C. <seg type="graphemic">leḥ</seg>: see our note on 4A <seg type="graphemic">[peḥ]</seg>.</p>
+				<p>3C. <seg type="graphemic">k[n]aC·ṁḥ</seg>: cf. <seg type="graphemic">knat·ṁḥ</seg> in l.1?</p>
+				<p>3C. <seg type="graphemic">(tim·ṁ)</seg>: the restoration follows from repeated occurrence of <seg type="graphemic">tin·ṁ ḅun·ḥ tim·ṁ</seg> in 4A. Comparing that passage, and the requirements of the meter, one would a priori be inclined to supply <seg type="graphemic">paramparāgatāḥ</seg> as well, but there does not seem to be sufficient space for those akṣaras plus the full gloss <seg type="graphemic">ṅit·ṁ kdaṅ· saḥ tin·ṁ ḅun·ḥ tim·ṁ tak·</seg> that is expected to have stood
+					in front of it. We assume some sequence of text was omitted at the time of engraving.</p>
+				<p>3d. <seg type="graphemic">ce</seg>: this syllable, reoccurring beside <seg type="graphemic">kiṁ</seg> several times below, might also be read <seg type="graphemic">kha</seg>. Same sequence <seg type="graphemic">kiṁ kha/ce</seg> occurs in the urn inscriptions.</p>
+				<p>3d. <seg type="graphemic">hvu(ṃ)</seg>: for the allograph of <seg type="graphemic">-u</seg> attached to subscript <seg type="graphemic">-v-</seg>, see several cases in PYU <ref target="DHARMA_INSPYU00005">5</ref> and <ref target="DHARMA_INSPYU00006">6</ref>. This precise word occurs in PYU <ref target="DHARMA_INSPYU00032">32</ref>, l. 6.</p>
+				<p>4A. <seg type="graphemic">del·ṃṁḥ</seg> ◇ the reading is quite uncertain, but we presume we have here the same morpheme as at the end of this line (although there no more is visible than <seg type="graphemic">de</seg> and that too only on the PPPB estampage) and towards the end of 6A, where it is reduplicated, and where <seg type="graphemic">e</seg> cannot be read without much force. We presume that the spelling del·ṃṁḥ represents the same morpheme as dal·ṃṁḥ but in redundant spelling; note that del·ṃḥ in 032.5 could represent the same in an alternative nonredundant spelling with <seg type="graphemic">e</seg> ~ <seg type="graphemic">aṁ</seg>.</p>
+				<p>4A. <seg type="graphemic">mra sdin·ṁ [°o] got·</seg>: note same sequence in 5A. As for <seg type="graphemic">[°o]</seg>, the sign we encounter here is the one we normally transliterate <seg type="graphemic">°o</seg> with an appendix of the left-turning type we normally transliterate <seg type="graphemic">-ra</seg>. Comparison with the presumptive identical sequence in 5A, where we read a normal <seg type="graphemic">°o</seg>, suggests scribal confusion here.</p>
+				<p>4b. <seg type="graphemic">pgoC·</seg>: we ignore possible anusvāra arguing that we are at the transition between faces and hence that disturbance of the estampage is likely to have occurred (RTI entirely lacks the akṣara in question); according to MM's hypothesis, the occurrence of anusvāra on syllables with /o/ is not expected. Presence of final <seg type="graphemic">y</seg> as in PYU <ref target="DHARMA_INSPYU00020">20</ref> <seg type="graphemic">pgoy·</seg> seems doubtful. Same word as in the gloss of <seg type="graphemic">anuvarttyate</seg> in 6A?</p>
+				<p>4C. <seg type="graphemic">[peḥ]</seg>: this syllable is almost unreadable here. It should presumably be identical to the one following the same Sanskrit verb form <seg type="graphemic">bhavantu</seg> in 5A, but what little remains visible suggests there might be an e-vocalisation here; this in turn is reminiscent of the syllable we hesitantly read <seg type="graphemic">leḥ</seg> immediately after the nearly synonymous Sanskrit verb form <seg type="graphemic">bhaveyuḥ</seg> in 3C.</p>
+				<p>4C. <seg type="graphemic">ka ñaḥ</seg>: we see no trace of the final <seg type="graphemic">p·</seg> expected below <seg type="graphemic">ka</seg> on the grounds of the parallelism with the glosses of <seg type="graphemic">bhaveyuḥ</seg> in 3C and <seg type="graphemic">bhavantu</seg> in 5A.</p>
+				<p>4C. <seg type="graphemic">sadā</seg>: it is remarkable that this word does not here receive the same gloss as it does in 5b and 6A.</p>
+				<p>4d. <seg type="graphemic">kdir·ṃṁ tra vaṃ</seg>: presumably the same sequence appears in the gloss of <seg type="graphemic">unnata</seg> in l. 1.</p>
+				<p>5A. <seg type="graphemic">sdin·</seg>: we presume the same word is intended here as the one we read <seg type="graphemic">sdiṅ·</seg> in 4A. It is possible to assume the unusual shape of the presumptive <seg type="graphemic">s</seg> is in fact that of the <seg type="graphemic">s</seg> of Northern Brāhmī script, hence that the scribe here would have confused scripts.</p>
+				<p>5A. paṁ[ḥ ce] kap· ñaḥ ◇ this must be equal or quivalent to what we read [peḥ] ce °o ka ñaḥ in 4C.</p>
+				<p>5A. <seg type="graphemic">vibhramaḥ</seg>: it seems impossible to read <seg type="graphemic">vibhramāḥ</seg>, so long <seg type="graphemic">-ā</seg> must be obtained by emendation.</p>
+				<p>5A. <seg type="graphemic">kmiC·ṁ</seg> ◇ the final consonant is not damaged at all, but we are unsure of how to identify it; viable options seem to be <seg type="graphemic">ñ·</seg> (but this final consonant is not attested elsewhere), <seg type="graphemic">v·</seg> or <seg type="graphemic">n·</seg>.</p>
+				<p>5b. <seg type="graphemic">°o hyaḥ</seg>: the two short inscriptions on silver bowls PYU <ref target="DHARMA_INSPYU00047">47</ref>-<ref target="DHARMA_INSPYU00048">48</ref> 						show this same expression.</p>
+				<p>5b. <seg type="graphemic">nṅa[p]· duk·ṃ</seg>: cf. <seg type="graphemic">duk·ṃ</seg> at the end of 1b, and 6A for the whole <seg type="graphemic">nṅap·/tṅap· duk·ṃ</seg>, which must mean 'always'. The prima facie reading here would be <seg type="graphemic">m·</seg>, but there is some room for doubt here between <seg type="graphemic">m·</seg> and <seg type="graphemic">p·</seg>, while the <seg type="graphemic">p·</seg> in 6A seems clear.</p>
+				<p>5C. <seg type="graphemic">ti[n]·ṁ droḥ kdiṃ</seg>: if presence of <seg type="graphemic">n·</seg> can be confirmed, then cf. same sequence in PYU <ref target="DHARMA_INSPYU00012">12</ref>, l. 1, and in PYU <ref target="DHARMA_INSPYU00073">73</ref>.</p>
+				<p>5C. Cf. <seg type="graphemic">kriyākāraṇayā</seg> in 2C.</p>
+				<p>5d. <seg type="graphemic">tco[ṅ]·</seg>: cf. three times <seg type="graphemic">tcom·</seg> with clear <seg type="graphemic">m·</seg> in PYU <ref target="DHARMA_INSPYU00020">20</ref>. Should we read <seg type="graphemic">tcom·</seg> here too?</p>
+				<p>6A. <seg type="graphemic">ṅit·ṁ kdaṅ· nḅ(un·)[ḥ ra]</seg>: cf. <seg type="graphemic">ṅit·ṁ kdaṅ· nḅun·ḥ mroy·ḥ</seg> in 3b. It is impossible to read <seg type="graphemic">mroy·ḥ</seg> here; the <seg type="graphemic">ra</seg> we read is very uncertain. It is even uncertain whether there is any sign between <seg type="graphemic">nḅun·ḥ</seg> and <seg type="graphemic">puttra</seg>; and if, as seems likely to us, there is one more akṣara, then it seems uncertain whether a visarga immediately follows <seg type="graphemic">nḅun·</seg>.</p>
+				<p>6A. <seg type="graphemic">ṭruḥ</seg>: the interpretation of the sign we provisionally interpret as <seg type="graphemic">ṭ</seg> is rather uncertain.</p>
+			</div>
+			<div type="bibliography">
+				<!--ASI 1927-28, 127-8, 145. — Ray 1936: 19-20. — PR, 41-3. — PPPB I, 51, 57 n. 24, 65, 74 n. 22, 131-2. — Guy 1997: 91-2; 2014: 91-2 (cat. 41). — Tun Aung Chain 2003: 5-6.-->
+				<!--[Todo: markup citedRange elements if necessary]-->
+				<p>Charles Duroiselle, in <bibl><ptr target="bib:ASI"/><citedRange>1927-28: 128, 145</citedRange></bibl>, first reported the discovery of this headless Buddha with a bilingual inscription in Sanskrit (“sometimes not quite correct”) and Pyu around its pedestal. <bibl><ptr target="bib:ThaMyat1963_01"/><citedRange>41-3</citedRange></bibl> labeled the script “Gupta Pyu” and provided eye drawings and Burmese transliteration for faces A b and d only. <bibl><ptr target="bib:Luce1985_01"/><citedRange>I, 51, 57 n. 24, 65, 74 n. 22, 131-2</citedRange></bibl>, cites earlier sources and reports that Dikshit and Blagden made unpublished readings. <bibl><ptr target="bib:SeinWin2016_01"/><citedRange>45-60</citedRange></bibl> reproduces verbatim the parts published by Tha Myat and adds his own transliteration of the rest. Re-edited here from published estampages and from our team’s RTIs.</p>
+				<listBibl type="primary"><bibl><ptr target="bib:CPI2018_01"/><citedRange unit="item">DHARMA_INSPYU00016</citedRange></bibl></listBibl><listBibl type="secondary">
+					<bibl><ptr target="bib:Ray1936_01"/><citedRange>19-20</citedRange></bibl>
+					<bibl><ptr target="bib:Luce1937_01"/><citedRange>243-4</citedRange></bibl>
+					<bibl><ptr target="bib:Guy1997_01"/><citedRange>91</citedRange></bibl>
+					<bibl><ptr target="bib:TunAungChain2003_01"/><citedRange>5-6</citedRange></bibl>
+					<bibl><ptr target="bib:Guy2014_01"/><citedRange>91-2 (cat. 41)</citedRange></bibl>
+				</listBibl>
+			</div>
+		</body>
+  </text>
+</TEI>

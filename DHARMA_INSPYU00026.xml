@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_SQF.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>coin unknown</title>
+                <respStmt>
+                    <resp>author of digital edition</resp>
+                <persName ref="part:argr"><forename>Arlo</forename><surname>Griffiths</surname></persName><persName ref="part:mami"><forename>Marc</forename><surname>Miyake</surname></persName><persName ref="part:jukw"><forename>Julian Karl</forename><surname>Wheatley</surname></persName></respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>DHARMA</authority>
+                <pubPlace><!-- Fill in here the place or places where the encoding has been done --></pubPlace>
+                <idno type="filename">DHARMA_INSPYU00026</idno>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">
+                        <p>This work is licensed under the Creative Commons Attribution 4.0 Unported
+                            Licence. To view a copy of the licence, visit
+                            https://creativecommons.org/licenses/by/4.0/ or send a letter to
+                            Creative Commons, 444 Castro Street, Suite 900, Mountain View,
+                            California, 94041, USA.</p>
+                    </licence>
+                </availability>
+                <date from="2019" to="2025">2019-2025</date>
+            </publicationStmt>
+            <sourceDesc><!-- only the handDesc can be filled in at this stage -->
+                <msDesc><!-- //// NB: the msIdentifier had to be added for validation purposes ///. It will be edited later with the metadata spreadsheet -->
+                    <msIdentifier>
+                        <repository>DHARMAbase</repository>
+                        <idno/><!-- don't modify this -->
+                    </msIdentifier>
+                    <msContents><!-- describe the intellectual content of an inscription -->
+                        <summary><!-- //// NOT MANDATORY  ////--></summary> <!-- offers the possibility to give a summary of the inscription's content -->
+                    </msContents>
+                    <physDesc>
+                        <handDesc>
+                            <p><!-- The script name(s) will be inserted here at a later stage from the metadata spreasheet. At this stage, you can mention here in a free-text paragraph any characteristics of the writing observed more than once in this inscription that seem unusual/uncommon or otherwise noteworthy given the general characteristics of the script in question. See EGD 11.2. --></p>
+                            <!-- If you need to identify individual hands (EGD §7.5/) in addition to one or more paragraphs of general palaeographic description, wrap <summary> around the <p> or <p>s above, and, outside <summary>, create <handNote> elements for each hand as follows:
+						<summary><p><p/></summary>
+						<handNote xml:id="Pallava00001_hand1"></handNote>
+						<handNote xml:id="Pallava00001_hand2"></handNote>
+					 -->
+                        </handDesc>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>The project DHARMA has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme (grant agreement no 809994).</p>
+            </projectDesc>
+            <schemaRef type="guide" key="EGDv01" url="https://halshs.archives-ouvertes.fr/halshs-02888186"/><!-- UPDATE the link once the release is made official -->
+            <listPrefixDef>
+                <prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)" replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
+                    <p>Public URIs with the prefix bib to point to a Zotero Group Library named ERC-DHARMA whose data are open to the public.</p>
+                </prefixDef>
+                <prefixDef ident="part" matchPattern="([a-z]+)" replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_idListMembers_v01.xml#$1">
+                    <p>Internal URIs using the part prefix to point to person elements in the <ref>DHARMA_idListMembers_v01.xml</ref> file.</p>
+                </prefixDef>
+            </listPrefixDef>
+        </encodingDesc>
+        <revisionDesc>
+            <change who="part:mime" when="2026-03-02">Conversion to DHARMA guidelines</change>
+        </revisionDesc>
+    </teiHeader>
+    <text xml:space="preserve">
+      <body>
+			<div type="edition">
+				<ab>
+					<lb n="1"/>@ <unclear>ḅ</unclear>aṁḥ tdaṃḥ sri pū <lb n="2"/>
+					daṃnyavamaka
+					sra<unclear>ḥ</unclear>svaṃ
+					<lb n="3" break="no"/>tīṁdro
+					<gap reason="illegible" quantity="2" unit="character"/> tpaṁḥ t<unclear>ḅ</unclear>aṁḥ
+					 va<supplied reason="lost">ṁ</supplied>
+					<lb n="4"/>
+					po °o <gap reason="illegible" quantity="1" unit="character"/> °o pu<unclear>ña</unclear>
+				</ab>
+			</div>
+			<div type="apparatus">
+				<listApp><app loc="1">
+						<lem>tdaṃḥ</lem>
+						<rdg source="bib:ChaAimKaewklai1992_01">ndaḥ</rdg>
+					</app><app loc="2">
+						<lem>daṃnyavamaka</lem>
+						<rdg source="bib:ChaAimKaewklai1992_01">nanyavamaṁka</rdg>
+					</app><app loc="2">
+						<lem>sra<unclear>ḥ</unclear>svaṃ</lem>
+						<rdg source="bib:ChaAimKaewklai1992_01">°a. stha</rdg>
+						<!-- what is . in Kaeklai's reading? -->
+					</app><app loc="3">
+						<lem>dro</lem>
+						<rdg source="bib:ChaAimKaewklai1992_01">ṭho</rdg>
+					</app><app loc="3">
+						<lem>t<unclear>ḅ</unclear>aṁḥ</lem>
+						<rdg source="bib:ChaAimKaewklai1992_01">hr̥ṁḥ</rdg>
+					</app><app loc="3">
+						<lem> va<supplied reason="lost">ṁ</supplied></lem>
+						<rdg source="bib:ChaAimKaewklai1992_01">va</rdg>
+					</app><app loc="4">
+						<lem>po</lem>
+						<rdg source="bib:ChaAimKaewklai1992_01">moṁ</rdg>
+					</app><app loc="4">
+						<lem><gap reason="illegible" quantity="1" unit="character"/></lem>
+						<rdg source="bib:ChaAimKaewklai1992_01">rba</rdg>
+					</app><app loc="4">
+						<lem>pu<unclear>ña</unclear></lem>
+						<rdg source="bib:ChaAimKaewklai1992_01">pu ba</rdg>
+					</app></listApp>
+			</div>
+			<div type="translation" xml:lang="eng">
+				<p>Translation from Kaewklai (1992: XXX)</p>
+				<!-- Need page number for Kaewklai; translation reproduced as is from RTF -->
+				<ab>unhand, whose title is Sripunangavamanga, has abandoned the ascetic attempts and devotes himself to the Bhodhisattavau</ab>
+			</div>
+			<div type="commentary">
+				<p>1-2. <seg type="graphemic">pū daṃnyavamaka</seg>: alternatives <seg type="graphemic">°ād(i)ṃtyavamaka</seg>, <seg type="graphemic">°ananyavamaka</seg>, etc. Possibility of taking <seg type="graphemic">ka</seg> separately.</p>
+				<p>3. <seg type="graphemic">tīṁ dro</seg> a variant of the expression <seg type="graphemic">tin·ṁ droḥ?</seg></p>
+				<!-- Could sra[ḥ]svaṃtīṁ be sarasvati? -->
+				<p>4. <seg type="graphemic">so</seg>: restore <seg type="graphemic">so(ṅ·)</seg>?</p>
+				<p>4. <seg type="graphemic">pu[ña]</seg> or <seg type="graphemic">pu</seg> plus closing punctuation sign?</p>
+			</div>
+			<div type="bibliography">
+				<!--Chaem Kawklai 1992.-->
+				<!--[Todo: markup citedRange elements if necessary]-->
+				<p>First reported by <bibl><ptr target="bib:ChaAimKaewklai1992_01"/></bibl>, which includes an eye-drawing, a transliteration in Thai script and a translation. Re-edited here from published photographs.</p>
+				<!-- <listBibl type="secondary-bibliography">
+				</listBibl> -->
+			<listBibl type="primary"><bibl><ptr target="bib:CPI2018_01"/><citedRange unit="item">DHARMA_INSPYU00026</citedRange></bibl></listBibl></div>
+		</body>
+  </text>
+</TEI>

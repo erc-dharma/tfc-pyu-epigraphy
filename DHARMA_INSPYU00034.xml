@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_SQF.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Clay Sealing Fragment of Unknown Provenance</title>
+                <respStmt>
+                    <resp>author of digital edition</resp>
+                <persName ref="part:argr"><forename>Arlo</forename><surname>Griffiths</surname></persName><persName ref="part:mami"><forename>Marc</forename><surname>Miyake</surname></persName><persName ref="part:jukw"><forename>Julian Karl</forename><surname>Wheatley</surname></persName></respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>DHARMA</authority>
+                <pubPlace><!-- Fill in here the place or places where the encoding has been done --></pubPlace>
+                <idno type="filename">DHARMA_INSPYU00034</idno>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">
+                        <p>This work is licensed under the Creative Commons Attribution 4.0 Unported
+                            Licence. To view a copy of the licence, visit
+                            https://creativecommons.org/licenses/by/4.0/ or send a letter to
+                            Creative Commons, 444 Castro Street, Suite 900, Mountain View,
+                            California, 94041, USA.</p>
+                    </licence>
+                </availability>
+                <date from="2019" to="2025">2019-2025</date>
+            </publicationStmt>
+            <sourceDesc><!-- only the handDesc can be filled in at this stage -->
+                <msDesc><!-- //// NB: the msIdentifier had to be added for validation purposes ///. It will be edited later with the metadata spreadsheet -->
+                    <msIdentifier>
+                        <repository>DHARMAbase</repository>
+                        <idno/><!-- don't modify this -->
+                    </msIdentifier>
+                    <msContents><!-- describe the intellectual content of an inscription -->
+                        <summary><!-- //// NOT MANDATORY  ////--></summary> <!-- offers the possibility to give a summary of the inscription's content -->
+                    </msContents>
+                    <physDesc>
+                        <handDesc>
+                            <p><!-- The script name(s) will be inserted here at a later stage from the metadata spreasheet. At this stage, you can mention here in a free-text paragraph any characteristics of the writing observed more than once in this inscription that seem unusual/uncommon or otherwise noteworthy given the general characteristics of the script in question. See EGD 11.2. --></p>
+                            <!-- If you need to identify individual hands (EGD §7.5/) in addition to one or more paragraphs of general palaeographic description, wrap <summary> around the <p> or <p>s above, and, outside <summary>, create <handNote> elements for each hand as follows:
+						<summary><p><p/></summary>
+						<handNote xml:id="Pallava00001_hand1"></handNote>
+						<handNote xml:id="Pallava00001_hand2"></handNote>
+					 -->
+                        </handDesc>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>The project DHARMA has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme (grant agreement no 809994).</p>
+            </projectDesc>
+            <schemaRef type="guide" key="EGDv01" url="https://halshs.archives-ouvertes.fr/halshs-02888186"/><!-- UPDATE the link once the release is made official -->
+            <listPrefixDef>
+                <prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)" replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
+                    <p>Public URIs with the prefix bib to point to a Zotero Group Library named ERC-DHARMA whose data are open to the public.</p>
+                </prefixDef>
+                <prefixDef ident="part" matchPattern="([a-z]+)" replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_idListMembers_v01.xml#$1">
+                    <p>Internal URIs using the part prefix to point to person elements in the <ref>DHARMA_idListMembers_v01.xml</ref> file.</p>
+                </prefixDef>
+            </listPrefixDef>
+        </encodingDesc>
+        <revisionDesc>
+            <change who="part:mime" when="2026-03-02">Conversion to DHARMA guidelines</change>
+        </revisionDesc>
+    </teiHeader>
+    <text xml:space="preserve">
+      <body>
+			<div type="edition" xml:lang="pyx-Latn">
+				<ab>
+					<lb n="1"/>
+					
+							<unclear>t</unclear>ga
+					siri
+					<!-- MM2AG: not sure if I have encoded Middleton's two readings properly. -->
+					<!-- AG2MM: probably need to use <choice>; then perhaps apply n="1" and n="2" on first and second <rdg>? -->
+					<!-- MM2AG: following was rejected:
+                    <choice><rdg source="#Middleton2005" n="1">sibi</rdg> <rdg source="#Middleton2005" n="2">sidha</rdg></choice>
+                    I couldn't find an obvious model for choice and readings by a specified source online or in my EpiDoc class materials.
+                    Could you please add the choice tags and n-values?
+                    -->
+				</ab>
+			</div>
+			<div type="apparatus">
+				<listApp>
+					<app loc="1">
+						<lem><unclear>t</unclear>ga</lem>
+						<note>Could be <seg type="graphemic">nga</seg>.</note>
+					</app>
+					<app loc="2">
+						<lem>siri</lem>
+						<note>We read <seg type="graphemic">ri</seg>rather than <seg type="graphemic">dhi</seg> here; the loop on the akṣara is large, making it look like <seg type="graphemic">dh</seg>, but the serif of an <seg type="graphemic">r</seg> is still visible. Note same shape of <seg type="graphemic">ri</seg> in PYU 8.1.</note>
+					</app>
+				<app loc="1">
+						<lem>
+							<unclear>t</unclear>ga</lem>
+						<rdg source="bib:Middleton2005_01">nga</rdg>
+					</app><app loc="1">
+						<lem>siri</lem>
+						<rdg source="bib:Middleton2005_01">sibi</rdg>
+						<rdg source="bib:Middleton2005_01">sidha</rdg>
+					</app></listApp>
+			</div>
+			<div type="translation" xml:lang="eng">
+				<p>U San Win, Daw Le Le Win and Daw Sanda-U in Middleton (2005: 173)</p>
+				<ab>auspicious city (nagara thiri)</ab>
+			</div>
+			<div type="commentary">
+				<p>Middleton's statement that the inscription is in Pali is incorrect.</p>
+				<p>Is the text complete, or should we indicate that the beginning and end are missing?</p>
+			</div>
+			<div type="bibliography">
+				<!--Middleton 2005: 173 (App.58).-->
+				<!--[Todo: markup citedRange elements if necessary]-->
+				<p>Reported in <bibl><ptr target="bib:Middleton2005_01"/><citedRange>173-4 (App. 58)</citedRange></bibl>, thought incorrectly reported as Pali in Pyu script instead of Pyu (in Pyu script). Middleton gives three possible readings: <seg type="graphemic">nagara thiri</seg> (auspicious city), <seg type="graphemic">ngasibi</seg> or <seg type="graphemic">ngasidha</seg>; but we read <seg type="graphemic">tga siri</seg> instead. Re-edited here from a published photograph.</p>
+				<!-- <listBibl type="secondary-bibliography">
+				</listBibl> -->
+			<listBibl type="primary"><bibl><ptr target="bib:CPI2018_01"/><citedRange unit="item">DHARMA_INSPYU00034</citedRange></bibl></listBibl></div>
+		</body>
+  </text>
+</TEI>

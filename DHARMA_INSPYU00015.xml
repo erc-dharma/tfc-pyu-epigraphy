@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_SQF.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Tawadeintha Terracotta Molded Tablet</title>
+                <respStmt>
+                    <resp>author of digital edition</resp>
+                <persName ref="part:argr"><forename>Arlo</forename><surname>Griffiths</surname></persName><persName ref="part:mami"><forename>Marc</forename><surname>Miyake</surname></persName><persName ref="part:jukw"><forename>Julian Karl</forename><surname>Wheatley</surname></persName></respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>DHARMA</authority>
+                <pubPlace><!-- Fill in here the place or places where the encoding has been done --></pubPlace>
+                <idno type="filename">DHARMA_INSPYU00015</idno>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">
+                        <p>This work is licensed under the Creative Commons Attribution 4.0 Unported
+                            Licence. To view a copy of the licence, visit
+                            https://creativecommons.org/licenses/by/4.0/ or send a letter to
+                            Creative Commons, 444 Castro Street, Suite 900, Mountain View,
+                            California, 94041, USA.</p>
+                    </licence>
+                </availability>
+                <date from="2019" to="2025">2019-2025</date>
+            </publicationStmt>
+            <sourceDesc><!-- only the handDesc can be filled in at this stage -->
+                <msDesc><!-- //// NB: the msIdentifier had to be added for validation purposes ///. It will be edited later with the metadata spreadsheet -->
+                    <msIdentifier>
+                        <repository>DHARMAbase</repository>
+                        <idno/><!-- don't modify this -->
+                    </msIdentifier>
+                    <msContents><!-- describe the intellectual content of an inscription -->
+                        <summary><!-- //// NOT MANDATORY  ////--></summary> <!-- offers the possibility to give a summary of the inscription's content -->
+                    </msContents>
+                    <physDesc>
+                        <handDesc>
+                            <p><!-- The script name(s) will be inserted here at a later stage from the metadata spreasheet. At this stage, you can mention here in a free-text paragraph any characteristics of the writing observed more than once in this inscription that seem unusual/uncommon or otherwise noteworthy given the general characteristics of the script in question. See EGD 11.2. --></p>
+                            <!-- If you need to identify individual hands (EGD §7.5/) in addition to one or more paragraphs of general palaeographic description, wrap <summary> around the <p> or <p>s above, and, outside <summary>, create <handNote> elements for each hand as follows:
+						<summary><p><p/></summary>
+						<handNote xml:id="Pallava00001_hand1"></handNote>
+						<handNote xml:id="Pallava00001_hand2"></handNote>
+					 -->
+                        </handDesc>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>The project DHARMA has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme (grant agreement no 809994).</p>
+            </projectDesc>
+            <schemaRef type="guide" key="EGDv01" url="https://halshs.archives-ouvertes.fr/halshs-02888186"/><!-- UPDATE the link once the release is made official -->
+            <listPrefixDef>
+                <prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)" replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
+                    <p>Public URIs with the prefix bib to point to a Zotero Group Library named ERC-DHARMA whose data are open to the public.</p>
+                </prefixDef>
+                <prefixDef ident="part" matchPattern="([a-z]+)" replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_idListMembers_v01.xml#$1">
+                    <p>Internal URIs using the part prefix to point to person elements in the <ref>DHARMA_idListMembers_v01.xml</ref> file.</p>
+                </prefixDef>
+            </listPrefixDef>
+        </encodingDesc>
+        <revisionDesc>
+            <change who="part:mime" when="2026-03-02">Conversion to DHARMA guidelines</change>
+        </revisionDesc>
+    </teiHeader>
+    <text xml:space="preserve">
+      <body>
+			<div type="edition" xml:lang="pyx-Latn">
+				<ab>
+					<lb n="1"/><g type="ddanda">.</g> ḅaṁḥ ḅudha
+					gaṃ
+					<gap reason="lost" extent="unknown" unit="character"/>
+					<lb n="2"/><gap reason="lost" quantity="1" unit="consonant"/>u
+					<unclear>d</unclear>iṃ tra tci paṁ h<gap reason="lost" quantity="1" unit="consonant"/>au
+					<!-- MM2AG: according to the convention I worked out and Julian accepted, n connects directly to a following consonant whereas t has a bottom curl pointing northeast; compare t in tra with the curl with the character connecting directly to c. Hence I read tci as nci. -->
+					<!-- AG2MM: I have no objection. There's an nci(k)·ṁ in 016.5b: check whether it could be the same word as we have here. -->
+					<!-- MM2AG: we'll check that word when we reach 016.5b in our group reading. -->
+					<!-- AG2MM: after recent discussion, I think h<gap reason="lost">C<gap>o may be sufficient to represent h.o. -->
+					<!-- MM2AG: as much as I like that solution to handling missing segmental characters, I get the message "  text not allowed here; expected the element end-tag or element "certainty", "desc", "precision" or "respons" " when I place the letter C between <gap> tags. -->
+					<lb n="3"/>vaṁ °o <g>@</g>
+				</ab>
+			</div>
+			<div type="apparatus">
+				<listApp><app loc="1">
+						<lem>ḅudha</lem>
+						<rdg source="bib:Luce1985_01">ḅūdhda</rdg>
+					</app><app loc="1">
+						<lem>gaṃ</lem>
+						<rdg source="bib:Luce1985_01">tda</rdg>
+					</app><app loc="2">
+						<lem><gap reason="lost" quantity="1" unit="consonant"/>u</lem>
+						<rdg source="bib:Luce1985_01">(m)ū</rdg>
+					</app><app loc="2">
+						<lem>tci</lem>
+						<rdg source="bib:Luce1985_01">(n)ū</rdg>
+					</app><app loc="2">
+						<lem>h<gap reason="lost" quantity="1" unit="consonant"/>au</lem>
+						<rdg source="bib:Luce1985_01">h(n)au</rdg>
+					</app></listApp>
+			</div>
+			<div type="translation" xml:lang="eng">
+				<p><!--english translation here--></p>
+			</div>
+			<div type="commentary">
+				<p>Not in Mya 1961a. Wrongly ascribed to Bawbawgyi pagoda by Duroiselle (1921).</p>
+				<p>Luce: <lb n="1"/><g type="ddanda">.</g> ḅaṁḥ ḅūdhda tda … <lb n="2"/>(m)ū … (n)ū paṁ h(n)au <lb n="3"/>vaṁ u </p>
+			</div>
+			<div type="bibliography">
+				<!--ASI 1910-11, 93. — ASB 1911, 6, 41. — PPPB I, 158.-->
+				<!--[Todo: markup citedRange elements if necessary]-->
+				<p>Taw Sein Ko’s report in <bibl><ptr target="bib:ASI"/><citedRange>1910-11: 93</citedRange></bibl> mentions the discovery and identifies it as Pyu; more or less the same information is repeated in <bibl><ptr target="bib:ASB"/><citedRange>1911: 6, 41</citedRange></bibl>. Luce, in <bibl><ptr target="bib:Luce1985_01"/><citedRange>I, 158</citedRange></bibl>, gives a complete reading as part of his overview. Re-edited here from photographs.</p>
+				<!-- <listBibl type="secondary-bibliography">	
+					AG2MM: now that we have source=#Luce1985, I suppose we need to define an xml:id="Luce1985" inside the file. Adding one inside the opening <bibl> is legal. But before we go ahead any define such xml:id's redundantly inside the files (for they are already defined in Pyu-Bibliography, I will consult EM to see whether we can get #Luce1985 to work for us without adding such encoding. Proceed for now encoding variant readings in this manner.
+					MM2AG: OK, will continue status quo encoding for time being.
+				</listBibl> -->
+			<listBibl type="primary"><bibl><ptr target="bib:CPI2018_01"/><citedRange unit="item">DHARMA_INSPYU00015</citedRange></bibl></listBibl></div>
+		</body>
+  </text>
+</TEI>

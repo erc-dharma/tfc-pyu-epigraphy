@@ -1,0 +1,291 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_SQF.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Gold Foils from the Khin Ba Mound Relic Chamber</title>
+                <respStmt>
+                    <resp>author of digital edition</resp>
+                <persName ref="part:argr"><forename>Arlo</forename><surname>Griffiths</surname></persName><persName ref="part:mami"><forename>Marc</forename><surname>Miyake</surname></persName><persName ref="part:jukw"><forename>Julian Karl</forename><surname>Wheatley</surname></persName></respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>DHARMA</authority>
+                <pubPlace><!-- Fill in here the place or places where the encoding has been done --></pubPlace>
+                <idno type="filename">DHARMA_INSPYU00045</idno>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">
+                        <p>This work is licensed under the Creative Commons Attribution 4.0 Unported
+                            Licence. To view a copy of the licence, visit
+                            https://creativecommons.org/licenses/by/4.0/ or send a letter to
+                            Creative Commons, 444 Castro Street, Suite 900, Mountain View,
+                            California, 94041, USA.</p>
+                    </licence>
+                </availability>
+                <date from="2019" to="2025">2019-2025</date>
+            </publicationStmt>
+            <sourceDesc><!-- only the handDesc can be filled in at this stage -->
+                <msDesc><!-- //// NB: the msIdentifier had to be added for validation purposes ///. It will be edited later with the metadata spreadsheet -->
+                    <msIdentifier>
+                        <repository>DHARMAbase</repository>
+                        <idno/><!-- don't modify this -->
+                    </msIdentifier>
+                    <msContents><!-- describe the intellectual content of an inscription -->
+                        <summary><!-- //// NOT MANDATORY  ////--></summary> <!-- offers the possibility to give a summary of the inscription's content -->
+                    </msContents>
+                    <physDesc>
+                        <handDesc>
+                            <p><!-- The script name(s) will be inserted here at a later stage from the metadata spreasheet. At this stage, you can mention here in a free-text paragraph any characteristics of the writing observed more than once in this inscription that seem unusual/uncommon or otherwise noteworthy given the general characteristics of the script in question. See EGD 11.2. --></p>
+                            <!-- If you need to identify individual hands (EGD §7.5/) in addition to one or more paragraphs of general palaeographic description, wrap <summary> around the <p> or <p>s above, and, outside <summary>, create <handNote> elements for each hand as follows:
+						<summary><p><p/></summary>
+						<handNote xml:id="Pallava00001_hand1"></handNote>
+						<handNote xml:id="Pallava00001_hand2"></handNote>
+					 -->
+                        </handDesc>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>The project DHARMA has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme (grant agreement no 809994).</p>
+            </projectDesc>
+            <schemaRef type="guide" key="EGDv01" url="https://halshs.archives-ouvertes.fr/halshs-02888186"/><!-- UPDATE the link once the release is made official -->
+            <listPrefixDef>
+                <prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)" replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
+                    <p>Public URIs with the prefix bib to point to a Zotero Group Library named ERC-DHARMA whose data are open to the public.</p>
+                </prefixDef>
+                <prefixDef ident="part" matchPattern="([a-z]+)" replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_idListMembers_v01.xml#$1">
+                    <p>Internal URIs using the part prefix to point to person elements in the <ref>DHARMA_idListMembers_v01.xml</ref> file.</p>
+                </prefixDef>
+            </listPrefixDef>
+        </encodingDesc>
+        <revisionDesc>
+            <change who="part:mime" when="2026-03-02">Conversion to DHARMA guidelines</change>
+        </revisionDesc>
+    </teiHeader>
+    <text xml:space="preserve">
+      <body>
+			<div type="edition" xml:lang="pli-Latn">
+				<ab>
+					<pb n="1"/>
+					<fw type="pageNum" place="marginleft"><num value="2">2</num></fw>
+					<lb n="1"/><g type="opening"/> siddham· <g type="ddanda">.</g> °āvijjapaccayā saṅkhāra saṅkhārapaccayā viññaṇa <lb n="2"/>viññaṇapacca<space type="binding-hole"/>yā nāmarūpaṁ <space type="horizontal" quantity="1" unit="character"/> nāmarūpapaccayā <space type="binding-hole"/> saḷāyatanaṁ <lb n="3"/>saḷāyatanapaccayā phasso <space type="horizontal" quantity="1" unit="character"/> phassapaccayā vedanā <space type="horizontal" quantity="1" unit="character"/> vedanapaccayā </ab>
+				<ab>
+					<pb n="2"/>
+					<fw type="pageNum" place="marginleft"><num value="3">3</num></fw>
+					<lb n="4"/>taṇhā <space type="horizontal" quantity="1" unit="character"/> taṇhapaccayā °upādanā <space type="horizontal" quantity="1" unit="character"/> °upādānapaccayā bhavo <space type="horizontal" quantity="1" unit="character"/> bhavapaccayā <lb n="5"/>jāti <space type="horizontal" quantity="1" unit="character"/> jātipa<space type="binding-hole"/>ccayā jarāmaraṇaṁ <space type="horizontal" quantity="1" unit="character"/> sokaparidevi<space type="binding-hole"/>ta<space type="horizontal" quantity="1" unit="character"/> duẖ<unclear>kha</unclear>do <!-- MM2AG: What is ẖ? I have never seen it in Pali before. Looks like it transliterates a variant of h in PPPB and Falk images. duẖkha looks like a semi-Sanskritization of dukkha with ẖ in lieu of ḥ. -->
+					<!-- AG2MM: this is the so-called jihvāmūlīya sign, a substitute for visarga specifically used only before velar stops, and written in most area of the diffusion of Brāhmī script only during a few centuries (ca. 4th-7th), after which soon entirely replaced by visarga in spelling practices. Normally limited to use in Sanskrit. Occurrence here in Pali highly interesting. -->
+					<lb n="6" break="no"/>manassūpāyāsa sambhava<unclear>n</unclear>ti
+					<space type="horizontal" quantity="1" unit="character"/> °evam etassa
+					kevalassa dukkhakhandha </ab>
+				<!-- MM2AG: applying w tags around dukkhakhandhassa causes invalidation,
+					perhaps because w spans two different ab; I don't know what to do in cases like this which I have left as is for the time being -->
+				<ab>
+					<pb n="3"/>
+					<fw type="pageNum" place="marginleft"><num value="4">4</num></fw>
+					<lb n="7" break="no"/>ssa samudayo <space type="horizontal" quantity="1" unit="character"/> hotī ti <space type="horizontal" quantity="1" unit="character"/> °āvijjāya tv eva °asesavirāganirodhā <lb n="8"/>saṅkhāranirodho <space type="binding-hole"/> saṅkhāranirodhā viññaṇanirodho <space type="binding-hole"/> viññaṇanirodhā
+					<lb n="9"/>nāmarūpanirodho <space type="horizontal" quantity="1" unit="character"/> nāmarūpanirodhā <space type="horizontal" quantity="1" unit="character"/> saḷāyatananirodho <space type="horizontal" quantity="1" unit="character"/> saḷāya </ab>
+				<ab>
+					<pb n="4"/>
+					<fw type="pageNum" place="marginleft"><num value="5">5</num></fw>
+					<lb n="10" break="no"/>tananirodhā <space type="horizontal" quantity="1" unit="character"/> phassanirodho <space type="horizontal" quantity="1" unit="character"/> phassanirodhā vedanānīrodho <space type="horizontal" quantity="1" unit="character"/>
+					<lb n="11"/>vedananirodhā <space type="binding-hole"/> taṇhanirodho <space type="horizontal" quantity="1" unit="character"/> taṇhanirodhā °upa<space type="binding-hole"/>dānanirodho <lb n="12"/>upādānanirodhā bhavanirodho bhavanirodhā jātinirodho <space type="horizontal" quantity="1" unit="character"/>
+					<!-- MM2AG: in line 10, vedanānīrodho is identical to Falk's reading with ā, but there is a vedananīrodho without ā in the rtf apparatus which is different from Falk's reading. Should I change vedanānīrodho to vedananīrodho to match the apparatus? -->
+					<!-- AG2MM: almost certainly yes. Check the photos. -->
+				</ab>
+				<ab>
+					<pb n="5"/>
+					<fw type="pageNum" place="marginleft"><num value="6">6</num></fw>
+					<lb n="13"/>jātinirodhā <space type="horizontal" quantity="1" unit="character"/> jarāmaraṇasokaparidevitaduẖkhadomanassūpāyā <lb n="14" break="no"/>sa nirūjjhantī ti <space type="binding-hole"/> °evam etassa kevalassa duẖkha<space type="binding-hole"/>khandhassa nirodho <lb n="15"/>hotī ti <g>@</g><g type="ddanda">.</g><g>@</g><g type="ddanda">.</g><g>@</g> °udayavayabhaṅgabhaya°adinnavaniccidamuṁjatu°upekkha
+				</ab>
+				<ab>
+					<pb n="6"/>
+					<fw type="pageNum" place="marginleft"><num value="7">7</num></fw>
+					<lb n="16"/><unclear>siddham</unclear> siddha <space type="horizontal" quantity="1" unit="character"/> cattāro satipaṭthānā <space type="horizontal" quantity="1" unit="character"/> cattāro samappadhāna
+					<space type="horizontal" quantity="1" unit="character"/> cattāro
+					°iddhippādā <lb n="17"/>pañcindriyani <space type="binding-hole"/> pañca
+					balāni <space type="horizontal" quantity="1" unit="character"/> satta bājñaṅgāni <space type="binding-hole"/> °ariyo °aṭṭha <lb n="18" break="no"/>ṅgiko maggo 30 7 cattarimāni bhikkhuve tathā<unclear>ga</unclear>tassa vesārajjāni </ab>
+				<ab>
+					<pb n="7"/>
+					<fw type="pageNum" place="marginleft"><num value="8">8</num></fw>
+					<lb n="19"/>yehi vesārajjehi samannāgato tathā<unclear>ga</unclear>to
+					<space type="horizontal" quantity="1" unit="character"/> °āsabhan thānaṁ
+					paṭi <lb n="20" break="no"/>jānāti pari<space type="binding-hole"/>sāsu sihanādaṁ nadati <space type="horizontal" quantity="1" unit="character"/>
+					<unclear>b</unclear>rahma<space type="binding-hole"/>cakkam <unclear>v</unclear>atteti <g>–</g>
+					<!-- MM2AG: don't know if I should include variant reading [p]a⟨va⟩tteti for [v]atteti here; EpiDoc cheatsheet has <choice><unclear>A</unclear><unclear>B</unclear></choice>, but the -tteti is clear and should not be enclosed in unclear tags, and whether there is a pa or va with or without a missing va is the issue. -->
+					<!-- AG2MM: I suggest avoiding <choice>, in the following manner:
+
+<app><lem><unclear>v</unclear>atteti</lem><rdg source="#Falk1997">vatteti</rdg></app>
+<app><lem><pc>–</pc></lem><rdg source="#Falk1997" cause="omission"/></app>
+then in div type="apparatus":
+<app loc="20">
+	<lem><unclear>v</unclear>atteti</lem><note>An alternative possibility would be to read <foreign><unclear>p</unclear>a<supplied reason="omitted">va</supplied>tteti</foreign>.</note>
+. -->
+					<lb n="21"/>katamāni cattāri <space type="horizontal" quantity="1" unit="character"/> sammāsaṁbuddhassa te paṭijānāti <space type="horizontal" quantity="1" unit="character"/> °ime dhammā </ab>
+				<ab>
+					<pb n="8"/>
+					<fw type="pageNum" place="marginleft"><num value="9">9</num></fw>
+					<lb n="22"/>°anābhisaṁbuddhā ti <space type="horizontal" quantity="1" unit="character"/> tattra vata maṁ samaṇo vā <space type="horizontal" quantity="1" unit="character"/> brāhmaṇo vā <space type="horizontal" quantity="1" unit="character"/> devo vā <space type="horizontal" quantity="1" unit="character"/>
+					<lb n="23"/>māro vā <space type="horizontal" quantity="1" unit="character"/>
+					<space type="binding-hole"/> ko ci vā lokasmiṁ sahadhammena pa<space type="binding-hole"/>ṭicodessantī ti <lb n="24"/>nimittam etaṁ bhikkhave na samanupassāmi <space type="horizontal" quantity="1" unit="character"/> °etaṁ pāhaṁ bhik<unclear>kh</unclear>ave nim<unclear>i</unclear>tta </ab>
+				<ab>
+					<pb n="9"/>
+					<fw type="pageNum" place="marginleft"><num value="10">10</num></fw>
+					<lb n="25" break="no"/>m etaṁ <space type="horizontal" quantity="1" unit="character"/> °asamanupassanto khemāpatto <space type="horizontal" quantity="1" unit="character"/> °abhayapatto <space type="horizontal" quantity="1" unit="character"/> vesārajjāpatto <lb n="26"/>viharāmi 1 <space type="horizontal" quantity="1" unit="character"/>
+					<space type="binding-hole"/> khīṇāsavassa te paṭijānanto <space type="horizontal" quantity="1" unit="character"/>
+					<space type="binding-hole"/> °ime °āsavā <lb n="27"/>°aparikkhīṇā ti <space type="horizontal" quantity="1" unit="character"/> tattrā vata maṁ samaṇo vā <space type="horizontal" quantity="1" unit="character"/> brāhmaṇo vā <space type="horizontal" quantity="1" unit="character"/> devo vā <space type="horizontal" quantity="1" unit="character"/>
+				</ab>
+				<ab>
+					<pb n="10"/>
+					<fw type="pageNum" place="marginleft"><num value="11">11</num></fw>
+					<lb n="28"/>māro vā <space type="horizontal" quantity="1" unit="character"/> ko ci vā lokasmiṁ <space type="horizontal" quantity="1" unit="character"/> sahadhammena paṭicodessantī ti <space type="horizontal" quantity="1" unit="character"/> nimittam e
+					<lb n="29" break="no"/>taṁ bhikkhave na sa<space type="binding-hole"/>manupassāmi <space type="horizontal" quantity="1" unit="character"/> °etaṁ pāhaṁ bhikkhave <space type="binding-hole"/> nimittaṁ °asa
+					<lb n="30" break="no"/>manupassanto <space type="horizontal" quantity="1" unit="character"/> khemapatto °abhayapatto vesarajjāpatto viharāmi 2 </ab>
+				<ab>
+					<pb n="11"/>
+					<fw type="pageNum" place="marginleft"><num value="12">2 10</num></fw>
+					<lb n="31"/>ye kho pana te °antarāyikā dhammā vuttā te paṭisevanto nālaṁ °antara
+					<lb n="32" break="no"/>yāyāti tattra <space type="binding-hole"/> vata maṁ samaṇo vā <space type="horizontal" quantity="1" unit="character"/> brāhmaṇo vā <space type="binding-hole"/> devo vā māro
+					<lb n="33"/>vā ko ci vā lokasmiṁ sahadhammena paṭicodessatī ti nimittam etaṁ </ab>
+				<ab>
+					<pb n="12"/>
+					<fw type="pageNum" place="marginleft"><num value="13">3 10</num></fw>
+					<lb n="34"/>bhikkhave na samanupassāmi <space type="horizontal" quantity="1" unit="character"/> °etaṁ pāhaṁ bhikkhave nimittaṁ °asamanu
+					<lb n="35" break="no"/>passanto khe<space type="binding-hole"/>mapatto °abhayapatto vesā<space type="binding-hole"/>rajjāpatto
+					<lb n="36"/>viharāmi 3 yassa kho pana te °atthāya dhammo desito <space type="horizontal" quantity="1" unit="character"/> so na nī </ab>
+				<ab>
+					<pb n="13"/>
+					<fw type="pageNum" place="marginleft"><num value="14">4 10</num></fw>
+					<lb n="37" break="no"/>yati takkarassa sammadukkhakhayāyā ti <space type="horizontal" quantity="1" unit="character"/> tattra vata maṁ samaṇo vā <space type="horizontal" quantity="1" unit="character"/>
+					
+							<unclear>bra</unclear>hma 
+					<lb n="38" break="no"/>ṇo
+						
+					<app>
+						<rdg source="bib:Falk1997_01">brāhmaṇo</rdg>
+					</app> vā <space type="horizontal" quantity="1" unit="character"/> devo vā <space type="binding-hole"/> māro vā <space type="horizontal" quantity="1" unit="character"/> ko ci vā lokasmiṁ saha<space type="binding-hole"/>dhammena paṭico
+					<lb n="39" break="no"/>dessanti ti <space type="horizontal" quantity="1" unit="character"/> nimittam etaṁ bhikkhave na samanupassāmi <space type="horizontal" quantity="1" unit="character"/> °etaṁ pāhaṁ bhikkha </ab>
+				<ab>
+					<pb n="14"/>
+					<fw type="pageNum" place="marginleft"><num value="15">5 10</num></fw>
+					<lb n="40" break="no"/>ve nīmittaṁ °asamanupassanto khemapatto °abhayapatto viha <lb n="41" break="no"/>rāmi °imā<space type="binding-hole"/>ni kho bhikkhave <space type="horizontal" quantity="1" unit="character"/> cattāri tathāgata<space type="binding-hole"/>ssa vesāra <lb n="42" break="no"/>jjānītī ti <g type="ddanda">.</g><g>@</g> katamehi bhagavā <space type="horizontal" quantity="1" unit="character"/> cuddasehi buddhañāṇe </ab>
+				<ab>
+					<pb n="15"/>
+					<fw type="pageNum" place="marginleft"><num value="16">6 10</num></fw>
+					<lb n="43" break="no"/>hi samannāgato tathāgato <space type="horizontal" quantity="1" unit="character"/> duẖkhe ñāṇaṁ buddhañāṇaṁ <space type="horizontal" quantity="1" unit="character"/> dukkhasamudaye <!-- MM2AG: see note below in commentary about duẖkhe in line 43. -->
+					<lb n="44"/>ñāṇaṁ buddhañāṇaṁ <space type="binding-hole"/> 2 dukkhanirodhe ñāṇaṁ buddhañāṇaṁ 2
+					<space type="binding-hole"/> dukkhanirodha <lb n="45" break="no"/>gāmini paṭipade ñāṇaṁ buddhañāṇa 4 °at<unclear>th</unclear>apaṭisaṁbhide ñāṇaṁ </ab>
+				<ab>
+					<pb n="16"/>
+					<fw type="pageNum" place="marginleft"><num value="17">7 10</num></fw>
+					<lb n="46"/>buddhañāṇaṁ 5 <space type="horizontal" quantity="1" unit="character"/> dhammapaṭisaṁbhide ñāṇaṁ buddhañāṇaṁ 6 nirūtti
+					<lb n="47" break="no"/>paṭisaṁbhide <space type="binding-hole"/> ñāṇaṁ buddhañāṇaṁ 7 paṭibhāna<space type="binding-hole"/>paṭisabhi
+					<lb n="48" break="no"/>de ñāṇaṁ buddhañāṇaṁ 8 yamakapaṭiherañāṇaṁ <space type="horizontal" quantity="1" unit="character"/> buddhañāṇaṁ 9 </ab>
+				<ab>
+					<pb n="17"/>
+					<fw type="pageNum" place="marginleft"><num value="18">8 10</num></fw>
+					<lb n="49"/>vehākarūṇasamāpattiyā ñāṇaṁ buddhañāṇaṁ savvaññutañāṇaṁ buddha <lb n="50" break="no"/>ñāṇaṁ °anāva<space type="binding-hole"/>raṇāñāṇaṁ buddhañāṇa <space type="horizontal" quantity="1" unit="character"/> °ime<space type="binding-hole"/>hi bhagavā <lb n="51"/>cuddasehi buddhañāṇehi samannāgato ti ti <g type="ddanda">.</g><g>@</g>
+				</ab>
+				<ab>
+					<pb n="18"/>
+					<fw type="pageNum" place="marginleft"><num value="19">9 10</num></fw>
+					<!-- AG2MM: such number are presumbly noted in the system 10 9 = 19. If so, the encoding should be 
+<fw type="pageNum" place="margin"><num value=19>10 9</num></fw>.
+Apply this throughout the file.-->
+					<lb n="52"/>maggānaṭṭhaṅgiko seṭṭho <space type="horizontal" quantity="1" unit="character"/> saccānaṁ caturo padā <space type="horizontal" quantity="1" unit="character"/> virāgo se <lb n="53" break="no"/>ṭṭho dhammānaṁ <space type="binding-hole"/> dīpadānaṁ cecakkhumā ti <g type="ddanda">.</g><g>@</g>
+					<space type="binding-hole"/> siṁddhaṁ <space type="horizontal" quantity="1" unit="character"/> danto dantehi <lb n="54"/>saha puraṇajaṭilehi vippamuttehi <space type="horizontal" quantity="1" unit="character"/> siṁginikasavaṇṇo rājāgahaṁ pavisi bhagavā 1 </ab>
+				<ab>
+					<pb n="19"/>
+					<lb n="55"/>mutto muttehi saha puraṇajaṭilehi <space type="horizontal" quantity="1" unit="character"/> sigini<unclear>kasa</unclear>vaṇṇo rājāgahaṁ pavisi bhagavā <space type="horizontal" quantity="1" unit="character"/> 2 <lb n="56"/>tiṇṇo tiṇṇehi sa<space type="binding-hole"/>ha puraṇajaṭilehi <space type="horizontal" quantity="1" unit="character"/> vippamuttehi <space type="horizontal" quantity="1" unit="character"/> siginika<space type="binding-hole"/>vaṇṇo rājāgahaṁ pa
+						<lb n="57" break="no"/>visi bhagavā 3 dasabale dasavāso dasadhaṁma cupeto <space type="horizontal" quantity="1" unit="character"/> so dasasataṁparivaro rājagahaṁ pavisi bha <lb n="58" break="no"/>gavā 4 yo dhiro sabbadhi danto suddho °appaṭipuggalo °arahaṁ sugato loke tassahaṁ parivarako ti <g type="ddanda">.</g><g>@</g>
+				</ab>
+				<ab>
+					<pb n="20"/>
+					<lb n="59"/><g>@</g><g type="ddanda">.</g> °iti pi so tagavā °arahaṁ saṁmāsaṁbuddho vijjācaraṇasaṁpanno sugato lokavidū °anutta<unclear>r</unclear>o
+					<lb n="60"/>purisadaṁmasārathī <space type="binding-hole"/> satthā devāmanussānā<unclear>ṁ</unclear> bundho bhagavā ti <space type="binding-hole"/> sukhi bhavatu <g type="danda">.</g> 5
+				</ab>
+			</div>
+			<div type="apparatus">
+				<listApp>
+					<app loc="1">
+						<lem>30 7</lem>
+						<note>See Falk's comment on what he interprets as a closing punctuation mark on p. 63.</note>
+					</app>
+				<app loc="2">
+						<lem>viññaṇapacca<space type="binding-hole"/>yā</lem>
+						<rdg source="bib:Falk1997_01">viññaṇāpacca<space type="binding-hole"/>yā</rdg>
+					</app><app loc="8">
+						<lem>viññaṇanirodho <space type="binding-hole"/> viññaṇanirodhā</lem>
+						<rdg source="bib:Falk1997_01">viññāṇanirodho viññāṇanirodhā </rdg>
+					</app><app loc="15">
+						<lem>niccida</lem>
+						<rdg source="bib:Falk1997_01">nibbida</rdg>
+					</app><app loc="15">
+						<lem>°upekkha</lem>
+						<rdg source="bib:Falk1997_01">°upekkhā </rdg>
+					</app><app loc="18">
+						<lem>30 7</lem>
+						<rdg source="bib:Falk1997_01"><g>Schlußzeichen</g></rdg>
+					</app><app loc="20">
+						<lem><unclear>v</unclear>atteti <g>–</g></lem>
+						<rdg source="bib:Falk1997_01">vatteti</rdg>
+					</app><app loc="37">
+						<lem>
+							<unclear>bra</unclear>hma 
+					<lb n="38" break="no"/>ṇo
+						</lem>
+					</app><app loc="44">
+						<lem>2</lem>
+						<rdg source="bib:Falk1997_01">3</rdg>
+					</app><app loc="49">
+						<lem>vehā</lem>
+						<rdg source="bib:Falk1997_01">mahā</rdg>
+					</app><app loc="53">
+						<lem>ce</lem>
+						<rdg source="bib:Falk1997_01">ca</rdg>
+					</app><app loc="57">
+						<lem>dasavāso</lem>
+						<rdg source="bib:Falk1997_01">dasavāsa</rdg>
+					</app><app loc="59">
+						<lem>tagavā</lem>
+						<rdg source="bib:Falk1997_01">bhagavā</rdg>
+					</app><app loc="59">
+						<lem>lokavidū °anutta<unclear>r</unclear>o</lem>
+						<rdg source="bib:Falk1997_01">lokavidu °anuttano </rdg>
+					</app><app loc="60">
+						<lem>devāmanussānā<unclear>ṁ</unclear> bundho</lem>
+						<rdg source="bib:Falk1997_01">devāmanussānā buddho</rdg>
+					</app><app loc="60">
+						<lem><g type="danda">.</g> 5</lem>
+						<rdg source="bib:Falk1997_01"><g>Schlußzeichen</g></rdg>
+					</app></listApp>
+			</div>
+			<div type="translation" xml:lang="eng">
+				<p><!--english translation here--></p>
+			</div>
+			<div type="commentary">
+				<p>18. <seg type="graphemic">tathāgatassa</seg>: the <seg type="graphemic">ga</seg> is poorly realized, approaching <seg type="graphemic">ta</seg> in shape; see line 19.</p>
+				<p>19. <seg type="graphemic">tathāgato</seg>: the <seg type="graphemic">ga</seg> is poorly realized, approaching <seg type="graphemic">ta</seg> in shape; see line 18.</p>
+				<p>20. <seg type="graphemic">brahmacakkam</seg>: for the same unusual shape of <seg type="graphemic">b</seg>, see line 37.</p>
+				<p>37. <seg type="graphemic">brahmacakkam</seg>: for the same unusual shape of <seg type="graphemic">b</seg>, see line 20.</p>
+				<!-- MM2AG: unable to tag text in [ ] in rtf with <unclear> in above cases. -->
+				<p>43. <seg type="graphemic">duẖkhe</seg>: the scribe rather seems to have written <seg type="graphemic">dumbe</seg>.</p>
+				<!-- MM2AG: temporarily placed this note in commentary; puzzled because based on the note I would expect dumbe in the edition section. Should I write dumbe in the edition section and mention in a note that duẖkhe was intended? I can see something resembling mbe or hbe, but I don't know what a prototypical ẖ looks like. -->
+				<!-- AG2MM: this suggests that while editing, we thought that the required reading duẖkhe was not entirely impossible, although prima facie and out of context one might rather have read dumbe.-->
+			</div>
+			<div type="bibliography">
+				<!--ASI 1926-27, 178-80, 200-1. — ASB 1939, 12-22. — PR, 25-33. — PPPB I, 139. — Than Hswe 1991; 1992. — Falk 1997. — Stargardt 2000: 22, 24-7.-->
+				<!--[Todo: markup citedRange elements if necessary]-->
+				<p>The discovery of excerpts in Pali from the Abhidhamma and Vinaya inscribed on 20 gold leaves (in the style of palm-leaf manuscripts) was first reported in <bibl><ptr target="bib:ASI"/><citedRange>1926-27: 178-80, 200-1</citedRange></bibl>. The inscription was carefully edited by Lu Pe Win in <bibl><ptr target="bib:ASB"/><citedRange>1939: 12-22</citedRange></bibl>. A complete Burmese transcription appears in <bibl><ptr target="bib:ThaMyat1963_01"/><citedRange>25-33</citedRange></bibl>. <bibl><ptr target="bib:Luce1985_01"/><citedRange>I, 139</citedRange></bibl>, provides an overview and a summary of earlier literature. <bibl><ptr target="bib:ThanHswe1992_01"/></bibl> is a study of the script used for the inscription. <bibl><ptr target="bib:Falk1997_01"/></bibl> provides a Romanized transliteration with notes. Finally, <bibl><ptr target="bib:Stargardt2000_01"/><citedRange>22, 24-7</citedRange></bibl>, includes a detailed description of “The Golden Pali Text” with commentary. Re-edited here from published photographs.</p>
+				<listBibl type="primary"><bibl><ptr target="bib:CPI2018_01"/><citedRange unit="item">DHARMA_INSPYU00045</citedRange></bibl></listBibl><listBibl type="secondary">
+					<bibl><ptr target="bib:ThanHswe1991_01"/></bibl>
+				</listBibl>
+			</div>
+		</body>
+  </text>
+</TEI>

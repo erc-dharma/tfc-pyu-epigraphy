@@ -1,0 +1,299 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_SQF.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Maunggan Gold Leaves</title>
+                <respStmt>
+                    <resp>author of digital edition</resp>
+                <persName ref="part:argr"><forename>Arlo</forename><surname>Griffiths</surname></persName><persName ref="part:dcla"><forename>D. Christian</forename><surname>Lammerts</surname></persName></respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>DHARMA</authority>
+                <pubPlace><!-- Fill in here the place or places where the encoding has been done --></pubPlace>
+                <idno type="filename">DHARMA_INSPYU00046</idno>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">
+                        <p>This work is licensed under the Creative Commons Attribution 4.0 Unported
+                            Licence. To view a copy of the licence, visit
+                            https://creativecommons.org/licenses/by/4.0/ or send a letter to
+                            Creative Commons, 444 Castro Street, Suite 900, Mountain View,
+                            California, 94041, USA.</p>
+                    </licence>
+                </availability>
+                <date from="2019" to="2025">2019-2025</date>
+            </publicationStmt>
+            <sourceDesc><!-- only the handDesc can be filled in at this stage -->
+                <msDesc><!-- //// NB: the msIdentifier had to be added for validation purposes ///. It will be edited later with the metadata spreadsheet -->
+                    <msIdentifier>
+                        <repository>DHARMAbase</repository>
+                        <idno/><!-- don't modify this -->
+                    </msIdentifier>
+                    <msContents><!-- describe the intellectual content of an inscription -->
+                        <summary><!-- //// NOT MANDATORY  ////--></summary> <!-- offers the possibility to give a summary of the inscription's content -->
+                    </msContents>
+                    <physDesc>
+                        <handDesc>
+                            <p><!-- The script name(s) will be inserted here at a later stage from the metadata spreasheet. At this stage, you can mention here in a free-text paragraph any characteristics of the writing observed more than once in this inscription that seem unusual/uncommon or otherwise noteworthy given the general characteristics of the script in question. See EGD 11.2. --></p>
+                            <!-- If you need to identify individual hands (EGD §7.5/) in addition to one or more paragraphs of general palaeographic description, wrap <summary> around the <p> or <p>s above, and, outside <summary>, create <handNote> elements for each hand as follows:
+						<summary><p><p/></summary>
+						<handNote xml:id="Pallava00001_hand1"></handNote>
+						<handNote xml:id="Pallava00001_hand2"></handNote>
+					 -->
+                        </handDesc>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>The project DHARMA has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme (grant agreement no 809994).</p>
+            </projectDesc>
+            <schemaRef type="guide" key="EGDv01" url="https://halshs.archives-ouvertes.fr/halshs-02888186"/><!-- UPDATE the link once the release is made official -->
+            <listPrefixDef>
+                <prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)" replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
+                    <p>Public URIs with the prefix bib to point to a Zotero Group Library named ERC-DHARMA whose data are open to the public.</p>
+                </prefixDef>
+                <prefixDef ident="part" matchPattern="([a-z]+)" replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_idListMembers_v01.xml#$1">
+                    <p>Internal URIs using the part prefix to point to person elements in the <ref>DHARMA_idListMembers_v01.xml</ref> file.</p>
+                </prefixDef>
+            </listPrefixDef>
+        </encodingDesc>
+        <revisionDesc>
+            <change who="part:mime" when="2026-03-02">Conversion to DHARMA guidelines</change>
+        </revisionDesc>
+    </teiHeader>
+    <text xml:space="preserve">
+      <body>
+			<div type="edition" xml:lang="pli-Latn">
+				<div type="textpart" n="First leaf (Or5340A)">
+					<!-- Or5340A before Or5340B unless B is meant to be read before A -->
+					<ab>
+						<g>⎨||⋮||⎬</g>
+						<lb n="1"/>
+						<g type="ddanda">.</g>
+						ye
+						dhammā
+						hetupabhavā
+						<space type="horizontal" quantity="1" unit="chars"/>
+						tesaṁ
+						hetu<supplied reason="omitted">ṁ</supplied>
+						tathāgato
+						<space type="horizontal" quantity="1" unit="chars"/>
+						°āha
+						tesañ
+						ca
+						yo
+						nirodho
+						<space type="horizontal" quantity="1" unit="chars"/>
+						°evaṁvādi
+						mahāsamano
+						ti
+						<g type="ddanda">.</g>
+						cattāro
+						°iddhipādā
+						<lb n="2"/>
+						cattāro
+						sammappadhānā
+						<space type="horizontal" quantity="1" unit="chars"/>
+						cattāro
+						satipaṭṭhānā
+						<space type="horizontal" quantity="1" unit="chars"/>
+						cattāri
+						°ariyasaccāni
+						<space type="horizontal" quantity="1" unit="chars"/>
+						catuves<supplied reason="omitted">ā</supplied>rajjāni 
+						<space type="horizontal" quantity="1" unit="chars"/>
+						pañcindriyāni
+						<space type="horizontal" quantity="1" unit="chars"/>
+						pañcacakkhūni
+						<space type="horizontal" quantity="1" unit="chars"/>
+						cha<lb n="3" break="no"/>°asaddhāraṇ<unclear>ā</unclear>ni 
+						<space type="horizontal" quantity="1" unit="chars"/>
+						sattabojjhaṅgā
+						<space type="horizontal" quantity="1" unit="chars"/>
+						°ariyo
+						°aṭṭhiṅgiko
+						maggo
+						<space type="horizontal" quantity="1" unit="chars"/>
+						navalokuttarā
+						dhammā
+						<space type="horizontal" quantity="1" unit="chars"/>
+						dasabal<supplied reason="omitted">ā</supplied>ni
+						<space type="horizontal" quantity="1" unit="chars"/>
+						cundasa
+						buddhaññāni
+						°aṭṭhārasabuddhadhammāni
+					</ab>
+				</div>
+				<div type="textpart" n="Second leaf (Or5340B)">
+					<ab>
+						<lb n="1"/>
+						<g type="ddanda">.</g>
+						ye
+						dhammā
+						hetupabhavā
+						<space type="horizontal" quantity="1" unit="chars"/>
+						tesa<supplied reason="omitted">ṁ</supplied>
+						hetu<supplied reason="omitted">ṁ</supplied>
+						tathāgato
+						°āha
+						<space type="horizontal" quantity="1" unit="chars"/>
+						tesañ
+						ca
+						yo
+						nirodho
+						<space type="horizontal" quantity="1" unit="chars"/>
+						°evaṁvādi
+						mahāsama<unclear>n</unclear>o
+						ti
+						<space type="horizontal" quantity="1" unit="chars"/>
+						°iti
+						pi
+						so
+						bhagavā
+						°arahaṁ
+						<lb n="2"/>
+						sammāsaṁbuddho
+						<space type="horizontal" quantity="1" unit="chars"/>
+						vijjācaraṇasappanno
+						<space type="horizontal" quantity="1" unit="chars"/>
+						sugato
+						lokavidu
+						<space type="horizontal" quantity="1" unit="chars"/>
+						°anuttaro
+						purisadammasārathī
+						<space type="horizontal" quantity="1" unit="chars"/>
+						satthā
+						devamanussānaṁ
+						<space type="horizontal" quantity="1" unit="chars"/>
+						buddho
+						bhagavā
+						ti
+						<lb n="3"/>
+						svākhyāto
+						bhagavatā
+						dhammo
+						<space type="horizontal" quantity="1" unit="chars"/>
+						sandiṭṭhiko
+						<space type="horizontal" quantity="1" unit="chars"/>
+						°akāl<supplied reason="omitted">i</supplied>ko
+						<space type="horizontal" quantity="1" unit="chars"/>
+						°ehipassiko
+						<space type="horizontal" quantity="1" unit="chars"/>
+						<supplied reason="lost">°o</supplied>paṇāyiko
+						<space type="horizontal" quantity="1" unit="chars"/>
+						paccattaṁ
+						veditavvo
+						<space type="horizontal" quantity="1" unit="chars"/>
+						viññūhī
+						ti
+						<g>⎨||⋮||⎬</g>
+					</ab>
+				</div>
+			</div>
+			<div type="apparatus">
+				<listApp><!-- Finot 1912 readings still need to be collated -->
+					<app loc="1.margin">
+						<lem><g>⎨||⋮||⎬</g></lem>
+						<rdg resp="Tun Nyein"><g type="ddanda">.</g></rdg>
+						<note>The opening mark stands in the margin; the same sign is repeated at
+							the end of leaf 2. It is a simpler version of the one seen at the end of PYU <ref target="DHARMA_INSPYU00044">44</ref>.</note>
+					</app>
+					<app loc="1.1">
+						<lem>tesañ ca</lem>
+						<note>There is a rightward curl at the top of the vertical element in <seg type="graphemic">ñ</seg>, that could possibly be interpreted as <seg type="graphemic">-ā</seg>, but we assume it is a somewhat overdone serif.</note>
+					</app>
+					<app loc="1.1">
+						<lem>°evaṁvādi mahāsamano</lem>
+						<note>The expected form would be <foreign xml:lang="pli-Latn">°evaṁvādī mahāsamaṇo</foreign>. Same irregularities in leaf 2.</note>
+					</app>
+					<app loc="1.2">
+						<lem>satipaṭṭhānā</lem>
+						<rdg resp="Tun Nyein">satipaṭṭhāuā</rdg>
+						<note>(misprint)</note>
+					</app>
+					<app loc="1.2">
+						<lem>°ariyasaccāni</lem>
+						<rdg resp="Tun Nyein">°ariyasacohāni</rdg>
+						<note>(misprint)</note>
+					</app>
+					<app loc="1.3">
+						<lem>°asaddhāraṇ<unclear>ā</unclear>ni</lem>
+						<note>Tun Nyein corrects <foreign xml:lang="pli-Latn">°asādhāraṇāni </foreign> in note.</note>
+					</app>
+					<app loc="1.3">
+						<lem>°aṭṭhiṅgiko</lem>
+						<note>Tun Nyein corrects <foreign xml:lang="pli-Latn">°aṭṭhaṅgiko</foreign> in note.</note>
+					</app>
+					<app loc="1.3">
+						<lem>dasabal<supplied reason="omitted">ā</supplied>ni</lem>
+						<note>Tun Nyein silently corrects <foreign xml:lang="pli-Latn">dasabalāni</foreign>.</note>
+					</app>
+					<app loc="1.3">
+						<lem>cundasa</lem>
+						<note>Tun Nyein silently corrects <foreign xml:lang="pli-Latn">cuddasa</foreign>.</note>
+					</app>
+					<app loc="1.3">
+						<lem>buddhaññāni</lem>
+						<rdg resp="Tun Nyein">buddhakoni</rdg>
+						<note>correcting <foreign xml:lang="pli-Latn">buddhayonī</foreign> in note; emend <foreign xml:lang="pli-Latn">buddhañāṇāni</foreign>.</note>
+					</app>
+					<app loc="2.1">
+						<lem><g type="ddanda">.</g></lem>
+						<note>The two bars are connected by a small cross-bar.</note>
+					</app>
+					<app loc="2.1">
+						<lem>°evaṁvādi mahāsamano</lem>
+						<note>The expected form would be <foreign xml:lang="pli-Latn">°evaṁvādī mahāsamaṇo</foreign>. Same irregularities in leaf 1.</note>
+					</app>
+					<app loc="2.2">
+						<lem>-sappanno</lem>
+						<note>Tun Nyein corrects <foreign xml:lang="pli-Latn">-sampanno</foreign> in note.</note>
+					</app>
+					<app loc="2.2">
+						<lem>-sārathī</lem>
+						<rdg resp="Tun Nyein">-sārathi</rdg>
+					</app>
+					<app loc="2.3">
+						<lem>°akāl<supplied reason="omitted">i</supplied>ko</lem>
+						<rdg resp="Tun Nyein">°akāliko</rdg>
+						<note>Silent correction.</note>
+					</app>
+					<app loc="2.3">
+						<lem><supplied reason="lost">°o</supplied>paṇāyiko</lem>
+						<note>Tun Nyein corrects <foreign xml:lang="pli-Brah">°opanayiko</foreign> in note. Editions of the canon show either <foreign>°opaneyyika</foreign> or <foreign xml:lang="pli-Brah">°opanāyiko</foreign>.</note>
+					</app>
+					<app loc="2.3">
+						<lem><g>⎨||⋮||⎬</g></lem>
+						<rdg resp="Tun Nyein">||</rdg>
+						<note>The closing sign here corresponds to the opening sign of leaf 1, and clearly shows the two leaves form one whole.</note>
+					</app>
+				</listApp>
+			</div>
+			<div type="translation" xml:lang="eng">
+				<p><!--english translation here--></p>
+			</div>
+			<div type="commentary">
+				<p><!-- commentary --></p>
+			</div>
+			<div type="bibliography">
+				<!--Tun Nyein 1898-99. —ASI 1907-08, 41; 1909-10, 115. — Finot 1912: 130-2. — PR, 44-6. — PPPB I, 61, 73 n. 2, 175.-->
+				<!--[Todo: markup citedRange elements if necessary]-->
+				<p>First edited in <bibl><ptr target="bib:TunNyein1898-99_01"/></bibl>; published again (with some improvements offset by a number of inaccuracies) in <bibl><ptr target="bib:Finot1912"/><citedRange>130-2</citedRange></bibl>. Re-edited here from published reproductions and photographs furnished by the British Library.</p>
+				<listBibl type="primary"><bibl><ptr target="bib:CPI2018_01"/><citedRange unit="item">DHARMA_INSPYU00046</citedRange></bibl></listBibl><listBibl type="secondary">
+					<bibl><ptr target="bib:ASI"/><citedRange>1907-08: 41</citedRange></bibl>
+					<bibl><ptr target="bib:ASI"/><citedRange>1909-10: 115</citedRange></bibl>
+					<bibl><ptr target="bib:MonBoKay1961a"/><citedRange>112, 115</citedRange></bibl>
+					<bibl><ptr target="bib:ThaMyat1963_01"/><citedRange>44-6</citedRange></bibl>
+					<bibl><ptr target="bib:Luce1985_01"/><citedRange>I, 61, 73 n. 2, 175</citedRange></bibl>
+				</listBibl>
+			</div>
+		</body>
+  </text>
+</TEI>

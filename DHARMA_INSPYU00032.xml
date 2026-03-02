@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_SQF.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Myanadi Stone Slab</title>
+                <respStmt>
+                    <resp>author of digital edition</resp>
+                <persName ref="part:argr"><forename>Arlo</forename><surname>Griffiths</surname></persName><persName ref="part:mami"><forename>Marc</forename><surname>Miyake</surname></persName><persName ref="part:jukw"><forename>Julian Karl</forename><surname>Wheatley</surname></persName></respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>DHARMA</authority>
+                <pubPlace><!-- Fill in here the place or places where the encoding has been done --></pubPlace>
+                <idno type="filename">DHARMA_INSPYU00032</idno>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">
+                        <p>This work is licensed under the Creative Commons Attribution 4.0 Unported
+                            Licence. To view a copy of the licence, visit
+                            https://creativecommons.org/licenses/by/4.0/ or send a letter to
+                            Creative Commons, 444 Castro Street, Suite 900, Mountain View,
+                            California, 94041, USA.</p>
+                    </licence>
+                </availability>
+                <date from="2019" to="2025">2019-2025</date>
+            </publicationStmt>
+            <sourceDesc><!-- only the handDesc can be filled in at this stage -->
+                <msDesc><!-- //// NB: the msIdentifier had to be added for validation purposes ///. It will be edited later with the metadata spreadsheet -->
+                    <msIdentifier>
+                        <repository>DHARMAbase</repository>
+                        <idno/><!-- don't modify this -->
+                    </msIdentifier>
+                    <msContents><!-- describe the intellectual content of an inscription -->
+                        <summary><!-- //// NOT MANDATORY  ////--></summary> <!-- offers the possibility to give a summary of the inscription's content -->
+                    </msContents>
+                    <physDesc>
+                        <handDesc>
+                            <p><!-- The script name(s) will be inserted here at a later stage from the metadata spreasheet. At this stage, you can mention here in a free-text paragraph any characteristics of the writing observed more than once in this inscription that seem unusual/uncommon or otherwise noteworthy given the general characteristics of the script in question. See EGD 11.2. --></p>
+                            <!-- If you need to identify individual hands (EGD §7.5/) in addition to one or more paragraphs of general palaeographic description, wrap <summary> around the <p> or <p>s above, and, outside <summary>, create <handNote> elements for each hand as follows:
+						<summary><p><p/></summary>
+						<handNote xml:id="Pallava00001_hand1"></handNote>
+						<handNote xml:id="Pallava00001_hand2"></handNote>
+					 -->
+                        </handDesc>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>The project DHARMA has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme (grant agreement no 809994).</p>
+            </projectDesc>
+            <schemaRef type="guide" key="EGDv01" url="https://halshs.archives-ouvertes.fr/halshs-02888186"/><!-- UPDATE the link once the release is made official -->
+            <listPrefixDef>
+                <prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)" replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
+                    <p>Public URIs with the prefix bib to point to a Zotero Group Library named ERC-DHARMA whose data are open to the public.</p>
+                </prefixDef>
+                <prefixDef ident="part" matchPattern="([a-z]+)" replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_idListMembers_v01.xml#$1">
+                    <p>Internal URIs using the part prefix to point to person elements in the <ref>DHARMA_idListMembers_v01.xml</ref> file.</p>
+                </prefixDef>
+            </listPrefixDef>
+        </encodingDesc>
+        <revisionDesc>
+            <change who="part:mime" when="2026-03-02">Conversion to DHARMA guidelines</change>
+        </revisionDesc>
+    </teiHeader>
+    <text xml:space="preserve">
+      <body>
+			<div type="edition" xml:lang="pyx-Latn">
+				<ab>
+					<lb n="1"/><gap reason="lost" extent="unknown"/>
+					<gap reason="lost" quantity="1" unit="character"/>C· <gap reason="lost" quantity="1" unit="character"/>C· <gap reason="lost" quantity="1" unit="character"/><unclear>t</unclear>· <gap reason="lost" quantity="1" unit="character"/>ṅ· <gap reason="lost" quantity="1" unit="character"/>C· <supplied reason="lost">ta</supplied>r· <supplied reason="lost">daṃ</supplied><unclear>v</unclear>·<supplied reason="lost">ḥ</supplied>
+					<supplied reason="lost">t</supplied>gam·ṃ<supplied reason="lost">ḥ</supplied>
+					<unclear>daṃ</unclear>v·<unclear>ḥ</unclear>
+					<supplied reason="lost">t</supplied>dav·ṃ<unclear>ḥ</unclear>
+					<unclear>k</unclear>d<supplied reason="lost">i</supplied>l·ṁ
+					j<unclear>i</unclear>ṁḥ gaṃḥ mdrauṅ· ndik·ṃ kli s<choice>
+						<unclear>th</unclear>
+						<unclear>ḅ</unclear>
+						<unclear>v</unclear>
+					</choice>uy· kdlon· rom· jok· sdak·ṃ tar· dav·ṃḥ <gap reason="lost" extent="unknown"/>
+					<!-- MM: sthuy· or whatever must be the same syllable as scuy· or whatever in line 2 -->
+					<lb n="2"/><gap reason="lost" extent="unknown"/> CrVṅ· <gap reason="lost" quantity="1" unit="character"/>l· <gap reason="lost" quantity="2" unit="character"/>p· <gap reason="lost" quantity="1" unit="character"/>ṅ· <gap reason="lost" quantity="1" unit="character"/>t· <gap reason="lost" quantity="1" unit="character"/> CkVṅ· <gap reason="lost" quantity="1" unit="character"/>n· <gap reason="lost" quantity="1" unit="character"/>ṅ· <unclear>d</unclear>av·ṃḥ <space type="horizontal" quantity="1" unit="character"/> tar· dav·ṃḥ tgam·ṃḥ dav·ṃḥ tdav·ṃḥ kdil·ṁ jiṁḥ gaṃḥ mdrauṅ· ndik·ṃ kli s<choice>
+						<unclear>c</unclear>
+						<unclear>v</unclear>
+					</choice><!-- AG: applied choice here.  -->uy· kdlo<unclear>n</unclear>·
+					ro<unclear>m</unclear>· jok· sdaṃ<unclear>k</unclear>· tam· pdan·ṃḥ pdlaut· tyaṅ·ḥ tiṁ priṅ·ḥ tgen·ṃḥ tiṁ °ip· tliṅ· git·ṃ ce kkiṅ·ṁ nin·ṁ yaṅ· da dav·ṃḥ <space type="horizontal" quantity="1" unit="character"/> tar· dav·ṃḥ tgam·ṃ dav·ṃḥ tdav·ṃḥ kdi<unclear>l</unclear>·ṁ jiṁḥ gaṃḥ <unclear>m</unclear>dr<unclear>o</unclear>ṅ· ndik·ṃ kli s<choice>
+						<unclear>c</unclear>
+						<unclear>v</unclear>
+					</choice><!-- AG: and here. -->uy· <gap reason="lost" extent="unknown"/>
+					<!-- MM: scuy· or whatever must be the same syllable as sthuy· or whatever in line 1 -->
+					<lb n="3"/><gap reason="lost" extent="unknown"/>
+					<gap reason="lost" quantity="1" unit="character"/>n· <supplied reason="lost">ḅi</supplied>n·ṁḥ pay·ṁḥ ntu<unclear>l</unclear><unclear>r</unclear>·ḥ tṅav·ḥ ñaḥ gi kdiv·ṃṁ mka <space type="horizontal" quantity="1" unit="character"/> tyaṅ·ḥ tgon·ṃḥ toy· tva °o kdiṃ gi nan·ḥ pṅat· tyaṅ·ḥ tgon·ṃḥ toy· tva viṃṁ sguṅ·ṃ kli ḅat· ḅaḥ gi <unclear>m</unclear>lit·ṁ mleṅ·ḥ mlit·ṁ mleṅ·ḥ pdur·ṃ tal·ṁ daṅ·ṃṁ ḅaḥ gi teṅ· pkaṅ· <space type="horizontal" quantity="1" unit="character"/> le ṅuḥ gi ḅin·ṁḥ tiḥ rya mlit·ṁ mleṅ·ḥ dra hliṁḥ tiv·ṁ liṁ tiv·ṁ leṅ·ḥ °o khaḥ nba °o pal· prat· °o<unclear>n</unclear>· pūṅ· <lb n="4"/>bu nsVt· pVṅ· g<supplied reason="lost">i</supplied> d<supplied reason="lost">i</supplied>k·ṃ<unclear>ṁ</unclear> tgut· gi ṭre phṅan· <space type="horizontal" quantity="1" unit="character"/> gi hav·ḥ pṭrat· tar· dav·ṃḥ pr̥ kul· toy· tkir·ṁḥ °o<unclear>n</unclear><unclear>l</unclear>· diṃ <space type="horizontal" quantity="1" unit="character"/> tyaṅ·ḥ tiṁ priṅ·ḥ tgel·ṃḥ tiṁ °ip· tliṅ· daṅ·ṃṁ tiṁ tdal·ṃ tiṁ tdav·ṃḥ <unclear>t</unclear>r̥ vu tr̥ daṅ· pin·ṁ dit·ṃṁ ḅaḥ gi ṭlom·ḥ ta krut· ḅaḥ gi pduv·ṃ ta pṅay· <space type="horizontal" quantity="1" unit="character"/> le ṅuḥ tyaṅ·ḥ tiṁ priṅ·ḥ <unclear>t</unclear>gen·ṃḥ tiṁ °ip· tliṅ· daṅ·ṃṁ tr̥ vu tr̥ daṅ·ṃ tiṁ tdal·ṃ tiṁ tdav·ṃḥ kṭrip·ṁ pin·ṁḥ gi diṃ<unclear>k</unclear>·ṁ tgut· gi ṭre phṅan· <space type="horizontal" quantity="1" unit="character"/> le ṅuḥ tar· dran·ṃ krut· tyaṅ·ḥ tiṁ priṅ·ḥ <lb n="5"/>tgel·ṃḥ tiṁ °ip· tliṅ· vit·ṃṁ sguṅ·ṃ kli °o tḅay·ṁḥ tkaḥ °o mlit·ṁ mleṅ·ḥ °o mdruḥ <unclear>m</unclear>ra °o <unclear>ṅ</unclear>om·ḥ ran·ḥ °o ndlup· pr̥i gat·ṃ si<unclear>n</unclear>·ṁ git· ta rat· sin·ṁ bar·ḥ gi dran·ṁḥ <space type="horizontal" quantity="1" unit="character"/> ḅaḥ gi skir· piṁ pūr·ṁḥ ḅaḥ gi kup· nhmoḥ tyaṅ·ḥ tiṁ priṅ·ḥ tgen·ṃḥ tiṁ °ip· tliṅ· vit·ṃṁ sguṅ·ṃ kli °o tḅay·ṁḥ tkaḥ °o ṅom·ḥ rat·ḥ °o mdruḥ mra <space type="horizontal" quantity="1" unit="character"/>
+					<unclear>ḅaḥ g</unclear>i pak· laḥ <space type="horizontal" quantity="2" unit="character"/> ḅaḥ gi ?ḥ <space type="horizontal" quantity="1" unit="character"/> ḅaḥ gi del·ṃḥ mdray·ḥ <space type="horizontal" quantity="1" unit="character"/> ḅaḥ gik· phik·ṁ phi<supplied reason="omitted">ṁ</supplied> tir·ṁ <lb n="6"/>ḅaḥ gi srut· diṃ <space type="horizontal" quantity="1" unit="character"/> ḅaḥ gi pnip· pr̥ hiṅ· <space type="horizontal" quantity="1" unit="character"/> ḅaḥ gi saṁḥ °o rgav·ṃ nin·ṁ laḥ <space type="horizontal" quantity="1" unit="character"/> °o hyaṃḥ nin·ṁ kay· <space type="horizontal" quantity="1" unit="character"/> tiṁ pdrat· thak· kdiṃ ḅa tgay·ṃ piṅ·ṁḥ nkul· <unclear>t</unclear>ūm· rat· tka gi daṃḥ tak· <space type="horizontal" quantity="1" unit="character"/> tar· dav·ṃḥ tiṁ priṅ·ḥ tgel·ṃḥ tiṁ °ip· tliṅ· °o dav·ṃḥ pdin·ṃṁ °o ḅin·ṁḥ pay·ṁḥ kiv·ṁ tliḥ loḥ rat· dri<unclear>n</unclear>·ṁ thak· kvur·ṃ pit·ṁḥ gi bo daṃḥ <space type="horizontal" quantity="1" unit="character"/> tyaṅ·ḥ tiṁ priṅ·ḥ tgel·ṃḥ tiṁ °ip· tliṅ· dav·ṃ ti<unclear>ṁ</unclear> tdal·ṃ gi dav·ṃ ta daṅ·ṃṁ tim·ṁ tav· gi pdit·ṁ pta <space type="horizontal" quantity="1" unit="character"/> tgov· ti<unclear>n</unclear>·ṁ kav· °o ḅin·ṁḥ pay·ṁḥ pgaut· hvuṃ kbot· pi<supplied reason="lost">t</supplied>·ṁḥ<!-- AG2MM: changed "omitted" to "lost". --> gi pṅit· hvuṃ <lb n="7"/>ḅin·ṁḥ ḅiṁ loḥ gi riḥ thṅa <space type="horizontal" quantity="1" unit="character"/> ḅin·ṁḥ daṃḥ loḥ gi naḥ kroṅ· <space type="horizontal" quantity="1" unit="character"/> gay·ṁḥ kdaṅ· vo kap· kbot· kboṅ· nam· kdim·ṃṁ tar· dav·ṃḥ pr̥ kul· toy· tkir·ṁḥ °o pran· ḅaḥ gi tgay·ṃ tya<supplied reason="omitted">ṅ·</supplied>ḥ <!-- MM2AG: unsure how to encode ⟨ṅ·⟩ - supplied reason="omitted"? --><!-- AG2MM: yes, that is correct and I have applied it. Note difference from case of pi(t)·ṁḥ where you had indicated @reason="omitted" which I have now corrected to "lost". -->
+					<space type="horizontal" quantity="1" unit="character"/> ta viṃṁ <space type="horizontal" quantity="2" unit="character"/> yaṁ dri nu hnam· t<unclear>d</unclear>av·ṃḥ <space type="horizontal" quantity="2" unit="character"/> tkul· mūṅ·ḥ nin·ṁ ki<unclear>r</unclear>·ṁḥ °o sguṃ ktuk· kgaṃḥ nro<unclear>m</unclear>·ḥ tit·ṁ ba <space type="horizontal" quantity="1" unit="character"/> gay·ṁḥ rlil· ma vit·ṃṁ sguṅ·ṃ kli tar· ḅin·ṁḥ tak· ṭrom·ḥ <space type="horizontal" quantity="1" unit="character"/> tar· ḅin·ṁḥ tim·ṁ ro<unclear>m·</unclear> tim·ṁ hliṁḥ <gap reason="lost" quantity="12" unit="character"/>
+					<space type="horizontal" quantity="1" unit="character"/> tar· ḅin·ṁḥ tim·ṁ
+					kil·ṁ tim·ṁ diṃ <space type="horizontal" quantity="1" unit="character"/>
+					mgaul·ṃ mcauṅ· nma tin·ṁ ṅar· tbim·ṁ hmi <lb n="8"/>la din·ṃṁ tar· ḅiṁḥ
+					pay·ṁḥ nhmok· nhmol·ḥ <space type="horizontal" quantity="1" unit="character"/> nhmu<unclear>y</unclear>·ḥ nḅaṅ·ṁ tin·ṁ gil·ṁ sdaṅ·ṃ kcip· tiṁ kdol·ḥ la ḅat· tar· ḅin·ṁḥ pay·ṁḥ sgaul·ṃ kdim·ṃṁ <space type="horizontal" quantity="1" unit="character"/> ntor· ndoṃ tlar·ṁḥ tṅat· tin·ṁ bim·ṁ la din·ṃṁ tar· ḅin·ṁḥ pay·ṁḥ pdauṅ·ṃ khnoḥ <space type="horizontal" quantity="1" unit="character"/> yaṁ nrom·ḥ ta kgoy· tir·ṁ gaṃ nkul· mūṅ·ḥ tin·ṁ kir·ṁḥ tin·ṁ ba mgel·ṃ hi ta krav·ṁḥ kroḥ ta tin·ṁ daṃ<unclear>ṅ·</unclear>ṁ tin·ṁ mat· °o pgaṃ dri <space type="horizontal" quantity="1" unit="character"/> ḅaḥ gi co<unclear>t</unclear>· sa<supplied reason="omitted">t·</supplied>
+					<space type="horizontal" quantity="1" unit="character"/> ḅaḥ gi pdat·ṃ
+					pvay· <space type="horizontal" quantity="1" unit="character"/> ḅaḥ gi kon·ḥ
+					kaḥ <gap reason="lost" quantity="5" unit="character"/> mcuḥ yaṁ ñaḥ tin·ṁ ba yaṁ dri <space type="horizontal" quantity="1" unit="character"/> man· ta viṃṁ tam· cot· sat· <lb n="9"/>°o hnaut· nr̥ hnam· mra nmir· tin·ṁ li tim·ṁ ṅoy· kkiṅ·ṁ tiṁ slay· la ḅin·ṁḥ pa<unclear>y</unclear>·ṁḥ la mīn·ṁḥ<!-- AG2MM: do we want to, and are we able to read rmin·ṁḥ? --> kca la kdaṃ knuk· pin·ḥ<gap reason="lost" quantity="11" unit="character"/> kpr̥ tin·ṁ mat· °o kaṅ· <gap reason="lost" quantity="7" unit="character"/> kṅat· tim·ṁ gaṅ· kdaṅ· sguṅ·ṃ priṅ·ḥ <space type="horizontal" quantity="1" unit="character"/> khlav· tiṁ khliṅ·ḥ ḅaḥ din·ṃṁ dam·ṁ pdak·ṃ <lb n="10"/>ta viṃṁ yaṁ dri nr̥ hnam· tdav·ṃḥ nrov·ḥ tin·ṁ ba nrut·ḥ ngil·ṃḥ krav·ṁḥ tiṁ sgauk·ṃ tar· ḅin·ṁḥ rom· ta <space type="horizontal" quantity="1" unit="character"/> tdav·ṃḥ nr̥ hnam· ḅa kit·ṁ tbak· la din·ṃṁ <gap reason="lost" quantity="3" unit="character"/> ḅa dil·ṁ <g type="ddanda">.</g><g>@</g>
+				</ab>
+			</div>
+			<div type="apparatus">
+				<listApp>
+					
+				</listApp>
+			</div>
+			<div type="translation" xml:lang="eng">
+				<p><!--english translation here--></p>
+			</div>
+			<div type="commentary">
+				<p>1. <seg type="graphemic">[daṃ]v[·ḥ] [t]dav·ṃ(ḥ) (k)d[i]l·ṁ ṅ[i]ṁḥ</seg>: this sequence was restored after material fully preserved in line 2.</p>
+				<p>1. <seg type="graphemic">s[th/ḅ/v]uy·</seg>: the medial consonant is either misread or miswritten, cf. <seg type="graphemic">scuy·/svuy·</seg> which appears twice in l. 2.</p>
+				<p>1. <seg type="graphemic">tar· dav·ṃḥ</seg>: the <seg type="graphemic">ṃ</seg> is marked rather higher than its usual position.</p>
+				<p>2. <seg type="graphemic"> tyaṅ·ḥ tiṁ priṅ·ḥ tgen·ṃḥ tiṁ °ip· tliṅ·</seg>: the same sequence appears in l. 4.</p>
+				<p>2. <seg type="graphemic">tgen·ṃḥ</seg>: cf. <seg type="graphemic">tgel·ṃḥ</seg> elsewhere in this text. </p>
+				<p>3. <seg type="graphemic">/// .n· (ḅi)n·ṁḥ pay·ṁḥ</seg>: restoration after occurrences of the sequence <seg type="graphemic">ḅin·ṁḥ pay·ṁḥ</seg> in lines 6 and 8.</p>
+				<!-- MM: should <gap extent="unknown" reason="lost"/> replace /// here? -->
+				<p>3. <seg type="graphemic">tṅav·ḥ</seg>: should this be <seg type="graphemic">tndav·ḥ</seg>? However, the turn to the bottom is not typical of medial <seg type="graphemic">d</seg>.</p>
+				<p>3. <seg type="graphemic">viṃṁ sguṅ·ṃ kli</seg>: the same sequence recurs twice in line 5.</p>
+				<p>3. <seg type="graphemic">pūṅ·</seg>: the parallel bar below the bottom line of <seg type="graphemic">pu</seg> might indicate that this akṣara is <seg type="graphemic">°aṅ·</seg> rather than <seg type="graphemic">puṅ·</seg>; cf. the beginning of PYU <ref target="DHARMA_INSPYU00020">20</ref>, and lines 5 and 7 below.</p>
+				<p>4. <seg type="graphemic">pVṅ·ḥ</seg>: the <seg type="graphemic">p</seg> has an unusual line in its bottom left corner.</p>
+				<p>4. <seg type="graphemic">[t]gen·ṃḥ</seg>: in identical sequences further on in this line, and in l. 2, this word figures as <seg type="graphemic">tgel·ṃḥ</seg>. The presumptive <seg type="graphemic">t</seg> here is very imperfectly realized.</p>
+				<p>4. <seg type="graphemic">gi d[i]k·ṃ tgan· gi ṭre phṅan·</seg>: restorations after material fully preserved further on in this line.</p>
+				<p>5. <seg type="graphemic">vit·ṃṁ sguṅ·ṃ kli </seg>: the same sequence occured in line 3 as well as twice in this line.</p>
+				<p>5. <seg type="graphemic">pūr·ṁḥ</seg>: should this be read <seg type="graphemic">°ar·ṁḥ</seg>? Cf. our note on <seg type="graphemic">pūṅ·</seg> in l. 3.</p>
+				<p>5. <seg type="graphemic">tyaṅ·ḥ tiṁ priṅ·ḥ tgen·ṃḥ tiṁ °ip· nliṅ· vit·ṃṁ sguṃṅ kli °o tḅay·mḥ tkaḥ °o</seg>: this section repeats the last three akṣaras from line 4 and the first 8 from this line.</p>
+				<p>5. <seg type="graphemic">ḅaḥ gik· phik·ṁ phi(ṁ) tir·ṁ</seg>: we presume the intended reading was <seg type="graphemic">ḅaḥ gi phik·ṁ phik·ṁ tir·ṁ</seg>, with the two cases of <seg type="graphemic">k·</seg> in immediate succession misplaced one akṣara to the left, and the <seg type="graphemic">ṁ</seg> of the second <seg type="graphemic">phik·ṁ</seg> written next to, rather than on top of, its akṣara, and the whole akṣara <seg type="graphemic">ti</seg> plus its <seg type="graphemic">ṁ</seg> then raised substantially above the line, creating the impression that the unusually placed <seg type="graphemic">ṁ</seg> is an <seg type="graphemic">ṃ</seg> — which is unprecedented below a <seg type="graphemic">t</seg>.</p>
+				<p>6. <seg type="graphemic">kvur·ṃ and hvuṃ</seg>: cf. the <seg type="graphemic">u</seg> allograph in <seg type="graphemic">phvuṃ</seg> (‘day' in dates) in PYU <ref target="DHARMA_INSPYU00005">5</ref> and PYU <ref target="DHARMA_INSPYU00006">6</ref>, and the same in <seg type="graphemic">hvuṃ</seg> found in PYU <ref target="DHARMA_INSPYU00016">16</ref>. This allograph of <seg type="graphemic">u</seg> occurs in the environment of <seg type="graphemic">v</seg>.</p>
+				<p>6. <seg type="graphemic">mūṅ·ḥ</seg>: should this be read <seg type="graphemic">°aṅ·ḥ</seg>? Cf. our note on <seg type="graphemic">pūṅ·</seg> in l. 3. The same word occurs in l. 8.</p>
+				<p>6. <seg type="graphemic">sguṃ</seg>: this should be possibly be edited as <seg type="graphemic">sguṃ⟨ṅ·⟩</seg>.</p>
+				<p>6. <seg type="graphemic">ktuk·</seg>: perhaps the same as the syllable we read knuk· in l. 9.</p>
+				<p>7. <seg type="graphemic">nro[m]·ḥ</seg>: cf. <seg type="graphemic">nrom·ḥ</seg> in l. 8 and and <seg type="graphemic">nrov·ḥ</seg> in l. 10. The <seg type="graphemic">[m]·</seg> is upside down.</p>
+				<p>7. <seg type="graphemic">gay·ṁḥ rlil· ma vit·ṃṁ sguṅ·ṃ kli</seg>: what seems to be the same sequence appears in l. 9, there certainly without final consonant below <seg type="graphemic">rli</seg>.</p>
+				<p>7. <seg type="graphemic">tar· ḅin·ṁḥ tak· ṭrom·ḥ <space type="horizontal" quantity="1" unit="character"/> tar· ḅin·ṁḥ tim·ṁ ro[m·]</seg>: cf. a parallel passage in PYU <ref target="DHARMA_INSPYU00019">19</ref>, l. 2. This should be possibly be edited as <seg type="graphemic">ro⟨m·⟩</seg> or <seg type="graphemic">ro(m·)</seg>.</p>
+				<p>8. <seg type="graphemic">nrom·ḥ</seg>: cf. <seg type="graphemic">nrom·ḥ</seg> in l. 7 and <seg type="graphemic">nrov·ḥ</seg> in l. 10.</p>
+				<p>8. <seg type="graphemic">co[t]· sa⟨t·⟩</seg>: reading inferred from the occurrence of what we presume to be the same sequence at the end of the line.</p>
+				<p>8. <seg type="graphemic">tin·ṁ mat· °o</seg>: the same sequence occurs in l. 9.</p>
+				<p>9. <seg type="graphemic">ta viṃṁ tam·</seg>: is repeated just along the line. The <seg type="graphemic">t</seg> graphs differ slightly: several have the upside down wineglass shape but no loops, one has a clear loop. There does not seem to be a single feature among them that might suggest different graphemes, <seg type="graphemic">n</seg> versus <seg type="graphemic">t</seg>.</p>
+				<p>9. <seg type="graphemic">gay·ṁḥ rli ma vit·ṃṁ sguṅ·ṃ kli</seg>: what seems to be the same sequence appeared in l. 7, there apparently with a final consonant below <seg type="graphemic">rli</seg>.</p>
+				<p>9. <seg type="graphemic">knuk·</seg>: perhaps the same as the syllable we read <seg type="graphemic">ktuk·</seg> in l. 7.</p>
+				<p>9. <seg type="graphemic">tin·ṁ mat· °o</seg>: the same sequence occurs in l. 9.</p>
+				<p>10. <seg type="graphemic">nrov·ḥ</seg>: cf. <seg type="graphemic">nro[m]·ḥ</seg> in l. 7 and and <seg type="graphemic">nrom·ḥ</seg> in l. 8. If these are the same word, the spellings could point to a sound change <foreign>*-om</foreign> &gt; <foreign>-ow</foreign> as in Tangut.</p>
+			</div>
+			<div type="bibliography">
+				<!--Nyunt Han et al. 2006: 13. — Moore 2009: 111-2. — Naing Zaw 2011: 524.-->
+				<!--[Todo: markup citedRange elements if necessary]-->
+				<p>Recorded in <bibl><ptr target="bib:NyuntHan+al2007_01"/><citedRange>13</citedRange></bibl> who notes a broken top, but ten lines remaining. <bibl><ptr target="bib:Moore2009_01"/><citedRange>111-2</citedRange></bibl> remarks on a distinctive “r” and “i” in the inscription and cites San Win in finding the script similar to that of the Sriksetra gold plates. <bibl><ptr target="bib:SeinWin2016_01"/><citedRange>137-51</citedRange></bibl> has eye drawings and a complete transliteration. Re-edited here from published photographs and our team’s RTIs.</p>
+				<listBibl type="primary"><bibl><ptr target="bib:CPI2018_01"/><citedRange unit="item">DHARMA_INSPYU00032</citedRange></bibl></listBibl><listBibl type="secondary">
+					<bibl><ptr target="bib:NaingZaw2011_01"/><citedRange>524</citedRange></bibl>
+				</listBibl>
+			</div>
+		</body>
+  </text>
+</TEI>

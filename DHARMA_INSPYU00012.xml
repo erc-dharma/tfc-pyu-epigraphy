@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_SQF.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Stela found at Amarapura</title>
+                <respStmt>
+                    <resp>author of digital edition</resp>
+                <persName ref="part:argr"><forename>Arlo</forename><surname>Griffiths</surname></persName><persName ref="part:mami"><forename>Marc</forename><surname>Miyake</surname></persName><persName ref="part:jukw"><forename>Julian Karl</forename><surname>Wheatley</surname></persName></respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>DHARMA</authority>
+                <pubPlace><!-- Fill in here the place or places where the encoding has been done --></pubPlace>
+                <idno type="filename">DHARMA_INSPYU00012</idno>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">
+                        <p>This work is licensed under the Creative Commons Attribution 4.0 Unported
+                            Licence. To view a copy of the licence, visit
+                            https://creativecommons.org/licenses/by/4.0/ or send a letter to
+                            Creative Commons, 444 Castro Street, Suite 900, Mountain View,
+                            California, 94041, USA.</p>
+                    </licence>
+                </availability>
+                <date from="2019" to="2025">2019-2025</date>
+            </publicationStmt>
+            <sourceDesc><!-- only the handDesc can be filled in at this stage -->
+                <msDesc><!-- //// NB: the msIdentifier had to be added for validation purposes ///. It will be edited later with the metadata spreadsheet -->
+                    <msIdentifier>
+                        <repository>DHARMAbase</repository>
+                        <idno/><!-- don't modify this -->
+                    </msIdentifier>
+                    <msContents><!-- describe the intellectual content of an inscription -->
+                        <summary><!-- //// NOT MANDATORY  ////--></summary> <!-- offers the possibility to give a summary of the inscription's content -->
+                    </msContents>
+                    <physDesc>
+                        <handDesc>
+                            <p><!-- The script name(s) will be inserted here at a later stage from the metadata spreasheet. At this stage, you can mention here in a free-text paragraph any characteristics of the writing observed more than once in this inscription that seem unusual/uncommon or otherwise noteworthy given the general characteristics of the script in question. See EGD 11.2. --></p>
+                            <!-- If you need to identify individual hands (EGD §7.5/) in addition to one or more paragraphs of general palaeographic description, wrap <summary> around the <p> or <p>s above, and, outside <summary>, create <handNote> elements for each hand as follows:
+						<summary><p><p/></summary>
+						<handNote xml:id="Pallava00001_hand1"></handNote>
+						<handNote xml:id="Pallava00001_hand2"></handNote>
+					 -->
+                        </handDesc>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>The project DHARMA has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme (grant agreement no 809994).</p>
+            </projectDesc>
+            <schemaRef type="guide" key="EGDv01" url="https://halshs.archives-ouvertes.fr/halshs-02888186"/><!-- UPDATE the link once the release is made official -->
+            <listPrefixDef>
+                <prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)" replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
+                    <p>Public URIs with the prefix bib to point to a Zotero Group Library named ERC-DHARMA whose data are open to the public.</p>
+                </prefixDef>
+                <prefixDef ident="part" matchPattern="([a-z]+)" replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_idListMembers_v01.xml#$1">
+                    <p>Internal URIs using the part prefix to point to person elements in the <ref>DHARMA_idListMembers_v01.xml</ref> file.</p>
+                </prefixDef>
+            </listPrefixDef>
+        </encodingDesc>
+        <revisionDesc>
+            <change who="part:mime" when="2026-03-02">Conversion to DHARMA guidelines</change>
+        </revisionDesc>
+    </teiHeader>
+    <text xml:space="preserve">
+      <body>
+			<div type="edition" xml:lang="pyx-Latn">
+				<ab>
+					<lb n="1"/><gap extent="unknown" reason="lost"/><gap reason="lost" quantity="2" unit="character"/>
+					<!-- MM2AG: followed RTF here, but looking at RTI, the basis for indicating precisely two lost akṣaras is unknown to me; I would have an unknown gap followed by unknown akṣara + n· -->
+					<gap reason="lost" quantity="1" unit="character"/>n· <gap reason="lost" quantity="1" unit="character"/><gap reason="lost" quantity="1" unit="character"/>r· <unclear>ḅi</unclear><!-- MM2AG: added ḅi which is barely visible on RTI -->n·<unclear>ṁḥ</unclear> <unclear>r</unclear>o
+					<!-- MM2AG: previously encoded (.·) as <supplied><gap reason="lost" quantity="1" unit="consonant"/>·</supplied>, but discarded since I don't see any trace of a final consonant in the RTI. If there ever was a consonant there, it can't be seen. And the akṣara ro without a final consonant appears in 025.3 and 025.5. --> 
+					ta ṭaḥ <space type="horizontal" quantity="1" unit="character"/>
+					t<unclear>d</unclear>a<unclear>v·ṃ</unclear>ḥ ma ḅa mrau tmaḥ <gap reason="illegible" quantity="1" unit="character"/> <unclear>°o</unclear> saḥ <space type="horizontal" quantity="1" unit="character"/> tdav·ṃḥ ta <unclear>ga</unclear>ṅ· kgaṃḥ tol· ṅav· pr̥ kul· toy· tkir·ṁḥ kliṁḥ <gap reason="illegible" quantity="2" unit="character"/> tar· dav·ṃḥ <space type="horizontal" quantity="1" unit="character"/> tda<supplied reason="lost">v·</supplied>ṃḥ tvat·ṃ <unclear>t</unclear><supplied reason="lost">i</supplied>n·ṁ droḥ <gap reason="illegible" quantity="1" unit="character"/>p· <gap reason="illegible" quantity="1" unit="character"/>m· toy·ṁ tkir·ṁḥ
+					<lb n="2"/><gap reason="illegible" quantity="5" unit="character"/>
+					<unclear>t</unclear>da<unclear>v</unclear>·ṃ kṭlo<supplied reason="lost">t·</supplied> tdav·ṃḥ tda<supplied reason="lost">v·</supplied>ṃ<supplied reason="lost">ḥ</supplied> ta <gap reason="illegible" quantity="4" unit="character"/> saḥ <gap reason="lost" quantity="1" unit="character"/><gap reason="lost" quantity="1" unit="character"/><unclear>v</unclear>· <gap reason="lost" quantity="1" unit="character"/>m· gaṃ tol· <gap reason="lost" quantity="1" unit="character"/>C· pr̥ ku<supplied reason="lost">l·</supplied> <supplied reason="lost">toy·</supplied> nk<unclear>ir·</unclear>ṁḥ <space type="horizontal" quantity="1" unit="character"/> tda<unclear>v·</unclear>ṃḥ li mrau kak· tan· gam·ṃḥ tol· ṅav· toy·ṁ tkir·ṁḥ °o saḥ <space type="horizontal" quantity="1" unit="character"/> tdav·ṃḥ °oṅ· dlav· tim·ṁ goṃḥ tol· ṅav· s<unclear>m</unclear>a toy·ṁ tkir·<unclear>ṁḥ</unclear>
+					<lb n="3"/><gap reason="illegible" quantity="10" unit="character"/> hut·
+					<gap reason="illegible" quantity="4" unit="character"/> yaṁ dav·ḥ tar·
+					<unclear>ḅ</unclear>in·ṁḥ ro<unclear>m</unclear>· ñaḥ kak· ḅaḥ ta san·
+					pva<unclear>ṃ</unclear> <space type="horizontal" quantity="1" unit="character"/> ma <unclear>ña/ro</unclear>ḥ ta<unclear>r</unclear>·
+					<unclear>ḅ</unclear>in·<supplied reason="lost">ṁḥ</supplied> san· pvaṃ <space type="horizontal" quantity="1" unit="character"/> viṃṁ tar· <unclear>tkir·ṁḥ</unclear> ma tam· ḅiṁ pvaṃ <space type="horizontal" quantity="1" unit="character"/> g<unclear>o</unclear>ṃḥ ta hnam· tam· ḅiṁ tiṁ phi <space type="horizontal" quantity="1" unit="character"/> tap· biṁ pik·ṁ tboC·ḥ ta hna<supplied reason="lost">m·</supplied> mra ḅiṁḥ <gap reason="illegible" quantity="1" unit="character"/>
+				</ab>
+			</div>
+			<div type="apparatus">
+				<listApp/>
+			</div>
+			<div type="translation" xml:lang="eng">
+				<p><!--english translation here--></p>
+			</div>
+			<div type="commentary">
+				<p>The shape of presumptive <seg type="graphemic">ḅ</seg> is noteworthy: it is in most cases a dot in a square, resembling the shape of <seg type="graphemic">ḅ</seg> in Old Mon.</p>
+			</div>
+			<div type="bibliography">
+				<!--ASB 1912, 12 §37; 1913, 21-2. — Blagden 1913-14: 127 (5).-->
+				<!--[Todo: markup citedRange elements if necessary]-->
+				<p><bibl><ptr target="bib:ASB"/><citedRange>1912: 12 §37</citedRange></bibl> reports the inscription in Bodawpaya’s Amarapura collection and relates correspondence with Blagden. Mention is also made in <bibl><ptr target="bib:ASB"/><citedRange>1913: 21-2</citedRange></bibl>. It is also included as #5 in the list of known Pyu inscriptions in <bibl><ptr target="bib:Blagden1913-1914_01"/><citedRange>127 (5)</citedRange></bibl>. <bibl><ptr target="bib:SeinWin2016_01"/><citedRange>127-30</citedRange></bibl> provides the only transliteration (in Burmese script). </p>
+				<!-- <listBibl type="secondary-bibliography">
+				</listBibl>  -->
+			<listBibl type="primary"><bibl><ptr target="bib:CPI2018_01"/><citedRange unit="item">DHARMA_INSPYU00012</citedRange></bibl></listBibl></div>
+		</body>
+  </text>
+</TEI>

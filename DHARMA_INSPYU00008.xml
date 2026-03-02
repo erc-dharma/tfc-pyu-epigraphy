@@ -1,0 +1,374 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_SQF.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Stone Pillar in Parts near the Kubyaukkyi Temple and in the Myazedi Pagoda</title>
+                <respStmt>
+                    <resp>author of digital edition</resp>
+                <persName ref="part:argr"><forename>Arlo</forename><surname>Griffiths</surname></persName><persName ref="part:mami"><forename>Marc</forename><surname>Miyake</surname></persName><persName ref="part:jukw"><forename>Julian Karl</forename><surname>Wheatley</surname></persName></respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>DHARMA</authority>
+                <pubPlace><!-- Fill in here the place or places where the encoding has been done --></pubPlace>
+                <idno type="filename">DHARMA_INSPYU00008</idno>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">
+                        <p>This work is licensed under the Creative Commons Attribution 4.0 Unported
+                            Licence. To view a copy of the licence, visit
+                            https://creativecommons.org/licenses/by/4.0/ or send a letter to
+                            Creative Commons, 444 Castro Street, Suite 900, Mountain View,
+                            California, 94041, USA.</p>
+                    </licence>
+                </availability>
+                <date from="2019" to="2025">2019-2025</date>
+            </publicationStmt>
+            <sourceDesc><!-- only the handDesc can be filled in at this stage -->
+                <msDesc><!-- //// NB: the msIdentifier had to be added for validation purposes ///. It will be edited later with the metadata spreadsheet -->
+                    <msIdentifier>
+                        <repository>DHARMAbase</repository>
+                        <idno/><!-- don't modify this -->
+                    </msIdentifier>
+                    <msContents><!-- describe the intellectual content of an inscription -->
+                        <summary><!-- //// NOT MANDATORY  ////--></summary> <!-- offers the possibility to give a summary of the inscription's content -->
+                    </msContents>
+                    <physDesc>
+                        <handDesc>
+                            <p><!-- The script name(s) will be inserted here at a later stage from the metadata spreasheet. At this stage, you can mention here in a free-text paragraph any characteristics of the writing observed more than once in this inscription that seem unusual/uncommon or otherwise noteworthy given the general characteristics of the script in question. See EGD 11.2. --></p>
+                            <!-- If you need to identify individual hands (EGD §7.5/) in addition to one or more paragraphs of general palaeographic description, wrap <summary> around the <p> or <p>s above, and, outside <summary>, create <handNote> elements for each hand as follows:
+						<summary><p><p/></summary>
+						<handNote xml:id="Pallava00001_hand1"></handNote>
+						<handNote xml:id="Pallava00001_hand2"></handNote>
+					 -->
+                        </handDesc>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>The project DHARMA has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme (grant agreement no 809994).</p>
+            </projectDesc>
+            <schemaRef type="guide" key="EGDv01" url="https://halshs.archives-ouvertes.fr/halshs-02888186"/><!-- UPDATE the link once the release is made official -->
+            <listPrefixDef>
+                <prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)" replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
+                    <p>Public URIs with the prefix bib to point to a Zotero Group Library named ERC-DHARMA whose data are open to the public.</p>
+                </prefixDef>
+                <prefixDef ident="part" matchPattern="([a-z]+)" replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_idListMembers_v01.xml#$1">
+                    <p>Internal URIs using the part prefix to point to person elements in the <ref>DHARMA_idListMembers_v01.xml</ref> file.</p>
+                </prefixDef>
+            </listPrefixDef>
+        </encodingDesc>
+        <revisionDesc>
+            <change who="part:mime" when="2026-03-02">Conversion to DHARMA guidelines</change>
+        </revisionDesc>
+    </teiHeader>
+    <text xml:space="preserve">
+      <body>
+			<div type="edition">
+				<div type="textpart" n="Old Burmese" xml:lang="obr-Latn">
+					<ab>
+						<!--Transcription needs tagging-->
+						<lb n="1"/>|| śra || namo buddhā /// rhā skhaṅa sāsanā tac· thoṅ· khrok· ryā
+						<lb n="2"/>n(h)ac· chāy[·] he /// n· līy· brī rakā || °īy· °arimaddanapur· ma
+						<lb n="3"/>/// vanādityadhammarāj· maññ· su maṅ· phlac· °e
+						<lb n="4"/>/// (y)ā tac· yok· su kā trilokavaṭaṁ
+						<lb n="5"/>/// thuiv· pay· mayā sā kā rājakumā
+						<lb n="6"/>/// k[y]on· suṁ rvoh· pay· mayā °ā
+						<lb n="7"/>/// (rakā) || pay· mayā (ta)
+						<lb n="8"/>/// su nhaṅ'· pa[y·] /// (°a) [s]ā rājakumā
+						<lb n="9"/>/// tu[ṁ] °e °a || thuiv· maṅ· °anhac· nhac· chāy·
+						<lb n="10"/>/// °e°a· || sīy· kha mū nā su rhov· nhik· Ce
+						<lb n="11"/>/// r· maññ· su pay· mayā°a· sā ◊ mi mī
+						<lb n="12"/>/// kla ññjo °ok· mi rakā || r[h](u)[y]· °a
+						<lb n="13"/>/// [ṅ](·) [p]lu ru /// °e°a· nhap· līy· su rhov· ///
+						<lb n="14"/>/// ya /// na ◊ [°e °a] || °iy· rhuy· purhā k[ā]
+						<lb n="15"/>°aphei°a· °atei°a(·) /// y /// pl[o]°a· su teh· | ///
+						<lb n="16"/>n· suṁ rvoh· °athui°a· kyon(·) ṅa skhaṅ· piy· su saññ· kā ///
+						<lb n="17"/>rhuy· pu rhā °ā °a ◊ tui°a· kyon(·) /// y· ye°a· || thiv· rhov·
+						<lb n="18"/>◊ h· maṅ· nhac· klui°a· rakā koṅ· lh(e)ṅ'·teh· koṅ· ///
+						<lb n="19"/>teh· min'· ru ◊ y'· °e°a· || sa (ṅg)r(ī) mahāther· || sa ṅgrī ///
+						<lb n="20"/>liputtatissatther· || sa ṅgrī sume /// paṇḍit· || sa ṅgrī brahma ///
+						<lb n="21"/>l· || sa ṅgrī brahmadiv· || sa ṅgri so /// || sa ṅgrī saṅghasena varapaṇḍi-
+						<lb n="22"/>t· || thuiv· skhaṅ· ◊ tui°a· °am(ho) /// ha maṅ· riy· son· °e°a· ||
+						<lb n="23"/>thuiv· brī rakā thuiv· rājak /// y· mayā°a· °a sā 	thuiv· rhuy·  
+						<lb n="24"/>purhā thāpanā /// [°e°a·] /// hu /// s[o] kū plo°a· ◊ °e°a·
+						<lb n="25"/>plo°a· brī ra(k) /// (°i)y· kū pu ◊ rhā lho(t·) /// · ///
+						<lb n="26"/>26 sakmunalon· [t](ac)· rvoh· || rapāy· (t) /// || hen· buiv· ta-
+						<lb n="27"/>c· rvoh· || °iy· [ky]on· [p/s]lī rvoh(·) yo ruy'· °e°a· || thiv·
+						<lb n="28"/>rājaku(mā)[r]· (maññ)· su pay· mayā°a· sā °iy· kū purhā °ā riy·
+						<lb n="29"/>son ruy' · °e°a· °iy'· seī°a· min'· °e°a· || °iy· ṅā °amho°a·
+						<lb n="30"/>kā sarvvaññutaññāṇ· praññjā ra °ap'· sū °akroṅ· phlac· ◊ ciy'·
+						<lb n="31"/>teh· || noṅ· °ā ṅa sā laññ· goṅ· || ṅa mliy· laññ· goṅa
+						<lb n="32"/>|| ṅa °achuy· laññ· goṅ· || sū tac· thū laññ· goṅ· || °iy· purhā °ā ṅā
+						<lb n="33"/>lhū kha su kyon· °anhip·°acak· teh· mū mu kā || °arimittiryā pu-
+						<lb n="34"/>rhā skhaṅ· °a phū ra ◊ ciy || 0 ||
+					</ab>
+				</div>
+				<div type="textpart" n="Pali" xml:lang="pli-Latn">
+					<ab>
+						<!--Transcription needs tagging-->
+						<lb n="1"/> || śrī || (I) buddhādikaṁ vatthuvaraṁ nametvā puññaṁ kataṁ yaṁ jina ///
+						<lb n="2"/> kaṁ rājakumāranāmadhayyena vakkhāmi suṇ /// || 0 ||
+						<lb n="3"/> (II) nibbānā lokanāthassa °aṭṭhavīsā ◊ dhike gaCe /// sse pana
+						<lb n="4"/> vassānaṁ chasate cāpare tathā || 0 || (III) °arimadda /// smi pure °āsi
+						<lb n="5"/> mahabbalo rājā tibhuvanādicco °udiccā /// va ◊ ṅsajo
+						<lb n="6"/> (IV) tassāsekā piyā devi sā tilokava /// kā hitesī
+						<lb n="7"/> kusalā sabbakiccesu pana rā[j]i[n]o || /// || (V) (t) /// sāseko su
+						<lb n="8"/> to rāja ◊ ku ◊ māro nāma nāmato °amacco rājakiccesu
+						<lb n="9"/> byāvato satimā vidū || 0 || (VI) °adā gāmattayaṁ tassā de
+						<lb n="10"/> ◊ viyā so mahīpati pasanno savvadā [dā]saparibhogena
+						<lb n="11"/> bhuñjituṁ || 0 || (VII) °aniccatāvasaṁ tassā ga(t)āya pana deviyā
+						<lb n="12"/> rāja rājakumārassa °adā gāmattayaṁ puna || 0 || (VIII) °aṭṭhavīsati
+						<lb n="13"/> vassāni rajjaṁ dhammena kāriya mā ◊ rananti(k)arogassa vasaṁ pa
+						<lb n="14"/> tte narādhipe || 0 || (IX) saranto dhammarājassa (ma)hantaṁ guṇasañca
+						<lb n="15"/> yaṁ kāretvā satthuno bi ◊ mba sabbasova[ṇṇa]yaṁ subhaṁ || 0 || (X) ga
+						<lb n="16"/> hetvā taṁ ◊ mahantena sakkārena sumānas[o] °upasaṅkamma
+						<lb n="17"/> rājānaṁ °āha cintitam attano || 0 || (XI) bhāgaṁ katvānidaṁ satthu
+						<lb n="18"/> bimbaṁ sovaṇṇayaṁ su ◊ bhaṁ °akāsiṁ vo varaṁ puññaṁ sā ◊ mi
+						<lb n="19"/> tumhe numodatha || (XII) gāmattayaṁ pi vo sāmi pubbe dinna
+						<lb n="20"/> n tu me °ahaṁ °imasseva munindassa demi taññ cānumodatha || 0
+						<lb n="21"/> || ◊ (XIII) °evaṁ vutte mahīpālo rogenāturamānaso sādhu sā
+						<lb n="22"/> ti vatvāna tu ◊ ṭṭhahattho pamodito || 0 || (XIV) dayāparo pa
+						<lb n="23"/> hāthero thero ◊ muggaliputtako sumedhattā su
+						<lb n="24"/> medho ti laddhanāmo ca ◊ paṇḍito || 0 || (XV) brahmapā
+						<lb n="25"/> lo tathā brahmadevo sampannasīlavā sono bahu
+						<lb n="26"/> ssuto saṅghasennavho varapaṇḍito || 0 || (XVI) °etesaṁ
+						<lb n="27"/> pana bhikkhūnaṁ saṁmukhā so sumānaso (ja)laṁ pātesi katvā
+						<lb n="28"/> na sakkhin tu vasudhātalaṁ || 0 || (XVII) tat(o) so taṁ mahāmacco
+						<lb n="29"/> bim /// sovaṇ(ṇ)ayaṁ subhaṁ pati /// i /// (kāresi gu)
+						<lb n="30"/> {[ha]} (ka) /// (XVIII) (kat)[vā na] maṅgalaṁ buddhapa ///
+						<lb n="31"/> timāya gu ◊ hāya ca °akāsevaṁ paṇī ◊ dhānaṁ
+						<lb n="32"/> nibbinno bhavasaṅkate || 0 || (XIX) karontena mayā °etaṁ
+						<lb n="33"/> yaṁ puññaṁ taṁ samācitaṁ hotu sabbaññutaññāṇaṁ
+						<lb n="34"/> pahivedhāya paccay[o] || 0 || (XX) yattakā tu mayā
+						<lb n="35"/> dāsā gāmattayanivāsino dinnā gu ◊ hāya sova
+						<lb n="36"/> /// patimāya mahesino || 0 || (XXI) putto me vā pa
+						<lb n="37"/> /// tt(o) vā °añño vā pana ññātako yo koci
+						<lb n="38"/> pasaṅkappo naro °assaddhamānaso || 0 || (XXII) ka[r]e
+						<lb n="39"/> yyapadduvaṁ tesaṁ dāsānaṁ so narādhamo mittiyyadi
+						<lb n="40"/> pa ◊ dinda ◊ ssa dassanaṁ nādhigacchatū ti || 0 ||
+					</ab>
+				</div>
+				<div type="textpart" n="Old Mon" xml:lang="omx-Latn">
+					<ab>
+						<!--Transcription needs tagging-->
+						<lb n="1"/> {[r]}/// u(d)[dh]
+						<lb n="2"/> ddha tirley· kuli °a /// moya lṅima ///
+						<lb n="3"/> ḅār· cvas· diññcām· cnām· tuy· || ḍe /// ḍu
+						<lb n="4"/> °arimaddanapur· vo°a· smiṅ· śrītribhu ///
+						<lb n="5"/> mmarāj· das· || gna kyek· smiṅ· goḥ[h](·) ///
+						<lb n="6"/> lokavaṭaṁsakā de ◊ vi °imo ///
+						<lb n="7"/> kyek· goḥh· rājakumār· °imo ///
+						<lb n="8"/> g(o)ḥh· kil· ḍik· pi tvāññ· ku gna Ce ///
+						<lb n="9"/> g(o)ḥh· || kāl· gna kyek· goḥh· cu(t)
+						<lb n="10"/> °a°ut· kiryā gna kyek· goḥ ku ḍik· pi ///
+						<lb n="11"/> goḥh· smiṅ· tun· keil· ku kon· gna ///
+						<lb n="12"/> ma °imo°a· rāja[ku]mār· goḥh· || smi ///
+						<lb n="13"/> kmin· ḅār cvas· diññcām· cnām· tuy· (k) ///
+						<lb n="14"/> goḥ 'jey· ññan· scuti || kon· ///
+						<lb n="15"/> ma °imo°a· rāja ◊ kumār· go ///
+						<lb n="16"/> r·nas· guṇ· ma smiṅ· °iññcim· jirk ///
+						<lb n="17"/> kyak· thar· moy· °ār· tu(ḅ)ok· smi
+						<lb n="18"/> ṅ· munas· rov· vo°a· || kyek· thar· vo°a· °e-
+						<lb n="19"/> y· ḍik· pa raṁpo°a· tirla ḍi(k·) pi tvāññ· ma
+						<lb n="20"/> tirla keil· ku °ey· goḥ /// °ey· ḍik·
+						<lb n="21"/> kil· ku kyek· vo°a· tirla °anu-
+						<lb n="22"/> modanā da || kāl· goḥ smiṅ· (sḍ)ik· gap puma-
+						<lb n="23"/> s· thic· °ā thic· °ā smiṅ· pa sādhu(k)ār· || kāl· 
+						<lb n="24"/> goḥ tirla ◊ poy· mhāthe /// | ticār·
+						<lb n="25"/> muggaliputtatissatther· || ◊ ticā /// [su]medhapa-
+						<lb n="26"/> ṇḍit· || ticār brah///pāl· || (ti) /// r· brahma-
+						<lb n="27"/> /// [va || ti]cār(·) son(·) || t(i)cā /// (ṅgha)sena-
+						<lb n="28"/> {[var]}paṇḍit· || kinta tir[l]a (t)a goḥ smiṅ·
+						<lb n="29"/> cut· ḍek· han· ti || blaḥ (go) /// (ko)n·
+						<lb n="30"/> gna kyek· ma °imo°a· rājaku /// (go)ḥ
+						<lb n="31"/> ket· kyek· thar· goḥh· thāpa?ā ka /// guo-
+						<lb n="32"/> h· cloṅ· thar· vo°a· || kāl· busac·
+						<lb n="33"/> kyek· goh· vo°a· kon· gna kyek g(o)ḥ
+						<lb n="34"/> ket· sak·munalon· moy· tvāññ· /// pā-
+						<lb n="35"/> y· moy· tvāññaḥh· gir°uy· moy·
+						<lb n="36"/> tvāññ· || 'ut· ḍik· pi tvāññ· goḥ cu-
+						<lb n="37"/> t· ḍek· ku kyek· thar· ma thāpanā
+						<lb n="38"/> hin· guoḥ vo°a· rādhanā rov· vo-
+						<lb n="39"/> °· || sinraṅ· °ey· vo°a· °or· das· he-
+						<lb n="40"/> t· ku gvo°a· sarvvaññutaññāṇ· |[|] ko-
+						<lb n="41"/> n· °ey· laḥ || cov· °e°a· laḥ || kulo
+						<lb n="42"/> °ey· laḥ || ññaḥ c'eṅ· laḥ || yal· pa °u-
+						<lb n="43"/> padrov· ku ḍik· ma °ey· kil· ku
+						<lb n="44"/> kyek· vo°a· yaṅ· ññir·ññāc· kye-
+						<lb n="45"/> k· trey· mettey· laḥ °or· ḍeh·
+						<lb n="46"/> go°a· || 0 ||
+					</ab>
+				</div>
+				<div type="textpart" n="Pyu" xml:lang="pyx-Latn">
+					<ab>
+						<lb n="1"/>1 <g type="ddanda">.</g> siri <g type="ddanda">.</g> dathagaṃda ḅa doṃ ḅaṁḥ ḅiṁḥ pduṃ sguṃ daṃḥ ḅa tva 1000 <unclear>600</unclear>
+						<lb n="2"/>20 hra<unclear>t</unclear>·ṁ °o sni<unclear>ṅ</unclear>·ḥ ḅiṁḥ tvaṅ·ṃṁḥ tha daṅ·ṃṁ yaṁ tiṁ priṅ·ḥ rimadham·narbu °o rmiṅ· ḅiṁḥ si <g>//</g> sri tribhu <lb n="3" type="inWord"/>vaṃnadit·ṃṁtya dham·maraja °o rmiṅ· ḅiṁḥ si <g>//</g> °o doṅ·ṃḥ ḍaZ ḅaṁḥ °o rvaṅ·ṃḥ ma yaḥ triḍo
+						<lb n="4" type="inWord"/>gavadasaga
+						<!-- MM2AG: not sure how to handle a word with a variant reading split
+							across lines. --> deṃviṃ ḅiṁḥ si °o rmi <g>//</g> pau °o saḥ rajaguma
+						biṁḥ <lb n="5"/>si °o rmi <g>//</g> °o vaṁ traḥ kra hoḥ ḅiṁḥ paṁḥ toḥZ
+						<g>//</g> pau ḅaṁḥ ma yaḥ biṁḥ <lb n="6"/>hi ta daṃṁ <g>//</g> ḅaṁḥ ma yaḥ °o tra traḥ kra hoḥ ḅiṁḥ paṁḥ <unclear>t</unclear>ḅaḥ ḅaṁḥ ma yaḥ <lb n="7"/><unclear>°o saḥ rajaguma °o vaṁ</unclear>
+						<g>//</g> pau <space type="horizontal" quantity="1" unit="character"/> ḅiṁḥ tdaṃḥ sniḥ rpu hraṁ ḅiṁḥ ta daṃṁ <g>//</g> 0 <g>//</g>
+						<lb n="8"/>ḅiṁḥ sriḥ ḅiṁḥ hniṁḥ hḍiṁḥ hi °o mtu duṃ roḥZ <g>//</g> pau
+						ḅaṁḥ ma yaḥ °o saḥ <lb n="9"/>rajaguma ḅiṁḥ si °o rmi <g>//</g> °o diṃṁ ḅiṁḥ mtau ma pau tdaṃḥ to °o kḍeḥ troḥ <lb n="10"/>diṃṁ ḅiṁḥ mdauṃ haḥ ḍaḥ daṃṁ <g>//</g> pau ḅaṁḥ ḅudha °o chaḥ bo bradima tha <unclear>tlu</unclear> ḅiṁḥ se <lb n="11"/>kyaḥ <g>//</g> pau ḅaṁḥ budha ḅiṁḥ tuḥ thmuḥ ḍoḥ yaṁ naṁ ḅiṁḥ tdiṃḥ toḥZ <g>//</g> yaṁ <lb n="12"/>ḅudha tha ḅaṁḥ raḥ saḥ biṁḥ se ma ḅuḥ ḅaṁḥ °o vaṁ paṁḥ che
+						choḥZ <g>//</g> yaṁ traḥ <lb n="13"/>k<unclear>ra</unclear> nhoḥ ḅiṁḥ
+						paṁḥ ma ḅuḥ <g>//</g> yaṁ ḅaṁḥ hra tha °o vaṁ paṁḥ cheZ <g>//</g> pau ḍoḥ ḅaṁḥ <lb n="14"/>tdaṃḥ ḅiṁḥ kiṁ pa daṃṁ ḅiṁḥ ṅa ha pra choḥ ha choḥ ḅiṁḥ si <g>//</g> pau °o <lb n="15"/>doṃḥ traḥ ḅaṁḥ mhaṭhe <g>/</g> traḥ ḅaṁḥ mugaṃtubudiṁsaṭhe
+						<g>/</g> traḥ ḅaṁḥ <lb n="16"/>saumedhaḅadiṃṁ
+						<g>/</g> traḥ ḅaṁḥ vrahmaba <g>/</g> traḥ ḅaṁḥ vrahmadaṃyoḥ
+						<g>/</g> traḥ ḅaṁḥ <lb n="17"/>su <g>/</g> traḥ ḅaṁḥ sagaṃsirvaṃrabadiṃṁ <g>/</g> pau traḥ baṁḥ sagha tvo °o hṅa <lb n="18"/>diṁ duṃ tdaṃḥ tu ḅaṁḥ ḅiṁḥ cha toḥ tduṃ <g>//</g> pau ḅiṁḥ ta daṃṁ ma yaḥ °o saḥ <lb n="19"/>rajaguma ḅiṁḥ si °o rmi maZ <g>//</g> ḅiṁḥ staḅana ḅudha tha ḅiṁḥ se goṃ <lb n="20"/>°o stau tha ḅiṁḥ ta daṃṁ <g>//</g> pau goṃ °o hḍī ḅiṁḥ saṁḥ ma roḥ <g>//</g> samana <lb n="21" type="inWord"/>rḍoḥ kra taṁ <g>//</g> ra bai kra taṁ <g>/</g>
+						jiṁ vuḥ kra taṁ <g>/</g> yaṁ traḥ kra hoḥ diṃṁ ḅiṁḥ <lb n="22"/>diṃṁ daṃṁ <g>//</g> yaṁ ḅaṁḥ ma yaḥ °o saḥ rajaguma yaṁ goṃ ḅaṁḥ ḅudha <lb n="23"/>°o vaṁ tduṃ ḅiṁḥ chai ta daṃṁ <g>//</g> yaṁ na ḅiṁḥ diṃṁ cho <g>//</g> yaṁ ma gaṁḥ pra ḅuḥ <lb n="24"/>saveñudeña b<supplied reason="lost">r</supplied>e<unclear>ña</unclear>
+						<supplied reason="lost">ḅ</supplied>i<supplied reason="lost">ṁḥ ḅ</supplied>i<supplied reason="lost">ṁḥ paṁḥ</supplied> ch<supplied reason="lost">e</supplied> naḥ <unclear>t</unclear><supplied reason="lost">i</supplied>ṁ pḍa<supplied reason="lost">ṁ</supplied>ḥ <unclear>pa</unclear>
+						<supplied reason="lost"><g>//</g></supplied>
+						<lb n="25"/>ya<supplied reason="lost">ṁ</supplied>
+						<unclear>t</unclear>r<unclear>a</unclear><gap reason="illegible" quantity="1" unit="character"/><gap reason="lost" quantity="7" unit="character"/><unclear>sa</unclear>ḥ ḍa <g>/</g> gi pḍi ḍa <g>/</g> gi <supplied reason="lost">s</supplied>ruḥ <lb n="26"/>ḍa <g>/</g> mra ja <unclear>h</unclear>ṅa <unclear>ḍa /</unclear> ya<supplied reason="lost">ṁ</supplied> ḅudha °o vaṁ gaṁḥ hḍiṁḥ toḥ <lb n="27"/>ma diṃṁ <g>/</g> ga hñiṁ ci ga bro pdaṃ ma taḥ ṅuḥ ḅuḥ <g>//</g>
+						yaṁ baṁḥ <lb n="28"/>ḅudha °arimedeyaṃ daṃṁ ḅaḥ kdiṃ kchiṁḥ tiṁ tmu ma paṁḥ <lb n="29"/>che choḥZ <space type="horizontal" quantity="1" unit="character"/>
+						<g type="ddanda">.</g><g>@</g>
+					</ab>
+				</div>
+			</div>
+			<div type="apparatus">
+				<listApp>
+					<app>
+						<note>Blagden reads our <seg type="graphemic">°o</seg> as <seg type="graphemic">°u</seg>; Krech reads it as<seg type="graphemic"> ʔa</seg>. </note>
+						<note>For phonological symmetry (and to eliminate the long vowel ū), Krech reads Blagden’s long ū as av (and -va as av?). We read short u for ū in these words.</note>
+						<note>Problem of Blagden’s ḷ, which we provisionally read as ḍ.</note>
+					</app>
+					<app loc="14">
+						<lem>kiṁ</lem>
+						<rdg source="bib:Blg">riṁ</rdg>
+						<note>"B appears to have <seg type="graphemic">riṁ</seg>, which is probably the right reading in A also, though the latter may have <seg type="graphemic">riḥ</seg>." (Blagden)</note>
+					</app>
+					<app loc="14">
+						<lem>nu</lem>
+						<rdg source="bib:Blg"/>
+						<note><seg type="graphemic">nu</seg> is a typographical error for <seg type="graphemic">ṅu</seg> which is correctly written in <ptr target="bib:Blagden1911_01"/>. Should this be read <seg type="graphemic">ṅu</seg>?</note>
+					</app>
+					<app loc="16">
+						<lem>vrahmadaṃyoḥ</lem>
+						<rdg source="bib:Blg">vrahmadeṃyoḥ</rdg>
+						<note>Blagden doubts the <seg type="graphemic">e</seg>.</note>
+					</app>
+					<app loc="17">
+						<lem>sagha</lem>
+						<rdg source="bib:Krech">segha</rdg>
+						<note>"Face B appears to possibly exhibit <seg type="graphemic">s(e)gha</seg>." (Krech)</note>
+					</app>
+					<app loc="19">
+						<lem>se</lem>
+						<rdg source="bib:Krech">segha</rdg>
+						<note>"Face B seems to show <seg type="graphemic">so</seg>." (Krech)</note>
+					</app>
+				<app loc="3">
+							<lem>triḍo</lem>
+							<rdg source="bib:Blg">triḷo</rdg>
+						</app><app loc="4">
+							<lem>gavadasaga</lem>
+							<rdg source="bib:Blg">gavadasaga</rdg>
+						</app><app loc="15">
+							<lem>mugaṃtubudiṁsaṭhe</lem>
+							<rdg source="bib:Blg">mūgaṃḷubūdiṁsaṭhe</rdg>
+							<rdg source="bib:Krech">mavgaṃtubavdiṃṁsa</rdg>
+						</app><app loc="16">
+							<lem>vrahmadaṃyoḥ</lem>
+							<rdg source="bib:Blg">vrahmadeṃyoḥ</rdg>
+							<rdg source="bib:Krech">vrahmad[ai]yoḥ</rdg>
+						</app><app loc="17">
+							<lem>sagha</lem>
+							<rdg source="bib:Krech">s(e)gha</rdg>
+						</app><app loc="19">
+							<lem>se</lem>
+							<rdg source="bib:Krech">so</rdg>
+						</app><app loc="21">
+							<lem>rḍoḥ</lem>
+							<rdg source="bib:Blg">ḷōḥ</rdg>
+						</app><app loc="21">
+							<lem>jiṁ vuḥ</lem>
+							<rdg source="bib:Blg">jiṁ vūḥ</rdg>
+						</app></listApp>
+			</div>
+			<div type="translation" xml:lang="eng">
+				<p>Duplicate of PYU <ref target="DHARMA_INSPYU00007">7</ref>.</p>
+			</div>
+			<div type="commentary">
+				<p>1. <seg type="graphemic">siri</seg>: Observe the same shape of <seg type="graphemic">ri</seg> in PYU <ref target="DHARMA_INSPYU00034">34</ref>.</p>
+				<p>1. <seg type="graphemic">sguṃ</seg>: <seg type="graphemic">sgu</seg> A.</p>
+				<p>2. <seg type="graphemic">hrat·ṁ</seg>: <seg type="graphemic">hraṁ</seg> A.</p>
+				<p>2. <seg type="graphemic">sni[ṅ]·ḥ</seg>: <seg type="graphemic">sniḥ</seg> A.</p>
+				<p>2. <seg type="graphemic">tvaṅ·ṃṁḥ</seg>: <seg type="graphemic">tvaṃṁḥ</seg> A.</p>
+				<p>2. <seg type="graphemic">daṅ·ṃṁ</seg>: <seg type="graphemic">daṃṁ</seg> A.</p>
+				<p>2. <seg type="graphemic">yaṁ</seg>: <seg type="graphemic">// yaṁ</seg> A.</p>
+				<p>2. <seg type="graphemic">priṅ·ḥ</seg>: <seg type="graphemic">priḥ</seg> A.</p>
+				<p>2. <seg type="graphemic">rimadham·narbu</seg>: <seg type="graphemic">rimadhanarbu</seg> A.</p>
+				<p>2. <seg type="graphemic">rmiṅ·</seg>: <seg type="graphemic">rmi</seg> A.</p>
+				<p>3. <seg type="graphemic">vaṃnadit·ṃṁtya</seg>: <seg type="graphemic">vaṃnadiṃṁtya</seg> A.</p>
+				<p>3. <seg type="graphemic">dham·maraja</seg>: <seg type="graphemic">dhamaraja</seg> A.</p>
+				<p>3. <seg type="graphemic">rmiṅ·</seg>: <seg type="graphemic">rmi</seg> A.</p>
+				<p>3. <seg type="graphemic">doṅ·ṃḥ</seg>: <seg type="graphemic">doṃḥ</seg> A.</p>
+				<p>3. <seg type="graphemic">rvaṅ·ṃḥ</seg>: <seg type="graphemic">rvaṃḥ</seg> A.</p>
+				<p>4. <seg type="graphemic">-gavadasaga</seg>: <seg type="graphemic">-gavaṃdasaga</seg> A.</p>
+				<p>4. <seg type="graphemic">biṁḥ</seg>: <seg type="graphemic">ḅiṁḥ</seg> A.</p>
+				<p>5. <seg type="graphemic">biṁḥ</seg>: <seg type="graphemic">ḅiṁḥ</seg> A.</p>
+				<p>6. <seg type="graphemic">daṃṁ // ƀaṁḥ ma yaḥ</seg>: <seg type="graphemic">daṃṁ ma[ya]ḥ</seg> A.</p>
+				<p>6. <seg type="graphemic">tra</seg>: <seg type="graphemic">dra</seg> A.</p>
+				<p>7. <seg type="graphemic">ḅiṁḥ</seg>: <seg type="graphemic">ḅaṁḥ</seg> A.</p>
+				<p>7. <seg type="graphemic">// 0 // </seg>: <seg type="graphemic">//</seg> A.</p>
+				<p>8. <seg type="graphemic">roḥZ</seg>: <seg type="graphemic">roḥ</seg> A.</p>
+				<p>11. <seg type="graphemic">budha</seg>: <seg type="graphemic">ḅudha</seg> A.</p>
+				<p>11. <seg type="graphemic">ḅiṁḥ tuḥ</seg>: <seg type="graphemic">biṁḥ tuḥ</seg> A.</p>
+				<p>11. <seg type="graphemic">naṁ</seg>: <seg type="graphemic">na</seg> A.</p>
+				<p>12. <seg type="graphemic">ḅudha tha ḅaṁḥ</seg>: <seg type="graphemic">ḅaṁḥ ḅudha tha ḅaṁḥ</seg> A.</p>
+				<p>12. <seg type="graphemic">che</seg>: <seg type="graphemic">ce</seg> A.</p>
+				<p>13. <seg type="graphemic">yaṁ ḅaṁḥ</seg>: <seg type="graphemic">yaṁ baṁḥ</seg> A.</p>
+				<p>13. <seg type="graphemic">ḍoḥ ḅaṁḥ</seg>: <seg type="graphemic">ḍoḥ baṁḥ</seg> A.</p>
+				<p>14. <seg type="graphemic">pa</seg>: <seg type="graphemic">pha</seg> A.</p>
+				<p>14. <seg type="graphemic">ha choḥ ḅiṁḥ si //</seg>: <seg type="graphemic">ha pra choḥ ḅiṁḥ si //</seg> A.</p>
+				<p>15. <seg type="graphemic">mhaṭhe</seg>: <seg type="graphemic">mahaṭhe</seg> A.</p>
+				<p>15. <seg type="graphemic">mugaṃtuḅudiṁsaṭhe</seg>: <seg type="graphemic">mugaṃḍubudadisaṭhe</seg> A.</p>
+				<p>16. <seg type="graphemic">somedhaḅadiṃṁ </seg>: <seg type="graphemic">⟪su⟫medhabadiṃṁ</seg> A.</p>
+				<p>16. <seg type="graphemic">vrahmadaṃyoḥ</seg>: <seg type="graphemic">vradaṃyoḥ</seg> A.</p>
+				<p>16. <seg type="graphemic">tra</seg>: <seg type="graphemic">tra[ḥ]</seg> A.</p>
+				<p>17. <seg type="graphemic">/ pau</seg>: <seg type="graphemic">// pau</seg> A.</p>
+				<p>19. <seg type="graphemic">maZ //</seg>: <seg type="graphemic">ma [//]</seg> A.</p>
+				<p>19. <seg type="graphemic">staḅana</seg>: <seg type="graphemic">stabana</seg> A.</p>
+				<p>19. <seg type="graphemic">ḅudha</seg>: <seg type="graphemic">[b]udha</seg> A.</p>
+				<p>20. <seg type="graphemic">hḍī</seg>: The mystery <seg type="graphemic">ī</seg> has a different shape in A. In B, the tall component comes out of the left side of <seg type="graphemic">h</seg> (unlike the similarly shaped tall component of the <seg type="graphemic">au</seg> in the preceding <seg type="graphemic">pau</seg>) and the shorter component is higher than its counterpart in A.</p>
+				<p>20. <seg type="graphemic">saṁḥ ma roḥ</seg>: <seg type="graphemic">saṁḥ roḥ</seg> A.</p>
+				<p>20. <seg type="graphemic">samana-</seg>: <seg type="graphemic">[sa]mana-</seg> A.</p>
+				<p>21. <seg type="graphemic">-rḍoṁḥ</seg>: <seg type="graphemic">-rḍo(ḥ)</seg> A.</p>
+				<p>21. <seg type="graphemic">taṁ // rabai</seg>: <seg type="graphemic">taṁ / rabai</seg> A.</p>
+				<p>21. <seg type="graphemic">jiṁvuḥ</seg>: <seg type="graphemic">[j]i[ṁ]vuḥ</seg> A.</p>
+				<p>21. <seg type="graphemic">/ yaṁ</seg>: <seg type="graphemic">// yaṁ</seg> A.</p>
+				<p>22. <seg type="graphemic">°o saḥ</seg>: <seg type="graphemic">illegible in</seg> A.</p>
+				<p>22. <seg type="graphemic">ḅaṁḥ ḅudha</seg>: <seg type="graphemic">ḅu[dha]</seg> A, omitting ḅaṁḥ.</p>
+				<p>24. <seg type="graphemic">[pa] (//)</seg>: <seg type="graphemic">paZ //</seg> A.</p>
+				<p>25. <seg type="graphemic">gi pḍi ḍa / gi</seg>: A is missing the punctuation mark.</p>
+				<p>26. <seg type="graphemic">ḍa / </seg>: <seg type="graphemic">ḍaZ</seg>: A, omitting the punctuation mark but inserting <seg type="graphemic">Z</seg>:.</p>
+				<p>26. <seg type="graphemic">ja [h]ṅa</seg>: or read <seg type="graphemic">ju [h]ṅu</seg>?</p>
+				<p>26. <seg type="graphemic">ḍa / mra</seg>: A omits the punctuation mark.</p>
+				<p>26. <seg type="graphemic">ḍa / yaṁ</seg>: A omits the punctuation mark.</p>
+				<p>26. <seg type="graphemic">ḅudha</seg>: A is illegible.</p>
+				<p>27. <seg type="graphemic">ci</seg>: <seg type="graphemic">chi</seg> A.</p>
+				<p>28. <seg type="graphemic">°arimedeyaṃ</seg>: or read <seg type="graphemic">°ārimedeyaṃ?</seg></p>
+			</div>
+			<div type="bibliography">
+				<!--Blagden 1913-14 (B). — EB I, 1, 59-68 (B). — Shafer 1943: 320-37, 340-44, 357-63. — PR, 63-71. — PPPB I, 62-4, 74 n. 15. — Tun Aung Chain 2003: 7-8. — Krech 2012: 153-65 (B).-->
+				<!--[Todo: markup citedRange elements if necessary]-->
+				<p>Both <bibl><ptr target="bib:Blagden1913-1914_01"/><citedRange>(B)</citedRange></bibl> and <bibl xml:id="Krech"><ptr target="bib:Krech2012"/><citedRange>153-65 (B)</citedRange></bibl> note the B-readings (008) where they diverge from those on pillar A. (Krech, in his transliteration, however, substitutes B-readings for A when more likely.) <bibl><ptr target="bib:ThaMyat1963_01"/><citedRange>63-71</citedRange></bibl> gives a separate Burmese script transliteration for the B-pillar. Re-edited here from published photographs and our team’s RTIs.</p>
+				<listBibl type="primary"><bibl><ptr target="bib:CPI2018_01"/><citedRange unit="item">DHARMA_INSPYU00008</citedRange></bibl></listBibl><listBibl type="secondary">
+					<bibl><ptr target="bib:Blagden1911_01"/><citedRange>(B)</citedRange></bibl>
+					<bibl xml:id="Blg"><ptr target="bib:Duroiselle-TawSeinKo1919"/><citedRange>I, 1, 59-68 (B)</citedRange></bibl>
+					<bibl><ptr target="bib:Shafer1943_01"/><citedRange>320-37, 340-44, 357-63</citedRange></bibl>
+					<bibl><ptr target="bib:Luce1985_01"/><citedRange>I, 62-4, 74 n. 15</citedRange></bibl>
+					<bibl><ptr target="bib:TunAungChain2003_01"/><citedRange>7-8</citedRange></bibl>
+				</listBibl>
+			</div>
+		</body>
+  </text>
+</TEI>

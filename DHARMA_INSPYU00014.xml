@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_SQF.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Terracotta Molded Tablet from Lémyethna or Bawbawgyi (?) Pagoda</title>
+                <respStmt>
+                    <resp>author of digital edition</resp>
+                <persName ref="part:argr"><forename>Arlo</forename><surname>Griffiths</surname></persName><persName ref="part:mami"><forename>Marc</forename><surname>Miyake</surname></persName><persName ref="part:jukw"><forename>Julian Karl</forename><surname>Wheatley</surname></persName></respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>DHARMA</authority>
+                <pubPlace><!-- Fill in here the place or places where the encoding has been done --></pubPlace>
+                <idno type="filename">DHARMA_INSPYU00014</idno>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">
+                        <p>This work is licensed under the Creative Commons Attribution 4.0 Unported
+                            Licence. To view a copy of the licence, visit
+                            https://creativecommons.org/licenses/by/4.0/ or send a letter to
+                            Creative Commons, 444 Castro Street, Suite 900, Mountain View,
+                            California, 94041, USA.</p>
+                    </licence>
+                </availability>
+                <date from="2019" to="2025">2019-2025</date>
+            </publicationStmt>
+            <sourceDesc><!-- only the handDesc can be filled in at this stage -->
+                <msDesc><!-- //// NB: the msIdentifier had to be added for validation purposes ///. It will be edited later with the metadata spreadsheet -->
+                    <msIdentifier>
+                        <repository>DHARMAbase</repository>
+                        <idno/><!-- don't modify this -->
+                    </msIdentifier>
+                    <msContents><!-- describe the intellectual content of an inscription -->
+                        <summary><!-- //// NOT MANDATORY  ////--></summary> <!-- offers the possibility to give a summary of the inscription's content -->
+                    </msContents>
+                    <physDesc>
+                        <handDesc>
+                            <p><!-- The script name(s) will be inserted here at a later stage from the metadata spreasheet. At this stage, you can mention here in a free-text paragraph any characteristics of the writing observed more than once in this inscription that seem unusual/uncommon or otherwise noteworthy given the general characteristics of the script in question. See EGD 11.2. --></p>
+                            <!-- If you need to identify individual hands (EGD §7.5/) in addition to one or more paragraphs of general palaeographic description, wrap <summary> around the <p> or <p>s above, and, outside <summary>, create <handNote> elements for each hand as follows:
+						<summary><p><p/></summary>
+						<handNote xml:id="Pallava00001_hand1"></handNote>
+						<handNote xml:id="Pallava00001_hand2"></handNote>
+					 -->
+                        </handDesc>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>The project DHARMA has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme (grant agreement no 809994).</p>
+            </projectDesc>
+            <schemaRef type="guide" key="EGDv01" url="https://halshs.archives-ouvertes.fr/halshs-02888186"/><!-- UPDATE the link once the release is made official -->
+            <listPrefixDef>
+                <prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)" replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
+                    <p>Public URIs with the prefix bib to point to a Zotero Group Library named ERC-DHARMA whose data are open to the public.</p>
+                </prefixDef>
+                <prefixDef ident="part" matchPattern="([a-z]+)" replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_idListMembers_v01.xml#$1">
+                    <p>Internal URIs using the part prefix to point to person elements in the <ref>DHARMA_idListMembers_v01.xml</ref> file.</p>
+                </prefixDef>
+            </listPrefixDef>
+        </encodingDesc>
+        <revisionDesc>
+            <change who="part:mime" when="2026-03-02">Conversion to DHARMA guidelines</change>
+        </revisionDesc>
+    </teiHeader>
+    <text xml:space="preserve">
+      <body>
+			<div type="edition" xml:lang="pyx-Latn">
+				<ab>ḅaṁḥ <unclear>s</unclear>guṃḥ <app>
+						<lem>sa</lem>
+						<rdg source="bib:Mya1961a">s?a</rdg>
+					</app>
+					<app>
+						<lem><unclear>tca</unclear></lem>
+						<rdg source="bib:Mya1961a">tma</rdg>
+						<rdg source="bib:Luce1985_01">paṁ</rdg>
+					</app> kdiḥ</ab>
+			</div>
+			<div type="apparatus">
+				<listApp/>
+			</div>
+			<div type="translation" xml:lang="eng"> </div>
+			<div type="commentary">
+				<p>PPPB I, 155: <seg type="graphemic">ḅaṁḥ sguḥ sa paṁ kdiḥ</seg></p>
+				<p>Mya: <seg type="graphemic">ḅamḥ sgaḥ s?a tma -- kdiḥ</seg></p>
+				<p>Luce refers to De Beylié 1907a, pl. V (3); 246 fig. 199. The latter is an error for 1907b: 246 fig. 199. Luce was wrong in citing these photos published by De Beylié, for De Beylié does not say that they show the obverse of the inscribed reverse copied in his (1907a) fig. 62. Comparing the other photos available, it seems obvious that de Beylié's V (3) and 62 have no connection with each other. Delphine Desoutter has shown us three other specimens of tablets made from the same
+					mold.</p>
+				<!-- MM2AG: not sure this belongs here but at least it's next to the bibliography. -->
+				<!-- AG2MM: could be moved to note on Luce1985 -->
+				<!-- MM2AG: where should I place this note on Luce1985? -->
+			</div>
+			<div type="bibliography">
+				<!--De Beylié 1907a: 89; 1907b: 245-6. — ASI 1909-10, 123. — Mya 1961a, II, 31. — PPPB I, 155.-->
+				<!--[Todo: markup citedRange elements if necessary]-->
+				<p><bibl><ptr target="bib:Beylié1907a"/><citedRange>89</citedRange></bibl> gives an eye drawing of the inscription, labeling the Pyu as “caracteres Tibetains” (with provenence given as “Bobogyi” rather than Lémyethna). <bibl><ptr target="bib:ASI"/><citedRange>1909-10: 123</citedRange></bibl> cites De Beylié but still regards it as an “unknown script”. A reading in Burmese script can be found in <bibl><ptr target="bib:Mya1961a"/><citedRange>II, 31 (gha)</citedRange></bibl>. <bibl><ptr target="bib:Luce1985_01"/><citedRange>I, 155</citedRange></bibl>, cites the earlier authors and provides a revised reading. Re-edited here from photographs.</p>
+				<listBibl type="primary"><bibl><ptr target="bib:CPI2018_01"/><citedRange unit="item">DHARMA_INSPYU00014</citedRange></bibl></listBibl><listBibl type="secondary">
+					<bibl><ptr target="bib:Beylié1907b"/><citedRange>245-6</citedRange></bibl>
+				</listBibl>
+			</div>
+		</body>
+  </text>
+</TEI>

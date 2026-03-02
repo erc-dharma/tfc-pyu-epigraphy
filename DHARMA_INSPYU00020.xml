@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_SQF.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Stone Urn found near Hpayahtaung Pagoda, Sriksetra</title>
+                <respStmt>
+                    <resp>author of digital edition</resp>
+                <persName ref="part:argr"><forename>Arlo</forename><surname>Griffiths</surname></persName><persName ref="part:mami"><forename>Marc</forename><surname>Miyake</surname></persName><persName ref="part:jukw"><forename>Julian Karl</forename><surname>Wheatley</surname></persName></respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>DHARMA</authority>
+                <pubPlace><!-- Fill in here the place or places where the encoding has been done --></pubPlace>
+                <idno type="filename">DHARMA_INSPYU00020</idno>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">
+                        <p>This work is licensed under the Creative Commons Attribution 4.0 Unported
+                            Licence. To view a copy of the licence, visit
+                            https://creativecommons.org/licenses/by/4.0/ or send a letter to
+                            Creative Commons, 444 Castro Street, Suite 900, Mountain View,
+                            California, 94041, USA.</p>
+                    </licence>
+                </availability>
+                <date from="2019" to="2025">2019-2025</date>
+            </publicationStmt>
+            <sourceDesc><!-- only the handDesc can be filled in at this stage -->
+                <msDesc><!-- //// NB: the msIdentifier had to be added for validation purposes ///. It will be edited later with the metadata spreadsheet -->
+                    <msIdentifier>
+                        <repository>DHARMAbase</repository>
+                        <idno/><!-- don't modify this -->
+                    </msIdentifier>
+                    <msContents><!-- describe the intellectual content of an inscription -->
+                        <summary><!-- //// NOT MANDATORY  ////--></summary> <!-- offers the possibility to give a summary of the inscription's content -->
+                    </msContents>
+                    <physDesc>
+                        <handDesc>
+                            <p><!-- The script name(s) will be inserted here at a later stage from the metadata spreasheet. At this stage, you can mention here in a free-text paragraph any characteristics of the writing observed more than once in this inscription that seem unusual/uncommon or otherwise noteworthy given the general characteristics of the script in question. See EGD 11.2. --></p>
+                            <!-- If you need to identify individual hands (EGD §7.5/) in addition to one or more paragraphs of general palaeographic description, wrap <summary> around the <p> or <p>s above, and, outside <summary>, create <handNote> elements for each hand as follows:
+						<summary><p><p/></summary>
+						<handNote xml:id="Pallava00001_hand1"></handNote>
+						<handNote xml:id="Pallava00001_hand2"></handNote>
+					 -->
+                        </handDesc>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>The project DHARMA has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme (grant agreement no 809994).</p>
+            </projectDesc>
+            <schemaRef type="guide" key="EGDv01" url="https://halshs.archives-ouvertes.fr/halshs-02888186"/><!-- UPDATE the link once the release is made official -->
+            <listPrefixDef>
+                <prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)" replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
+                    <p>Public URIs with the prefix bib to point to a Zotero Group Library named ERC-DHARMA whose data are open to the public.</p>
+                </prefixDef>
+                <prefixDef ident="part" matchPattern="([a-z]+)" replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_idListMembers_v01.xml#$1">
+                    <p>Internal URIs using the part prefix to point to person elements in the <ref>DHARMA_idListMembers_v01.xml</ref> file.</p>
+                </prefixDef>
+            </listPrefixDef>
+        </encodingDesc>
+        <revisionDesc>
+            <change who="part:mime" when="2026-03-02">Conversion to DHARMA guidelines</change>
+        </revisionDesc>
+    </teiHeader>
+    <text xml:space="preserve">
+      <body>
+			<div type="edition" xml:lang="pyx-Latn">
+				<ab>
+					<lb n="1"/><g>1</g> siddham· <g>2</g><g type="ddanda">.</g>°asama ḅa tgim·ṁ tnay· pin·ṁḥ ton·ḥ tiṁ pṅauy· plat·ṁ tir·ṁ kun·ḥ truk· thay·ḥ ḅa ncum·ḥ tkar·ṁḥ psuy·ḥ ḅa knaṅ· dik·ṃṁ nmat· goy· kdlik·ṁ tiṁ gaṃ psuy·ḥ tiṁ kdiṅ·ṁ barami °o thmin·ḥ kyiṁ ta kḅoṅ·ḥ tiṁ nga mahagaruṇa tiṁ kyan·ṁ ktoy· pin·ṁḥ °o piṁ thraḥ ma diṃṁ kdluḥ tiṁ pra tiṁ hna <gap reason="illegible" quantity="2" unit="character"/> ṅuḥ kto tiṁ gaṁ vaṃ <gap reason="illegible" quantity="1" unit="character"/> bi <gap reason="illegible" quantity="1" unit="character"/> ka ba<unclear>r</unclear>· ta kdan·ṁ khyaṃ tin·ṁ viṃṁ <unclear>l</unclear>o nhoḥ <gap reason="lost" quantity="1" unit="character"/> °o <gap reason="lost" quantity="3" unit="character"/>ḥ kvi ḅūdha ḅay·ṁḥ kda <choice>
+						<unclear>tu</unclear>
+						<unclear>tda</unclear>
+						</choice>ḥ rya [s]da saḥ tliṅ· saṅ·gha ḅa[y·]ṁḥ kviṃṁ °o ḅin·ṁḥ ray· pir·ṁ hnam· °o hnaut· tsaṁḥ tiṁ kliṁḥ duṃ<add place="below">ḥ</add> ḅaḥ kkir· kvay· kviṃṁ °o nyaṅ· tiṁ kit·ṁḥ ḅa knuy· tyaṅ· <space type="horizontal" quantity="1" unit="character"/>tiṁ giḥ nhom·ḥ radaṃna ḅay·ṁḥ kviṃṁ tṅam· pin·ṁḥ din·ṃṁ pdin·ṁ ptuk· <space type="horizontal" quantity="1" unit="character"/> ktoy· tiṁ tdluṅ·ḥ °o pun· sri tdav·ṃḥ ḅay·ṁḥ sri °oṅ· luṅ· hip· tir·ṁ hnam· tiṁ sdin·ṁ tiṁ tdik·ṃ kviṃṁ °o
+					nḅun·ḥ pau ḅay·ṁḥ °o ktiṅ·ṁḥ tdav·ṃḥ ḅay·ṁḥ tniṅ·ṁ °oṅ· viy·ṃṁ tir·ṁ hnam·
+					kaṅ· sri deṃvamit·tra ḅay·ṁḥ kviṃṁ °o nḅun·ḥ pir·ṁ tum· knuy· <space type="horizontal" quantity="1" unit="character"/> pau <supplied reason="lost">ḅ</supplied>ay·ṁḥ °o Coṅ·ḥ tdav·ṃḥ ḅay·ṁḥ tni<supplied reason="lost">ṅ·</supplied>ṁ °o<supplied reason="lost">ṅ·</supplied> lu<supplied reason="lost">ṅ·</supplied> hip· tir·ṁ hnam· kaṅ· sri harivi<supplied reason="lost">k·krama ḅay·ṁḥ</supplied> hrat·ṁ tin·ṁ
+					yaṅ· kḅoṅ·ḥ tiṁ tma ḅay·ṁḥ kviṃṁ °o <lb n="2"/>mraut· kgaṃḥ pau ḅay·ṁḥ °o
+					ndlok· tdav·ṃḥ ḅay·ṁḥ sri °oṅ· luṅ· snuḥ siṅ·havik·krama niṁ yaḥ tiṁ kliṁḥ
+					tiṁ pdlik·ṁ °o sdaṅ· ḅay·ṁḥ kviṃṁ °o nḅun·ḥ tin·ṁ kir·ṁḥ tgim·ṁ brahma pau
+					ḅay·ṁḥ °o ḅaṅ· tdav·<supplied reason="omitted">ṃ</supplied>ḥ ḅay·ṁḥ tniṅ·ṁ
+					°oṅ· hip· tir·ṁ hnam· kaṅ· sri suriyavik·krama ḅay·ṁḥ kviṃṁ °o va rom· ndlok· ḅay·ṁḥ °o pjauy· tok· tkoḥ pe ḅaṁḥ °o kdaṃṁ<gap reason="lost" quantity="9" unit="character"/> snuḥ sri
+						brithuvi<supplied reason="omitted">k·</supplied>krama niṁ yaḥ nmat· <gap reason="lost" quantity="17" unit="character"/> ḥ nkiṁḥ tiṁ vaṅ·ṃḥ ḅay·ṁḥ
+					kuṅ· tin·ṁ dlin·ṁ sri jan·tranana ḅay·ṁḥ °o nmuḥ pguṃ rut· driv·ṁ kbak·
+					tir·ṁ gan·ṃ °o pṅauy· tin·ṁ kiṁḥ haḥ pin·ṁḥ °o va ḅay·ṁḥ °o din·ṃṁ ta
+					pay·ṁḥ hneṅ· diṃ °o diṃṁ ta pay·ṁḥ ptiṁ sdoḥ ste mgauṃḥ pū na gha dra ktoy· tin·ṁ ya °o ngam·ṃḥ tgaṃṁḥ tpoy· sdaṅ·ṃ tiṁ pder·ṃ tiṁ pdar·ṃ tiṁ dat·ṃṁ kdam·ḥ pir·ṁ ṭloḥ ṭlim·ṁ kriy·ṁḥ tiṁ ka
+					tir·ṁ yaḥ paṅ· °o tgam·ṃ ktoy· kkiṅ·ṁ tin·ṁ yaṅ· ta kḅoṅ·ḥ tiṁ tma ta tiṁ ptir·ṁ tiṁ pṭray· ta kgin·ṃṁḥ tiṁ tnaḥ ḅut·dha ḅay·ṁḥ kviṃṁ °o co tiṁ yaḥ saṅ·gha duk·ṃ kkin·ṁ tiṁ knik·ṁ ḅa kh<unclear>m</unclear>ik· C<unclear>C</unclear>in· kviṁ °o nyan· <unclear>C</unclear>i <gap reason="lost" quantity="4" unit="character"/> tdik·ṃ ḅa doṅ·ṃ ḅay·ṁḥ °o caṅ·ḥ tdav·ṃḥ tiṁ priṅ·ḥ khyaṃ viṃṁ <lb n="3"/>tgan· duk·ṃ kṅuḥ ḅay·ṁḥ bradima din·ṃṁ ta pay·ṁḥ tiṁ phlaṅ· tiṁ sban·ḥ
+					<!--MM: the -n· is clear in the MHRJ rubbing. --> the the <gap reason="lost" quantity="9" unit="character"/> tiṁḥ pauḥ pir·ṁ ṅan· hin·
+					tko tiṁ vuṅ· kṅuṅ· hra<unclear>t·</unclear>ṁ sau<unclear>ṅ·</unclear> plat·ṁ kip· viṁ °o din·ṁ ḅin·ṁḥ ṭraṅ·ḥ kdav·ṃ ḅin·ṁḥ mi<unclear>C·</unclear>ṁ pin·ṁ dra khliṁḥ °o plaṁḥ ni khuḥ sa ma ner· tvo saṅ·gha tiṁ tman· tiṁ siṁ riḥ vaṅ·ṃ dir·ṃṁ pay·ṁḥ kkut·ṃ tiṁ pḅin·ḥ pay·ṁḥ kro tiṁ kso paṁḥ ksi ksa paṁḥ kduḥ taṁ <gap reason="illegible" quantity="1" unit="character"/>ḥ paṁḥ tiṁ pja<unclear>C·</unclear> tiṁ
+					pi<unclear>C·</unclear>ṁ pjaḥ °o riṁḥ kCa tiṁ gaṃ <gap reason="lost" quantity="11" unit="character"/> hau kla <choice>
+						<unclear>°o</unclear>
+						<unclear>la</unclear>
+						<unclear>da</unclear>
+					</choice> vaṁḥ <gap reason="lost" quantity="6" unit="character"/> phi °o
+					diṃṁḥ ndaṁ ta pay·ṁḥ tiṁ kdlim·ṁ tiṁ kmur· °o sguṅ·ṃ kno °o dvaṃ ṭloḥ
+					<space type="horizontal" quantity="1" unit="character"/> tir· den· pit·ṁ
+					ṅat· thliḥ ṅiṁ kdaṅ· ndlom·ḥ kloḥ ḅin·ṁḥ pdin·ṃ tgun·ḥ ḅiṁḥ kdiṃṁ sgaun·ṃ
+					ḅin·ṁḥ pṅan· rya ḅay·ṁḥ °o nḅun·ḥ kriḥ mruṅ· to toy· thṅa ta kḅiṁ ḅay·ṁḥ vaṅ·ṃ ḅin·ṁḥ ḅam·ḥ dup·ṃ pgip·ṃṁ pdaun·ṃ kdap·ṃ ṭlan· rṭlan· trom·ḥ tṅav·ḥ pa go thliḥ paṅ· raṅ·ṁḥ nu rnuṅ· thuva cetya
+					tin·ṁ mat· kuḥ kuṅ·ḥ mūṅ·ḥ ḅin·ṁḥ mūṅ·ḥ nut· hliṁḥ kṅam· dlin·ṁ pay·ṁḥ tiṁ pgoy· tiṁ pban·ḥ don·ṃḥ kaṅ· pa ḅay·ṁḥ ngam·ṃḥ dav·ṃḥ tdav·ṃḥ to tniṃṁ °o ra hi <supplied reason="lost">t</supplied>iṁ hna kaṅ· sri <gap reason="lost" quantity="2" unit="character"/>dit·ṃtyavik·krama pir·ṁ ku<unclear>n</unclear>· toy· tkir·ṁḥ sma kliṁḥ ryaḥ kgaṃḥ tin·ṁ droḥ ktoy· tiṁ khnoṅ· kdiṃ tin·ṁ doṅ·ḥ tkin·ḥ kli tūn·ḥ dav·ṃḥ <lb n="4"/>ndik·ṃ droṅ· hra ḅay·ṁḥ rviṃṁ kdon· tiṁ tnay· stam·ṁḥ thṅam·ḥ
+					tim·ṁ nuC· tim·ṁ <gap reason="lost" quantity="2" unit="character"/> Cduṅ·ḥ <gap reason="lost" quantity="2" unit="character"/>m· <gap reason="lost" quantity="2" unit="character"/>t· <choice>
+						<unclear>k</unclear>
+						<unclear>r</unclear>
+					</choice>iḥ yaṁ tir·ṁ him·ṁ psuy·ḥ kni mū tyaṅ·ḥ °o yaṅ·ḥ tyaṅ·ḥ ktoy· sir·ṁ <choice>
+						<unclear>k</unclear>
+						<unclear>ñ</unclear>
+					</choice>at·ṁ msauṅ· ḅiṁ goy· nmat· kdlik·ṁ daṃḥ dam·ṃḥ knuy· tiṁ thliḥ dra
+					tiṁ priṅ·ḥ tsaḥ pir·ṁ ṅa ta kdim· tiṁ tram·ḥ kdaṅ· ksiṁ knaṅ· pyaum· mba da
+					rar· puja da vaṃḥ mdeṅ· ga ra kdi tiṁ ma ta ma kaḥ bo ba <gap reason="lost" quantity="5" unit="character"/> pūja vaḥ °o hnau tiṁ priṅ·ḥ piṁḥ <choice>
+						<unclear>ca</unclear>
+						<unclear>kha</unclear>
+					</choice> kgaṃḥ tiṁ <gap reason="lost" quantity="2" unit="character"/> °o
+					<gap reason="lost" quantity="3" unit="character"/> hle hleḥ ḅa ma <gap reason="lost" quantity="4" unit="character"/> Co <gap reason="lost" quantity="3" unit="character"/> naṁ rnaṁ hṅa hṅar· tiṁ priṅ·ḥ duC·ṃ °o pa ka bi ki °o gim·ṃṁ haC· dra °o kkiC·ṁ tiṁ pin·ṁ mau thraṅ·ḥ ma vaṅ·ṃ °o paṅ· diṃ ḅa kiC·ṁ vak·ṃ tiṁ kliṁḥ tin·ṁ droḥ <choice>
+						<unclear>ca</unclear>
+						<unclear>kha</unclear>
+					</choice> kteṅ·ḥ tiṁ smun· <choice>
+						<unclear>ca</unclear>
+						<unclear>kha</unclear>
+					</choice> ḅiṁ ksiḥ tiṁ sba vaṅ·ṃ paṅ· tak· ḅu knan·ṁḥ tin·ṁ hraḥ ktoy· dra
+					tir·ṁ hnam· ḅay·ṁḥ tnir· dok·ḥ ṅav· kṭlot· rom· ndlot· sdaṃ ḅay·ṁḥ kdaṅ· pḅe tin·ṁ dlin·ṁ ṅit·ṁ kdaṅ· ktiṅ·ṁḥ ndraḥ ḅay·ṁḥ paṅ· <choice>
+						<unclear>ca</unclear>
+						<unclear>kha</unclear>
+					</choice> mraṅ· meruva °o tcom· nut· kgoy· ḅa khmik·ṁ knuy· rla tin·ṁ ṭroṅ·ḥ nrat·ḥ °o tbu nut· kṅam· tiṁ kvoC· kdlik·ṁ °o kūn· tin·ṁ <choice>
+						<unclear>k</unclear>
+						<unclear>r</unclear>
+					</choice>i <gap reason="lost" quantity="2" unit="character"/> ṅraḥ ḅun·ḥ
+					nCam·ḥ ktoy· tir·ṁ <gap reason="lost" quantity="2" unit="character"/> tcom·
+					tliṅ· nut· ḅay·ṁḥ °o paṅ· ṅam· ḅoṅ·ḥ pdray· tru tiṁ kyiṁḥ kdaṅ· nhlak·
+					ktoy· hnit·ṁ °o hnau tiṁ pden·ṃḥ tiṁ sphir· trip· saḥ mra ngaṃ <lb n="5"/>tir·ṁ van·ṃḥ van· bam·ṁḥ na tiṁ pkin·ṁ ktun·ḥ ktoy· duk·ṃ ktoy·
+					ktoy· tin·ṁ droṃḥ tiṁ ptik·ṁ tiṁ khnoṅ· tir·ṁ mu duk· nduk· °o ngaṁ nut·
+					ḅay·ṁḥ °o paṅ· ṅam· gin·ṃṁḥ tma ḅay·ṁḥ °o paṅ· ṅam· tdin·ṁ mdrauṅ· tgaṃḥ
+					mliṅ· mraṅ· °o phar· nhṅin·ṁḥ nḅiṁḥ tiṁ ngak· baṅ· tlan·ḥ mahar·nava °o
+					tcom· nut· °o paṅ· ṅam· lot· tloṅ· ḅa tduk·ḥ tdrak· tnir· dor·ḥ °o ḅaṁḥ °o pla plau ktoy· tiṁ ḅuḥ tCaḥ ḅaṁḥ ne mi la tiṁ <gap reason="lost" quantity="8" unit="character"/> ḅaḥ kduḥ <gap reason="lost" quantity="1" unit="character"/> mre hlau hlau na dra yaṁ <!-- MM: JKW and I thought rya was possible, but the rubbing in MHRJ shows an anusvāra and not a repha. -->
+					<choice>
+						<unclear>t</unclear>
+						<unclear>k</unclear>
+					</choice>gaḥ tiṁ ya <!-- MM: I now see ya instead of °o pa(ṅ)· ṅa(m·), and my new reading agrees with the rubbing in MHRJ which shows ya. --> tiṁ hiṁ <choice>
+						<unclear>pa</unclear>
+						<unclear>ma</unclear>
+					</choice>ḥ kni <!-- MM: anusvāra after hi and <choice><unclear>pa</unclear><unclear>ma</unclear></choice>ḥ kni visible in rubbing in MHRJ but barely perceptible in RTI. -->
+					<gap reason="lost" quantity="2" unit="character"/> paṁ <gap reason="lost" quantity="7" unit="character"/>
+					<choice>
+						<unclear>ka</unclear>
+						<unclear>ra</unclear>
+						<unclear>Cu</unclear>
+					</choice>
+					<gap reason="lost" quantity="3" unit="character"/> ta ḅa doṃ mra ba ndlom· ba kca kkuṅ·ḥ tiṁ tḅak·ṁḥ knur· tiC·ṁ ṅam· kgam· tim·ṁ gaṃ °o plaṁḥ <space type="horizontal" quantity="1" unit="character"/> don·ḥ ṅaC· nū rom· ndlok· ḅay·ṁḥ °o pay·ṁḥ hṅam·ḥ pgoy· cetya thuva °o ñaḥ tiṁ hna dra mra kdaṅ· vo vaṅ·ṃ din·ṃṁ ksiḥ pir·ṁ mo din·ṃṁ kin·ṁ sba dit·ṃṁ ptu pliṁ ngam·ṃḥ kap·pa °o nhra nuC· tiṁ kvo kuḥ kuṅ·ḥ ḅnuḥ tiṁ gaṃ khi kha kṭlot· tiṁ kdit·ṁ pay·ṁḥ viṁ nguṃ tiṁ trat· °ap·brameya kgoy· tin·ṁ mat· kṭlik· tiṁ tgim·ṃṁḥ <space type="horizontal" quantity="3" unit="character"/> sīt·dha sīt·dha sīt·dha sādhu sādhu sādhu kliṁḥ kliṁḥ kliṁḥ <space type="horizontal" quantity="3" unit="character"/>
+					<g type="ddanda">.</g><g>@</g>
+				</ab>
+			</div>
+			<div type="apparatus">
+				<listApp/>
+			</div>
+			<div type="translation" xml:lang="eng">
+				<p><!--english translation here--></p>
+			</div>
+			<div type="commentary">
+				<p><!-- commentary --></p>
+			</div>
+			<div type="bibliography">
+				<!--San Win 1998, 2000-1, 2003. —Tun Aung Chain 2003: 1-4, Appendix. — MHRJ 11, pp. 133ff.-->
+				<!--[Todo: markup citedRange elements if necessary]-->
+				<p><bibl><ptr target="bib:SanWin1998_01"/></bibl> (in Burmese), <bibl><ptr target="bib:SanWin2000-2001_01"/><citedRange>120-1</citedRange></bibl> (<bibl><ptr target="bib:SanWin2003_01"/><citedRange>15-16</citedRange></bibl>) and <bibl><ptr target="bib:TunAungChain2003_01"/></bibl> focused only on names and dates of the [Vikrama] kings mentioned in the inscription, but a complete study by Than Tun, Nyein Maung and San Win, with Romanized transliteration, was published in <bibl><ptr target="bib:MHRJ"/><citedRange>11: 133 ff.</citedRange></bibl>. The inscription has been published again, with a revised transliteration, in <bibl><ptr target="bib:SeinWin2016_01"/><citedRange>71-83</citedRange></bibl>. Re-edited here from published photographs and our team’s RTIs.</p>
+				<!-- <listBibl type="secondary-bibliography">
+					Note on MHRJ: These pages contain an uncredited reading of the inscription. Although Tun Aung Chain mentions a reading by Than Tun, Nyein Maung and San Win, it is not clear whether that refers to the uncredited reading.
+				</listBibl> -->
+				<note>San Win 2000-1 is an English version of 1998. The complete reading furnished in the Document section of MHRJ 11, pp. 133ff., was probably done by Than Tun, Nyein Maung and San Win to whom the reading in Appendix to Tun Aung Chain's article in the same issue is ascribed.</note>
+			<listBibl type="primary"><bibl><ptr target="bib:CPI2018_01"/><citedRange unit="item">DHARMA_INSPYU00020</citedRange></bibl></listBibl></div>
+		</body>
+  </text>
+</TEI>

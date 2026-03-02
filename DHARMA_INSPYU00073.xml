@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_SQF.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Fragments of gold and silver foil Khin Ba mound, Sriksetra</title>
+                <respStmt>
+                    <resp>author of digital edition</resp>
+                <persName ref="part:argr"><forename>Arlo</forename><surname>Griffiths</surname></persName><persName ref="part:mami"><forename>Marc</forename><surname>Miyake</surname></persName><persName ref="part:jukw"><forename>Julian Karl</forename><surname>Wheatley</surname></persName></respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>DHARMA</authority>
+                <pubPlace><!-- Fill in here the place or places where the encoding has been done --></pubPlace>
+                <idno type="filename">DHARMA_INSPYU00073</idno>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">
+                        <p>This work is licensed under the Creative Commons Attribution 4.0 Unported
+                            Licence. To view a copy of the licence, visit
+                            https://creativecommons.org/licenses/by/4.0/ or send a letter to
+                            Creative Commons, 444 Castro Street, Suite 900, Mountain View,
+                            California, 94041, USA.</p>
+                    </licence>
+                </availability>
+                <date from="2019" to="2025">2019-2025</date>
+            </publicationStmt>
+            <sourceDesc><!-- only the handDesc can be filled in at this stage -->
+                <msDesc><!-- //// NB: the msIdentifier had to be added for validation purposes ///. It will be edited later with the metadata spreadsheet -->
+                    <msIdentifier>
+                        <repository>DHARMAbase</repository>
+                        <idno/><!-- don't modify this -->
+                    </msIdentifier>
+                    <msContents><!-- describe the intellectual content of an inscription -->
+                        <summary><!-- //// NOT MANDATORY  ////--></summary> <!-- offers the possibility to give a summary of the inscription's content -->
+                    </msContents>
+                    <physDesc>
+                        <handDesc>
+                            <p><!-- The script name(s) will be inserted here at a later stage from the metadata spreasheet. At this stage, you can mention here in a free-text paragraph any characteristics of the writing observed more than once in this inscription that seem unusual/uncommon or otherwise noteworthy given the general characteristics of the script in question. See EGD 11.2. --></p>
+                            <!-- If you need to identify individual hands (EGD §7.5/) in addition to one or more paragraphs of general palaeographic description, wrap <summary> around the <p> or <p>s above, and, outside <summary>, create <handNote> elements for each hand as follows:
+						<summary><p><p/></summary>
+						<handNote xml:id="Pallava00001_hand1"></handNote>
+						<handNote xml:id="Pallava00001_hand2"></handNote>
+					 -->
+                        </handDesc>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>The project DHARMA has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme (grant agreement no 809994).</p>
+            </projectDesc>
+            <schemaRef type="guide" key="EGDv01" url="https://halshs.archives-ouvertes.fr/halshs-02888186"/><!-- UPDATE the link once the release is made official -->
+            <listPrefixDef>
+                <prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)" replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
+                    <p>Public URIs with the prefix bib to point to a Zotero Group Library named ERC-DHARMA whose data are open to the public.</p>
+                </prefixDef>
+                <prefixDef ident="part" matchPattern="([a-z]+)" replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_idListMembers_v01.xml#$1">
+                    <p>Internal URIs using the part prefix to point to person elements in the <ref>DHARMA_idListMembers_v01.xml</ref> file.</p>
+                </prefixDef>
+            </listPrefixDef>
+        </encodingDesc>
+        <revisionDesc>
+            <change who="part:mime" when="2026-03-02">Conversion to DHARMA guidelines</change>
+        </revisionDesc>
+    </teiHeader>
+    <text xml:space="preserve">
+      <body>
+			<div type="edition" xml:lang="pyx-Latn">
+				<ab>
+					<lb n="1"/> siddha<unclear>m·</unclear> 2 <g type="ddanda">.</g>
+					<space type="horizontal" quantity="1" unit="character"/> ḅay·ṁḥ kmak· <unclear>ḅa</unclear>y·ṁḥ toṅ· tṅav· tiṁ psiṁ <space type="horizontal" quantity="1" unit="character"/> ḅay·ṁḥ saḥ ḅay·ṁḥ goṃḥ <space type="horizontal" quantity="1" unit="character"/> °o saḥ ḅay·ṁḥ luṅ· hi<unclear>p</unclear>· <space type="horizontal" quantity="1" unit="character"/> ḅay·ṁḥ luṅ· ti<unclear>n·</unclear>ṁ droḥ kdiṃ <space type="horizontal" quantity="1" unit="character"/> ḅay·ṁḥ luṅ· tdav·ṃḥ
+						<space type="horizontal" quantity="1" unit="character"/> daṅ·ṃṁ °oy· tsaṁḥ ḅuddha daṅ·ḥ tim·ṁ <unclear>m</unclear>l<unclear>i</unclear>y·ṁ kdaṅ· nhoḥ yaṁ <space type="horizontal" quantity="1" unit="character"/>
+					<g type="ddanda">.</g><g>@</g>
+				</ab>
+			</div>
+			<div type="apparatus">
+				<listApp/>
+			</div>
+			<div type="translation" xml:lang="eng">
+				<p><!--english translation here--></p>
+			</div>
+			<div type="commentary">
+				<p>1. <seg type="graphemic">siddha[m·]</seg>: The leftwards curve of <seg type="graphemic">dh</seg> is not clearly connected back to the vertical under <seg type="graphemic">d</seg>; there is also an apparent anusvara above <seg type="graphemic">si</seg>, which we ignore as accidental depression in the foil; the top of the final <seg type="graphemic">m</seg> is obscured. On the whole the shape of this word here resembles that in PYU 24.</p>
+				<p>1. <seg type="graphemic">luṅ·</seg> (3×): same shape in PYU 1, in same	word, also after <seg type="graphemic">ḅay·ṁḥ</seg>.</p>
+				<p>1. <seg type="graphemic">tsaṁḥ</seg>: or read <seg type="graphemic">tpaṁḥ</seg>?</p>
+				<p>1. <seg type="graphemic">nhoḥ</seg>: this seems to be the word for ‘three’, on whose onset we have yet to agree: <seg type="graphemic">h-</seg> or <seg type="graphemic">nh-</seg>? However, there is a mark where a final consonant would be which looks vaguely like a <seg type="graphemic">v·</seg>, <seg type="graphemic">r·</seg> or <seg type="graphemic">m·</seg>. No such word is attested and for now, the mark is regarded as accidental.</p>
+			</div>
+			<div type="bibliography">
+				<!--ASI 1927, 180 (no. 38), 201. — Stargardt 2000: 52 (no. 38).-->
+				<!--[Todo: markup citedRange elements if necessary]-->
+				<p>Reported in <bibl><ptr target="bib:ASI"/><citedRange>1926-7: 180 (no. 38), 201</citedRange></bibl>, as 16 fragments of small gold and silver plates with one line of Pyu writing on them and below each line “a few letters at intervals in Brāhmi characters”, i.e. sublinear consonants. Our PYU <ref target="DHARMA_INSPYU00055">55</ref> and <ref target="DHARMA_INSPYU00056">56</ref> and 56 are probably also members of the 16. Edited here from published photographs.</p>
+				<listBibl type="primary"><bibl><ptr target="bib:CPI2018_01"/><citedRange unit="item">DHARMA_INSPYU00073</citedRange></bibl></listBibl><listBibl type="secondary">
+					<bibl><citedRange>52 (no. 38)</citedRange></bibl>
+				</listBibl>
+			</div>
+		</body>
+  </text>
+</TEI>

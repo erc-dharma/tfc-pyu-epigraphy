@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_SQF.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Small Stela from Halin</title>
+                <respStmt>
+                    <resp>author of digital edition</resp>
+                <persName ref="part:argr"><forename>Arlo</forename><surname>Griffiths</surname></persName><persName ref="part:mami"><forename>Marc</forename><surname>Miyake</surname></persName><persName ref="part:jukw"><forename>Julian Karl</forename><surname>Wheatley</surname></persName></respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>DHARMA</authority>
+                <pubPlace><!-- Fill in here the place or places where the encoding has been done --></pubPlace>
+                <idno type="filename">DHARMA_INSPYU00001</idno>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">
+                        <p>This work is licensed under the Creative Commons Attribution 4.0 Unported
+                            Licence. To view a copy of the licence, visit
+                            https://creativecommons.org/licenses/by/4.0/ or send a letter to
+                            Creative Commons, 444 Castro Street, Suite 900, Mountain View,
+                            California, 94041, USA.</p>
+                    </licence>
+                </availability>
+                <date from="2019" to="2025">2019-2025</date>
+            </publicationStmt>
+            <sourceDesc><!-- only the handDesc can be filled in at this stage -->
+                <msDesc><!-- //// NB: the msIdentifier had to be added for validation purposes ///. It will be edited later with the metadata spreadsheet -->
+                    <msIdentifier>
+                        <repository>DHARMAbase</repository>
+                        <idno/><!-- don't modify this -->
+                    </msIdentifier>
+                    <msContents><!-- describe the intellectual content of an inscription -->
+                        <summary><!-- //// NOT MANDATORY  ////--></summary> <!-- offers the possibility to give a summary of the inscription's content -->
+                    </msContents>
+                    <physDesc>
+                        <handDesc>
+                            <p><!-- The script name(s) will be inserted here at a later stage from the metadata spreasheet. At this stage, you can mention here in a free-text paragraph any characteristics of the writing observed more than once in this inscription that seem unusual/uncommon or otherwise noteworthy given the general characteristics of the script in question. See EGD 11.2. --></p>
+                            <!-- If you need to identify individual hands (EGD §7.5/) in addition to one or more paragraphs of general palaeographic description, wrap <summary> around the <p> or <p>s above, and, outside <summary>, create <handNote> elements for each hand as follows:
+						<summary><p><p/></summary>
+						<handNote xml:id="Pallava00001_hand1"></handNote>
+						<handNote xml:id="Pallava00001_hand2"></handNote>
+					 -->
+                        </handDesc>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>The project DHARMA has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme (grant agreement no 809994).</p>
+            </projectDesc>
+            <schemaRef type="guide" key="EGDv01" url="https://halshs.archives-ouvertes.fr/halshs-02888186"/><!-- UPDATE the link once the release is made official -->
+            <listPrefixDef>
+                <prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)" replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
+                    <p>Public URIs with the prefix bib to point to a Zotero Group Library named ERC-DHARMA whose data are open to the public.</p>
+                </prefixDef>
+                <prefixDef ident="part" matchPattern="([a-z]+)" replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_idListMembers_v01.xml#$1">
+                    <p>Internal URIs using the part prefix to point to person elements in the <ref>DHARMA_idListMembers_v01.xml</ref> file.</p>
+                </prefixDef>
+            </listPrefixDef>
+        </encodingDesc>
+        <revisionDesc>
+            <change who="part:mime" when="2026-03-02">Conversion to DHARMA guidelines</change>
+        </revisionDesc>
+    </teiHeader>
+    <text xml:space="preserve">
+      <body>
+			<div type="edition" xml:lang="pyx-Latn">
+				<ab>
+					<lb n="1"/><seg type="siddham"/>
+					<g type="ddanda">.</g>
+					ḅay·ṁḥ dak·ṃ viy·ṃṁ
+					tim·ṁ
+					mlik· °o saḥ tgaṃ knon· °o <unclear reason="damage">p</unclear>li 
+					<lb n="2"/>
+					ḅay·ṁḥ
+					luṅ·
+					ḅa hi °o lup· yaṁ <g>•|•|</g><seg type="siddham-inverted"/>
+					<!-- AG2MM: we had @||@ in rtf, but I am now skeptical of those dots. Could they be accidental? In any case, there is clearly an inverted siddham. Encoding adjusted but still uncertain on the two cases of •.  -->
+					<!-- AG: in discussion with EM, she proposes to add @certainty and to use the character identifier in Unicode for the specifit bullet/dot we want to appear. And to enter <g ref="#siddham-inverted">, with definition in TEI header. -->
+				</ab>
+			</div>
+			<div type="apparatus">
+				<listApp>
+					<app loc="1">
+						<lem>tim·ṁ</lem>
+						<note>We read <seg type="graphemic">t</seg> rather than <seg type="graphemic">n</seg> here, agreeing with Blagden and Tha Myat. If so, then <seg type="graphemic">tgaṃ</seg> can be correct too. If so, then <seg type="graphemic">t</seg> in this inscription would be of the “loop” type rather than the “cup” type seen in other inscriptions. But comparison with other inscriptions cautions us that even in a single inscription one may not necessarily expect a clear pattern in the distinction between <seg type="graphemic">t</seg> and <seg type="graphemic">n</seg>.</note>
+					</app>
+					<app loc="2">
+						<lem>luṅ· … lup·</lem>
+						<rdg resp="#Blagden" source="bib:ASB1915">(nū) … nu</rdg>
+						<rdg source="bib:ThaMyat1963_01">tu+°o· … tu+p</rdg>
+						<!-- MM2AG: following note is outdated now; should it be dropped? -->
+						<!-- AG2MM: feel free to drop anything that is outdated. -->
+						<note>There is no contrast in this inscription between “r with leftwards
+							stroke” which we are interpreting as <seg type="graphemic">rū</seg> and
+							“r with rightwards stroke” which in other inscriptions represents <seg type="graphemic">ru</seg>. Note also two slightly different shapes of <seg type="graphemic">rū</seg>, with and without loop at bottom; the first of them attested also in PYU <ref target="DHARMA_INSPYU00006">6</ref>, where it was interpreted as <seg type="graphemic">(bhūṃ)</seg> by Blagden; perhaps <seg type="graphemic">lu</seg> would be a possibility for shape with loop, but reading <seg type="graphemic">rū</seg> for shape without loop virtually guaranteed by occurrences of apparently related sequence <seg type="graphemic">°o ru kleḥ yaṁ</seg> at end of several urn inscriptions.</note>
+					</app>
+				<app loc="1">
+						<lem>ḅay·ṁḥ</lem>
+						<rdg resp="#Blagden" source="bib:ASB1915">baṁḥ</rdg>
+						<rdg source="bib:ThaMyat1963_01">baṁḥ</rdg>
+						</app><app loc="1">
+						<lem>viy·ṃṁ</lem>
+						<rdg resp="#Blagden" source="bib:ASB1915">vī</rdg>
+						<rdg source="bib:ThaMyat1963_01">viṃṁ</rdg>
+						<!-- MM: PR has viṁ in Burmese transliteration. -->
+					</app><app loc="1">
+						<lem>tim·ṁ</lem>
+						<rdg resp="#Blagden" source="bib:ASB1915">ti</rdg>
+						<rdg source="bib:ThaMyat1963_01">tiṃṁ</rdg>
+						<!-- MM: PR has tiṁ in Burmese transliteration. -->
+					</app><app loc="1">
+						<lem>mlik·</lem>
+						<rdg resp="#Blagden" source="bib:ASB1915">ṃ(l)i</rdg>
+						<!-- MM: Blagden has initial ṃ which must be a typo. -->
+						<rdg source="bib:ThaMyat1963_01">mliṁ</rdg>
+					</app><app loc="1">
+						<lem>knon·</lem>
+						<rdg resp="#Blagden" source="bib:ASB1915">kño</rdg>
+					</app><app loc="1">
+						<lem><unclear reason="damage">p</unclear>li </lem>
+						<rdg resp="#Blagden" source="bib:ASB1915">(ch) di</rdg>
+						<!-- MM: Blagden's space between (ch) and di is a typo. -->
+					</app><app loc="2">
+						<lem>ḅay·ṁḥ</lem>
+						<rdg resp="#Blagden" source="bib:ASB1915">bàḥ</rdg>
+						<!-- MM: Blagden's grave accent is a typo for the superscript dot ṁ. -->
+						<rdg source="bib:ThaMyat1963_01">baṁḥ</rdg>
+					</app><app loc="2">
+						<lem>luṅ·</lem>
+						<rdg resp="#Blagden" source="bib:ASB1915">(nū)</rdg>
+						<rdg source="bib:ThaMyat1963_01">tu+°o·</rdg>
+					</app><app loc="2">
+						<lem>ḅa</lem>
+						<rdg resp="#Blagden" source="bib:ASB1915">ba</rdg>
+						<rdg source="bib:ThaMyat1963_01">ba</rdg>
+					</app><app loc="2">
+						<lem>lup·</lem>
+						<rdg resp="#Blagden" source="bib:ASB1915">nu</rdg>
+						<rdg source="bib:ThaMyat1963_01">tu+p·</rdg>
+					</app></listApp>
+			</div>
+			<div type="translation" xml:lang="eng">
+				<p>Julian K. Wheatley's translation of <bibl><ptr target="bib:ThaMyat1963_01"/><citedRange>21</citedRange></bibl></p>
+				<ab>The structure (tomb) of the honorable Tubahi, the son of the honorable Davintinmrin and the grandson of Nagukano.</ab>
+				<p><bibl><ptr target="bib:Luce1985_01"/><citedRange>I, 75 n. 27</citedRange></bibl></p>
+				<ab>These are the bones of the Honourable Ru-ba, deceased son of the Honourable La-wi: ni' mli (sic), grandson of Nga-kno.</ab>
+				<p><bibl><ptr target="bib:Duroiselle1912_01"/></bibl></p>
+				<ab>These are the bones of the deceased, Lord Rūḅa, grandson of Nga Kno, son of Lord Davinimli.</ab>
+			</div>
+			<div type="commentary">
+<listApp>
+			<app loc="1">
+				<lem><unclear>p</unclear>li</lem>
+				<note>Photos such as IMG_8373 favor initial <seg type="graphemic">p</seg> over <seg type="graphemic">m</seg>: <seg type="graphemic">pli</seg> 'grandson'.</note>
+			</app>
+			<app loc="2">
+			<note>The sequence <seg type="graphemic">ḅa hi</seg> also attested in PYU <ref target="DHARMA_INSPYU00002">2</ref>.</note>
+			</app>
+</listApp>
+			</div>
+			<div type="bibliography">
+				<!--ASB 1904-05, 8-9, 35; 1915, 21-3. — ASI 1904-05, 126; 1929-30, 152. — PR, 21.—PPPB I, 66, 75 n. 27, 149. — Shafer 1943: 339.-->
+				<p>Reported in <bibl><ptr target="bib:ASB"/><citedRange>1913: 14-5</citedRange></bibl>, which includes a reading of the opening akṣaras. <bibl><ptr target="bib:Blagden1913-1914_01"/><citedRange> 127 (E)</citedRange></bibl> takes note of this urn, but focuses his study on the four (PYU <ref target="DHARMA_INSPYU00003">3</ref>, <ref target="DHARMA_INSPYU00004">4</ref>, <ref target="DHARMA_INSPYU00005">5</ref> and <ref target="DHARMA_INSPYU00006">6</ref>) that share reference to the Vikrama kings. <bibl><ptr target="bib:ASB"/><citedRange>1915: 21-3</citedRange></bibl> provides complete readings and notes by Blagden and Sastri; in most respects, Sastri is not as compatible with our readings as Blagden. Luce, in <bibl><ptr target="bib:Luce1985_01"/><citedRange>I, 65, 75 n. 24, 127</citedRange></bibl>, provides an overview and offers a modified reading. Re-edited here from published photographs.</p>
+				<listBibl type="primary"><bibl><ptr target="bib:CPI2018_01"/><citedRange unit="item">DHARMA_INSPYU00001</citedRange></bibl></listBibl><listBibl type="secondary">
+					<bibl><ptr target="bib:ASI"/><citedRange>1929-30, p. 152</citedRange></bibl>
+					<bibl><ptr target="bib:Shafer1943_01"/><citedRange>339</citedRange></bibl>
+					<bibl><ptr target="bib:SeinWin2016_01"/><citedRange>14-5</citedRange></bibl>
+				</listBibl>
+			</div>
+		</body>
+  </text>
+</TEI>
