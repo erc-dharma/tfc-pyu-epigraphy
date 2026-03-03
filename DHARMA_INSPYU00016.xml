@@ -509,10 +509,8 @@
 					<g type="ddanda">.</g><g type="scroll"/>
 				</ab>
 			</div>
-			<div type="apparatus">
-				<listApp/>
-			</div>
-			<div type="translation" xml:lang="eng">
+			<div type="apparatus"/>
+			<div type="translation">
 				<p><!--english translation here--></p>
 			</div>
 			<div type="commentary">
