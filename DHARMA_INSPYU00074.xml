@@ -71,19 +71,19 @@
     <text xml:space="preserve">
       <body>
 			<div type="bibliography" subtype="edition">
-				<p>Text on front reproduced and transliterated into Burmese script by <bibl><ptr target="bib:MonBoKay1961a"/></bibl>; text on back transliterated into Burmese script by <bibl><ptr target="bib:Mya1961a"/></bibl> (no distinction being made between <seg type="graphemic">b</seg> and <seg type="graphemic">ḅ</seg>, no account being given of underdot <seg type="graphemic">'</seg>); the present edition as far as possible based on our own inspection of the avilable reproductions.</p>
+				<p>Text on front reproduced and transliterated into Burmese script by <bibl><ptr target="bib:MonBoKay1961a"/></bibl>; text on back transliterated into Burmese script by <bibl><ptr target="bib:Mya1961a"/></bibl> (no distinction being made between &lt;b&gt; and &lt;ḅ&gt;, no account being given of underdot &lt;'&gt;); the present edition as far as possible based on our own inspection of the avilable reproductions.</p>
 			<listBibl type="primary"><bibl><ptr target="bib:CPI2018_01"/><citedRange unit="item">DHARMA_INSPYU00074</citedRange></bibl></listBibl></div>
 			<div type="edition">
 				<div type="textpart" n="Front" xml:lang="san-Latn">
 					<ab>
 						<lb n="1"/>ye dha<unclear>rmmā</unclear>
-						<unclear>he</unclear>tu<unclear>prabhavā</unclear> hetu<unclear>ṁ</unclear> t<unclear>e</unclear>ṣā<unclear>ṁ</unclear> h<unclear>e</unclear>tu tathāgato °av<unclear>a</unclear>
-						<lb n="2"/>teṣāñ ca yo n<unclear>ī</unclear>rodho °evavād<unclear>ī</unclear> mahāśamaṇa </ab>
+						<unclear>he</unclear>tu<unclear>prabhavā</unclear> hetu<unclear>ṁ</unclear> t<unclear>e</unclear>ṣā<unclear>ṁ</unclear> h<unclear>e</unclear>tu tathāgato Av<unclear>a</unclear>
+						<lb n="2"/>teṣāñ ca yo n<unclear>ī</unclear>rodho Evavād<unclear>ī</unclear> mahāśamaṇa </ab>
 					<div type="textpart" n="Back" xml:lang="pyx-Latn">
 						<ab>
 							<lb n="1"/>
 							<g>|| 0 ||</g> yaṁ ḅaṁḥ bhagaṃ
-							<lb n="2" break="no"/>va °o 
+							<lb n="2" break="no"/>va O 
 							diṃṁ
 							<unclear>d</unclear>raḥ
 							
@@ -93,11 +93,11 @@
 									</choice>ḥ
 								saḥma
 							<lb n="3" break="no"/>dhiḥ sri bañaṇa ḅiṁḥ mgaṃḥ
-							<lb n="4"/>sa<add place="below">va</add>ñoda nirvaṃ °o ṅo kto knaṁḥ mtraḥ
+							<lb n="4"/>sa<add place="below">va</add>ñoda nirvaṃ O ṅo kto knaṁḥ mtraḥ
 							<lb n="5"/>
 							rtiṁ mtu ḅaṁḥ <unclear>mba</unclear> metriya
-							°o
-							nbu budha <lb n="6"/>°o 
+							O
+							nbu budha <lb n="6"/>O 
 							daṃṁ
 							hliṁḥ tmu ḅa<add place="below">ḥ</add> naḥ <space type="horizontal" quantity="1" unit="character"/> sadhu sadhu kliṁḥ kliṁḥ
 						</ab>
@@ -124,11 +124,11 @@
 					</app>
 					<app loc="Back 2">
 						<lem>ma</lem>
-						<note>Mya gives two small strokes below <seg type="graphemic">ma</seg>. This must be his representatiom of the two very short horizontal strokes below the <seg type="graphemic">ma</seg> that appear in the inscription.</note>
+						<note>Mya gives two small strokes below &lt;ma&gt;. This must be his representatiom of the two very short horizontal strokes below the &lt;ma&gt; that appear in the inscription.</note>
 					</app>
 					<app loc="Back 5">
 						<lem>metriya</lem>
-						<note>Mya seems to have seen a superscript <seg type="graphemic">r</seg> (<foreign>repha</foreign>) in the above the <seg type="graphemic">t</seg>, but it is certainly not clear, and since he must have known it is not expected, one wonders what he was trying to represent.</note>
+						<note>Mya seems to have seen a superscript &lt;r&gt; (<foreign>repha</foreign>) in the above the &lt;t&gt;, but it is certainly not clear, and since he must have known it is not expected, one wonders what he was trying to represent.</note>
 					</app>
 				<app loc="1">
 							<lem>dha<unclear>rmmā</unclear></lem>
@@ -170,15 +170,15 @@
 								<rdg source="bib:Mya">tīṁ</rdg>
 							</app><app loc="5">
 								<lem><unclear>mba</unclear> metriya</lem>
-								<rdg source="bib:Mya">°a ra me rtri ya</rdg>
+								<rdg source="bib:Mya">A ra me rtri ya</rdg>
 							</app><app loc="5">
-								<lem>°o</lem>
-								<rdg source="bib:Mya">°uṁ</rdg>
+								<lem>O</lem>
+								<rdg source="bib:Mya">Uṁ</rdg>
 							</app><app loc="5">
 								<lem>nbu</lem>
 								<rdg source="bib:Mya">tñaṁ</rdg>
 							</app><app loc="6">
-								<lem>°o</lem>
+								<lem>O</lem>
 								<rdg source="bib:Mya">ṭho</rdg>
 								<!-- MM: Mya: ño? ṭh faces the other way. Did Mya distinguish between ñ and ññ - the latter transliterated here as ñ? -->
 							</app><app loc="6">
@@ -203,11 +203,11 @@
 				<p>3. bañaṇa: from Pali paññāṇa? The name was misread by Luce as Bañano.</p>
 				<p>4. sa⟪va⟫ñoda: from Pali sabbaññutā?</p>
 				<p>4. nirvaṃ: connection with nirvāṇa? To be emended thus?</p>
-				<p>6. For the phrase sadhu sadhu kliṁḥ kliṁḥ, cf. PYU 20. Note palaeograhic change in shape of <seg type="graphemic">-l</seg>. </p>
+				<p>6. For the phrase sadhu sadhu kliṁḥ kliṁḥ, cf. PYU 20. Note palaeograhic change in shape of &lt;-l&gt;. </p>
 			</div>
 			<div type="bibliography">
 				<!--ASI 1926-27, 164. — PR, 77. — Mya 1961a, I, 23-4. — Mon Bo Kay 1961. — OBEP I, 99-100; II, 25. — PPPB I, 66, 75 n. 30.-->
-				<p>First reported in <bibl><ptr target="bib:ASI"/><citedRange> 1926-27, 164</citedRange></bibl>, where it is described as six lines of Pyu on the reverse with mention of a possible donor, <seg type="graphemic">sri bañaṇa</seg> and the Buddha <seg type="graphemic">metriya</seg>. Reported in <bibl xml:id="Mya"><ptr target="bib:Mya1961a"/><citedRange>I, 23-4</citedRange></bibl>, with Burmese transliteration, and then again in <bibl><ptr target="bib:ThaMyat1963_01"/><citedRange>77</citedRange></bibl> with a slightly different transliteration plus a tentative translation. <bibl xml:id="MBK"><ptr target="bib:MonBoKay1961a"/><citedRange>122 (bottom)</citedRange></bibl> provides a transliteration of the “Nāgarī” inscription on the obverse. Luce, in <bibl><ptr target="bib:Luce+BaShin1969-1970_01"/><citedRange>I, 99-100, II, 25</citedRange></bibl>, and in <bibl><ptr target="bib:Luce+BaShin1969-1970_01"/><citedRange>II, 25</citedRange></bibl>, summarizes. Re-edited here from published photographs.</p>
+				<p>First reported in <bibl><ptr target="bib:ASI"/><citedRange> 1926-27, 164</citedRange></bibl>, where it is described as six lines of Pyu on the reverse with mention of a possible donor, &lt;sri bañaṇa&gt; and the Buddha &lt;metriya&gt;. Reported in <bibl xml:id="Mya"><ptr target="bib:Mya1961a"/><citedRange>I, 23-4</citedRange></bibl>, with Burmese transliteration, and then again in <bibl><ptr target="bib:ThaMyat1963_01"/><citedRange>77</citedRange></bibl> with a slightly different transliteration plus a tentative translation. <bibl xml:id="MBK"><ptr target="bib:MonBoKay1961a"/><citedRange>122 (bottom)</citedRange></bibl> provides a transliteration of the “Nāgarī” inscription on the obverse. Luce, in <bibl><ptr target="bib:Luce+BaShin1969-1970_01"/><citedRange>I, 99-100, II, 25</citedRange></bibl>, and in <bibl><ptr target="bib:Luce+BaShin1969-1970_01"/><citedRange>II, 25</citedRange></bibl>, summarizes. Re-edited here from published photographs.</p>
 				<!-- <listBibl type="secondary-bibliography">
 				</listBibl> -->
 			</div>

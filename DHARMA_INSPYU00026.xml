@@ -79,7 +79,7 @@
 					<gap reason="illegible" quantity="2" unit="character"/> tpaṁḥ t<unclear>ḅ</unclear>aṁḥ
 					 va<supplied reason="lost">ṁ</supplied>
 					<lb n="4"/>
-					po °o <gap reason="illegible" quantity="1" unit="character"/> °o pu<unclear>ña</unclear>
+					po O <gap reason="illegible" quantity="1" unit="character"/> O pu<unclear>ña</unclear>
 				</ab>
 			</div>
 			<div type="apparatus">
@@ -91,7 +91,7 @@
 						<rdg source="bib:ChaAimKaewklai1992_01">nanyavamaṁka</rdg>
 					</app><app loc="2">
 						<lem>sra<unclear>ḥ</unclear>svaṃ</lem>
-						<rdg source="bib:ChaAimKaewklai1992_01">°a. stha</rdg>
+						<rdg source="bib:ChaAimKaewklai1992_01">A. stha</rdg>
 						<!-- what is . in Kaeklai's reading? -->
 					</app><app loc="3">
 						<lem>dro</lem>
@@ -119,11 +119,11 @@
 				<ab>unhand, whose title is Sripunangavamanga, has abandoned the ascetic attempts and devotes himself to the Bhodhisattavau</ab>
 			</div>
 			<div type="commentary">
-				<p>1-2. <seg type="graphemic">pū daṃnyavamaka</seg>: alternatives <seg type="graphemic">°ād(i)ṃtyavamaka</seg>, <seg type="graphemic">°ananyavamaka</seg>, etc. Possibility of taking <seg type="graphemic">ka</seg> separately.</p>
-				<p>3. <seg type="graphemic">tīṁ dro</seg> a variant of the expression <seg type="graphemic">tin·ṁ droḥ?</seg></p>
+				<p>1-2. &lt;pū daṃnyavamaka&gt;: alternatives &lt;Ād(i)ṃtyavamaka&gt;, &lt;Ananyavamaka&gt;, etc. Possibility of taking &lt;ka&gt; separately.</p>
+				<p>3. &lt;tīṁ dro&gt; a variant of the expression &lt;tiNṁ droḥ?&gt;</p>
 				<!-- Could sra[ḥ]svaṃtīṁ be sarasvati? -->
-				<p>4. <seg type="graphemic">so</seg>: restore <seg type="graphemic">so(ṅ·)</seg>?</p>
-				<p>4. <seg type="graphemic">pu[ña]</seg> or <seg type="graphemic">pu</seg> plus closing punctuation sign?</p>
+				<p>4. &lt;so&gt;: restore &lt;so(Ṅ)&gt;?</p>
+				<p>4. &lt;pu[ña]&gt; or &lt;pu&gt; plus closing punctuation sign?</p>
 			</div>
 			<div type="bibliography">
 				<!--Chaem Kawklai 1992.-->

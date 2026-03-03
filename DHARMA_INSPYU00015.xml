@@ -82,7 +82,7 @@
 					<!-- MM2AG: we'll check that word when we reach 016.5b in our group reading. -->
 					<!-- AG2MM: after recent discussion, I think h<gap reason="lost">C<gap>o may be sufficient to represent h.o. -->
 					<!-- MM2AG: as much as I like that solution to handling missing segmental characters, I get the message "  text not allowed here; expected the element end-tag or element "certainty", "desc", "precision" or "respons" " when I place the letter C between <gap> tags. -->
-					<lb n="3"/>vaṁ °o <g>@</g>
+					<lb n="3"/>vaṁ O <g>@</g>
 				</ab>
 			</div>
 			<div type="apparatus">

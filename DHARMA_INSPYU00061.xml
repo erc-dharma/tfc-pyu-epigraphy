@@ -75,10 +75,10 @@
 					<lb n="1"/>
 					<gap reason="lost" extent="unknown"/>
 					<unclear>m</unclear>ḅaṁḥ <choice>
-						<unclear>°o</unclear>
+						<unclear>O</unclear>
 						<unclear>gu</unclear>
-					</choice> saḥ mkat· ḅa <choice>
-						<unclear>°o</unclear>
+					</choice> saḥ mkaT ḅa <choice>
+						<unclear>O</unclear>
 						<unclear>gu</unclear>
 					</choice> sri <gap reason="lost" extent="unknown"/>
 					<!-- encoded (°o/gu) as unclear, but actually the akṣaras are clear; it's their interpretation that's unclear. -->
@@ -92,8 +92,8 @@
 			</div>
 			<div type="commentary">
 				<p>For sun-moon symbol, cf. PYU 17.</p>
-				<p>Possibly only case of initial cluster <seg type="graphemic">mḅ-</seg>.</p>
-				<p>060 also has an akṣara that looks like <seg type="graphemic">gu</seg> or <seg type="graphemic">°o</seg>.</p>
+				<p>Possibly only case of initial cluster &lt;mḅ-&gt;.</p>
+				<p>060 also has an akṣara that looks like &lt;gu&gt; or &lt;O&gt;.</p>
 			</div>
 			<div type="bibliography">
 				<p>Published in <bibl><ptr target="bib:SeinWin2016_01"/><citedRange>32-3</citedRange></bibl> with an eye drawing of the inscription and a Burmese transliteration. Re-edited here from our team’s RTIs.</p>

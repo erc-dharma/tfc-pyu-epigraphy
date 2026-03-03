@@ -83,11 +83,11 @@
 			</div>
 			<div type="commentary">
 				<!-- AG: comments by MM in 2017-03-05 email, slightly edited by AG -->
-				<p>The script look like Pyu, though there are no truly unique Pyu features like a subscript dot, and it could also be Southern Brāhmī, in which case the language would be expected to be Pali. The closest Indic matches for <seg type="graphemic">vakhaḥ</seg> are Prakrit <foreign>vakkha-</foreign> 'tree' &lt; <foreign>vr̥kṣa-</foreign> (the corresponding Pali is <foreign>vaccha-</foreign>) or <foreign>vakkha-</foreign> 'chest' &lt; <foreign>vakṣas-</foreign> (no Pali cognate?). But
-					it is hard to to imagine why anyone would write 'tree' or 'chest' in isolation, and Pali <seg type="phonemic">kkh</seg> is normally spelt <seg type="graphemic">kkh</seg> in the Pyu corpus, so we are inclined to read here two Pyu monosyllabic words.</p>
+				<p>The script look like Pyu, though there are no truly unique Pyu features like a subscript dot, and it could also be Southern Brāhmī, in which case the language would be expected to be Pali. The closest Indic matches for &lt;vakhaḥ&gt; are Prakrit <foreign>vakkha-</foreign> 'tree' &lt; <foreign>vr̥kṣa-</foreign> (the corresponding Pali is <foreign>vaccha-</foreign>) or <foreign>vakkha-</foreign> 'chest' &lt; <foreign>vakṣas-</foreign> (no Pali cognate?). But
+					it is hard to to imagine why anyone would write 'tree' or 'chest' in isolation, and Pali <seg type="phonemic">kkh</seg> is normally spelt &lt;kkh&gt; in the Pyu corpus, so we are inclined to read here two Pyu monosyllabic words.</p>
 				<p>Both <foreign xml:lang="pyx">va</foreign> and <foreign xml:lang="pyx">khaḥ</foreign> are attested in Pyu texts. Alas, they are
 					only together in the present one, and without understanding the context,
-					<foreign xml:lang="pyx">°o khaḥ</foreign> in PYU <ref target="DHARMA_INSPYU00032">32</ref>, l. 3, could either be a nominalization of a verb <foreign xml:lang="pyx">khaḥ</foreign> or a possessed object <foreign xml:lang="pyx">khaḥ</foreign>, so it is hard to guess what the part of speech of <foreign xml:lang="pyx">khaḥ</foreign> is. <foreign xml:lang="pyx">°o va</foreign>
+					<foreign xml:lang="pyx">O khaḥ</foreign> in PYU <ref target="DHARMA_INSPYU00032">32</ref>, l. 3, could either be a nominalization of a verb <foreign xml:lang="pyx">khaḥ</foreign> or a possessed object <foreign xml:lang="pyx">khaḥ</foreign>, so it is hard to guess what the part of speech of <foreign xml:lang="pyx">khaḥ</foreign> is. <foreign xml:lang="pyx">O va</foreign>
 					in PYU <ref target="DHARMA_INSPYU00020">20</ref>, l. 2, has the same problem: <foreign xml:lang="pyx">va</foreign> might be either a verb or a noun.</p>
 			</div>
 			<div type="bibliography">

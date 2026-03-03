@@ -74,12 +74,12 @@
 				<ab>
 					<lb n="1"/>
 					<g type="siddham"/>
-					<g type="ddanda">.</g> tdaṃḥ ḅaṁḥ °o lu
+					<g type="ddanda">.</g> tdaṃḥ ḅaṁḥ O lu
 					snuḥ
-					<supplied reason="lost">s</supplied>ihavikrama ḅaṁḥ sniḥ hraṁ su rla hniṁ tiṁ phvuṃ plaṁ ta kiṁ kha °o sniḥ sniḥ plaṁ
+					<supplied reason="lost">s</supplied>ihavikrama ḅaṁḥ sniḥ hraṁ su rla hniṁ tiṁ phvuṃ plaṁ ta kiṁ kha O sniḥ sniḥ plaṁ
 					su plaṁ rla
 					tko tiṁ phvuṃ
-					npu tiṁ tdaṃḥ ḅaṁḥ °o ru kleḥ yaṁ </ab>
+					npu tiṁ tdaṃḥ ḅaṁḥ O ru kleḥ yaṁ </ab>
 				<!-- MM2AG: should I do anything with the red in the RTF? -->
 				<!-- AG2MM3: editing conventions to be revised. -->
 			</div>
@@ -88,7 +88,7 @@
 					<app loc="1">
 						<lem>lu</lem>
 						<note>See note on PYU <ref target="DHARMA_INSPYU00001">1</ref>.</note>
-						<note>Blagden also proposed <seg type="graphemic">roṃ</seg>, <seg type="graphemic">reṃ</seg> and <seg type="graphemic">nūṃ</seg> as possible readings.</note>
+						<note>Blagden also proposed &lt;roṃ&gt;, &lt;reṃ&gt; and &lt;nūṃ&gt; as possible readings.</note>
 					</app>
 					<app loc="1">
 						<lem>npu</lem>
@@ -143,8 +143,8 @@
 			</div>
 			<div type="commentary">
 				<p>Vague traces of punctuation signs followed by another text after this one are visible on the estampages.</p>
-				<p>Note the allograph of <seg type="graphemic">u</seg> in <seg type="graphemic">phvuṃ</seg>.</p>
-				<p>Note <seg type="graphemic">sniḥ sniḥ plaṁ su plaṁ rla tko tiṁ phvuṃ nsu tiṁ</seg> ‘on year 44, month 9 (and?) day 20’</p>
+				<p>Note the allograph of &lt;u&gt; in &lt;phvuṃ&gt;.</p>
+				<p>Note &lt;sniḥ sniḥ plaṁ su plaṁ rla tko tiṁ phvuṃ nsu tiṁ&gt; ‘on year 44, month 9 (and?) day 20’</p>
 			</div>
 			<div type="bibliography">
 				<!--ASI 1911-12, 147. — ASB 1912, 7, 11. — Blagden 1913-14 (B). — PR, 47 (B), 50. — PPPB I, 48, 57 n. 13, 126-7. — Shafer 1943: 339. — Guy 2014: 76-7 (cat. 24).-->

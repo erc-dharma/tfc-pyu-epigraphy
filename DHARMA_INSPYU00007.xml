@@ -73,46 +73,46 @@
 			<div type="edition">
 				<div type="textpart" n="Old Burmese" xml:lang="obr-Latn">
 					<ab>
-						<lb n="1"/>śrī <g type="ddanda">.</g> namo buddhāya <g type="ddanda">.</g> pu rhā skhaṅ· sāsanā °anhac· ta
-						<lb n="2" break="no"/>c· thoṅ· khrok<unclear>·</unclear> ryā nhac· chāy<unclear>·</unclear> het· nhac· lon·
-						<lb n="3"/>liy· brī ra kā <g type="ddanda">.</g> °īy· °arimaddanapur· mañ· su prañ·
-						<lb n="4"/>nhik· °ā <g type="ddanda">.</g> śrītribuvanādityadhammarāj· mañ· su ma
-						<lb n="5" break="no"/>ṅ· phlac· °e°· <g type="ddanda">.</g> thiv· maṅ· °e°· pāy· ma yā ta <!-- MM: Tentatively distinguish online °· from subscript '·. This distinction is not in the RTF as of 2016-09-19. -->
-						<lb n="6" break="no"/>c· yok· su kā trilokavaṭaṁsakādevī <!-- MM: All -ññ· changed to -ñ· in this file. The RTF contains both. Duroiselle only uses -ñ·. -->
-						<lb n="7"/>mañ· °e°· <g type="ddanda">.</g> thiv· pāy· ma yā sā tamu leh· rā<unclear>ja</unclear>
-						<lb n="8" break="no"/>kumār· mañ· °e°· <g type="ddanda">.</g> thiv· maṅ· kā kyon· suṁ rvoh·
-						<lb n="9"/>teh· pāy· ma yā °ā piy· °e°· <g type="ddanda">.</g> thiv· pāy· ma
-						<lb n="10" break="no"/>yā syī· kha ra kā <g type="ddanda">.</g> thiv· pāy· ma yā tan· chā nhaṅ'· thi
-						<lb n="11" break="no"/>v· kyon· suṁ rvoh· su nhaṅ'· teh· thiv· pāy· ma yā
-						<lb n="12"/>sā °a sā rājakumār· mañ· so °ā maṅ· piy· tuṁ 
-						<lb n="13"/>°e°· <g type="ddanda">.</g> thuiv· maṅ· °anhac· nhac· chāy het nhac· maṅ· mū bri ru 
-						<lb n="14" break="no"/>y'a °e°· <g type="ddanda">.</g> siy· <unclear>kha</unclear> mū nā su rhov· nhik· teh· <g type="ddanda">.</g> thuiv· rājaku 
-						<lb n="15" break="no"/>mār· mañ· su pay· ma yā sā mi mī keiv· muy· so maṅ· 
-						<lb n="16"/>grī klañ jo °ok· mi ra kā <g type="ddanda">.</g> rhuy· °ati su pu rhā skhaṅ· °a <!-- MM: klañ jo is written as two akṣara <kla ñjo>; the transliteration here follows syllabification rather than akṣara structure. -->
-						<lb n="17" break="no"/>chaṅ· plu ruy'· °e°· nhap· liy· su rhov· teh °iy· si 
-						<lb n="18" break="no"/>°· min'· °e°· <g type="ddanda">.</g> °iy· rhuy· pu rhā kā ṅa skhaṅ<unclear>·</unclear> °aphei°· °ati°· ky 
-						<lb n="19" break="no"/>on· plo°· su teh· <g type="ddanda">.</g> kyon· su<unclear>ṁ</unclear> rvoh· °atui°· kyo 
-						<lb n="20" break="no"/>n· ṅa skhaṅ· piy· su sañ· kā °iy<unclear>·</unclear> rhuy<unclear>·</unclear> pu r<unclear>h</unclear>ā°ā °atui°· kyo 
-						<lb n="21" break="no"/>n· piy· ye°· <g type="ddanda">.</g> thiv· rhov· teh· maṅ· nhac<unclear>·</unclear> klui°· ra kā koṅ· 
-						<lb n="22"/>lheṅ'· teh<unclear>·</unclear> koṅ· lheṅ'· teh· min'· ruy'· °e°· saṅ grī
+						<lb n="1"/>śrī <g type="ddanda">.</g> namo buddhāya <g type="ddanda">.</g> pu rhā skhaṄ sāsanā AnhaC ta
+						<lb n="2" break="no"/>C thoṄ khroK<unclear></unclear> ryā nhaC chāY<unclear></unclear> heT nhaC loN
+						<lb n="3"/>liY brī ra kā <g type="ddanda">.</g> ĪY ArimaddanapuR maÑ su praÑ
+						<lb n="4"/>nhiK Ā <g type="ddanda">.</g> śrītribuvanādityadhammarāj· maÑ su ma
+						<lb n="5" break="no"/>Ṅ phlaC E°· <g type="ddanda">.</g> thiV maṄ E°· pāY ma yā ta <!-- MM: Tentatively distinguish online °· from subscript '·. This distinction is not in the RTF as of 2016-09-19. -->
+						<lb n="6" break="no"/>C yoK su kā trilokavaṭaṁsakādevī <!-- MM: All -ññ· changed to -ñ· in this file. The RTF contains both. Duroiselle only uses -ñ·. -->
+						<lb n="7"/>maÑ E°· <g type="ddanda">.</g> thiV pāY ma yā sā tamu leh· rā<unclear>ja</unclear>
+						<lb n="8" break="no"/>kumāR maÑ E°· <g type="ddanda">.</g> thiV maṄ kā kyoN suṁ rvoh·
+						<lb n="9"/>teh· pāY ma yā Ā piY E°· <g type="ddanda">.</g> thiV pāY ma
+						<lb n="10" break="no"/>yā syī· kha ra kā <g type="ddanda">.</g> thiV pāY ma yā taN chā nhaṅ'· thi
+						<lb n="11" break="no"/>V kyoN suṁ rvoh· su nhaṅ'· teh· thiV pāY ma yā
+						<lb n="12"/>sā A sā rājakumāR maÑ so Ā maṄ piY tuṁ 
+						<lb n="13"/>E°· <g type="ddanda">.</g> thuiV maṄ AnhaC nhaC chāy het nhaC maṄ mū bri ru 
+						<lb n="14" break="no"/>y'a E°· <g type="ddanda">.</g> siY <unclear>kha</unclear> mū nā su rhoV nhiK teh· <g type="ddanda">.</g> thuiV rājaku 
+						<lb n="15" break="no"/>māR maÑ su paY ma yā sā mi mī keiV muY so maṄ 
+						<lb n="16"/>grī klañ jo OK mi ra kā <g type="ddanda">.</g> rhuY Ati su pu rhā skhaṄ A <!-- MM: klañ jo is written as two akṣara <kla ñjo>; the transliteration here follows syllabification rather than akṣara structure. -->
+						<lb n="17" break="no"/>chaṄ plu ruy'· E°· nhaP liY su rhoV teh IY si 
+						<lb n="18" break="no"/>°· min'· E°· <g type="ddanda">.</g> IY rhuY pu rhā kā ṅa skhaṄ<unclear></unclear> Aphei°· Ati°· ky 
+						<lb n="19" break="no"/>oN plo°· su teh· <g type="ddanda">.</g> kyoN su<unclear>ṁ</unclear> rvoh· Atui°· kyo 
+						<lb n="20" break="no"/>N ṅa skhaṄ piY su saÑ kā IY<unclear></unclear> rhuY<unclear></unclear> pu r<unclear>h</unclear>āĀ Atui°· kyo 
+						<lb n="21" break="no"/>N piY ye°· <g type="ddanda">.</g> thiV rhoV teh· maṄ nhaC<unclear></unclear> klui°· ra kā koṄ 
+						<lb n="22"/>lheṅ'· teh<unclear>·</unclear> koṄ lheṅ'· teh· min'· ruy'· E°· saṅ grī
 						<!-- MM: is saṅ grī really written without a killer? check! -->
-						<lb n="23"/>mahāther· <g type="ddanda">.</g> saṅ grī muggaliputtati<unclear>ssa</unclear>tther· <g type="ddanda">.</g> saṅ grī su
-						<lb n="24" break="no"/>medha paṇḍit· <g type="ddanda">.</g> saṅ grī brahmapāl· <g type="ddanda">.</g> saṅ grī brahmadi 
-						<lb n="25" break="no"/>v· <g type="ddanda">.</g> saṅ grī son<unclear>·</unclear>	<g type="ddanda">.</g> saṅ grī saṅghasena varapaṇḍi 
-						<lb n="26" break="no"/>t· <g type="ddanda">.</g> thuiv· skhaṅ· tui°· °amhok· teh· maṅ· <unclear>r</unclear>iy· son· °e°· 
-						<lb n="27"/><g type="ddanda">.</g> thiv· brī ra kā thuiv· rājakumār· mañ· su pay· ma yā °a sā 
-						<lb n="28"/>thiv· rhuy· pu rhā thāpanā ruy'· °e°· °iy· rhuy· °athot· mū so 
-						<lb n="29"/>kū plo°· °e°· <g type="ddanda">.</g> plo°· brī ra kā °iy· kū pu rhā lhot· 
-						<lb n="30"/>su rhov· nhik· teh· <g type="ddanda">.</g> sak· mu na lon· tac· rvoh· <g type="ddanda">.</g> ra pā 
-						<lb n="31" break="no"/>y· tac· rvoh· <g type="ddanda">.</g> hen· buiv· tac· rvoh· <g type="ddanda">.</g> °iy· kyon· 
-						<lb n="32"/>suṁ rvoh· yo ruy'· °e°· <g type="ddanda">.</g> thuiv· rājakumār· mañ· su pay· 
-						<lb n="33"/>ma yā°· sā °iya kū pu rhā °ā riy· son· ruy'· °e°· °iy°· sei 
-						<lb n="34" break="no"/>°· min'· °e°· <g type="ddanda">.</g> °iy· ṅā °amho°· kā sarvvañutañā 
-						<lb n="35" break="no"/>ṇ· prajñā ra °am'· sū °akroṅ· phlac· ciy'· teh· <g type="ddanda">.</g> ṅa 
-						<lb n="36"/>noṅ· °ā ṅa sā lañ· goṅ· <g type="ddanda">.</g> ṅa mliy· lañ· goṅ· <g type="ddanda">.</g> ṅa °achu 
-						<lb n="37" break="no"/>y· lañ· goṅ· <g type="ddanda">.</g> sū tac· thū lañ· goṅ· <g type="ddanda">.</g> °iy· pu rhā 
-						<lb n="38"/>°ā ṅā lhū kha su kyon· °anhip· °acak· teh· mū mu 
-						<lb n="39"/>kā °arimittiryā pu rhā skhaṅ· °aphū ra ciy· <g type="ddanda">.</g>
+						<lb n="23"/>mahātheR <g type="ddanda">.</g> saṅ grī muggaliputtati<unclear>ssa</unclear>ttheR <g type="ddanda">.</g> saṅ grī su
+						<lb n="24" break="no"/>medha paṇḍiT <g type="ddanda">.</g> saṅ grī brahmapāL <g type="ddanda">.</g> saṅ grī brahmadi 
+						<lb n="25" break="no"/>V <g type="ddanda">.</g> saṅ grī soN<unclear></unclear>	<g type="ddanda">.</g> saṅ grī saṅghasena varapaṇḍi 
+						<lb n="26" break="no"/>T <g type="ddanda">.</g> thuiV skhaṄ tui°· AmhoK teh· maṄ <unclear>r</unclear>iY soN E°· 
+						<lb n="27"/><g type="ddanda">.</g> thiV brī ra kā thuiV rājakumāR maÑ su paY ma yā A sā 
+						<lb n="28"/>thiV rhuY pu rhā thāpanā ruy'· E°· IY rhuY AthoT mū so 
+						<lb n="29"/>kū plo°· E°· <g type="ddanda">.</g> plo°· brī ra kā IY kū pu rhā lhoT 
+						<lb n="30"/>su rhoV nhiK teh· <g type="ddanda">.</g> saK mu na loN taC rvoh· <g type="ddanda">.</g> ra pā 
+						<lb n="31" break="no"/>Y taC rvoh· <g type="ddanda">.</g> heN buiV taC rvoh· <g type="ddanda">.</g> IY kyoN 
+						<lb n="32"/>suṁ rvoh· yo ruy'· E°· <g type="ddanda">.</g> thuiV rājakumāR maÑ su paY 
+						<lb n="33"/>ma yā°· sā Iya kū pu rhā Ā riY soN ruy'· E°· Iy°· sei 
+						<lb n="34" break="no"/>°· min'· E°· <g type="ddanda">.</g> IY ṅā Amho°· kā sarvvañutañā 
+						<lb n="35" break="no"/>ṇ· prajñā ra Am'· sū AkroṄ phlaC ciy'· teh· <g type="ddanda">.</g> ṅa 
+						<lb n="36"/>noṄ Ā ṅa sā laÑ goṄ <g type="ddanda">.</g> ṅa mliY laÑ goṄ <g type="ddanda">.</g> ṅa Achu 
+						<lb n="37" break="no"/>Y laÑ goṄ <g type="ddanda">.</g> sū taC thū laÑ goṄ <g type="ddanda">.</g> IY pu rhā 
+						<lb n="38"/>Ā ṅā lhū kha su kyoN AnhiP AcaK teh· mū mu 
+						<lb n="39"/>kā Arimittiryā pu rhā skhaṄ Aphū ra ciY <g type="ddanda">.</g>
 						<g>=</g>
 						<g type="ddanda">.</g>
 					</ab>
@@ -120,44 +120,44 @@
 				<div type="textpart" n="Pali" xml:lang="pli-Latn">
 					<ab>
 						<lb n="1"/><g type="ddanda">.</g> śrī <g type="ddanda">.</g> buddhādikaṁ vatthuvaraṁ namitvā	puññaṁ kataṁ yaṁ jinasā
-						<lb n="2" break="no"/>sanasmiṁ°anādikaṁ rājakumāranāmadheyyena vakkhā
+						<lb n="2" break="no"/>sanasmiṁAnādikaṁ rājakumāranāmadheyyena vakkhā
 						<lb n="3" break="no"/>mi sunātha me taṁ <g type="ddanda">.</g> nibbānā lokanāthassa aṭṭhavī
 						<lb n="4" break="no"/>sādhike gate sahasse pana vassānaṁ chasate cāpare ta
-						<lb n="5" break="no"/>thā <g type="ddanda">.</g>°arimaddananāmasmi pure °āsi mahabbalo rājā
-						<lb n="6"/>tibhuvanādicco °udiccādiccavaṁsajo <g type="ddanda">.</g> tassāse
+						<lb n="5" break="no"/>thā <g type="ddanda">.</g>Arimaddananāmasmi pure Āsi mahabbalo rājā
+						<lb n="6"/>tibhuvanādicco Udiccādiccavaṁsajo <g type="ddanda">.</g> tassāse
 						<lb n="7" break="no"/>kā piyā devi sā tilokavataṁsakā hi
 						<lb n="8" break="no"/>tesī kusalā sabbakiccesu pana rājino <g type="ddanda">.</g> ta 
 						<lb n="9" break="no"/>ssāseko suto rājakumāro nāma nāma 
-						<lb n="10" break="no"/>to °amacco rājakiccesu byāvato satimā 
-						<lb n="11"/>vidū <g type="ddanda">.</g>°adā gāmattayaṁ tassā deviyā so ma 
+						<lb n="10" break="no"/>to Amacco rājakiccesu byāvato satimā 
+						<lb n="11"/>vidū <g type="ddanda">.</g>Adā gāmattayaṁ tassā deviyā so ma 
 						<lb n="12" break="no"/>hipati pasanno sabbadā dāsaparibhogena bhuñjituṁ 
-						<lb n="13"/>°aniccatāvasaṁ tassā gatāya pana deviyā rā 
+						<lb n="13"/>Aniccatāvasaṁ tassā gatāya pana deviyā rā 
 						<lb n="14" break="no"/>ja
-						rājakumārassa °adā gāmattaya puna <g type="ddanda">.</g> aṭṭhavīsa 
+						rājakumārassa Adā gāmattaya puna <g type="ddanda">.</g> aṭṭhavīsa 
 						<lb n="15" break="no"/>ti vassāni rajjaṁ dhammena kāriya māranantikarogassa 
 						<lb n="16"/> vasaṁ patte narādhipe <g type="ddanda">.</g> saranto dhammarājassa mahantaṁ gu 
 						<lb n="17" break="no"/>ṇasañcayaṁ kāretvā satthuno bimbaṁ sabbasovaṇṇa 
 						<lb n="18" break="no"/>yaṁ subhaṁ <g type="ddanda">.</g> gahetvā taṁ mahantena sakkārena sumānaso 
-						<lb n="19"/>°upasaṅkamma rājānaṁ °āha cintitam °attano <g type="ddanda">.</g> bhāgaṁ katvā 
-						<lb n="20" break="no"/>nidaṁ satthubimbaṁ sovaṇṇayaṁ subhaṁ °akāsiṁ vo va 
+						<lb n="19"/>Upasaṅkamma rājānaṁ Āha cintitam Attano <g type="ddanda">.</g> bhāgaṁ katvā 
+						<lb n="20" break="no"/>nidaṁ satthubimbaṁ sovaṇṇayaṁ subhaṁ Akāsiṁ vo va 
 						<lb n="21" break="no"/>raṁ puññaṁ sāmi tumhe numodatha <g type="ddanda">.</g> gāmattayaṁ pi vo 
-						<lb n="22"/>sāmi pubbe dinnan tu me °ahaṁ °imasseva munindassa demi ta 
-						<lb n="23" break="no"/>ñ cānumodatha <g type="ddanda">.</g>°evaṁ vutte mahīpālo roge 
+						<lb n="22"/>sāmi pubbe dinnan tu me Ahaṁ Imasseva munindassa demi ta 
+						<lb n="23" break="no"/>ñ cānumodatha <g type="ddanda">.</g>Evaṁ vutte mahīpālo roge 
 						<lb n="24" break="no"/>nāturamānaso sādhu sādhu ti vatvāna tuṭṭhahattho 
 						<lb n="25"/>pamodito <g type="ddanda">.</g> dayāparo mahāthero thero muggali 
 						<lb n="26" break="no"/>puttako sumedhatta sumedho ti laddhanāmo ca paṇḍito
 						<lb n="27"/> brahmapālo tathā brahmadevo sampannasīlavā sono 
-						<lb n="28"/>bahussuto saṁghasenavho varapaṇḍito <g type="ddanda">.</g>°etesaṁ pa 
+						<lb n="28"/>bahussuto saṁghasenavho varapaṇḍito <g type="ddanda">.</g>Etesaṁ pa 
 						<lb n="29" break="no"/>na bhikkhūnaṁ saṁmukhā so sumānaso jalaṁ pātesi katvāna sa 
 						<lb n="30" break="no"/>kkhin tu vasudhātalaṁ <g type="ddanda">.</g> tato so taṁ mahāmacco bimbaṁ sova 
 						<lb n="31" break="no"/>ṇṇayaṁ subhaṁ patiṭṭhāpiya kāresi guhaṁ kañcanathūpikaṁ <g type="ddanda">.</g>
-						<lb n="32"/>katvāna maṅgalaṁ buddhapatimāya guhāya ca °akāsevaṁ paṇī 
-						<lb n="33" break="no"/>dhānaṁ nibbinno bhavasaṅkate <g type="ddanda">.</g> karontena mayā °etaṁ yaṁ pu 
+						<lb n="32"/>katvāna maṅgalaṁ buddhapatimāya guhāya ca Akāsevaṁ paṇī 
+						<lb n="33" break="no"/>dhānaṁ nibbinno bhavasaṅkate <g type="ddanda">.</g> karontena mayā Etaṁ yaṁ pu 
 						<lb n="34" break="no"/>ññaṁ taṁ samācitaṁ hotu sabbaññutañāṇapativedhā 
 						<lb n="35" break="no"/>ya paccayo <g type="ddanda">.</g> yattakā tu mayā dāsā gāmattayanivā 
 						<lb n="36" break="no"/>sino dinnā guhāya sovaṇṇapatimāya mahesi 
-						<lb n="37" break="no"/>no <g type="ddanda">.</g> putto me vā paputto vā °añño vā pana ñā
-						<lb n="38" break="no"/>tako yo kocipāpasaṁkappo naro °assaddha 
+						<lb n="37" break="no"/>no <g type="ddanda">.</g> putto me vā paputto vā Añño vā pana ñā
+						<lb n="38" break="no"/>tako yo kocipāpasaṁkappo naro Assaddha 
 						<lb n="39" break="no"/>mānaso <g type="ddanda">.</g> kareyyupadduvaṁ tesaṁ dāsānaṁ so narādhamo 
 						<lb n="40"/>metteyyadipadindassa dassanaṁ nāthigacchatū 
 						<lb n="41"/>ti <g type="ddanda">.</g><g>○</g><g type="ddanda">.</g>
@@ -169,44 +169,44 @@
 				</div>
 				<div type="textpart" n="Old Mon" xml:lang="omx-Latn">
 					<ab>
-						<lb n="1"/><g type="ddanda">.</g> śrī <g type="ddanda">.</g> namo 	buddhāya <g type="ddanda">.</g> śrī <g type="ddanda">.</g> sās kyek· buddha tirley
-						<lb n="2"/>kuli °ār· moy· lṅim· turov klam· ḅār· cvas diñcām· cnām
-						<lb n="3"/>tuy· <g type="ddanda">.</g> ḍe<unclear>y·</unclear>	<unclear>ḍu</unclear>ṅ· <supplied reason="lost">°a</supplied>rimaddanapur· vo'· smiṅ· śrī tribhuvanādi
+						<lb n="1"/><g type="ddanda">.</g> śrī <g type="ddanda">.</g> namo 	buddhāya <g type="ddanda">.</g> śrī <g type="ddanda">.</g> sās kyeK buddha tirley
+						<lb n="2"/>kuli ĀR moY lṅiM turov klaM ḅāR cvas diñcāM cnām
+						<lb n="3"/>tuY <g type="ddanda">.</g> ḍe<unclear>Y</unclear>	<unclear>ḍu</unclear>Ṅ <supplied reason="lost">A</supplied>rimaddanapuR vo'· smiṄ śrī tribhuvanādi
 						<!-- MM: check ḍey -->
-						<lb n="4" break="no"/>tyadhammarāj das· <g type="ddanda">.</g> gna kyek· smiṅ· goḥh· moy<supplied reason="omitted">·</supplied> tri
+						<lb n="4" break="no"/>tyadhammarāj das· <g type="ddanda">.</g> gna kyeK smiṄ goḥh· moY<supplied reason="omitted"></supplied> tri
 						<!-- MM: left side of lo on line 4 -->
-						<lb n="5" break="no"/>lokavaṭaṁsakādevī °imo'· <g type="ddanda">.</g> kon· gna kyek· goḥ
-						<lb n="6" break="no"/>h· rājakumār· °imo'· <g type="ddanda">.</g> smiṅ· goḥh· kil· ḍik· pi tvā
-						<lb n="7" break="no"/>ñ· ku gna kyek· goḥh· <g type="ddanda">.</g> kāl· gna kyek· goḥh· cuti 
-						<lb n="8"/>°ār· <g type="ddanda">.</g> °a'ut· kiryā gna kyek· goḥ ku ḍik· pi tvāñ· goḥ 
-						<lb n="9"/>smiṅ· tun· kil· ku kon· gna kyek· ma °imo'· rājaku 
-						<lb n="10" break="no"/>mār goḥ <g type="ddanda">.</g> smiṅ· goḥh· kmin· ḅār· cvas· diñcām· cnām· tuy· goḥ
-						<lb n="11"/><unclear>kā</unclear>l· smiṅ· goḥ 'jey· ñan· scuti <g type="ddanda">.</g> kon· gna kyek· ma °i 
-						<lb n="12" break="no"/>mo'· rājakumār· goḥ <unclear>m</unclear>irnās· guṇ· ma smiṅ· °iñcim· 
-						<lb n="13"/>jirku kin<unclear>d</unclear>aṁ kyek· thar· moy· °ār· tu<unclear>ḅ</unclear>ok· smiṅ· mu 
-						<lb n="14" break="no"/>nas· rov· vo'· <g type="ddanda">.</g> kyek· thar· vo'· °ey· dik· pa raṁ 
-						<lb n="15" break="no"/>po' tirla ḍik pi tvāñ· ma tirla kil· ku °ey· goḥh· 
-						<lb n="16"/>ey· dik· kil· ku kyek· vo'· tirla °anumodanā da'· 
-						<lb n="17"/><g type="ddanda">.</g> kāl· goḥ smiṅ· sḍik· gap· pumas· thic· °ā thic· °ā smiṅ· pa
-						<lb n="18"/>sādhukār· <g type="ddanda">.</g> kāl· goḥh· tirla poy			mhā<unclear>the</unclear>r· <g type="ddanda">.</g> ticā 
-						<lb n="19" break="no"/>r· muggaliputtat<supplied reason="lost">i</supplied>ssatther· <g type="ddanda">.</g> ticār· sumedhapaṇḍit· <g type="ddanda">.</g> ti
-						<lb n="20" break="no"/><unclear>cā</unclear>r· brahmapāl· <g type="ddanda">.</g> ticār· brahmadiv· <g type="ddanda">.</g> ticār· son· 
-						<lb n="21"/><g type="ddanda">.</g> ticār· saṅghasenavarapaṇḍit· <g type="ddanda">.</g> kinta 		tirla 
-						<lb n="22"/>ta goḥ smiṅ· cut· ḍek· han· ti <g type="ddanda">.</g> blaḥ goḥ kon· gna kye 
-						<lb n="23" break="no"/>k· ma °imo'· rājakumār· goḥ ket· kyek· thar· goḥ 
-						<lb n="24"/>thāpanā kandaṁ guoh· cloṅ· thar· <unclear>v</unclear>o'· <g type="ddanda">.</g> kāl· busac· kye 
-						<lb n="25" break="no"/>k guoh· vo'· kon· gna kyek· goḥ ket· sak·muna 
+						<lb n="5" break="no"/>lokavaṭaṁsakādevī Imo'· <g type="ddanda">.</g> koN gna kyeK goḥ
+						<lb n="6" break="no"/>h· rājakumāR Imo'· <g type="ddanda">.</g> smiṄ goḥh· kiL ḍiK pi tvā
+						<lb n="7" break="no"/>Ñ ku gna kyeK goḥh· <g type="ddanda">.</g> kāL gna kyeK goḥh· cuti 
+						<lb n="8"/>ĀR <g type="ddanda">.</g> A'uT kiryā gna kyeK goḥ ku ḍiK pi tvāÑ goḥ 
+						<lb n="9"/>smiṄ tuN kiL ku koN gna kyeK ma Imo'· rājaku 
+						<lb n="10" break="no"/>mār goḥ <g type="ddanda">.</g> smiṄ goḥh· kmiN ḅāR cvas· diñcāM cnāM tuY goḥ
+						<lb n="11"/><unclear>kā</unclear>L smiṄ goḥ 'jeY ñaN scuti <g type="ddanda">.</g> koN gna kyeK ma I 
+						<lb n="12" break="no"/>mo'· rājakumāR goḥ <unclear>m</unclear>irnās· guṇ· ma smiṄ IñciM 
+						<lb n="13"/>jirku kin<unclear>d</unclear>aṁ kyeK thaR moY ĀR tu<unclear>ḅ</unclear>oK smiṄ mu 
+						<lb n="14" break="no"/>nas· roV vo'· <g type="ddanda">.</g> kyeK thaR vo'· EY diK pa raṁ 
+						<lb n="15" break="no"/>po' tirla ḍik pi tvāÑ ma tirla kiL ku EY goḥh· 
+						<lb n="16"/>eY diK kiL ku kyeK vo'· tirla Anumodanā da'· 
+						<lb n="17"/><g type="ddanda">.</g> kāL goḥ smiṄ sḍiK gaP pumas· thiC Ā thiC Ā smiṄ pa
+						<lb n="18"/>sādhukāR <g type="ddanda">.</g> kāL goḥh· tirla poy			mhā<unclear>the</unclear>R <g type="ddanda">.</g> ticā 
+						<lb n="19" break="no"/>R muggaliputtat<supplied reason="lost">i</supplied>ssattheR <g type="ddanda">.</g> ticāR sumedhapaṇḍiT <g type="ddanda">.</g> ti
+						<lb n="20" break="no"/><unclear>cā</unclear>R brahmapāL <g type="ddanda">.</g> ticāR brahmadiV <g type="ddanda">.</g> ticāR soN 
+						<lb n="21"/><g type="ddanda">.</g> ticāR saṅghasenavarapaṇḍiT <g type="ddanda">.</g> kinta 		tirla 
+						<lb n="22"/>ta goḥ smiṄ cuT ḍeK haN ti <g type="ddanda">.</g> blaḥ goḥ koN gna kye 
+						<lb n="23" break="no"/>K ma Imo'· rājakumāR goḥ keT kyeK thaR goḥ 
+						<lb n="24"/>thāpanā kandaṁ guoh· cloṄ thaR <unclear>v</unclear>o'· <g type="ddanda">.</g> kāL busaC kye 
+						<lb n="25" break="no"/>k guoh· vo'· koN gna kyeK goḥ keT saKmuna 
 						<!-- MM: the e half of lor· appears at the end of line 25 only to appear again at the start of line 26. How should the extra e at the end of line 25 be encoded? -->
-						<lb n="26" break="no"/>lor· moy· tvāñ· <g type="ddanda">.</g> rapāy moy· tvāñ· <g type="ddanda">.</g> ñaḥh· <supplied reason="lost">gir'u</supplied>
-						<lb n="27" break="no"/><unclear>y</unclear> moy· tvāñ· <g type="ddanda">.</g> °a'ut· ḍik· pi tvāñ· goḥ cut· ḍe<supplied reason="lost">k· ku </supplied>
-						<lb n="28"/>kyek· thar· ma māpanā hin· goḥ vo'· rādhanā rov· vo'·
+						<lb n="26" break="no"/>loR moY tvāÑ <g type="ddanda">.</g> rapāy moY tvāÑ <g type="ddanda">.</g> ñaḥh· <supplied reason="lost">gir'u</supplied>
+						<lb n="27" break="no"/><unclear>y</unclear> moY tvāÑ <g type="ddanda">.</g> A'uT ḍiK pi tvāÑ goḥ cuT ḍe<supplied reason="lost">K ku </supplied>
+						<lb n="28"/>kyeK thaR ma māpanā hiN goḥ vo'· rādhanā roV vo'·
 						<!-- MM: need note re how m error for th in thāpana -->
-						<lb n="29"/><g type="ddanda">.</g> sinraṅ· °e'· vo'· or· das· het· ku gvo'· sarvvañ<supplied reason="lost">uta</supplied>
-						<lb n="30"/>ñaṇ· <g type="ddanda">.</g> kon· °ey· laḥ <g type="ddanda">.</g> cov· °ey· laḥ <g type="ddanda">.</g> ku<supplied reason="lost">lo</supplied>
+						<lb n="29"/><g type="ddanda">.</g> sinraṄ E'· vo'· oR das· heT ku gvo'· sarvvañ<supplied reason="lost">uta</supplied>
+						<lb n="30"/>ñaṇ· <g type="ddanda">.</g> koN EY laḥ <g type="ddanda">.</g> coV EY laḥ <g type="ddanda">.</g> ku<supplied reason="lost">lo</supplied>
 						<!-- MM: the e half of the o of lo is visible; should that be encoded? -->
-						<lb n="31"/>ey· laḥ <g type="ddanda">.</g> ñaḥ c'eṅ· laḥ <g type="ddanda">.</g> yal· pa X °upadrov· ku ḍ<supplied reason="lost">i</supplied> 
-						<lb n="32" break="no"/>k· ma °ey· kil· ku kyek· vo'· yaṅ· ñir·ñāc· kye 
-						<lb n="33" break="no"/>k· trey· mettey· laḥ or· ḍeh· go'· <g>||0||</g>
+						<lb n="31"/>eY laḥ <g type="ddanda">.</g> ñaḥ c'eṄ laḥ <g type="ddanda">.</g> yaL pa X UpadroV ku ḍ<supplied reason="lost">i</supplied> 
+						<lb n="32" break="no"/>K ma EY kiL ku kyeK vo'· yaṄ ñiRñāC kye 
+						<lb n="33" break="no"/>K treY metteY laḥ oR ḍeh· go'· <g>||0||</g>
 					</ab>
 				</div>
 				<div type="textpart" n="Pyu" xml:lang="pyx-Latn">
@@ -218,49 +218,49 @@
 						1000
 						<unclear>600</unclear>
 						<lb n="2"/>
-						20 hraṁ °o sniḥ ḅiṁḥ tvaṃṁḥ tha daṃṁ <g>//</g> yaṁ tiṁ priḥ rimadhanarbu °o rmi
+						20 hraṁ O sniḥ ḅiṁḥ tvaṃṁḥ tha daṃṁ <g>//</g> yaṁ tiṁ priḥ rimadhanarbu O rmi
 						<!-- MM: Blagden 1919 treats °umi as a disyllabic word rather than as two words as we do: °o rmi. Could this difference be acknowledged in our XML? Similar issues with °o vaṁ, ma yaḥ, ta daṃṁ. --> ḅiṁḥ si <g>//</g>
-						<lb n="3"/>sri tribhuvaṃnadiṃṁtya dhamaraja °o rmi ḅiṁḥ si <g>//</g> °o doṃḥ ḍaZ ḅaṁḥ °o rvaṃḥ ma 
-						<lb n="4" break="no"/>yaḥ triḍogavaṃdasaga deṃviṃ ḅiṁḥ si °o rmi
+						<lb n="3"/>sri tribhuvaṃnadiṃṁtya dhamaraja O rmi ḅiṁḥ si <g>//</g> O doṃḥ ḍaZ ḅaṁḥ O rvaṃḥ ma 
+						<lb n="4" break="no"/>yaḥ triḍogavaṃdasaga deṃviṃ ḅiṁḥ si O rmi
 						<g>//</g>
-						pau °o saḥ rajaguma ḅiṁḥ 
-						<lb n="5"/>si °o rmi
-						<g>//</g> °o vaṁ traḥ kra
+						pau O saḥ rajaguma ḅiṁḥ 
+						<lb n="5"/>si O rmi
+						<g>//</g> O vaṁ traḥ kra
 						nhoḥ ḅiṁḥ paṁḥ toḥZ <g>//</g>
 						po ḅaṁḥ ma yaḥ ḅiṁḥ hi ta daṃṁ 
-						<lb n="6"/>ma<unclear>ya</unclear>ḥ °o dra traḥ kra hoḥ ḅiṁḥ paṁḥ tḅaḥ ḅaṁḥ ma yaḥ °o saḥ rajaguma °o vaṁ <g>//</g>
+						<lb n="6"/>ma<unclear>ya</unclear>ḥ O dra traḥ kra hoḥ ḅiṁḥ paṁḥ tḅaḥ ḅaṁḥ ma yaḥ O saḥ rajaguma O vaṁ <g>//</g>
 						<lb n="7"/>
-						pau ḅaṁḥ tdaṃḥ sniḥ <unclear>ns</unclear>u hraṁ biṁḥ ta daṃṁ <g>//</g> ḅiṁḥ sriḥ ḅiṁḥ hniṁḥ hḍiṁḥ hi °o mtu duṃ 
+						pau ḅaṁḥ tdaṃḥ sniḥ <unclear>ns</unclear>u hraṁ biṁḥ ta daṃṁ <g>//</g> ḅiṁḥ sriḥ ḅiṁḥ hniṁḥ hḍiṁḥ hi O mtu duṃ 
 						<lb n="8"/>roḥ <g>//</g>
-						po ḅaṁḥ ma yaḥ °o saḥ rajaguma ḅiṁḥ si °o rmi
-						<g>//</g> °o diṃṁ 
+						po ḅaṁḥ ma yaḥ O saḥ rajaguma ḅiṁḥ si O rmi
+						<g>//</g> O diṃṁ 
 						<lb n="9"/>ḅiṁḥ
 						mtau ma 
 						pau 
 						tdaṃḥ 
 						to 
-						°o 
+						O 
 						kḍeḥ 
 						troḥ diṃṁ ḅiṁḥ mdauṃ haḥ ḍaḥ daṃṁ <g>//</g> pau ḅaṁḥ 
-						<lb n="10"/>ḅudha °o chaḥ bo bradima tha <unclear>tlu</unclear> ḅiṁḥ se kyaḥ <g>//</g> pau ḅaṁḥ ḅudha biṁḥ tuḥ 
+						<lb n="10"/>ḅudha O chaḥ bo bradima tha <unclear>tlu</unclear> ḅiṁḥ se kyaḥ <g>//</g> pau ḅaṁḥ ḅudha biṁḥ tuḥ 
 						<lb n="11"/>thmuḥ ḍoḥ yaṁ na  ḅi<unclear>ṁḥ</unclear> tdiṃḥ toḥZ <g>//</g> yaṁ ḅaṁḥ ḅudha tha ḅaṁḥ raḥ saḥ biṁḥ 
-						<lb n="12"/>se ma ḅuḥ ḅaṁḥ °o vaṁ paṁḥ ce choḥZ <g>//</g> yaṁ traḥ kra hoḥ ḅiṁḥ paṁḥ 
-						<lb n="13"/>ma ḅuḥ <g>//</g> yaṁ baṁḥ hra tha °o vaṁ paṁḥ cheZ <g>//</g> pau ḍoḥ baṁḥ tdaṃḥ ḅiṁḥ kiṁ
-						<lb n="14"/>pha daṃṁ ḅiṁḥ ṅa ha pra choḥ ha pra choḥ ḅiṁḥ si <g>//</g> pau °o doṃḥ traḥ ḅaṁḥ 
+						<lb n="12"/>se ma ḅuḥ ḅaṁḥ O vaṁ paṁḥ ce choḥZ <g>//</g> yaṁ traḥ kra hoḥ ḅiṁḥ paṁḥ 
+						<lb n="13"/>ma ḅuḥ <g>//</g> yaṁ baṁḥ hra tha O vaṁ paṁḥ cheZ <g>//</g> pau ḍoḥ baṁḥ tdaṃḥ ḅiṁḥ kiṁ
+						<lb n="14"/>pha daṃṁ ḅiṁḥ ṅa ha pra choḥ ha pra choḥ ḅiṁḥ si <g>//</g> pau O doṃḥ traḥ ḅaṁḥ 
 						<lb n="15"/>mahaṭhe <g>/</g>traḥ ḅaṁḥ mugaṃḍubudadisaṭhe <g>/</g>traḥ ḅaṁḥ ⟪su⟫medhabadiṃṁ <!-- MM: how should ⟪⟫ be encoded? -->
 						<lb n="16"/>/ traḥ ḅaṁḥ vrahmaba <g>/</g>traḥ ḅaṁḥ vradaṃyoḥ <g>/</g>tra<unclear>ḥ</unclear> ḅaṁḥ su <g>/</g>traḥ ḅaṁḥ 
-						<lb n="17"/>sagaṃsivaṃrabadiṃṁ <g>//</g> pau traḥ ḅaṁḥ sagha tvo °o hṅa diṁ duṃ tdaṃḥ 
-						<lb n="18"/>tu ḅaṁḥ ḅiṁḥ cha toḥ tduṃ <g>//</g> pau ḅiṁḥ ta daṃṁ ma yaḥ °o sa<unclear>ḥ</unclear> raja 
+						<lb n="17"/>sagaṃsivaṃrabadiṃṁ <g>//</g> pau traḥ ḅaṁḥ sagha tvo O hṅa diṁ duṃ tdaṃḥ 
+						<lb n="18"/>tu ḅaṁḥ ḅiṁḥ cha toḥ tduṃ <g>//</g> pau ḅiṁḥ ta daṃṁ ma yaḥ O sa<unclear>ḥ</unclear> raja 
 						<lb n="19" break="no"/>guma
-						ḅiṁḥ si °o rmi ma <unclear>//</unclear> ḅiṁḥ stabana <unclear>b</unclear>udha tha ḅi<supplied reason="lost">ṁ</supplied>ḥ se goṃ °o stau tha ḅi<supplied reason="lost">ṁḥ</supplied>
-						<lb n="20"/>ta daṃṁ <g>//</g> pau goṃ °o hḍ<unclear>o</unclear> ḅiṁḥ saṁḥ <unclear>r</unclear>oḥ <g>//</g>
+						ḅiṁḥ si O rmi ma <unclear>//</unclear> ḅiṁḥ stabana <unclear>b</unclear>udha tha ḅi<supplied reason="lost">ṁ</supplied>ḥ se goṃ O stau tha ḅi<supplied reason="lost">ṁḥ</supplied>
+						<lb n="20"/>ta daṃṁ <g>//</g> pau goṃ O hḍ<unclear>o</unclear> ḅiṁḥ saṁḥ <unclear>r</unclear>oḥ <g>//</g>
 <unclear>sa</unclear>manarḍo<unclear>ḥ</unclear> kra taṁ <g>/</g>ra bai kra <unclear>ta</unclear>ṁ <unclear>/ j</unclear>i<unclear>ṁ</unclear>
 						<lb n="21"/>vuḥ kra taṁ <g>//</g> yaṁ traḥ kra hoḥ diṃṁ ḅiṁḥ diṃṁ daṃṁ <g>//</g> yaṁ ḅaṁḥ ma yaḥ <gap extent="unknown" reason="lost"/><gap reason="lost" quantity="2" unit="character"/> 
-						<lb n="22"/>rajaguma yaṁ goṃ ḅu<unclear>dha</unclear> °o vaṁ tduṃ ḅiṁḥ chai ta daṃṁ <g>//</g> yaṁ na ḅiṁḥ diṃṁ ch<unclear>o</unclear> <gap extent="unknown" reason="lost"/><gap reason="lost" quantity="2" unit="character"/>
+						<lb n="22"/>rajaguma yaṁ goṃ ḅu<unclear>dha</unclear> O vaṁ tduṃ ḅiṁḥ chai ta daṃṁ <g>//</g> yaṁ na ḅiṁḥ diṃṁ ch<unclear>o</unclear> <gap extent="unknown" reason="lost"/><gap reason="lost" quantity="2" unit="character"/>
 						<lb n="23"/>ma gaṁḥ pra ḅuḥ saveñudeña breña ḅiṁḥ ḅiṁḥ paṁḥ che naḥ tiṁ pḍaṁḥ paZ <g>//</g>
 						<lb n="24"/>yaṁ tra tiṁ mtu knaṁḥ duṃ gi saḥ ḍa <g>/</g>gi pli la gi sruḥ ḍaZ mra ja hṅa ḍa yaṁ 
-						<lb n="25"/><gap extent="unknown" reason="lost"/><gap reason="lost" quantity="1" unit="character"/> <unclear>dha</unclear> °o vaṁ gaṁḥ hḍiṁḥ toḥ ma diṃṁ <g>/</g>ga hñiṁ chi ga bro pdaṃ ma taḥ ṅuḥ ḅuḥ <g>//</g>
-						<lb n="26"/>yaṁ baṁḥ ḅudha °arimedeyaṃ daṃṁ ḅaḥ diṃ chiṁḥ tiṁ tmu ma paṁḥ che choḥ <g>//</g>Z </ab>
+						<lb n="25"/><gap extent="unknown" reason="lost"/><gap reason="lost" quantity="1" unit="character"/> <unclear>dha</unclear> O vaṁ gaṁḥ hḍiṁḥ toḥ ma diṃṁ <g>/</g>ga hñiṁ chi ga bro pdaṃ ma taḥ ṅuḥ ḅuḥ <g>//</g>
+						<lb n="26"/>yaṁ baṁḥ ḅudha Arimedeyaṃ daṃṁ ḅaḥ diṃ chiṁḥ tiṁ tmu ma paṁḥ che choḥ <g>//</g>Z </ab>
 				</div>
 			</div>
 			<div type="apparatus">
@@ -271,15 +271,15 @@
 					</app>
 					<app loc="2">
 						<lem>mī</lem>
-						<note>One could perhaps alternatively read <seg type="graphemic">rmi</seg>. Cf. PYU <ref target="DHARMA_INSPYU00016">16</ref>, l. 2d, and our note. But the vowel diacritic used here and throughout in <ref target="DHARMA_INSPYU00007">7</ref>-<ref target="DHARMA_INSPYU00008">8</ref> corresponds to one of the forms of <seg type="graphemic">-ī</seg> seen in Nagarjunakonda inscription. </note>
+						<note>One could perhaps alternatively read &lt;rmi&gt;. Cf. PYU <ref target="DHARMA_INSPYU00016">16</ref>, l. 2d, and our note. But the vowel diacritic used here and throughout in <ref target="DHARMA_INSPYU00007">7</ref>-<ref target="DHARMA_INSPYU00008">8</ref> corresponds to one of the forms of &lt;-ī&gt; seen in Nagarjunakonda inscription. </note>
 					</app>
 					<app loc="3">
 						<lem>ḍaZ</lem>
-						<note>Krech: <seg type="graphemic">la</seg> (with horizontal stroke above); Blagden also reads <seg type="graphemic">ḍa</seg> but in note recognizes the possibility of <seg type="graphemic">ḷa</seg>, ignoring the superscript line.</note>
+						<note>Krech: &lt;la&gt; (with horizontal stroke above); Blagden also reads &lt;ḍa&gt; but in note recognizes the possibility of &lt;ḷa&gt;, ignoring the superscript line.</note>
 					</app>
 					<app loc="3">
 						<lem>rvaṃḥ</lem>
-						<note>Blagden: <seg type="graphemic">voṃḥ</seg>, but unsure of the vowel; Krech: <seg type="graphemic">vaṃṁḥ</seg>, after due consideration of Blagden's <seg type="graphemic">voṃḥ</seg>. There is possibly a subscript consonant below the syllable here in A.</note>
+						<note>Blagden: &lt;voṃḥ&gt;, but unsure of the vowel; Krech: &lt;vaṃṁḥ&gt;, after due consideration of Blagden's &lt;voṃḥ&gt;. There is possibly a subscript consonant below the syllable here in A.</note>
 					</app>
 				<app loc="1">
 							<lem>pduṃ</lem>
@@ -361,7 +361,7 @@
 							<rdg source="bib:Blagden1919">mi</rdg>
 						</app><app loc="5">
 							<lem>kra</lem>
-							<rdg source="bib:Blagden1919">°o</rdg>
+							<rdg source="bib:Blagden1919">O</rdg>
 						</app><app loc="5">
 							<lem>nhoḥ</lem>
 							<rdg source="bib:Blagden1919">hoḥ</rdg>
@@ -375,7 +375,7 @@
 							<rdg source="bib:Blagden1919">tra</rdg>
 						</app><app loc="6">
 							<lem>kra</lem>
-							<rdg source="bib:Blagden1919">°o</rdg>
+							<rdg source="bib:Blagden1919">O</rdg>
 						</app><app loc="7">
 							<lem>pau</lem>
 							<rdg source="bib:Blagden1919">ḍhau</rdg>
@@ -410,14 +410,14 @@
 						</app></listApp>
 			</div>
 			<div type="translation" xml:lang="eng">
-				<p>Quadrilingual text. Records building of a shrine by Prince Rājakumāra, son of Kyanzittha <seg type="graphemic">kyan cac sāḥ</seg>, and dedication of three villages and slaves thereto.</p>
+				<p>Quadrilingual text. Records building of a shrine by Prince Rājakumāra, son of Kyanzittha &lt;kyan cac sāḥ&gt;, and dedication of three villages and slaves thereto.</p>
 			</div>
 			<div type="commentary">
-				<p>Blagden reads our <seg type="graphemic">°o</seg> as <seg type="graphemic">°u</seg>; Krech reads it as<seg type="graphemic"> ʔa</seg>.</p>
-				<p>For phonological symmetry (and to eliminate the long vowel <seg type="graphemic">ū</seg>), Krech
-					reads Blagden's long <seg type="graphemic">ū</seg> as <seg type="graphemic">av</seg> (and <seg type="graphemic">-va</seg> as <seg type="graphemic">av</seg>?). We read short u for <seg type="graphemic">ū</seg> in these words.</p>
-				<p>Problem of Blagden's <seg type="graphemic">ḷ</seg>, which we
-					provisionally read as <seg type="graphemic">ḍ.</seg></p>
+				<p>Blagden reads our &lt;O&gt; as &lt;U&gt;; Krech reads it as&lt; ʔa&gt;.</p>
+				<p>For phonological symmetry (and to eliminate the long vowel &lt;ū&gt;), Krech
+					reads Blagden's long &lt;ū&gt; as &lt;av&gt; (and &lt;-va&gt; as &lt;av&gt;?). We read short u for &lt;ū&gt; in these words.</p>
+				<p>Problem of Blagden's &lt;ḷ&gt;, which we
+					provisionally read as &lt;ḍ.&gt;</p>
 				<p>A = A pillar (7); B = B pillar (<ref target="DHARMA_INSPYU00008">8</ref>).</p>
 				<p>Z = superscript slanted stroke not found in any other Pyu texts.</p>
 				<p>Two types of punctuation sign: plain daṇḍa (/) and ra-shaped daṇḍa (|).</p>
@@ -433,19 +433,19 @@
 					copied in the Kashmir area, now held at the British Library (IOL San 1492/59 and 1492/61, transliteration pubished by S. Karashima et al. in British Library Sanskrit Fragments III.2, pp. 786f. and 793f., 2015). Here we see the numbers 613 and 676 (expressed as 600 10 3 and 600 70 6) in the margins. While the inscription from Rajasthan shows 600 clearly decomposable into linear elements 100 and 6, the manuscript specimens show the 100 and 6 elements merged vertically. As
 					apparently understood by Luce, this is is also what has happened with our
 					600 signs in 007/8: the shape of element 6 in this case is roughly the same as that shown in Luce's chart Z in PPPB ItI.</p>
-				<p>2. hraṁ: hrat·ṁ B.</p>
-				<p>2. sniḥ: sniṅ·ḥ B.</p>
-				<p>2. tvaṃṁḥ: tvan·ṃṁḥ B.</p>
-				<p>2. daṃṁ: daṅ·ṃṁ B.</p>
+				<p>2. hraṁ: hraTṁ B.</p>
+				<p>2. sniḥ: sniṄḥ B.</p>
+				<p>2. tvaṃṁḥ: tvaNṃṁḥ B.</p>
+				<p>2. daṃṁ: daṄṃṁ B.</p>
 				<p>2. // yaṁ: B omits punctuation.</p>
-				<p>2. priḥ: priṅ·ḥ B. </p>
-				<p>2. rimadhanarbu: rimadhan·narbu B</p>
-				<p>2. mī: mi[ṅ·] B. One could perhaps alternatively read rmi. Cf. PYU <ref target="DHARMA_INSPYU00016">16</ref>, l. 2d, and our note. But the vowel diacritic used here and throughout in 7-<ref target="DHARMA_INSPYU00008">8</ref> corresponds to one of the forms of -ī seen in Nagarjunakonda inscription.</p>
-				<p>3. tribhuvaṃnadiṃṁtya: tribhuvaṃnadit·ṃṁtya B; tribhuvaṃnadiṁtya K. </p>
-				<p>3. dhamaraja: dham·maraja B.</p>
-				<p>3. mī: mīṅ· B.</p>
-				<p>3. doṃḥ: don·ṃḥ B.</p>
-				<p>3. rvaṃḥ: rvan·ṃḥ B.</p>
+				<p>2. priḥ: priṄḥ B. </p>
+				<p>2. rimadhanarbu: rimadhaNnarbu B</p>
+				<p>2. mī: mi[Ṅ] B. One could perhaps alternatively read rmi. Cf. PYU <ref target="DHARMA_INSPYU00016">16</ref>, l. 2d, and our note. But the vowel diacritic used here and throughout in 7-<ref target="DHARMA_INSPYU00008">8</ref> corresponds to one of the forms of -ī seen in Nagarjunakonda inscription.</p>
+				<p>3. tribhuvaṃnadiṃṁtya: tribhuvaṃnadiTṃṁtya B; tribhuvaṃnadiṁtya K. </p>
+				<p>3. dhamaraja: dhaMmaraja B.</p>
+				<p>3. mī: mīṄ B.</p>
+				<p>3. doṃḥ: doNṃḥ B.</p>
+				<p>3. rvaṃḥ: rvaNṃḥ B.</p>
 			</div>
 			<div type="bibliography">
 				<!--De Beylié 1907a: 9, 83, 108. — Blagden 1911 (A). — EB I, 1, 59-68 (A). — Shafer 1943: 320-37,340-44, 357-63. — PR, 53-61. — PPPB I, 62-4, 74 n. 15. — Tun Aung Chain 2003: 7-8. — Krech 2012: 153-65 (A).-->

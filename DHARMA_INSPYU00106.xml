@@ -87,7 +87,7 @@
 			<div type="bibliography">
 				<!--Myint Aung 1970: 61. — Aung Thaw 1972: 14. — Naing Zaw 2011: 495. — Skilling 2015: 66.-->
 				<!--[Todo: markup citedRange elements if necessary]-->
-				<p>Noted in brief in <bibl><ptr target="bib:MyintAung1970_01"/><citedRange>61</citedRange></bibl> () and <bibl><ptr target="bib:SeinMaungU1970_01"/><citedRange>110</citedRange></bibl> (in Burmese), both with the reading <seg type="graphemic">dayādānaṁ</seg>.</p>
+				<p>Noted in brief in <bibl><ptr target="bib:MyintAung1970_01"/><citedRange>61</citedRange></bibl> () and <bibl><ptr target="bib:SeinMaungU1970_01"/><citedRange>110</citedRange></bibl> (in Burmese), both with the reading &lt;dayādānaṁ&gt;.</p>
 				<!-- asked JKW what () is. -->
 				<listBibl type="primary"><bibl><ptr target="bib:CPI2018_01"/><citedRange unit="item">DHARMA_INSPYU00106</citedRange></bibl></listBibl><listBibl type="secondary">
 					<bibl><ptr target="bib:AungThaw1972_01"/><citedRange>14</citedRange></bibl>

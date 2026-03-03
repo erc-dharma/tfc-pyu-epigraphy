@@ -85,7 +85,7 @@
 				<listApp>
 					<app loc="1">
 						<lem>rmaḥ</lem>
-						<note>Sastri (ASB 1915, 22) also recognizes the possibility of a prescript <seg type="graphemic">r</seg>. Luce (PPPB I, 75 n.) reads <seg type="graphemic">meḥ</seg>, firming up Blagden’s <seg type="graphemic">m(e)ḥ</seg> (ASB 1915, 21). <!-- MM2AG: changed the page numbers here and in RTF to be more specific: p. 22 for Sastri and p. 21 for Blagden.) -->
+						<note>Sastri (ASB 1915, 22) also recognizes the possibility of a prescript &lt;r&gt;. Luce (PPPB I, 75 n.) reads &lt;meḥ&gt;, firming up Blagden’s &lt;m(e)ḥ&gt; (ASB 1915, 21). <!-- MM2AG: changed the page numbers here and in RTF to be more specific: p. 22 for Sastri and p. 21 for Blagden.) -->
 						</note>
 					</app>
 				<app loc="1">
@@ -114,9 +114,9 @@
 				<p><!-- english translation here --></p>
 			</div>
 			<div type="commentary">
-				<p>ASB 1915, § 54, p. 21: “Hmawza E” = “the smallest of the Pyu funeral urns as published in Report for 1913”, reading <seg type="graphemic">baṁ: wa baṁ: m(e): tba: saṁ: to t(b)a: ta (ba) hi</seg></p>
-				<p>The words <seg type="graphemic">tḅaḥ</seg>, <seg type="graphemic">tḅaṁḥ</seg> and <seg type="graphemic">ḅaṁḥ</seg> give the impression of possibly being morphologically connected.</p>
-				<p>The words <seg type="graphemic">ḅa hi</seg> also figure in PYU <ref target="DHARMA_INSPYU00001">1</ref>.</p>
+				<p>ASB 1915, § 54, p. 21: “Hmawza E” = “the smallest of the Pyu funeral urns as published in Report for 1913”, reading &lt;baṁ: wa baṁ: m(e): tba: saṁ: to t(b)a: ta (ba) hi&gt;</p>
+				<p>The words &lt;tḅaḥ&gt;, &lt;tḅaṁḥ&gt; and &lt;ḅaṁḥ&gt; give the impression of possibly being morphologically connected.</p>
+				<p>The words &lt;ḅa hi&gt; also figure in PYU <ref target="DHARMA_INSPYU00001">1</ref>.</p>
 				<!-- MM2AG: for now changed all <g> to <seg type="graphemic"> except in comments. Where would I use simple <g>? -->
 			</div>
 			<div type="bibliography">

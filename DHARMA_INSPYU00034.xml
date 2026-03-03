@@ -89,11 +89,11 @@
 				<listApp>
 					<app loc="1">
 						<lem><unclear>t</unclear>ga</lem>
-						<note>Could be <seg type="graphemic">nga</seg>.</note>
+						<note>Could be &lt;nga&gt;.</note>
 					</app>
 					<app loc="2">
 						<lem>siri</lem>
-						<note>We read <seg type="graphemic">ri</seg>rather than <seg type="graphemic">dhi</seg> here; the loop on the akṣara is large, making it look like <seg type="graphemic">dh</seg>, but the serif of an <seg type="graphemic">r</seg> is still visible. Note same shape of <seg type="graphemic">ri</seg> in PYU 8.1.</note>
+						<note>We read &lt;ri&gt;rather than &lt;dhi&gt; here; the loop on the akṣara is large, making it look like &lt;dh&gt;, but the serif of an &lt;r&gt; is still visible. Note same shape of &lt;ri&gt; in PYU 8.1.</note>
 					</app>
 				<app loc="1">
 						<lem>
@@ -116,7 +116,7 @@
 			<div type="bibliography">
 				<!--Middleton 2005: 173 (App.58).-->
 				<!--[Todo: markup citedRange elements if necessary]-->
-				<p>Reported in <bibl><ptr target="bib:Middleton2005_01"/><citedRange>173-4 (App. 58)</citedRange></bibl>, thought incorrectly reported as Pali in Pyu script instead of Pyu (in Pyu script). Middleton gives three possible readings: <seg type="graphemic">nagara thiri</seg> (auspicious city), <seg type="graphemic">ngasibi</seg> or <seg type="graphemic">ngasidha</seg>; but we read <seg type="graphemic">tga siri</seg> instead. Re-edited here from a published photograph.</p>
+				<p>Reported in <bibl><ptr target="bib:Middleton2005_01"/><citedRange>173-4 (App. 58)</citedRange></bibl>, thought incorrectly reported as Pali in Pyu script instead of Pyu (in Pyu script). Middleton gives three possible readings: &lt;nagara thiri&gt; (auspicious city), &lt;ngasibi&gt; or &lt;ngasidha&gt;; but we read &lt;tga siri&gt; instead. Re-edited here from a published photograph.</p>
 				<!-- <listBibl type="secondary-bibliography">
 				</listBibl> -->
 			<listBibl type="primary"><bibl><ptr target="bib:CPI2018_01"/><citedRange unit="item">DHARMA_INSPYU00034</citedRange></bibl></listBibl></div>

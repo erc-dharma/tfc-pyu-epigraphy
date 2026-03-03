@@ -74,17 +74,17 @@
 				<ab>
 					<lb n="1"/><gap extent="unknown" reason="lost"/><gap reason="lost" quantity="2" unit="character"/>
 					<!-- MM2AG: followed RTF here, but looking at RTI, the basis for indicating precisely two lost akṣaras is unknown to me; I would have an unknown gap followed by unknown akṣara + n· -->
-					<gap reason="lost" quantity="1" unit="character"/>n· <gap reason="lost" quantity="1" unit="character"/><gap reason="lost" quantity="1" unit="character"/>r· <unclear>ḅi</unclear><!-- MM2AG: added ḅi which is barely visible on RTI -->n·<unclear>ṁḥ</unclear> <unclear>r</unclear>o
+					<gap reason="lost" quantity="1" unit="character"/>N <gap reason="lost" quantity="1" unit="character"/><gap reason="lost" quantity="1" unit="character"/>R <unclear>ḅi</unclear><!-- MM2AG: added ḅi which is barely visible on RTI -->N<unclear>ṁḥ</unclear> <unclear>r</unclear>o
 					<!-- MM2AG: previously encoded (.·) as <supplied><gap reason="lost" quantity="1" unit="consonant"/>·</supplied>, but discarded since I don't see any trace of a final consonant in the RTI. If there ever was a consonant there, it can't be seen. And the akṣara ro without a final consonant appears in 025.3 and 025.5. --> 
 					ta ṭaḥ <space type="horizontal" quantity="1" unit="character"/>
-					t<unclear>d</unclear>a<unclear>v·ṃ</unclear>ḥ ma ḅa mrau tmaḥ <gap reason="illegible" quantity="1" unit="character"/> <unclear>°o</unclear> saḥ <space type="horizontal" quantity="1" unit="character"/> tdav·ṃḥ ta <unclear>ga</unclear>ṅ· kgaṃḥ tol· ṅav· pr̥ kul· toy· tkir·ṁḥ kliṁḥ <gap reason="illegible" quantity="2" unit="character"/> tar· dav·ṃḥ <space type="horizontal" quantity="1" unit="character"/> tda<supplied reason="lost">v·</supplied>ṃḥ tvat·ṃ <unclear>t</unclear><supplied reason="lost">i</supplied>n·ṁ droḥ <gap reason="illegible" quantity="1" unit="character"/>p· <gap reason="illegible" quantity="1" unit="character"/>m· toy·ṁ tkir·ṁḥ
+					t<unclear>d</unclear>a<unclear>Vṃ</unclear>ḥ ma ḅa mrau tmaḥ <gap reason="illegible" quantity="1" unit="character"/> <unclear>O</unclear> saḥ <space type="horizontal" quantity="1" unit="character"/> tdaVṃḥ ta <unclear>ga</unclear>Ṅ kgaṃḥ toL ṅaV pr̥ kuL toY tkiRṁḥ kliṁḥ <gap reason="illegible" quantity="2" unit="character"/> taR daVṃḥ <space type="horizontal" quantity="1" unit="character"/> tda<supplied reason="lost">V</supplied>ṃḥ tvaTṃ <unclear>t</unclear><supplied reason="lost">i</supplied>Nṁ droḥ <gap reason="illegible" quantity="1" unit="character"/>P <gap reason="illegible" quantity="1" unit="character"/>M toYṁ tkiRṁḥ
 					<lb n="2"/><gap reason="illegible" quantity="5" unit="character"/>
-					<unclear>t</unclear>da<unclear>v</unclear>·ṃ kṭlo<supplied reason="lost">t·</supplied> tdav·ṃḥ tda<supplied reason="lost">v·</supplied>ṃ<supplied reason="lost">ḥ</supplied> ta <gap reason="illegible" quantity="4" unit="character"/> saḥ <gap reason="lost" quantity="1" unit="character"/><gap reason="lost" quantity="1" unit="character"/><unclear>v</unclear>· <gap reason="lost" quantity="1" unit="character"/>m· gaṃ tol· <gap reason="lost" quantity="1" unit="character"/>C· pr̥ ku<supplied reason="lost">l·</supplied> <supplied reason="lost">toy·</supplied> nk<unclear>ir·</unclear>ṁḥ <space type="horizontal" quantity="1" unit="character"/> tda<unclear>v·</unclear>ṃḥ li mrau kak· tan· gam·ṃḥ tol· ṅav· toy·ṁ tkir·ṁḥ °o saḥ <space type="horizontal" quantity="1" unit="character"/> tdav·ṃḥ °oṅ· dlav· tim·ṁ goṃḥ tol· ṅav· s<unclear>m</unclear>a toy·ṁ tkir·<unclear>ṁḥ</unclear>
-					<lb n="3"/><gap reason="illegible" quantity="10" unit="character"/> hut·
-					<gap reason="illegible" quantity="4" unit="character"/> yaṁ dav·ḥ tar·
-					<unclear>ḅ</unclear>in·ṁḥ ro<unclear>m</unclear>· ñaḥ kak· ḅaḥ ta san·
-					pva<unclear>ṃ</unclear> <space type="horizontal" quantity="1" unit="character"/> ma <unclear>ña/ro</unclear>ḥ ta<unclear>r</unclear>·
-					<unclear>ḅ</unclear>in·<supplied reason="lost">ṁḥ</supplied> san· pvaṃ <space type="horizontal" quantity="1" unit="character"/> viṃṁ tar· <unclear>tkir·ṁḥ</unclear> ma tam· ḅiṁ pvaṃ <space type="horizontal" quantity="1" unit="character"/> g<unclear>o</unclear>ṃḥ ta hnam· tam· ḅiṁ tiṁ phi <space type="horizontal" quantity="1" unit="character"/> tap· biṁ pik·ṁ tboC·ḥ ta hna<supplied reason="lost">m·</supplied> mra ḅiṁḥ <gap reason="illegible" quantity="1" unit="character"/>
+					<unclear>t</unclear>da<unclear>V</unclear>ṃ kṭlo<supplied reason="lost">T</supplied> tdaVṃḥ tda<supplied reason="lost">V</supplied>ṃ<supplied reason="lost">ḥ</supplied> ta <gap reason="illegible" quantity="4" unit="character"/> saḥ <gap reason="lost" quantity="1" unit="character"/><gap reason="lost" quantity="1" unit="character"/><unclear>V</unclear> <gap reason="lost" quantity="1" unit="character"/>M gaṃ toL <gap reason="lost" quantity="1" unit="character"/>C· pr̥ ku<supplied reason="lost">L</supplied> <supplied reason="lost">toY</supplied> nk<unclear>iR</unclear>ṁḥ <space type="horizontal" quantity="1" unit="character"/> tda<unclear>V</unclear>ṃḥ li mrau kaK taN gaMṃḥ toL ṅaV toYṁ tkiRṁḥ O saḥ <space type="horizontal" quantity="1" unit="character"/> tdaVṃḥ OṄ dlaV tiMṁ goṃḥ toL ṅaV s<unclear>m</unclear>a toYṁ tkiR<unclear>ṁḥ</unclear>
+					<lb n="3"/><gap reason="illegible" quantity="10" unit="character"/> huT
+					<gap reason="illegible" quantity="4" unit="character"/> yaṁ daVḥ taR
+					<unclear>ḅ</unclear>iNṁḥ ro<unclear>M</unclear> ñaḥ kaK ḅaḥ ta saN
+					pva<unclear>ṃ</unclear> <space type="horizontal" quantity="1" unit="character"/> ma <unclear>ña/ro</unclear>ḥ ta<unclear>R</unclear>
+					<unclear>ḅ</unclear>iN<supplied reason="lost">ṁḥ</supplied> saN pvaṃ <space type="horizontal" quantity="1" unit="character"/> viṃṁ taR <unclear>tkiRṁḥ</unclear> ma taM ḅiṁ pvaṃ <space type="horizontal" quantity="1" unit="character"/> g<unclear>o</unclear>ṃḥ ta hnaM taM ḅiṁ tiṁ phi <space type="horizontal" quantity="1" unit="character"/> taP biṁ piKṁ tboC·ḥ ta hna<supplied reason="lost">M</supplied> mra ḅiṁḥ <gap reason="illegible" quantity="1" unit="character"/>
 				</ab>
 			</div>
 			<div type="apparatus">
@@ -94,7 +94,7 @@
 				<p><!--english translation here--></p>
 			</div>
 			<div type="commentary">
-				<p>The shape of presumptive <seg type="graphemic">ḅ</seg> is noteworthy: it is in most cases a dot in a square, resembling the shape of <seg type="graphemic">ḅ</seg> in Old Mon.</p>
+				<p>The shape of presumptive &lt;ḅ&gt; is noteworthy: it is in most cases a dot in a square, resembling the shape of &lt;ḅ&gt; in Old Mon.</p>
 			</div>
 			<div type="bibliography">
 				<!--ASB 1912, 12 §37; 1913, 21-2. — Blagden 1913-14: 127 (5).-->

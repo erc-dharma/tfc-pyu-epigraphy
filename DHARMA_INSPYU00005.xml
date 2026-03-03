@@ -74,10 +74,10 @@
 				<ab>
 					<lb n="1"/>
 					<g type="siddham"/>
-					<g type="ddanda">.</g> tdaṃḥ ḅaṁḥ °o hi tr̥ hna ku harivikrama ḅaṁḥ sniḥ ṅa
+					<g type="ddanda">.</g> tdaṃḥ ḅaṁḥ O hi tr̥ hna ku harivikrama ḅaṁḥ sniḥ ṅa
 					<supplied reason="lost">s</supplied>u kni rla hniṁ tiṁ phvuṃ npu
-					plaṁ ta kiṁ kha °o sniḥ sniḥ plaṁ
-					su taṁ rla kni tiṁ phvuṃ tko tiṁ tdaṃḥ ḅaṁḥ °o ru kleḥ yaṁ <!-- MM2AG: should I do anything with the red in the RTF? -->
+					plaṁ ta kiṁ kha O sniḥ sniḥ plaṁ
+					su taṁ rla kni tiṁ phvuṃ tko tiṁ tdaṃḥ ḅaṁḥ O ru kleḥ yaṁ <!-- MM2AG: should I do anything with the red in the RTF? -->
 					<!-- AG2MM3: editing conventions to be revised. -->
 				</ab>
 			</div>
@@ -85,7 +85,7 @@
 				<listApp>
 					<app loc="1">
 						<lem>npu</lem>
-						<note>If the meaning is ‘twenty four days’, then the akṣara should read nsu. Luce’s estampage might support <seg type="graphemic">n</seg>, but less so <seg type="graphemic">s</seg>. The urn has been damaged since Luce’s rubbing and that akṣara has been chipped off.</note>
+						<note>If the meaning is ‘twenty four days’, then the akṣara should read nsu. Luce’s estampage might support &lt;n&gt;, but less so &lt;s&gt;. The urn has been damaged since Luce’s rubbing and that akṣara has been chipped off.</note>
 						<!-- AG2MM3: just yesterday we revised our reading of 007-008, and decided one really cannot read nsu there, as we had in previous RTF. We now read rpu, but npu might also be possible; or this urn to be read rpu? -->
 						<!-- MM2AG: should I wait unitl the 005 rtf is revised to add something about this change of mind? -->
 					</app>
@@ -138,15 +138,15 @@
 				<ab>On the 9th day of the 7th month in the (Pyu) year 41 King Hari Vikrama died. His age was 57 years, 2 months and 24 days.</ab>
 			</div>
 			<div type="commentary">
-				<p><seg type="graphemic">ru:</seg> cf. <seg type="graphemic">rūp·</seg> in PYU <ref target="DHARMA_INSPYU00001">1</ref>.2?</p>
-				<p><seg type="graphemic">phvuṃ </seg>: note interesting allograph of <seg type="graphemic">-u</seg> associated with postconsonantal <seg type="graphemic">-v</seg>, more clearly detectable in PYU <ref target="DHARMA_INSPYU00006">6</ref>; also found in PYU 16.</p>
+				<p>&lt;ru:&gt; cf. &lt;rūP&gt; in PYU <ref target="DHARMA_INSPYU00001">1</ref>.2?</p>
+				<p>&lt;phvuṃ &gt;: note interesting allograph of &lt;-u&gt; associated with postconsonantal &lt;-v&gt;, more clearly detectable in PYU <ref target="DHARMA_INSPYU00006">6</ref>; also found in PYU 16.</p>
 			</div>
 			<div type="bibliography">
 				<!--ASI 1911-12, 147. — ASB 1912, 7, 11. — Blagden 1913-14 (A). — PR, 47 (A), 50. — PPPB I, 48, 57 n. 13, 126-7.-->
 				<!--[Todo: markup citedRange elements if necessary]-->
 				<p><bibl><ptr target="bib:ASI"/><citedRange>1911-12:
 					147</citedRange></bibl> reports the discovery of two urns with
-					inscriptions, our PYU <ref target="DHARMA_INSPYU00005">5</ref> and <ref target="DHARMA_INSPYU00006">6</ref>, and cites Blagden, who viewed an estampage and noted the honorific <seg type="graphemic">tdaṃḥ ƀaṁḥ</seg>, relating it to the name of the legendary Duttabaung. <bibl><ptr target="bib:ASB"/><citedRange>1912: 7, 11</citedRange></bibl>, recapitulates much of the same information, but adds a reading of the name Harivikrama by the government epigraphist, Venkayya. <bibl><ptr target="bib:Blagden1913-1914_01"/><citedRange>(A)</citedRange></bibl> provides a complete reading, and a tentative translation. <bibl><ptr target="bib:ThaMyat1963_01"/><citedRange>47 (A), 50</citedRange></bibl>, provides eye copy, transliteration in Burmese script and English translation. <bibl><ptr target="bib:Luce1985_01"/><citedRange>I, 48, 57 n. 13, 126-7</citedRange></bibl>, constitutes an overview, and <bibl><ptr target="bib:SeinWin2016_01"/><citedRange>62</citedRange></bibl> provides another set of eye drawings and transliterations, with minor differences from earlier ones. Re-edited here from published photographs.</p>
+					inscriptions, our PYU <ref target="DHARMA_INSPYU00005">5</ref> and <ref target="DHARMA_INSPYU00006">6</ref>, and cites Blagden, who viewed an estampage and noted the honorific &lt;tdaṃḥ ƀaṁḥ&gt;, relating it to the name of the legendary Duttabaung. <bibl><ptr target="bib:ASB"/><citedRange>1912: 7, 11</citedRange></bibl>, recapitulates much of the same information, but adds a reading of the name Harivikrama by the government epigraphist, Venkayya. <bibl><ptr target="bib:Blagden1913-1914_01"/><citedRange>(A)</citedRange></bibl> provides a complete reading, and a tentative translation. <bibl><ptr target="bib:ThaMyat1963_01"/><citedRange>47 (A), 50</citedRange></bibl>, provides eye copy, transliteration in Burmese script and English translation. <bibl><ptr target="bib:Luce1985_01"/><citedRange>I, 48, 57 n. 13, 126-7</citedRange></bibl>, constitutes an overview, and <bibl><ptr target="bib:SeinWin2016_01"/><citedRange>62</citedRange></bibl> provides another set of eye drawings and transliterations, with minor differences from earlier ones. Re-edited here from published photographs.</p>
 			<listBibl type="primary"><bibl><ptr target="bib:CPI2018_01"/><citedRange unit="item">DHARMA_INSPYU00005</citedRange></bibl></listBibl></div>
 		</body>
   </text>

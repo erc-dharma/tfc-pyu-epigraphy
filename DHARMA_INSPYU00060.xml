@@ -73,7 +73,7 @@
 			<div type="edition" xml:lang="pyx-Latn">
 				<ab>
 					<lb n="1"/>
-					<g>@</g><g type="ddanda">.</g> ḅay· mrik· ḅay· lo pda saṁ guṅ· ḅay· nuṅ· °o ḅay· °o ? </ab>
+					<g>@</g><g type="ddanda">.</g> ḅaY mriK ḅaY lo pda saṁ guṄ ḅaY nuṄ O ḅaY O ? </ab>
 				<!-- MM: guṅ· looks like °oṅ· which is also in 012, 020, 027, 064, and 066. -->
 			</div>
 			<div type="apparatus">
@@ -83,7 +83,7 @@
 				<p/>
 			</div>
 			<div type="commentary">
-				<p>061 also has akṣaras that look like <seg type="graphemic">gu</seg> or <seg type="graphemic">°o</seg>.</p>
+				<p>061 also has akṣaras that look like &lt;gu&gt; or &lt;O&gt;.</p>
 			</div>
 			<div type="bibliography">
 				<p>An eye-drawing and Burmese transliteration of this inscription is found in <bibl><ptr target="bib:SeinWin2016_01"/><citedRange>31</citedRange></bibl>. Re-edited here from our team’s RTIs.</p>

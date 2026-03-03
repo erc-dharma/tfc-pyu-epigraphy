@@ -89,13 +89,13 @@
 				<p/>
 			</div>
 			<div type="commentary">
-				<p>The explanation for the ASB misreading is given in Aung Thaw 1968a, p. 51. The author began with <seg type="graphemic">siri</seg> and failed to recognize the swastika, reading it as <seg type="graphemic">mita</seg> instead. He also read the final <seg type="graphemic">gh</seg> as <seg type="graphemic">y</seg>. </p>
+				<p>The explanation for the ASB misreading is given in Aung Thaw 1968a, p. 51. The author began with &lt;siri&gt; and failed to recognize the swastika, reading it as &lt;mita&gt; instead. He also read the final &lt;gh&gt; as &lt;y&gt;. </p>
 			</div>
 			<div type="bibliography">
 				<!--ASB 1959, 19. — Aung Thaw 1968: 50-51. — Aung Thaw 1972: 4.-->
 				<!--[Todo: markup citedRange elements if necessary]-->
 				<p>First reported (in Burmese) in <bibl><ptr target="bib:ASB"/><citedRange>1959: 19</citedRange></bibl> with
-					possible readings <seg type="graphemic">siri mita raya</seg>, <seg type="graphemic">sirimitara ya</seg> or <seg type="graphemic">sirimapataraya</seg>. Also reported in <bibl><ptr target="bib:Aung-Thaw1968a"/><citedRange>50-1</citedRange></bibl>, which cites U Bo Kay’s correct reading, <seg>saṁgha siri</seg>. <bibl><ptr target="bib:Aung-Thaw1968b"/><citedRange>233-4</citedRange></bibl> (= <bibl><ptr target="bib:Aung-Thaw1993"/><citedRange>233</citedRange></bibl>), repeats more or less the same material in Burmese and <bibl><ptr target="bib:AungThaw1972_01"/><citedRange>4</citedRange></bibl> (in English), dates the sealing from the 2nd century. <bibl><ptr target="bib:Griffiths-Lammerts2015"/><citedRange>989</citedRange></bibl> note the early date of the artifact, while recognizing the possibility of its having been imported.</p>
+					possible readings &lt;siri mita raya&gt;, &lt;sirimitara ya&gt; or &lt;sirimapataraya&gt;. Also reported in <bibl><ptr target="bib:Aung-Thaw1968a"/><citedRange>50-1</citedRange></bibl>, which cites U Bo Kay’s correct reading, <seg>saṁgha siri</seg>. <bibl><ptr target="bib:Aung-Thaw1968b"/><citedRange>233-4</citedRange></bibl> (= <bibl><ptr target="bib:Aung-Thaw1993"/><citedRange>233</citedRange></bibl>), repeats more or less the same material in Burmese and <bibl><ptr target="bib:AungThaw1972_01"/><citedRange>4</citedRange></bibl> (in English), dates the sealing from the 2nd century. <bibl><ptr target="bib:Griffiths-Lammerts2015"/><citedRange>989</citedRange></bibl> note the early date of the artifact, while recognizing the possibility of its having been imported.</p>
 				<listBibl type="primary"><bibl><ptr target="bib:CPI2018_01"/><citedRange unit="item">DHARMA_INSPYU00063</citedRange></bibl></listBibl><listBibl type="secondary">
 					<bibl><ptr target="bib:SeinMaungU1970_01"/><citedRange>110</citedRange></bibl>
 				</listBibl>

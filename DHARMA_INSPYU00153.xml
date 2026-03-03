@@ -72,7 +72,7 @@
       <body>
 			<div type="edition">
 				<ab>
-					<lb n="1"/> °o ro </ab>
+					<lb n="1"/> O ro </ab>
 			</div>
 			<div type="apparatus">
 				<listApp/>
@@ -81,7 +81,7 @@
 				<!-- cf. °o ṅa in 156; possessed noun or nominalized verb? -->
 			</div>
 			<div type="commentary">
-				<p>The upper and lower right parts of <seg type="graphemic">°o</seg> touch <seg type="graphemic">ro</seg>. Accident or deliberate ligature?</p>
+				<p>The upper and lower right parts of &lt;O&gt; touch &lt;ro&gt;. Accident or deliberate ligature?</p>
 			</div>
 			<div type="bibliography">
 				<!--PPPB I, 62, 74 n. 9, 140-2. — ASB 1958 / Mya 1961b, chart 3.-->

@@ -72,12 +72,12 @@
       <body>
 			<div type="edition" xml:lang="pyx-Latn">
 				<ab>
-					<lb n="1"/><supplied reason="lost"><g>1</g> s</supplied><unclear>i</unclear>ddham· <g>2</g><g type="ddanda">.</g> hmiṁ tar· mi<unclear>ḥ</unclear> pu thṅa ham·ḥ <unclear>paṅ·</unclear> °o roḥ <unclear>mgaṃ</unclear>
-					<gap reason="lost" quantity="1" unit="character"/>C·ḥ gay·ṁḥ mvay·ṃ tiṁ priṅ·ḥ sa<supplied reason="lost">ḥ</supplied> mhur·ḥ ha <lb n="2"/>°o mra pit·ṁ tar· ḅin·ṁḥ tak· ṭro<unclear>m</unclear>·ḥ ta ḅi<unclear>n</unclear>·ṁḥ rom· dre <space type="horizontal" quantity="1" unit="character"/>
-					<unclear>t</unclear>ar· ya<unclear>ṅ·</unclear>ḥ <unclear>t</unclear>yaṅ·ḥ
-					k<unclear>ṅ</unclear>o<unclear>y</unclear>·
-					<unclear>si</unclear>r·<supplied reason="lost">ṁ</supplied> kat·<supplied reason="lost">ṁ</supplied> msauṅ· <unclear>ḅa</unclear> tnin·ḥ tder·ṃḥ cik· tin·ṁ mu tin·ṁ gam·ṃḥ nun· <unclear>g</unclear>am·<unclear>ṃ</unclear>
-					<lb n="3"/>tiṁ pd<unclear>l</unclear>aut· ḅa tmit· tṅat· <space type="horizontal" quantity="1" unit="character"/>
+					<lb n="1"/><supplied reason="lost"><g>1</g> s</supplied><unclear>i</unclear>ddhaM <g>2</g><g type="ddanda">.</g> hmiṁ taR mi<unclear>ḥ</unclear> pu thṅa haMḥ <unclear>paṄ</unclear> O roḥ <unclear>mgaṃ</unclear>
+					<gap reason="lost" quantity="1" unit="character"/>C·ḥ gaYṁḥ mvaYṃ tiṁ priṄḥ sa<supplied reason="lost">ḥ</supplied> mhuRḥ ha <lb n="2"/>O mra piTṁ taR ḅiNṁḥ taK ṭro<unclear>M</unclear>ḥ ta ḅi<unclear>N</unclear>ṁḥ roM dre <space type="horizontal" quantity="1" unit="character"/>
+					<unclear>t</unclear>aR ya<unclear>Ṅ</unclear>ḥ <unclear>t</unclear>yaṄḥ
+					k<unclear>ṅ</unclear>o<unclear>Y</unclear>
+					<unclear>si</unclear>R<supplied reason="lost">ṁ</supplied> kaT<supplied reason="lost">ṁ</supplied> msauṄ <unclear>ḅa</unclear> tniNḥ tdeRṃḥ ciK tiNṁ mu tiNṁ gaMṃḥ nuN <unclear>g</unclear>aM<unclear>ṃ</unclear>
+					<lb n="3"/>tiṁ pd<unclear>l</unclear>auT ḅa tmiT tṅaT <space type="horizontal" quantity="1" unit="character"/>
 					<g type="ddanda">.</g><g>@</g>
 				</ab>
 			</div>
@@ -91,10 +91,10 @@
 				<p><!--english translation here--></p>
 			</div>
 			<div type="commentary">
-				<p>2. Note parallelism with PYU <ref target="DHARMA_INSPYU00032">32</ref>, l. 7: <seg type="graphemic">tar· ḅin·ḥṁ rom·</seg>.</p>
-				<p>2. Note parallelism with PYU <ref target="DHARMA_INSPYU00020">20</ref>, l. 1: <seg type="graphemic">yaṅ·ḥ tyaṅ·ḥ ktoy· sir·ṁ k/ñat·ṁ msoṅ·</seg>.</p>
-				<p>2. Note parallelism with PYU <ref target="DHARMA_INSPYU00027">27</ref>, l. 1: <seg type="graphemic">tin·ṁ mu tin·ṁ gam·ṃḥ</seg>.</p>
-				<p>3. <seg type="graphemic">tṅat·</seg>: the second consonant in the onset at first sight looks like <seg type="graphemic">dha</seg>. If this were correct, then one might compare the last akṣara of PYU <ref target="DHARMA_INSPYU00017">17</ref>. But reading <seg type="graphemic">tṅa</seg> seems more likely.</p>
+				<p>2. Note parallelism with PYU <ref target="DHARMA_INSPYU00032">32</ref>, l. 7: &lt;taR ḅiNḥṁ roM&gt;.</p>
+				<p>2. Note parallelism with PYU <ref target="DHARMA_INSPYU00020">20</ref>, l. 1: &lt;yaṄḥ tyaṄḥ ktoY siRṁ k/ñaTṁ msoṄ&gt;.</p>
+				<p>2. Note parallelism with PYU <ref target="DHARMA_INSPYU00027">27</ref>, l. 1: &lt;tiNṁ mu tiNṁ gaMṃḥ&gt;.</p>
+				<p>3. &lt;tṅaT&gt;: the second consonant in the onset at first sight looks like &lt;dha&gt;. If this were correct, then one might compare the last akṣara of PYU <ref target="DHARMA_INSPYU00017">17</ref>. But reading &lt;tṅa&gt; seems more likely.</p>
 				<p>3. <space type="horizontal" quantity="1" unit="character"/> indicates a
 					large gap before final punctuation. See a similarly large gap in <ref target="DHARMA_INSPYU00027">PYU 27.7</ref>.</p>
 			</div>

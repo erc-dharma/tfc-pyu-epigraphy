@@ -85,18 +85,18 @@
 						hetu<supplied reason="omitted">ṁ</supplied>
 						tathāgato
 						<space type="horizontal" quantity="1" unit="chars"/>
-						°āha
+						Āha
 						tesañ
 						ca
 						yo
 						nirodho
 						<space type="horizontal" quantity="1" unit="chars"/>
-						°evaṁvādi
+						Evaṁvādi
 						mahāsamano
 						ti
 						<g type="ddanda">.</g>
 						cattāro
-						°iddhipādā
+						Iddhipādā
 						<lb n="2"/>
 						cattāro
 						sammappadhānā
@@ -105,7 +105,7 @@
 						satipaṭṭhānā
 						<space type="horizontal" quantity="1" unit="chars"/>
 						cattāri
-						°ariyasaccāni
+						Ariyasaccāni
 						<space type="horizontal" quantity="1" unit="chars"/>
 						catuves<supplied reason="omitted">ā</supplied>rajjāni 
 						<space type="horizontal" quantity="1" unit="chars"/>
@@ -113,12 +113,12 @@
 						<space type="horizontal" quantity="1" unit="chars"/>
 						pañcacakkhūni
 						<space type="horizontal" quantity="1" unit="chars"/>
-						cha<lb n="3" break="no"/>°asaddhāraṇ<unclear>ā</unclear>ni 
+						cha<lb n="3" break="no"/>Asaddhāraṇ<unclear>ā</unclear>ni 
 						<space type="horizontal" quantity="1" unit="chars"/>
 						sattabojjhaṅgā
 						<space type="horizontal" quantity="1" unit="chars"/>
-						°ariyo
-						°aṭṭhiṅgiko
+						Ariyo
+						Aṭṭhiṅgiko
 						maggo
 						<space type="horizontal" quantity="1" unit="chars"/>
 						navalokuttarā
@@ -128,7 +128,7 @@
 						<space type="horizontal" quantity="1" unit="chars"/>
 						cundasa
 						buddhaññāni
-						°aṭṭhārasabuddhadhammāni
+						Aṭṭhārasabuddhadhammāni
 					</ab>
 				</div>
 				<div type="textpart" n="Second leaf (Or5340B)">
@@ -142,22 +142,22 @@
 						tesa<supplied reason="omitted">ṁ</supplied>
 						hetu<supplied reason="omitted">ṁ</supplied>
 						tathāgato
-						°āha
+						Āha
 						<space type="horizontal" quantity="1" unit="chars"/>
 						tesañ
 						ca
 						yo
 						nirodho
 						<space type="horizontal" quantity="1" unit="chars"/>
-						°evaṁvādi
+						Evaṁvādi
 						mahāsama<unclear>n</unclear>o
 						ti
 						<space type="horizontal" quantity="1" unit="chars"/>
-						°iti
+						Iti
 						pi
 						so
 						bhagavā
-						°arahaṁ
+						Arahaṁ
 						<lb n="2"/>
 						sammāsaṁbuddho
 						<space type="horizontal" quantity="1" unit="chars"/>
@@ -166,7 +166,7 @@
 						sugato
 						lokavidu
 						<space type="horizontal" quantity="1" unit="chars"/>
-						°anuttaro
+						Anuttaro
 						purisadammasārathī
 						<space type="horizontal" quantity="1" unit="chars"/>
 						satthā
@@ -182,11 +182,11 @@
 						<space type="horizontal" quantity="1" unit="chars"/>
 						sandiṭṭhiko
 						<space type="horizontal" quantity="1" unit="chars"/>
-						°akāl<supplied reason="omitted">i</supplied>ko
+						Akāl<supplied reason="omitted">i</supplied>ko
 						<space type="horizontal" quantity="1" unit="chars"/>
-						°ehipassiko
+						Ehipassiko
 						<space type="horizontal" quantity="1" unit="chars"/>
-						<supplied reason="lost">°o</supplied>paṇāyiko
+						<supplied reason="lost">O</supplied>paṇāyiko
 						<space type="horizontal" quantity="1" unit="chars"/>
 						paccattaṁ
 						veditavvo
@@ -207,11 +207,11 @@
 					</app>
 					<app loc="1.1">
 						<lem>tesañ ca</lem>
-						<note>There is a rightward curl at the top of the vertical element in <seg type="graphemic">ñ</seg>, that could possibly be interpreted as <seg type="graphemic">-ā</seg>, but we assume it is a somewhat overdone serif.</note>
+						<note>There is a rightward curl at the top of the vertical element in &lt;ñ&gt;, that could possibly be interpreted as &lt;-ā&gt;, but we assume it is a somewhat overdone serif.</note>
 					</app>
 					<app loc="1.1">
-						<lem>°evaṁvādi mahāsamano</lem>
-						<note>The expected form would be <foreign xml:lang="pli-Latn">°evaṁvādī mahāsamaṇo</foreign>. Same irregularities in leaf 2.</note>
+						<lem>Evaṁvādi mahāsamano</lem>
+						<note>The expected form would be <foreign xml:lang="pli-Latn">Evaṁvādī mahāsamaṇo</foreign>. Same irregularities in leaf 2.</note>
 					</app>
 					<app loc="1.2">
 						<lem>satipaṭṭhānā</lem>
@@ -219,17 +219,17 @@
 						<note>(misprint)</note>
 					</app>
 					<app loc="1.2">
-						<lem>°ariyasaccāni</lem>
-						<rdg resp="Tun Nyein">°ariyasacohāni</rdg>
+						<lem>Ariyasaccāni</lem>
+						<rdg resp="Tun Nyein">Ariyasacohāni</rdg>
 						<note>(misprint)</note>
 					</app>
 					<app loc="1.3">
-						<lem>°asaddhāraṇ<unclear>ā</unclear>ni</lem>
-						<note>Tun Nyein corrects <foreign xml:lang="pli-Latn">°asādhāraṇāni </foreign> in note.</note>
+						<lem>Asaddhāraṇ<unclear>ā</unclear>ni</lem>
+						<note>Tun Nyein corrects <foreign xml:lang="pli-Latn">Asādhāraṇāni </foreign> in note.</note>
 					</app>
 					<app loc="1.3">
-						<lem>°aṭṭhiṅgiko</lem>
-						<note>Tun Nyein corrects <foreign xml:lang="pli-Latn">°aṭṭhaṅgiko</foreign> in note.</note>
+						<lem>Aṭṭhiṅgiko</lem>
+						<note>Tun Nyein corrects <foreign xml:lang="pli-Latn">Aṭṭhaṅgiko</foreign> in note.</note>
 					</app>
 					<app loc="1.3">
 						<lem>dasabal<supplied reason="omitted">ā</supplied>ni</lem>
@@ -249,8 +249,8 @@
 						<note>The two bars are connected by a small cross-bar.</note>
 					</app>
 					<app loc="2.1">
-						<lem>°evaṁvādi mahāsamano</lem>
-						<note>The expected form would be <foreign xml:lang="pli-Latn">°evaṁvādī mahāsamaṇo</foreign>. Same irregularities in leaf 1.</note>
+						<lem>Evaṁvādi mahāsamano</lem>
+						<note>The expected form would be <foreign xml:lang="pli-Latn">Evaṁvādī mahāsamaṇo</foreign>. Same irregularities in leaf 1.</note>
 					</app>
 					<app loc="2.2">
 						<lem>-sappanno</lem>
@@ -261,13 +261,13 @@
 						<rdg resp="Tun Nyein">-sārathi</rdg>
 					</app>
 					<app loc="2.3">
-						<lem>°akāl<supplied reason="omitted">i</supplied>ko</lem>
-						<rdg resp="Tun Nyein">°akāliko</rdg>
+						<lem>Akāl<supplied reason="omitted">i</supplied>ko</lem>
+						<rdg resp="Tun Nyein">Akāliko</rdg>
 						<note>Silent correction.</note>
 					</app>
 					<app loc="2.3">
-						<lem><supplied reason="lost">°o</supplied>paṇāyiko</lem>
-						<note>Tun Nyein corrects <foreign xml:lang="pli-Brah">°opanayiko</foreign> in note. Editions of the canon show either <foreign>°opaneyyika</foreign> or <foreign xml:lang="pli-Brah">°opanāyiko</foreign>.</note>
+						<lem><supplied reason="lost">O</supplied>paṇāyiko</lem>
+						<note>Tun Nyein corrects <foreign xml:lang="pli-Brah">Opanayiko</foreign> in note. Editions of the canon show either <foreign>Opaneyyika</foreign> or <foreign xml:lang="pli-Brah">Opanāyiko</foreign>.</note>
 					</app>
 					<app loc="2.3">
 						<lem><g>⎨||⋮||⎬</g></lem>

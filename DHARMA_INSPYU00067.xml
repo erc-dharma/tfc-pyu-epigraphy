@@ -93,12 +93,12 @@
 				<!-- MM: Should sources of translations be tagged? The translations in 003 aren't tagged.-->
 			</div>
 			<div type="commentary">
-				<p>1. <seg type="graphemic">draṃ</seg>: Hapax legomenon. Same word as <seg type="graphemic">dra</seg> in 072 and elsewhere?</p>
+				<p>1. &lt;draṃ&gt;: Hapax legomenon. Same word as &lt;dra&gt; in 072 and elsewhere?</p>
 			</div>
 			<div type="bibliography">
 				<!-- ASI 1934-35, 47. — PPPB I, 155.-->
 				<!--[Todo: markup citedRange elements if necessary]-->
-				<p>Reported in <bibl><ptr target="bib:ASI"/><citedRange>1934-35: 47</citedRange></bibl> as a part of a tablet with Pyu writing on it. <bibl><ptr target="bib:Luce1985_01"/><citedRange>I, 155 (e)</citedRange></bibl>, reads the inscription as <seg type="graphemic">ḅaṁḥ ḅu te ña draṃ</seg> and translates it as “May I obtain noble enlightenment”. Re-edited here from a photograph.</p>
+				<p>Reported in <bibl><ptr target="bib:ASI"/><citedRange>1934-35: 47</citedRange></bibl> as a part of a tablet with Pyu writing on it. <bibl><ptr target="bib:Luce1985_01"/><citedRange>I, 155 (e)</citedRange></bibl>, reads the inscription as &lt;ḅaṁḥ ḅu te ña draṃ&gt; and translates it as “May I obtain noble enlightenment”. Re-edited here from a photograph.</p>
 				<listBibl type="primary"><bibl><ptr target="bib:CPI2018_01"/><citedRange unit="item">DHARMA_INSPYU00067</citedRange></bibl></listBibl><listBibl type="secondary">
 				</listBibl>
 			</div>

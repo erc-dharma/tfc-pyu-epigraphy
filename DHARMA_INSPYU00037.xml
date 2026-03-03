@@ -85,7 +85,7 @@
 			<div type="bibliography">
 				<!--Sein Win 1997. — Naing Zaw 2011: 546-7. — Guy 2014: 90-1 (cat. 39).-->
 				<!--[Todo: markup citedRange elements if necessary]-->
-				<p>Reported first in <ptr target="bib:SeinWin1997_01"/>, who provides an eye drawing of the inscription (with some questionable representations, such as the unusual retroflex ḷ), a Burmese transliteration and glosses. <bibl><ptr target="bib:NaingZaw2011_01"/><citedRange>546-7</citedRange></bibl> dates the writing to roughly 6th to 8th centuries and identifies <seg type="graphemic">kraddharharīvima</seg> as the reign name of a Pyu king.</p>
+				<p>Reported first in <ptr target="bib:SeinWin1997_01"/>, who provides an eye drawing of the inscription (with some questionable representations, such as the unusual retroflex ḷ), a Burmese transliteration and glosses. <bibl><ptr target="bib:NaingZaw2011_01"/><citedRange>546-7</citedRange></bibl> dates the writing to roughly 6th to 8th centuries and identifies &lt;kraddharharīvima&gt; as the reign name of a Pyu king.</p>
 				<listBibl type="primary"><bibl><ptr target="bib:CPI2018_01"/><citedRange unit="item">DHARMA_INSPYU00037</citedRange></bibl></listBibl><listBibl type="secondary">
 					<bibl><ptr target="bib:Stadtner2005_01"/></bibl>
 					<bibl><ptr target="bib:Guy2014_01"/><citedRange>90-1 (cat. 39)</citedRange></bibl>

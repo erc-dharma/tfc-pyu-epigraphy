@@ -83,12 +83,12 @@
 				<p/>
 			</div>
 			<div type="commentary">
-				<p>Read <seg type="graphemic">baṁḥ ... metriya baṁḥ</seg> by Duroiselle, but this reading not verifiable from the existing photos. It seems that the akṣaras in question are not among those visible in those photos.</p>
+				<p>Read &lt;baṁḥ ... metriya baṁḥ&gt; by Duroiselle, but this reading not verifiable from the existing photos. It seems that the akṣaras in question are not among those visible in those photos.</p>
 			</div>
 			<div type="bibliography">
 				<!--ASI 1926-27, 164-5. — OBEP I, 188-9; II, 204.-->
 				<!--[Todo: markup citedRange elements if necessary]-->
-				<p>Reported first in <bibl><ptr target="bib:ASI"/><citedRange>1926-27: 164-5</citedRange></bibl>, described as a badly worn inscription in Pyu, round the base, illegible except for the possible <seg type="graphemic">ḅaṁḥ… Metriya ḅaṁḥ</seg>. <bibl><ptr target="bib:Luce1985_01"/><citedRange>I, 188-9, II, 204</citedRange></bibl>, summarizes what is know of this inscription.</p>
+				<p>Reported first in <bibl><ptr target="bib:ASI"/><citedRange>1926-27: 164-5</citedRange></bibl>, described as a badly worn inscription in Pyu, round the base, illegible except for the possible &lt;ḅaṁḥ… Metriya ḅaṁḥ&gt;. <bibl><ptr target="bib:Luce1985_01"/><citedRange>I, 188-9, II, 204</citedRange></bibl>, summarizes what is know of this inscription.</p>
 				<!-- <listBibl type="secondary-bibliography">
 				</listBibl> -->
 			<listBibl type="primary"><bibl><ptr target="bib:CPI2018_01"/><citedRange unit="item">DHARMA_INSPYU00065</citedRange></bibl></listBibl></div>

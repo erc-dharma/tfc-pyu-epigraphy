@@ -73,7 +73,7 @@
 			<div type="edition" xml:lang="pyx-Latn">
 				<ab>
 					<lb n="1"/><g>1</g>
-					<g type="ddanda">.</g> tdav·ṃṁḥ bam· gaṃḥ cok· kir·ṁḥ kdraṃḥ <!-- MM2AG: checked RTI; see bam· clearly without trace of a visarga; removed unclear tags;
+					<g type="ddanda">.</g> tdaVṃṁḥ baM gaṃḥ coK kiRṁḥ kdraṃḥ <!-- MM2AG: checked RTI; see bam· clearly without trace of a visarga; removed unclear tags;
 	no longer any resemblance to anything in 019.2, so removed note from both commentary and RTF. -->
 				</ab>
 			</div>
@@ -84,7 +84,7 @@
 				<p><!--english translation here--></p>
 			</div>
 			<div type="commentary">
-				<p>1. The ostensible third dot to the right of <seg type="graphemic">tdav·ṃṁḥ</seg> may be accidental, as we presume is the dot of the same size and height seen just to the left of <seg type="graphemic">cok·</seg>.</p>
+				<p>1. The ostensible third dot to the right of &lt;tdaVṃṁḥ&gt; may be accidental, as we presume is the dot of the same size and height seen just to the left of &lt;coK&gt;.</p>
 			</div>
 			<div type="bibliography">
 				<p>The only publication, <bibl><ptr target="bib:SeinWin2016_01"/><citedRange>187-8</citedRange></bibl>, has an eye drawing and a Burmese transliteration. Re-edited here from our team’s photographs and RTIs.</p>

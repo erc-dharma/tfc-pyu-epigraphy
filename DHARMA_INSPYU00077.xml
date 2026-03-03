@@ -79,7 +79,7 @@
 					<lb n="2"/>
 					sala<unclear>dham</unclear>m<unclear>ā</unclear>
 					<space type="horizontal" quantity="1" unit="chars"/><g type="ddanda">.</g>
-					°a <gap reason="illegible" quantity="2" unit="chars"/>ka
+					A <gap reason="illegible" quantity="2" unit="chars"/>ka
 					<lb n="3"/>
 					<unclear>dham</unclear>mā
 					<space type="horizontal" quantity="1" unit="chars"/>
@@ -102,9 +102,9 @@
 						<rdg source="bib:ASI">salā dhammā</rdg>
 						<rdg source="bib:Mya1961">salā dhammā</rdg>
 					</app><app loc="2">
-						<lem>°a <gap reason="illegible" quantity="2" unit="chars"/>ka</lem>
-						<rdg source="bib:ASI">°avyāka <unclear>tā</unclear></rdg>
-						<rdg source="bib:Mya1961">°avayāka ta</rdg>
+						<lem>A <gap reason="illegible" quantity="2" unit="chars"/>ka</lem>
+						<rdg source="bib:ASI">Avyāka <unclear>tā</unclear></rdg>
+						<rdg source="bib:Mya1961">Avayāka ta</rdg>
 					</app><app loc="3">
 						<lem><unclear>dham</unclear>mā</lem>
 						<rdg source="bib:ASI">dhammā</rdg>
@@ -117,11 +117,11 @@
 						<rdg source="bib:ASI">ḅa</rdg>
 					</app><app loc="3">
 						<lem><unclear>bu</unclear></lem>
-						<rdg source="bib:ASI">°o</rdg>
+						<rdg source="bib:ASI">O</rdg>
 						<rdg source="bib:Mya1961">te</rdg>
 					</app><app loc="3">
 						<lem><gap reason="illegible" quantity="1" unit="chars"/></lem>
-						<rdg source="bib:ASI">°o</rdg>
+						<rdg source="bib:ASI">O</rdg>
 					</app><app loc="3">
 						<lem><gap reason="illegible" quantity="1" unit="chars"/></lem>
 						<rdg source="bib:ASI">ḅa</rdg>

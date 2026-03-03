@@ -75,20 +75,20 @@
 					<lb n="1"/>
 					1 siddha <g type="ddanda">.</g> ro jo nu tu
 					<lb n="2"/>
-					knu °o nḅuḥ kṣatri tdaṃḥ ḅaṁḥ viṃṁ
+					knu O nḅuḥ kṣatri tdaṃḥ ḅaṁḥ viṃṁ
 					<lb n="3" break="no"/>
-					khno sriṁ kda °o pki mahadeṃ
+					khno sriṁ kda O pki mahadeṃ
 					<lb n="4" break="no"/>
-					vi sri jatra ṅiṁ kda saḥ °o ḅiṁḥ
+					vi sri jatra ṅiṁ kda saḥ O ḅiṁḥ
 					<lb n="5"/>
 					kyaṃḥ nu <gap reason="illegible" quantity="1" unit="character"/>ṁḥ svaḥ pto tgaṃḥ yaṁ tgaṃḥ <!-- MM2AG: for now changed ?oṁḥ to <gap reason="illegible" quantity="1" unit="character"/>ṁḥ, though strictly speaking the problem is not that the akṣara has been obscured by damage but that we cannot identify what the clearly preserved shape represents. -->
 					<!-- MM2AG: ngaṃh using the criteria Julian and I have used to distinguish n/t: n connects to a subscript consonant without a ɔ-shaped bottom hook. -->
 					<!-- AG2MM: I don't believe it is possible to define watertight formal criteria. I could see here an ɔ-shaped hook is I wanted to. I would like you TB specialists to tell me what is more likely phototacticaly, ng- or tg-, and base my choice on what you say. As far as I recall in one of your write-ups you presented arguments in favor of tg-. -->
 					<!-- MM2AG: phonotactically the case for a t-prefix is better, as no one to my knowledge has reconstructed an n-prefix. But n- is also possible as a remnant of an earlier nV-syllable: what if ngaṃḥ is a compressed borrowing of nāga? - cf. the compression of guru as Old Khmer grū. Julian and I have observed two kinds of t/n-shapes before other consonants: one that connects vertically to the consonant below, and another that ends in a curve pointing leftward or even to the northwest (as in <tva> and <tvaṃṁḥ> in 007); we think the former is <n> and the latter is <t>.  The <t·> of <hrat·ṁ > 'eight' in 008 has such a leftward curve and is confirmed by cognates ending in -t. -->
 					<lb n="6"/>
-					lo ḅa kiṁ °o ḅiṁ kliṁḥ °o plaṁḥ pa sa
+					lo ḅa kiṁ O ḅiṁ kliṁḥ O plaṁḥ pa sa
 					<lb n="7" break="no"/>
-					gha t<unclear>l</unclear>i kca diṃṁ <gap reason="illegible" quantity="1" unit="character"/> paṁḥ °o pa vu <!-- MM2AG: looking at the mystery akṣara in the RTI, I wonder if it might be <la>; compare it to the <l> of <tli>, if the second consonant is <l>. I agree that <ku> is unlikely, and I would favor <kca>, as the second consonant has a /-shaped top left side rather than a curve. I made these changes in RTF.-->
+					gha t<unclear>l</unclear>i kca diṃṁ <gap reason="illegible" quantity="1" unit="character"/> paṁḥ O pa vu <!-- MM2AG: looking at the mystery akṣara in the RTI, I wonder if it might be <la>; compare it to the <l> of <tli>, if the second consonant is <l>. I agree that <ku> is unlikely, and I would favor <kca>, as the second consonant has a /-shaped top left side rather than a curve. I made these changes in RTF.-->
 					<lb n="8"/>
 					ḅuḥ buḥ mvuḥ tvaṃ <g type="ddanda">.</g><g>@</g>
 					<!-- MM2AG: [about what is now read as tvaṃ] looks like ndha using the criteria Julian and I have used to distinguish n/t: n connects to a subscript consonant without a ɔ-shaped bottom hook. Does the reading ntha assume tha is missing its dot? ndha also appeared in 027, but there we regarded it as a botched nba. The dha doesn't look like ba here, though. In any case, the akṣara is anomalous as the only case of dha in a non-Indic Pyu word. -->
@@ -106,19 +106,19 @@
 				<p><!--english translation here--></p>
 			</div>
 			<div type="commentary">
-				<p><seg type="graphemic">viṃṁkhno</seg> may represent the Sanskrit name
-					Viṣṇu complementing <seg type="graphemic">jatra</seg> in the next line
-					which may be from Candrā. However, <seg type="graphemic">khno</seg> could also be the same word as <seg type="graphemic">knoṅ·</seg> in PYU <ref target="DHARMA_INSPYU00001">1</ref>, l. 1, or even <seg type="graphemic">kno</seg> in <seg type="graphemic">kno</seg> in PYU <ref target="DHARMA_INSPYU00020">20</ref>,
-					l. 3, if the aspiration of <seg type="graphemic">k</seg> is not phonemic (as in Khmer in which /kn/ is phonetically [kʰn]).</p>
+				<p>&lt;viṃṁkhno&gt; may represent the Sanskrit name
+					Viṣṇu complementing &lt;jatra&gt; in the next line
+					which may be from Candrā. However, &lt;khno&gt; could also be the same word as &lt;knoṄ&gt; in PYU <ref target="DHARMA_INSPYU00001">1</ref>, l. 1, or even &lt;kno&gt; in &lt;kno&gt; in PYU <ref target="DHARMA_INSPYU00020">20</ref>,
+					l. 3, if the aspiration of &lt;k&gt; is not phonemic (as in Khmer in which /kn/ is phonetically [kʰn]).</p>
 				<!-- MM2AG: why did you think jatra could be from feminine candrā rather than masculine candraḥ? BTW, I originally thought khno in 017 was the same word as khnoṅ· in 001, as I couldn't imagine why Viṣṇu would be borrowed with -kh- instead of -s- since Pyu does have sn- as in sniḥ 'year'. Just checked and found Pyu snuḥ in 006 and 020. Is there any Middle Indic form like vikhṇu < vikṣṇu? Turner's dictionary lists the unspecified Prakrit forms viṇhu and veṇhu. -->
 				<!-- AG2MM: pronunciation of written <ṣ> as /kh/ is common in certain parts of India (see e.g. <http://dsal.uchicago.edu/dictionaries/turner/frontmatter/introduction.html>). This presumably also reflects some historical developments in the local NIA languages, but I don't know the linguistic facts. jatra presumably represent Candrā because the person is indicated to be a queen (mahādevī). -->
-				<p><seg type="graphemic">ṅiṁ kda</seg> appears to match <seg type="graphemic">ṅit·ṁ kdaṅ·</seg> in PYU <ref target="DHARMA_INSPYU00016">16</ref>,
+				<p>&lt;ṅiṁ kda&gt; appears to match &lt;ṅiTṁ kdaṄ&gt; in PYU <ref target="DHARMA_INSPYU00016">16</ref>,
 					PYU <ref target="DHARMA_INSPYU00020">20</ref>, PYU <ref target="DHARMA_INSPYU00027">27</ref> and PYU <ref target="DHARMA_INSPYU00032">32</ref></p>
 			</div>
 			<div type="bibliography">
 				<!--ASI 1929-30, 152, 182. — PPPB I, 66, 75 n. 28, 149. — PR, 22.-->
 				<!--[Todo: markup citedRange elements if necessary]-->
-				<p>First reported in <bibl><ptr target="bib:ASI"/><citedRange>1929-30: 152, 182</citedRange></bibl>, where it was reported found near 001, with 8 lines of Pyu. <bibl><ptr target="bib:ThaMyat1963_01"/><citedRange>22</citedRange></bibl> is an eye drawing and transliteration based on the ASI photograph. <bibl><ptr target="bib:Luce1985_01"/><citedRange>I, 66, 75 n. 28, 149</citedRange></bibl>, provides an overview of earlier work and notes the name of a queen, <seg type="graphemic">mahadevi sri jatra</seg>, in lines 3-4. <bibl><ptr target="bib:SeinWin2016_01"/><citedRange>18-21</citedRange></bibl> gives eye drawings, a new reading and a glossary. Re-edited here from published photographs and from our team’s RTIs.</p>
+				<p>First reported in <bibl><ptr target="bib:ASI"/><citedRange>1929-30: 152, 182</citedRange></bibl>, where it was reported found near 001, with 8 lines of Pyu. <bibl><ptr target="bib:ThaMyat1963_01"/><citedRange>22</citedRange></bibl> is an eye drawing and transliteration based on the ASI photograph. <bibl><ptr target="bib:Luce1985_01"/><citedRange>I, 66, 75 n. 28, 149</citedRange></bibl>, provides an overview of earlier work and notes the name of a queen, &lt;mahadevi sri jatra&gt;, in lines 3-4. <bibl><ptr target="bib:SeinWin2016_01"/><citedRange>18-21</citedRange></bibl> gives eye drawings, a new reading and a glossary. Re-edited here from published photographs and from our team’s RTIs.</p>
 				<!-- <listBibl type="secondary-bibliography">
 				</listBibl> -->
 			<listBibl type="primary"><bibl><ptr target="bib:CPI2018_01"/><citedRange unit="item">DHARMA_INSPYU00017</citedRange></bibl></listBibl></div>

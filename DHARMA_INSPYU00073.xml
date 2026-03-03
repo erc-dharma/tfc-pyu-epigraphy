@@ -72,9 +72,9 @@
       <body>
 			<div type="edition" xml:lang="pyx-Latn">
 				<ab>
-					<lb n="1"/> siddha<unclear>m·</unclear> 2 <g type="ddanda">.</g>
-					<space type="horizontal" quantity="1" unit="character"/> ḅay·ṁḥ kmak· <unclear>ḅa</unclear>y·ṁḥ toṅ· tṅav· tiṁ psiṁ <space type="horizontal" quantity="1" unit="character"/> ḅay·ṁḥ saḥ ḅay·ṁḥ goṃḥ <space type="horizontal" quantity="1" unit="character"/> °o saḥ ḅay·ṁḥ luṅ· hi<unclear>p</unclear>· <space type="horizontal" quantity="1" unit="character"/> ḅay·ṁḥ luṅ· ti<unclear>n·</unclear>ṁ droḥ kdiṃ <space type="horizontal" quantity="1" unit="character"/> ḅay·ṁḥ luṅ· tdav·ṃḥ
-						<space type="horizontal" quantity="1" unit="character"/> daṅ·ṃṁ °oy· tsaṁḥ ḅuddha daṅ·ḥ tim·ṁ <unclear>m</unclear>l<unclear>i</unclear>y·ṁ kdaṅ· nhoḥ yaṁ <space type="horizontal" quantity="1" unit="character"/>
+					<lb n="1"/> siddha<unclear>M</unclear> 2 <g type="ddanda">.</g>
+					<space type="horizontal" quantity="1" unit="character"/> ḅaYṁḥ kmaK <unclear>ḅa</unclear>Yṁḥ toṄ tṅaV tiṁ psiṁ <space type="horizontal" quantity="1" unit="character"/> ḅaYṁḥ saḥ ḅaYṁḥ goṃḥ <space type="horizontal" quantity="1" unit="character"/> O saḥ ḅaYṁḥ luṄ hi<unclear>P</unclear> <space type="horizontal" quantity="1" unit="character"/> ḅaYṁḥ luṄ ti<unclear>N</unclear>ṁ droḥ kdiṃ <space type="horizontal" quantity="1" unit="character"/> ḅaYṁḥ luṄ tdaVṃḥ
+						<space type="horizontal" quantity="1" unit="character"/> daṄṃṁ OY tsaṁḥ ḅuddha daṄḥ tiMṁ <unclear>m</unclear>l<unclear>i</unclear>Yṁ kdaṄ nhoḥ yaṁ <space type="horizontal" quantity="1" unit="character"/>
 					<g type="ddanda">.</g><g>@</g>
 				</ab>
 			</div>
@@ -85,10 +85,10 @@
 				<p><!--english translation here--></p>
 			</div>
 			<div type="commentary">
-				<p>1. <seg type="graphemic">siddha[m·]</seg>: The leftwards curve of <seg type="graphemic">dh</seg> is not clearly connected back to the vertical under <seg type="graphemic">d</seg>; there is also an apparent anusvara above <seg type="graphemic">si</seg>, which we ignore as accidental depression in the foil; the top of the final <seg type="graphemic">m</seg> is obscured. On the whole the shape of this word here resembles that in PYU 24.</p>
-				<p>1. <seg type="graphemic">luṅ·</seg> (3×): same shape in PYU 1, in same	word, also after <seg type="graphemic">ḅay·ṁḥ</seg>.</p>
-				<p>1. <seg type="graphemic">tsaṁḥ</seg>: or read <seg type="graphemic">tpaṁḥ</seg>?</p>
-				<p>1. <seg type="graphemic">nhoḥ</seg>: this seems to be the word for ‘three’, on whose onset we have yet to agree: <seg type="graphemic">h-</seg> or <seg type="graphemic">nh-</seg>? However, there is a mark where a final consonant would be which looks vaguely like a <seg type="graphemic">v·</seg>, <seg type="graphemic">r·</seg> or <seg type="graphemic">m·</seg>. No such word is attested and for now, the mark is regarded as accidental.</p>
+				<p>1. &lt;siddha[M]&gt;: The leftwards curve of &lt;dh&gt; is not clearly connected back to the vertical under &lt;d&gt;; there is also an apparent anusvara above &lt;si&gt;, which we ignore as accidental depression in the foil; the top of the final &lt;m&gt; is obscured. On the whole the shape of this word here resembles that in PYU 24.</p>
+				<p>1. &lt;luṄ&gt; (3×): same shape in PYU 1, in same	word, also after &lt;ḅaYṁḥ&gt;.</p>
+				<p>1. &lt;tsaṁḥ&gt;: or read &lt;tpaṁḥ&gt;?</p>
+				<p>1. &lt;nhoḥ&gt;: this seems to be the word for ‘three’, on whose onset we have yet to agree: &lt;h-&gt; or &lt;nh-&gt;? However, there is a mark where a final consonant would be which looks vaguely like a &lt;V&gt;, &lt;R&gt; or &lt;M&gt;. No such word is attested and for now, the mark is regarded as accidental.</p>
 			</div>
 			<div type="bibliography">
 				<!--ASI 1927, 180 (no. 38), 201. — Stargardt 2000: 52 (no. 38).-->

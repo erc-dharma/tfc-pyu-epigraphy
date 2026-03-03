@@ -72,7 +72,7 @@
       <body>
 			<div type="edition">
 				<ab>
-					<lb n="1"/> yaṁ nu hna dra mra °o phu
+					<lb n="1"/> yaṁ nu hna dra mra O phu
 				</ab>
 			</div>
 			<div type="apparatus">
@@ -87,11 +87,11 @@
 					</app></listApp>
 			</div>
 			<div type="translation" xml:lang="eng">
-				<p>Tun Aung Chain concurs with Mya. He follows Myazedi and interprets <seg type="graphemic">tra</seg> as ‘ornament’, translating the inscription as: “this ornament is the meritorious deep of Hnadamra” or, taking hna as a title, “of hna Damra”. He also notes a similar phrase, <seg type="graphemic">hna dra mu</seg>, in the Hpayahtaung Urn inscription (020).</p>
+				<p>Tun Aung Chain concurs with Mya. He follows Myazedi and interprets &lt;tra&gt; as ‘ornament’, translating the inscription as: “this ornament is the meritorious deep of Hnadamra” or, taking hna as a title, “of hna Damra”. He also notes a similar phrase, &lt;hna dra mu&gt;, in the Hpayahtaung Urn inscription (020).</p>
 			</div>
 			<div type="commentary">
-				<p>1. <seg type="graphemic">nu</seg> ◇ or <seg type="graphemic">tra</seg>; but the descender does not extend to the left as far as the <seg type="graphemic">r</seg>’s of <seg type="graphemic">dra</seg> and <seg type="graphemic">mra</seg>. In other inscriptions, <seg type="graphemic">n</seg> + descender that loops upwards we have read <seg type="graphemic">nu</seg>.</p>
-				<p>AG (20160625): <seg type="graphemic">nu</seg> seems rather uncertain on Mya plate, but PPPB plate (the artifact here displays mark II 298) is clear for this akṣara.</p>
+				<p>1. &lt;nu&gt; ◇ or &lt;tra&gt;; but the descender does not extend to the left as far as the &lt;r&gt;’s of &lt;dra&gt; and &lt;mra&gt;. In other inscriptions, &lt;n&gt; + descender that loops upwards we have read &lt;nu&gt;.</p>
+				<p>AG (20160625): &lt;nu&gt; seems rather uncertain on Mya plate, but PPPB plate (the artifact here displays mark II 298) is clear for this akṣara.</p>
 			</div>
 			<div type="bibliography">
 				<!--ASI 1934-35, 47. — Mya 1961a, II, 31. — PPPB I, 155. — Tun Aung Chain 2003: 9.-->

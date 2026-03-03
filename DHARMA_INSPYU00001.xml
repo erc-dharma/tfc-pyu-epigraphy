@@ -74,13 +74,13 @@
 				<ab>
 					<lb n="1"/><seg type="siddham"/>
 					<g type="ddanda">.</g>
-					ḅay·ṁḥ dak·ṃ viy·ṃṁ
-					tim·ṁ
-					mlik· °o saḥ tgaṃ knon· °o <unclear reason="damage">p</unclear>li 
+					ḅaYṁḥ daKṃ viYṃṁ
+					tiMṁ
+					mliK O saḥ tgaṃ knoN O <unclear reason="damage">p</unclear>li 
 					<lb n="2"/>
-					ḅay·ṁḥ
-					luṅ·
-					ḅa hi °o lup· yaṁ <g>•|•|</g><seg type="siddham-inverted"/>
+					ḅaYṁḥ
+					luṄ
+					ḅa hi O luP yaṁ <g>•|•|</g><seg type="siddham-inverted"/>
 					<!-- AG2MM: we had @||@ in rtf, but I am now skeptical of those dots. Could they be accidental? In any case, there is clearly an inverted siddham. Encoding adjusted but still uncertain on the two cases of •.  -->
 					<!-- AG: in discussion with EM, she proposes to add @certainty and to use the character identifier in Unicode for the specifit bullet/dot we want to appear. And to enter <g ref="#siddham-inverted">, with definition in TEI header. -->
 				</ab>
@@ -88,62 +88,62 @@
 			<div type="apparatus">
 				<listApp>
 					<app loc="1">
-						<lem>tim·ṁ</lem>
-						<note>We read <seg type="graphemic">t</seg> rather than <seg type="graphemic">n</seg> here, agreeing with Blagden and Tha Myat. If so, then <seg type="graphemic">tgaṃ</seg> can be correct too. If so, then <seg type="graphemic">t</seg> in this inscription would be of the “loop” type rather than the “cup” type seen in other inscriptions. But comparison with other inscriptions cautions us that even in a single inscription one may not necessarily expect a clear pattern in the distinction between <seg type="graphemic">t</seg> and <seg type="graphemic">n</seg>.</note>
+						<lem>tiMṁ</lem>
+						<note>We read &lt;t&gt; rather than &lt;n&gt; here, agreeing with Blagden and Tha Myat. If so, then &lt;tgaṃ&gt; can be correct too. If so, then &lt;t&gt; in this inscription would be of the “loop” type rather than the “cup” type seen in other inscriptions. But comparison with other inscriptions cautions us that even in a single inscription one may not necessarily expect a clear pattern in the distinction between &lt;t&gt; and &lt;n&gt;.</note>
 					</app>
 					<app loc="2">
-						<lem>luṅ· … lup·</lem>
+						<lem>luṄ … luP</lem>
 						<rdg resp="#Blagden" source="bib:ASB1915">(nū) … nu</rdg>
-						<rdg source="bib:ThaMyat1963_01">tu+°o· … tu+p</rdg>
+						<rdg source="bib:ThaMyat1963_01">tu+O· … tu+p</rdg>
 						<!-- MM2AG: following note is outdated now; should it be dropped? -->
 						<!-- AG2MM: feel free to drop anything that is outdated. -->
 						<note>There is no contrast in this inscription between “r with leftwards
-							stroke” which we are interpreting as <seg type="graphemic">rū</seg> and
-							“r with rightwards stroke” which in other inscriptions represents <seg type="graphemic">ru</seg>. Note also two slightly different shapes of <seg type="graphemic">rū</seg>, with and without loop at bottom; the first of them attested also in PYU <ref target="DHARMA_INSPYU00006">6</ref>, where it was interpreted as <seg type="graphemic">(bhūṃ)</seg> by Blagden; perhaps <seg type="graphemic">lu</seg> would be a possibility for shape with loop, but reading <seg type="graphemic">rū</seg> for shape without loop virtually guaranteed by occurrences of apparently related sequence <seg type="graphemic">°o ru kleḥ yaṁ</seg> at end of several urn inscriptions.</note>
+							stroke” which we are interpreting as &lt;rū&gt; and
+							“r with rightwards stroke” which in other inscriptions represents &lt;ru&gt;. Note also two slightly different shapes of &lt;rū&gt;, with and without loop at bottom; the first of them attested also in PYU <ref target="DHARMA_INSPYU00006">6</ref>, where it was interpreted as &lt;(bhūṃ)&gt; by Blagden; perhaps &lt;lu&gt; would be a possibility for shape with loop, but reading &lt;rū&gt; for shape without loop virtually guaranteed by occurrences of apparently related sequence &lt;O ru kleḥ yaṁ&gt; at end of several urn inscriptions.</note>
 					</app>
 				<app loc="1">
-						<lem>ḅay·ṁḥ</lem>
+						<lem>ḅaYṁḥ</lem>
 						<rdg resp="#Blagden" source="bib:ASB1915">baṁḥ</rdg>
 						<rdg source="bib:ThaMyat1963_01">baṁḥ</rdg>
 						</app><app loc="1">
-						<lem>viy·ṃṁ</lem>
+						<lem>viYṃṁ</lem>
 						<rdg resp="#Blagden" source="bib:ASB1915">vī</rdg>
 						<rdg source="bib:ThaMyat1963_01">viṃṁ</rdg>
 						<!-- MM: PR has viṁ in Burmese transliteration. -->
 					</app><app loc="1">
-						<lem>tim·ṁ</lem>
+						<lem>tiMṁ</lem>
 						<rdg resp="#Blagden" source="bib:ASB1915">ti</rdg>
 						<rdg source="bib:ThaMyat1963_01">tiṃṁ</rdg>
 						<!-- MM: PR has tiṁ in Burmese transliteration. -->
 					</app><app loc="1">
-						<lem>mlik·</lem>
+						<lem>mliK</lem>
 						<rdg resp="#Blagden" source="bib:ASB1915">ṃ(l)i</rdg>
 						<!-- MM: Blagden has initial ṃ which must be a typo. -->
 						<rdg source="bib:ThaMyat1963_01">mliṁ</rdg>
 					</app><app loc="1">
-						<lem>knon·</lem>
+						<lem>knoN</lem>
 						<rdg resp="#Blagden" source="bib:ASB1915">kño</rdg>
 					</app><app loc="1">
 						<lem><unclear reason="damage">p</unclear>li </lem>
 						<rdg resp="#Blagden" source="bib:ASB1915">(ch) di</rdg>
 						<!-- MM: Blagden's space between (ch) and di is a typo. -->
 					</app><app loc="2">
-						<lem>ḅay·ṁḥ</lem>
+						<lem>ḅaYṁḥ</lem>
 						<rdg resp="#Blagden" source="bib:ASB1915">bàḥ</rdg>
 						<!-- MM: Blagden's grave accent is a typo for the superscript dot ṁ. -->
 						<rdg source="bib:ThaMyat1963_01">baṁḥ</rdg>
 					</app><app loc="2">
-						<lem>luṅ·</lem>
+						<lem>luṄ</lem>
 						<rdg resp="#Blagden" source="bib:ASB1915">(nū)</rdg>
-						<rdg source="bib:ThaMyat1963_01">tu+°o·</rdg>
+						<rdg source="bib:ThaMyat1963_01">tu+O·</rdg>
 					</app><app loc="2">
 						<lem>ḅa</lem>
 						<rdg resp="#Blagden" source="bib:ASB1915">ba</rdg>
 						<rdg source="bib:ThaMyat1963_01">ba</rdg>
 					</app><app loc="2">
-						<lem>lup·</lem>
+						<lem>luP</lem>
 						<rdg resp="#Blagden" source="bib:ASB1915">nu</rdg>
-						<rdg source="bib:ThaMyat1963_01">tu+p·</rdg>
+						<rdg source="bib:ThaMyat1963_01">tu+P</rdg>
 					</app></listApp>
 			</div>
 			<div type="translation" xml:lang="eng">
@@ -158,10 +158,10 @@
 <listApp>
 			<app loc="1">
 				<lem><unclear>p</unclear>li</lem>
-				<note>Photos such as IMG_8373 favor initial <seg type="graphemic">p</seg> over <seg type="graphemic">m</seg>: <seg type="graphemic">pli</seg> 'grandson'.</note>
+				<note>Photos such as IMG_8373 favor initial &lt;p&gt; over &lt;m&gt;: &lt;pli&gt; 'grandson'.</note>
 			</app>
 			<app loc="2">
-			<note>The sequence <seg type="graphemic">ḅa hi</seg> also attested in PYU <ref target="DHARMA_INSPYU00002">2</ref>.</note>
+			<note>The sequence &lt;ḅa hi&gt; also attested in PYU <ref target="DHARMA_INSPYU00002">2</ref>.</note>
 			</app>
 </listApp>
 			</div>

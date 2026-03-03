@@ -88,7 +88,7 @@
 			<div type="bibliography">
 				<!--Mya 1961a, II, 31-2. — PPPB I, 154.-->
 				<!--[Todo: markup citedRange elements if necessary]-->
-				<p><bibl><ptr target="bib:Mya 1961a"/><citedRange>II, 31-2</citedRange></bibl>, reports on this tablet and includes a Burmese transliteration of the Pyu inscription. <bibl><ptr target="bib:ThaMyat1963_01"/><citedRange>39</citedRange></bibl> has eye drawings, transliteration and translation. <bibl><ptr target="bib:Luce1985_01"/><citedRange>I, 154 (d) and (e)</citedRange></bibl>, provides a succinct description and overview, as well as a slightly different transliteration (reading <seg type="graphemic">buññe</seg> for Mya and Tha Myat’s <seg type="graphemic">buñña</seg>). Re-edited here from published photographs.</p>
+				<p><bibl><ptr target="bib:Mya 1961a"/><citedRange>II, 31-2</citedRange></bibl>, reports on this tablet and includes a Burmese transliteration of the Pyu inscription. <bibl><ptr target="bib:ThaMyat1963_01"/><citedRange>39</citedRange></bibl> has eye drawings, transliteration and translation. <bibl><ptr target="bib:Luce1985_01"/><citedRange>I, 154 (d) and (e)</citedRange></bibl>, provides a succinct description and overview, as well as a slightly different transliteration (reading &lt;buññe&gt; for Mya and Tha Myat’s &lt;buñña&gt;). Re-edited here from published photographs.</p>
 				<listBibl type="primary"><bibl><ptr target="bib:CPI2018_01"/><citedRange unit="item">DHARMA_INSPYU00084</citedRange></bibl></listBibl><listBibl type="secondary">
 				</listBibl>
 			</div>

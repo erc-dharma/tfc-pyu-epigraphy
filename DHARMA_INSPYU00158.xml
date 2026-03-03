@@ -72,7 +72,7 @@
       <body>
 			<div type="edition" xml:lang="pyx-Latn">
 				<ab>
-					<lb n="1"/><g>@</g><g type="ddanda">.</g> CCil· °o kdlav· ḅay·ṁḥ dhiy·ṁ slauṅ·ṁ <space type="horizontal" quantity="1" unit="character"/> ḅay·ṁḥ may· draṅ· gaṃḥ °o kaṅ· daṅ·ṃṁ tdi nda °o tlaṅ· yaṁ °o ndan· naṁ X <g type="danda">.</g> s </ab>
+					<lb n="1"/><g>@</g><g type="ddanda">.</g> CCiL O kdlaV ḅaYṁḥ dhiYṁ slauṄṁ <space type="horizontal" quantity="1" unit="character"/> ḅaYṁḥ maY draṄ gaṃḥ O kaṄ daṄṃṁ tdi nda O tlaṄ yaṁ O ndaN naṁ X <g type="danda">.</g> s </ab>
 			</div>
 			<div type="apparatus">
 				<listApp/>
@@ -81,7 +81,7 @@
 				<p><!--english translation here--></p>
 			</div>
 			<div type="commentary">
-				<p>Has an archaic, subscript-like shape for <seg type="graphemic">ma</seg> like 064.</p>
+				<p>Has an archaic, subscript-like shape for &lt;ma&gt; like 064.</p>
 			</div>
 			<div type="bibliography">
 				<p>We are not aware of any publication concerning this inscription.</p>

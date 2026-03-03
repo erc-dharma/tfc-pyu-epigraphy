@@ -73,22 +73,22 @@
 			<div type="edition" xml:lang="pyx-Latn">
 				<ab>
 					<lb n="1"/><g type="siddham"/>
-					<g type="ddanda">.</g> tdaṃḥ ḅaṁḥ °o hi suriyavikrama ḅaṁḥ °o rvaṃḥ ḅaṁḥ kmiṁ ḅaṁḥ vaṃ tiṁ dliṁ sniḥ hauḥ
-					su piṁ ṅa ta kiṁ kha °o sniḥ ḅaṁḥ °o ru kleḥ yaṁ </ab>
+					<g type="ddanda">.</g> tdaṃḥ ḅaṁḥ O hi suriyavikrama ḅaṁḥ O rvaṃḥ ḅaṁḥ kmiṁ ḅaṁḥ vaṃ tiṁ dliṁ sniḥ hauḥ
+					su piṁ ṅa ta kiṁ kha O sniḥ ḅaṁḥ O ru kleḥ yaṁ </ab>
 			</div>
 			<div type="apparatus">
 				<listApp>
 					<app loc="1">
 						<lem>voṃḥ</lem>
-						<note>Blagden (tentatively on <seg type="graphemic">oṃ</seg>) and Tha Myat also read <seg type="graphemic">voṃḥ</seg>, but the <seg type="graphemic">o</seg> vowel does not look typical; it could be <seg type="graphemic">rvaṃḥ</seg>. </note>
+						<note>Blagden (tentatively on &lt;oṃ&gt;) and Tha Myat also read &lt;voṃḥ&gt;, but the &lt;o&gt; vowel does not look typical; it could be &lt;rvaṃḥ&gt;. </note>
 					</app>
 					<app loc="1">
 						<lem><supplied reason="lost">v</supplied>aṃ</lem>
-						<note>For our <seg type="graphemic">(v)aṃ tiṁ dliṁ</seg>, Tun Aung Chain (2003: 4) reads <seg type="graphemic">(ta)tiddi</seg>, which he understand as proper name Tatiddi deriving it from Skt. dīdhiti 'devotion, splendor'. </note>
+						<note>For our &lt;(v)aṃ tiṁ dliṁ&gt;, Tun Aung Chain (2003: 4) reads &lt;(ta)tiddi&gt;, which he understand as proper name Tatiddi deriving it from Skt. dīdhiti 'devotion, splendor'. </note>
 					</app>
 					<app loc="1">
 						<lem>kiṁ kha</lem>
-						<note>Blagden and Tha Myat also read <seg type="graphemic">kha</seg>, though both tentative. The sequence might also be read <seg type="graphemic">kiṁ ce</seg>. It also occurs in other urns and in PYU <ref target="DHARMA_INSPYU00016">16</ref>. </note>
+						<note>Blagden and Tha Myat also read &lt;kha&gt;, though both tentative. The sequence might also be read &lt;kiṁ ce&gt;. It also occurs in other urns and in PYU <ref target="DHARMA_INSPYU00016">16</ref>. </note>
 					</app>
 				<app loc="1">
 						<lem>suriyavikrama</lem>

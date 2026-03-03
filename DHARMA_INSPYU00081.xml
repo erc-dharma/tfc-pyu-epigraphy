@@ -89,7 +89,7 @@
 				<!--ASI 1927-28, 130-1. — Mya 1961a, II, 15-6. — PPPB I, 156.-->
 				<!--[Todo: markup citedRange elements if necessary]-->
 				
-				<p>First reported in <bibl><ptr target="bib:ASI"/><citedRange>1927-28, 130-1</citedRange></bibl>, with a transcription provided, and then again, much later, in <bibl><ptr target="bib:Mya 1961a"/><citedRange>II, 15-6</citedRange></bibl> (in Burmese), with <seg type="graphemic">co rya</seg> instead of ASI’s <seg type="graphemic">co rye</seg>. <bibl><ptr target="bib:Luce1985_01"/><citedRange>I, 156c</citedRange></bibl>, provides an overview (and agrees with Mya’s reading).</p>
+				<p>First reported in <bibl><ptr target="bib:ASI"/><citedRange>1927-28, 130-1</citedRange></bibl>, with a transcription provided, and then again, much later, in <bibl><ptr target="bib:Mya 1961a"/><citedRange>II, 15-6</citedRange></bibl> (in Burmese), with &lt;co rya&gt; instead of ASI’s &lt;co rye&gt;. <bibl><ptr target="bib:Luce1985_01"/><citedRange>I, 156c</citedRange></bibl>, provides an overview (and agrees with Mya’s reading).</p>
 				<listBibl type="primary"><bibl><ptr target="bib:CPI2018_01"/><citedRange unit="item">DHARMA_INSPYU00081</citedRange></bibl></listBibl><listBibl type="secondary">
 				</listBibl>
 			</div>

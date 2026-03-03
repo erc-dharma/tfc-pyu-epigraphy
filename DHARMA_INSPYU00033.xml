@@ -72,7 +72,7 @@
       <body>
 			<div type="edition" xml:lang="pyx-Latn">
 				<ab>
-					<lb n="1"/><gap extent="unknown" reason="lost"/>jatradeṃvi °o ḅ<supplied reason="lost">i</supplied>ṁ<unclear>ḥ</unclear><gap extent="unknown" reason="lost"/>
+					<lb n="1"/><gap extent="unknown" reason="lost"/>jatradeṃvi O ḅ<supplied reason="lost">i</supplied>ṁ<unclear>ḥ</unclear><gap extent="unknown" reason="lost"/>
 					<lb n="2"/><gap extent="unknown" reason="lost"/>yaṁ <g type="ddanda">.</g><gap extent="unknown" reason="lost"/>
 				</ab>
 			</div>
@@ -91,13 +91,13 @@
 				<!-- MM2AG: I agree that °o is a problem. My initial guess was that this says something like 'Candradevī's venerable ... this', but that won't work, because ḅaṁḥ seems to modify preceding nouns, and I'd expect ḅaṁḥ °o (as in the urns) rather than °o ḅaṁḥ, a sequence that only occurs once in the corpus (020.5 RTI 3: doḥr· °o ḅaṁḥ °o pla, perhaps a sequence of verb + nominalizer + adjective + genitive + noun). Cf. how Japanese no does double duty as nominalizer and genitive postposition (though my proposed sequence can't be translated grammatically morpheme-by-morpheme into Japanese). Much work could be done with collocations testing the software I've found, but encoding comes first! -->
 			</div>
 			<div type="commentary">
-				<p>1. ASI reads the first line as “Jatradevī u bi x x” with a long <seg type="graphemic">ī</seg> absent from Pyu, recognizing the Sanskrit name Candradevī and noting PYU <ref target="DHARMA_INSPYU00017">17</ref> (the sun-moon stele) where the same name is mentioned (<foreign>Mahadevi Sri Jatra</foreign>). Luce speaks of this lady as “Queen Chandradevi”.</p>
+				<p>1. ASI reads the first line as “Jatradevī u bi x x” with a long &lt;ī&gt; absent from Pyu, recognizing the Sanskrit name Candradevī and noting PYU <ref target="DHARMA_INSPYU00017">17</ref> (the sun-moon stele) where the same name is mentioned (<foreign>Mahadevi Sri Jatra</foreign>). Luce speaks of this lady as “Queen Chandradevi”.</p>
 				<!-- MM2AG: retain smart quotes in commentary? I have been converting them in Pyu transliteration. -->
 			</div>
 			<div type="bibliography">
 				<!--ASI 1930–34, I, 246-7. — PPPB I, 66, 75 n. 29, 149.-->
 				<!--[Todo: markup citedRange elements if necessary]-->
-				<p>First reported by U Mya writing in <bibl><ptr target="bib:ASI"/><citedRange>1930–34: I, 246-7</citedRange></bibl>, which notes 2 lines with a total of 7 akṣaras, including the name <seg type="graphemic">jatradevi</seg>, identified as Queen Chandradevi. Luce, in <bibl><ptr target="bib:Luce1985_01"/><citedRange>I, 66, 75 n. 29, 149</citedRange></bibl>, repeats much of what is in ASI in his summary. Re-edited here from published photographs.</p>
+				<p>First reported by U Mya writing in <bibl><ptr target="bib:ASI"/><citedRange>1930–34: I, 246-7</citedRange></bibl>, which notes 2 lines with a total of 7 akṣaras, including the name &lt;jatradevi&gt;, identified as Queen Chandradevi. Luce, in <bibl><ptr target="bib:Luce1985_01"/><citedRange>I, 66, 75 n. 29, 149</citedRange></bibl>, repeats much of what is in ASI in his summary. Re-edited here from published photographs.</p>
 				<!-- <listBibl type="secondary-bibliography">
 				</listBibl> -->
 			<listBibl type="primary"><bibl><ptr target="bib:CPI2018_01"/><citedRange unit="item">DHARMA_INSPYU00033</citedRange></bibl></listBibl></div>

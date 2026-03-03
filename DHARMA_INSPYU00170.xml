@@ -73,13 +73,13 @@
 			<div type="edition" xml:lang="pyx-Latn">
 				<ab>
 					<lb n="1"/>
-					°ū
+					Ū
 					va sri
 				</ab>
 			</div>
 			<div type="apparatus">
 				<listApp><app loc="1">
-						<lem>°ū</lem>
+						<lem>Ū</lem>
 						<rdg>ña</rdg>
 					</app><app loc="1">
 						<lem>va</lem>
@@ -90,7 +90,7 @@
 				<p/>
 			</div>
 			<div type="commentary">
-				<p>Only example of <seg type="graphemic">°ū</seg> in the corpus.</p>
+				<p>Only example of &lt;Ū&gt; in the corpus.</p>
 			</div>
 			<div type="bibliography">
 				<!--Naing Zaw 2011: 613.-->
