@@ -73,7 +73,7 @@
 			<div type="edition" xml:lang="pyx-Latn">
 				<ab>
 					<lb n="1"/><gap reason="lost" extent="unknown"/>
-					<gap reason="lost" quantity="1" unit="character"/>C· <gap reason="lost" quantity="1" unit="character"/>C· <gap reason="lost" quantity="1" unit="character"/><unclear>T</unclear> <gap reason="lost" quantity="1" unit="character"/>Ṅ <gap reason="lost" quantity="1" unit="character"/>C· <supplied reason="lost">ta</supplied>R <supplied reason="lost">daṃ</supplied><unclear>V</unclear><supplied reason="lost">ḥ</supplied>
+					<gap reason="lost" quantity="1" unit="character"/><seg type="component" subtype="subscript">C</seg> <gap reason="lost" quantity="1" unit="character"/><seg type="component" subtype="subscript">C</seg> <gap reason="lost" quantity="1" unit="character"/><unclear>T</unclear> <gap reason="lost" quantity="1" unit="character"/>Ṅ <gap reason="lost" quantity="1" unit="character"/><seg type="component" subtype="subscript">C</seg> <supplied reason="lost">ta</supplied>R <supplied reason="lost">daṃ</supplied><unclear>V</unclear><supplied reason="lost">ḥ</supplied>
 					<supplied reason="lost">t</supplied>gaMṃ<supplied reason="lost">ḥ</supplied>
 					<unclear>daṃ</unclear>V<unclear>ḥ</unclear>
 					<supplied reason="lost">t</supplied>daVṃ<unclear>ḥ</unclear>

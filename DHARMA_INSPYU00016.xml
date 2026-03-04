@@ -245,7 +245,7 @@
 					<space quantity="1" unit="character"/>
 					prabhr̥ty eva
 					<space quantity="1" unit="character"/>
-					dru<unclear>N</unclear>ḥ ta pr̥ tuM ṭloC·ḥ
+					dru<unclear>N</unclear>ḥ ta pr̥ tuM ṭlo<seg type="component" subtype="subscript">C</seg>ḥ
 					<space quantity="1" unit="character"/>
 					vigāḍha
 					<space quantity="1" unit="character"/>
@@ -261,7 +261,7 @@
 					<space quantity="1" unit="character"/>
 					prītirasa
 					<space quantity="1" unit="character"/>
-					O kiC·ṁ kCeṄ O kdiVṃṁ ceV diNṃ
+					O ki<seg type="component" subtype="subscript">C</seg>ṁ kCeṄ O kdiVṃṁ ceV diNṃ
 					<space quantity="1" unit="character"/>
 					UpaghātinaM
 					<space quantity="1" unit="character"/>
@@ -301,7 +301,7 @@
 					<space quantity="1" unit="character"/>
 					punaḥ
 					<space quantity="1" unit="character"/>
-					k<unclear>n</unclear>aC·ṁḥ
+					k<unclear>n</unclear>a<seg type="component" subtype="subscript">C</seg>ṁḥ
 					<space quantity="1" unit="character"/>
 					Ātmajāś ca ye
 					<space quantity="1" unit="character"/>
@@ -356,12 +356,12 @@
 					<milestone unit="face" n="C"/>
 					ye
 					<space quantity="1" unit="character"/>
-					<unclear>pdi</unclear><supplied reason="lost">Kṃṁ</supplied><unclear>na</unclear>ḥ tse<unclear>C·</unclear>
+					<unclear>pdi</unclear><supplied reason="lost">Kṃṁ</supplied><unclear>na</unclear>ḥ tse<unclear><seg type="component" subtype="subscript">C</seg></unclear>
 						<unclear>vaṄṃ</unclear>
 					<space quantity="1" unit="character"/>
 					<!-- MM2AG: although I expect pdik·ṃṁ as a gloss for ye and can kind of see it in the RTI, the PPPB rubbing shows that the akṣara after ye has no subscript consonant: i.e., no -d-ṃ- -->
 					<unclear>A</unclear>pa<unclear>nna</unclear>gasambhavā<unclear>ya</unclear>
-					<gap reason="illegible" quantity="1" unit="character"/> g<unclear>i</unclear> sḅuC· mrauYḥ piNṁḥ
+					<gap reason="illegible" quantity="1" unit="character"/> g<unclear>i</unclear> sḅu<seg type="component" subtype="subscript">C</seg> mrauYḥ piNṁḥ
 					<!-- MM2AG: treated (g/ḅ)a(l/k)· as case of unclear rather than supplied -->
 					<space quantity="1" unit="character"/>
 					te
@@ -416,7 +416,7 @@
 					<space quantity="1" unit="character"/>
 					Aryyagocaro
 					<space quantity="1" unit="character"/>
-					mra <unclear>s</unclear>diNṁ O go<unclear>T</unclear> rheC·
+					mra <unclear>s</unclear>diNṁ O go<unclear>T</unclear> rhe<seg type="component" subtype="subscript">C</seg>
 					<space quantity="1" unit="character"/>
 					bhavantu
 					<space quantity="1" unit="character"/>
@@ -536,14 +536,14 @@
 				<p>3b &lt;ṅiTṁ kdaṄ&gt;: see 4A and 6A.</p>
 				<p>3b–C. &lt;śrīhārivikra[m](e)(ṇa ca)&gt;: the restoration, with &lt;ca&gt; serving no other purpose than to complete the meter, is stylistically unsatisfactory, and also otherwise implausible a trace of &lt;-e&gt; should be visible if the antepenultimate syllable of the verse were really &lt;me&gt;</p>
 				<p>3C. &lt;leḥ&gt;: see our note on 4A &lt;[peḥ]&gt;.</p>
-				<p>3C. &lt;k[n]aC·ṁḥ&gt;: cf. &lt;knaTṁḥ&gt; in l.1?</p>
+				<p>3C. &lt;k[n]a<seg type="component" subtype="subscript">C</seg>ṁḥ&gt;: cf. &lt;knaTṁḥ&gt; in l.1?</p>
 				<p>3C. &lt;(tiMṁ)&gt;: the restoration follows from repeated occurrence of &lt;tiNṁ ḅuNḥ tiMṁ&gt; in 4A. Comparing that passage, and the requirements of the meter, one would a priori be inclined to supply &lt;paramparāgatāḥ&gt; as well, but there does not seem to be sufficient space for those akṣaras plus the full gloss &lt;ṅiTṁ kdaṄ saḥ tiNṁ ḅuNḥ tiMṁ taK&gt; that is expected to have stood
 					in front of it. We assume some sequence of text was omitted at the time of engraving.</p>
 				<p>3d. &lt;ce&gt;: this syllable, reoccurring beside &lt;kiṁ&gt; several times below, might also be read &lt;kha&gt;. Same sequence &lt;kiṁ kha/ce&gt; occurs in the urn inscriptions.</p>
 				<p>3d. &lt;hvu(ṃ)&gt;: for the allograph of &lt;-u&gt; attached to subscript &lt;-v-&gt;, see several cases in PYU <ref target="DHARMA_INSPYU00005">5</ref> and <ref target="DHARMA_INSPYU00006">6</ref>. This precise word occurs in PYU <ref target="DHARMA_INSPYU00032">32</ref>, l. 6.</p>
 				<p>4A. &lt;deLṃṁḥ&gt; ◇ the reading is quite uncertain, but we presume we have here the same morpheme as at the end of this line (although there no more is visible than &lt;de&gt; and that too only on the PPPB estampage) and towards the end of 6A, where it is reduplicated, and where &lt;e&gt; cannot be read without much force. We presume that the spelling deLṃṁḥ represents the same morpheme as daLṃṁḥ but in redundant spelling; note that deLṃḥ in 032.5 could represent the same in an alternative nonredundant spelling with &lt;e&gt; ~ &lt;aṁ&gt;.</p>
 				<p>4A. &lt;mra sdiNṁ [O] goT&gt;: note same sequence in 5A. As for &lt;[O]&gt;, the sign we encounter here is the one we normally transliterate &lt;O&gt; with an appendix of the left-turning type we normally transliterate &lt;-ra&gt;. Comparison with the presumptive identical sequence in 5A, where we read a normal &lt;O&gt;, suggests scribal confusion here.</p>
-				<p>4b. &lt;pgoC·&gt;: we ignore possible anusvāra arguing that we are at the transition between faces and hence that disturbance of the estampage is likely to have occurred (RTI entirely lacks the akṣara in question); according to MM's hypothesis, the occurrence of anusvāra on syllables with /o/ is not expected. Presence of final &lt;y&gt; as in PYU <ref target="DHARMA_INSPYU00020">20</ref> &lt;pgoY&gt; seems doubtful. Same word as in the gloss of &lt;anuvarttyate&gt; in 6A?</p>
+				<p>4b. &lt;pgo<seg type="component" subtype="subscript">C</seg>&gt;: we ignore possible anusvāra arguing that we are at the transition between faces and hence that disturbance of the estampage is likely to have occurred (RTI entirely lacks the akṣara in question); according to MM's hypothesis, the occurrence of anusvāra on syllables with /o/ is not expected. Presence of final &lt;y&gt; as in PYU <ref target="DHARMA_INSPYU00020">20</ref> &lt;pgoY&gt; seems doubtful. Same word as in the gloss of &lt;anuvarttyate&gt; in 6A?</p>
 				<p>4C. &lt;[peḥ]&gt;: this syllable is almost unreadable here. It should presumably be identical to the one following the same Sanskrit verb form &lt;bhavantu&gt; in 5A, but what little remains visible suggests there might be an e-vocalisation here; this in turn is reminiscent of the syllable we hesitantly read &lt;leḥ&gt; immediately after the nearly synonymous Sanskrit verb form &lt;bhaveyuḥ&gt; in 3C.</p>
 				<p>4C. &lt;ka ñaḥ&gt;: we see no trace of the final &lt;P&gt; expected below &lt;ka&gt; on the grounds of the parallelism with the glosses of &lt;bhaveyuḥ&gt; in 3C and &lt;bhavantu&gt; in 5A.</p>
 				<p>4C. &lt;sadā&gt;: it is remarkable that this word does not here receive the same gloss as it does in 5b and 6A.</p>
@@ -551,7 +551,7 @@
 				<p>5A. &lt;sdiN&gt;: we presume the same word is intended here as the one we read &lt;sdiṄ&gt; in 4A. It is possible to assume the unusual shape of the presumptive &lt;s&gt; is in fact that of the &lt;s&gt; of Northern Brāhmī script, hence that the scribe here would have confused scripts.</p>
 				<p>5A. paṁ[ḥ ce] kaP ñaḥ ◇ this must be equal or quivalent to what we read [peḥ] ce O ka ñaḥ in 4C.</p>
 				<p>5A. &lt;vibhramaḥ&gt;: it seems impossible to read &lt;vibhramāḥ&gt;, so long &lt;-ā&gt; must be obtained by emendation.</p>
-				<p>5A. &lt;kmiC·ṁ&gt; ◇ the final consonant is not damaged at all, but we are unsure of how to identify it; viable options seem to be &lt;Ñ&gt; (but this final consonant is not attested elsewhere), &lt;V&gt; or &lt;N&gt;.</p>
+				<p>5A. &lt;kmi<seg type="component" subtype="subscript">C</seg>ṁ&gt; ◇ the final consonant is not damaged at all, but we are unsure of how to identify it; viable options seem to be &lt;Ñ&gt; (but this final consonant is not attested elsewhere), &lt;V&gt; or &lt;N&gt;.</p>
 				<p>5b. &lt;O hyaḥ&gt;: the two short inscriptions on silver bowls PYU <ref target="DHARMA_INSPYU00047">47</ref>-<ref target="DHARMA_INSPYU00048">48</ref> 						show this same expression.</p>
 				<p>5b. &lt;nṅa[p]· duKṃ&gt;: cf. &lt;duKṃ&gt; at the end of 1b, and 6A for the whole &lt;nṅaP/tṅaP duKṃ&gt;, which must mean 'always'. The prima facie reading here would be &lt;M&gt;, but there is some room for doubt here between &lt;M&gt; and &lt;P&gt;, while the &lt;P&gt; in 6A seems clear.</p>
 				<p>5C. &lt;ti[n]·ṁ droḥ kdiṃ&gt;: if presence of &lt;N&gt; can be confirmed, then cf. same sequence in PYU <ref target="DHARMA_INSPYU00012">12</ref>, l. 1, and in PYU <ref target="DHARMA_INSPYU00073">73</ref>.</p>

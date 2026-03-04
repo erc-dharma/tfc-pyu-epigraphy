@@ -75,12 +75,12 @@
 					<lb n="1"/>1 siddhaM 2 <g type="ddanda">.</g>
 					<gap reason="illegible" quantity="3" unit="character"/>
 					<lb n="2"/>mi diṃṁ kiLṁ kiṄṁ <space type="horizontal" quantity="1" unit="character"/> miṄḥ li
-					<lb n="3"/><gap reason="lost" extent="unknown"/> sba O praC· diC· dviC· <gap reason="illegible" quantity="3" unit="character"/> hya
+					<lb n="3"/><gap reason="lost" extent="unknown"/> sba O pra<seg type="component" subtype="subscript">C</seg> di<seg type="component" subtype="subscript">C</seg> dvi<seg type="component" subtype="subscript">C</seg> <gap reason="illegible" quantity="3" unit="character"/> hya
 					<lb n="4"/><gap reason="lost" extent="unknown"/> ti juṄṁḥ tyaṄ si kaT <gap reason="illegible" quantity="2" unit="character"/> O ḅiṁḥ miRṁḥ ḅaḥ ti saṁḥ <space type="horizontal" quantity="1" unit="character"/> taR roM sba ti kha mūM 
 					<lb n="5"/><gap reason="lost" extent="unknown"/> priḥ ḅa <gap reason="lost" extent="unknown"/> Ciṁ ba <gap reason="illegible" quantity="5" unit="character"/>T <gap reason="illegible" quantity="1" unit="character"/> mi taM saT hvaM <gap reason="illegible" quantity="1" unit="character"/> skuY taM ḅiṁ pdaṃ <!-- AG: probably read pvaṃ, as in 012.3 and 064.8 -->	
 					<!-- MM: possibly a scribal error; the subscript consonant is clearly d; did the scribe fail to close the loop? Sein Win 2016: 193 read this as pṭa. -->
-					<space type="horizontal" quantity="1" unit="character"/> gaṃḥ tiṁ hnaM taM ḅiṁ tiRṁ miR tiRṁ li tiM ṅaY tiC·ṁ <gap reason="illegible" quantity="3" unit="character"/> pi
-					<lb n="6"/><gap reason="lost" extent="unknown"/> tḅiṁḥ taM ḅiṁ pciK <gap reason="lost" extent="unknown"/> ḅi piR <gap reason="illegible" quantity="1" unit="character"/>C· tseT <g type="ddanda">.</g><g>@</g>
+					<space type="horizontal" quantity="1" unit="character"/> gaṃḥ tiṁ hnaM taM ḅiṁ tiRṁ miR tiRṁ li tiM ṅaY ti<seg type="component" subtype="subscript">C</seg>ṁ <gap reason="illegible" quantity="3" unit="character"/> pi
+					<lb n="6"/><gap reason="lost" extent="unknown"/> tḅiṁḥ taM ḅiṁ pciK <gap reason="lost" extent="unknown"/> ḅi piR <gap reason="illegible" quantity="1" unit="character"/><seg type="component" subtype="subscript">C</seg> tseT <g type="ddanda">.</g><g>@</g>
 				</ab>
 			</div>
 			<div type="apparatus">
