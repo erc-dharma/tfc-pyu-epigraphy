@@ -8,7 +8,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>brick Kyanigan mound, S. of Bawbawgyi, Hmawza</title>
+                <title>Brick from Kyanigan mound, S. of Bawbawgyi, Hmawza (PYU 152)</title>
                 <respStmt>
                     <resp>author of digital edition</resp>
                 <persName ref="part:argr"><forename>Arlo</forename><surname>Griffiths</surname></persName><persName ref="part:mami"><forename>Marc</forename><surname>Miyake</surname></persName><persName ref="part:jukw"><forename>Julian Karl</forename><surname>Wheatley</surname></persName></respStmt>
@@ -71,14 +71,11 @@
     <text xml:space="preserve">
       <body>
 			<div type="edition">
-				<ab>
-					<lb n="1"/> mra </ab>
+				<ab><lb n="1"/>mra</ab>
 			</div>
-			<div type="apparatus">
-				<listApp/>
-			</div>
-			<div type="translation" xml:lang="eng">
-				<!-- cf. Written Burmese 'emerald'; in mra sdin· in 016 as equivalent of Skt sad- (#65) and °āryya- (#82), so probably has positive semantics -->
+			<div type="apparatus"/>
+			<div type="translation">
+				<!-- cf. Written Burmese 'emerald'; in mra sdiN in 016 as equivalent of Skt sad- (#65) and °āryya- (#82), so probably has positive semantics -->
 			</div>
 			<div type="commentary">
 				<p><!-- commentary --></p>
@@ -87,7 +84,7 @@
 				<!--PPPB I, 62, 74 n. 9, 140-2. — ASB 1958 / Mya 1961b, chart 3.-->
 				<!--[Todo: markup citedRange elements if necessary]-->
 				<p/>
-				<listBibl type="primary"><bibl><ptr target="bib:CPI2018_01"/><citedRange unit="item">DHARMA_INSPYU00152</citedRange></bibl></listBibl><listBibl type="secondary">
+				<listBibl type="primary"><bibl><ptr target="bib:CPI2018_01"/><citedRange unit="item">PYU152</citedRange></bibl></listBibl><listBibl type="secondary">
 					<bibl/>
 					<bibl/>
 				</listBibl>
