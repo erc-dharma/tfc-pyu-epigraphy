@@ -73,94 +73,94 @@
 			<div type="edition">
 				<div type="textpart" n="Old Burmese" xml:lang="obr-Latn">
 					<ab>
-						<lb n="1"/>śrī <g type="ddanda">.</g> namo buddhāya <g type="ddanda">.</g> pu rhā skhaṄ sāsanā AnhaC ta
-						<lb n="2" break="no"/>C thoṄ khroK<unclear></unclear> ryā nhaC chāY<unclear></unclear> heT nhaC loN
-						<lb n="3"/>liY brī ra kā <g type="ddanda">.</g> ĪY ArimaddanapuR maÑ su praÑ
-						<lb n="4"/>nhiK Ā <g type="ddanda">.</g> śrītribuvanādityadhammarāj· maÑ su ma
-						<lb n="5" break="no"/>Ṅ phlaC E°· <g type="ddanda">.</g> thiV maṄ E°· pāY ma yā ta <!-- MM: Tentatively distinguish online °· from subscript '·. This distinction is not in the RTF as of 2016-09-19. -->
+						<lb n="1"/>śrī <g ref="sym:doubleBar" type="punctuation">.</g> namo buddhāya <g ref="sym:doubleBar" type="punctuation">.</g> pu rhā skhaṄ sāsanā AnhaC ta
+						<lb n="2" break="no"/>C thoṄ khroK<unclear/> ryā nhaC chāY<unclear/> heT nhaC loN
+						<lb n="3"/>liY brī ra kā <g ref="sym:doubleBar" type="punctuation">.</g> ĪY ArimaddanapuR maÑ su praÑ
+						<lb n="4"/>nhiK Ā <g ref="sym:doubleBar" type="punctuation">.</g> śrītribuvanādityadhammarāj· maÑ su ma
+						<lb n="5" break="no"/>Ṅ phlaC E°· <g ref="sym:doubleBar" type="punctuation">.</g> thiV maṄ E°· pāY ma yā ta <!-- MM: Tentatively distinguish online °· from subscript '·. This distinction is not in the RTF as of 2016-09-19. -->
 						<lb n="6" break="no"/>C yoK su kā trilokavaṭaṁsakādevī <!-- MM: All -ññ· changed to -ñ· in this file. The RTF contains both. Duroiselle only uses -ñ·. -->
-						<lb n="7"/>maÑ E°· <g type="ddanda">.</g> thiV pāY ma yā sā tamu leh· rā<unclear>ja</unclear>
-						<lb n="8" break="no"/>kumāR maÑ E°· <g type="ddanda">.</g> thiV maṄ kā kyoN suṁ rvoh·
-						<lb n="9"/>teh· pāY ma yā Ā piY E°· <g type="ddanda">.</g> thiV pāY ma
-						<lb n="10" break="no"/>yā syī· kha ra kā <g type="ddanda">.</g> thiV pāY ma yā taN chā nhaṅ'· thi
+						<lb n="7"/>maÑ E°· <g ref="sym:doubleBar" type="punctuation">.</g> thiV pāY ma yā sā tamu leh· rā<unclear>ja</unclear>
+						<lb n="8" break="no"/>kumāR maÑ E°· <g ref="sym:doubleBar" type="punctuation">.</g> thiV maṄ kā kyoN suṁ rvoh·
+						<lb n="9"/>teh· pāY ma yā Ā piY E°· <g ref="sym:doubleBar" type="punctuation">.</g> thiV pāY ma
+						<lb n="10" break="no"/>yā syī· kha ra kā <g ref="sym:doubleBar" type="punctuation">.</g> thiV pāY ma yā taN chā nhaṅ'· thi
 						<lb n="11" break="no"/>V kyoN suṁ rvoh· su nhaṅ'· teh· thiV pāY ma yā
 						<lb n="12"/>sā A sā rājakumāR maÑ so Ā maṄ piY tuṁ 
-						<lb n="13"/>E°· <g type="ddanda">.</g> thuiV maṄ AnhaC nhaC chāy het nhaC maṄ mū bri ru 
-						<lb n="14" break="no"/>y'a E°· <g type="ddanda">.</g> siY <unclear>kha</unclear> mū nā su rhoV nhiK teh· <g type="ddanda">.</g> thuiV rājaku 
+						<lb n="13"/>E°· <g ref="sym:doubleBar" type="punctuation">.</g> thuiV maṄ AnhaC nhaC chāy het nhaC maṄ mū bri ru 
+						<lb n="14" break="no"/>y'a E°· <g ref="sym:doubleBar" type="punctuation">.</g> siY <unclear>kha</unclear> mū nā su rhoV nhiK teh· <g ref="sym:doubleBar" type="punctuation">.</g> thuiV rājaku 
 						<lb n="15" break="no"/>māR maÑ su paY ma yā sā mi mī keiV muY so maṄ 
-						<lb n="16"/>grī klañ jo OK mi ra kā <g type="ddanda">.</g> rhuY Ati su pu rhā skhaṄ A <!-- MM: klañ jo is written as two akṣara <kla ñjo>; the transliteration here follows syllabification rather than akṣara structure. -->
+						<lb n="16"/>grī klañ jo OK mi ra kā <g ref="sym:doubleBar" type="punctuation">.</g> rhuY Ati su pu rhā skhaṄ A <!-- MM: klañ jo is written as two akṣara <kla ñjo>; the transliteration here follows syllabification rather than akṣara structure. -->
 						<lb n="17" break="no"/>chaṄ plu ruy'· E°· nhaP liY su rhoV teh IY si 
-						<lb n="18" break="no"/>°· min'· E°· <g type="ddanda">.</g> IY rhuY pu rhā kā ṅa skhaṄ<unclear></unclear> Aphei°· Ati°· ky 
-						<lb n="19" break="no"/>oN plo°· su teh· <g type="ddanda">.</g> kyoN su<unclear>ṁ</unclear> rvoh· Atui°· kyo 
-						<lb n="20" break="no"/>N ṅa skhaṄ piY su saÑ kā IY<unclear></unclear> rhuY<unclear></unclear> pu r<unclear>h</unclear>āĀ Atui°· kyo 
-						<lb n="21" break="no"/>N piY ye°· <g type="ddanda">.</g> thiV rhoV teh· maṄ nhaC<unclear></unclear> klui°· ra kā koṄ 
+						<lb n="18" break="no"/>°· min'· E°· <g ref="sym:doubleBar" type="punctuation">.</g> IY rhuY pu rhā kā ṅa skhaṄ<unclear/> Aphei°· Ati°· ky 
+						<lb n="19" break="no"/>oN plo°· su teh· <g ref="sym:doubleBar" type="punctuation">.</g> kyoN su<unclear>ṁ</unclear> rvoh· Atui°· kyo 
+						<lb n="20" break="no"/>N ṅa skhaṄ piY su saÑ kā IY<unclear/> rhuY<unclear/> pu r<unclear>h</unclear>āĀ Atui°· kyo 
+						<lb n="21" break="no"/>N piY ye°· <g ref="sym:doubleBar" type="punctuation">.</g> thiV rhoV teh· maṄ nhaC<unclear/> klui°· ra kā koṄ 
 						<lb n="22"/>lheṅ'· teh<unclear>·</unclear> koṄ lheṅ'· teh· min'· ruy'· E°· saṅ grī
 						<!-- MM: is saṅ grī really written without a killer? check! -->
-						<lb n="23"/>mahātheR <g type="ddanda">.</g> saṅ grī muggaliputtati<unclear>ssa</unclear>ttheR <g type="ddanda">.</g> saṅ grī su
-						<lb n="24" break="no"/>medha paṇḍiT <g type="ddanda">.</g> saṅ grī brahmapāL <g type="ddanda">.</g> saṅ grī brahmadi 
-						<lb n="25" break="no"/>V <g type="ddanda">.</g> saṅ grī soN<unclear></unclear>	<g type="ddanda">.</g> saṅ grī saṅghasena varapaṇḍi 
-						<lb n="26" break="no"/>T <g type="ddanda">.</g> thuiV skhaṄ tui°· AmhoK teh· maṄ <unclear>r</unclear>iY soN E°· 
-						<lb n="27"/><g type="ddanda">.</g> thiV brī ra kā thuiV rājakumāR maÑ su paY ma yā A sā 
+						<lb n="23"/>mahātheR <g ref="sym:doubleBar" type="punctuation">.</g> saṅ grī muggaliputtati<unclear>ssa</unclear>ttheR <g ref="sym:doubleBar" type="punctuation">.</g> saṅ grī su
+						<lb n="24" break="no"/>medha paṇḍiT <g ref="sym:doubleBar" type="punctuation">.</g> saṅ grī brahmapāL <g ref="sym:doubleBar" type="punctuation">.</g> saṅ grī brahmadi 
+						<lb n="25" break="no"/>V <g ref="sym:doubleBar" type="punctuation">.</g> saṅ grī soN<unclear/>	<g ref="sym:doubleBar" type="punctuation">.</g> saṅ grī saṅghasena varapaṇḍi 
+						<lb n="26" break="no"/>T <g ref="sym:doubleBar" type="punctuation">.</g> thuiV skhaṄ tui°· AmhoK teh· maṄ <unclear>r</unclear>iY soN E°· 
+						<lb n="27"/><g ref="sym:doubleBar" type="punctuation">.</g> thiV brī ra kā thuiV rājakumāR maÑ su paY ma yā A sā 
 						<lb n="28"/>thiV rhuY pu rhā thāpanā ruy'· E°· IY rhuY AthoT mū so 
-						<lb n="29"/>kū plo°· E°· <g type="ddanda">.</g> plo°· brī ra kā IY kū pu rhā lhoT 
-						<lb n="30"/>su rhoV nhiK teh· <g type="ddanda">.</g> saK mu na loN taC rvoh· <g type="ddanda">.</g> ra pā 
-						<lb n="31" break="no"/>Y taC rvoh· <g type="ddanda">.</g> heN buiV taC rvoh· <g type="ddanda">.</g> IY kyoN 
-						<lb n="32"/>suṁ rvoh· yo ruy'· E°· <g type="ddanda">.</g> thuiV rājakumāR maÑ su paY 
+						<lb n="29"/>kū plo°· E°· <g ref="sym:doubleBar" type="punctuation">.</g> plo°· brī ra kā IY kū pu rhā lhoT 
+						<lb n="30"/>su rhoV nhiK teh· <g ref="sym:doubleBar" type="punctuation">.</g> saK mu na loN taC rvoh· <g ref="sym:doubleBar" type="punctuation">.</g> ra pā 
+						<lb n="31" break="no"/>Y taC rvoh· <g ref="sym:doubleBar" type="punctuation">.</g> heN buiV taC rvoh· <g ref="sym:doubleBar" type="punctuation">.</g> IY kyoN 
+						<lb n="32"/>suṁ rvoh· yo ruy'· E°· <g ref="sym:doubleBar" type="punctuation">.</g> thuiV rājakumāR maÑ su paY 
 						<lb n="33"/>ma yā°· sā Iya kū pu rhā Ā riY soN ruy'· E°· Iy°· sei 
-						<lb n="34" break="no"/>°· min'· E°· <g type="ddanda">.</g> IY ṅā Amho°· kā sarvvañutañā 
-						<lb n="35" break="no"/>ṇ· prajñā ra Am'· sū AkroṄ phlaC ciy'· teh· <g type="ddanda">.</g> ṅa 
-						<lb n="36"/>noṄ Ā ṅa sā laÑ goṄ <g type="ddanda">.</g> ṅa mliY laÑ goṄ <g type="ddanda">.</g> ṅa Achu 
-						<lb n="37" break="no"/>Y laÑ goṄ <g type="ddanda">.</g> sū taC thū laÑ goṄ <g type="ddanda">.</g> IY pu rhā 
+						<lb n="34" break="no"/>°· min'· E°· <g ref="sym:doubleBar" type="punctuation">.</g> IY ṅā Amho°· kā sarvvañutañā 
+						<lb n="35" break="no"/>ṇ· prajñā ra Am'· sū AkroṄ phlaC ciy'· teh· <g ref="sym:doubleBar" type="punctuation">.</g> ṅa 
+						<lb n="36"/>noṄ Ā ṅa sā laÑ goṄ <g ref="sym:doubleBar" type="punctuation">.</g> ṅa mliY laÑ goṄ <g ref="sym:doubleBar" type="punctuation">.</g> ṅa Achu 
+						<lb n="37" break="no"/>Y laÑ goṄ <g ref="sym:doubleBar" type="punctuation">.</g> sū taC thū laÑ goṄ <g ref="sym:doubleBar" type="punctuation">.</g> IY pu rhā 
 						<lb n="38"/>Ā ṅā lhū kha su kyoN AnhiP AcaK teh· mū mu 
-						<lb n="39"/>kā Arimittiryā pu rhā skhaṄ Aphū ra ciY <g type="ddanda">.</g>
+						<lb n="39"/>kā Arimittiryā pu rhā skhaṄ Aphū ra ciY <g ref="sym:doubleBar" type="punctuation">.</g>
 						<g>=</g>
-						<g type="ddanda">.</g>
+						<g ref="sym:doubleBar" type="punctuation">.</g>
 					</ab>
 				</div>
 				<div type="textpart" n="Pali" xml:lang="pli-Latn">
 					<ab>
-						<lb n="1"/><g type="ddanda">.</g> śrī <g type="ddanda">.</g> buddhādikaṁ vatthuvaraṁ namitvā	puññaṁ kataṁ yaṁ jinasā
+						<lb n="1"/><g ref="sym:doubleBar" type="punctuation">.</g> śrī <g ref="sym:doubleBar" type="punctuation">.</g> buddhādikaṁ vatthuvaraṁ namitvā	puññaṁ kataṁ yaṁ jinasā
 						<lb n="2" break="no"/>sanasmiṁAnādikaṁ rājakumāranāmadheyyena vakkhā
-						<lb n="3" break="no"/>mi sunātha me taṁ <g type="ddanda">.</g> nibbānā lokanāthassa aṭṭhavī
+						<lb n="3" break="no"/>mi sunātha me taṁ <g ref="sym:doubleBar" type="punctuation">.</g> nibbānā lokanāthassa aṭṭhavī
 						<lb n="4" break="no"/>sādhike gate sahasse pana vassānaṁ chasate cāpare ta
-						<lb n="5" break="no"/>thā <g type="ddanda">.</g>Arimaddananāmasmi pure Āsi mahabbalo rājā
-						<lb n="6"/>tibhuvanādicco Udiccādiccavaṁsajo <g type="ddanda">.</g> tassāse
+						<lb n="5" break="no"/>thā <g ref="sym:doubleBar" type="punctuation">.</g>Arimaddananāmasmi pure Āsi mahabbalo rājā
+						<lb n="6"/>tibhuvanādicco Udiccādiccavaṁsajo <g ref="sym:doubleBar" type="punctuation">.</g> tassāse
 						<lb n="7" break="no"/>kā piyā devi sā tilokavataṁsakā hi
-						<lb n="8" break="no"/>tesī kusalā sabbakiccesu pana rājino <g type="ddanda">.</g> ta 
+						<lb n="8" break="no"/>tesī kusalā sabbakiccesu pana rājino <g ref="sym:doubleBar" type="punctuation">.</g> ta 
 						<lb n="9" break="no"/>ssāseko suto rājakumāro nāma nāma 
 						<lb n="10" break="no"/>to Amacco rājakiccesu byāvato satimā 
-						<lb n="11"/>vidū <g type="ddanda">.</g>Adā gāmattayaṁ tassā deviyā so ma 
+						<lb n="11"/>vidū <g ref="sym:doubleBar" type="punctuation">.</g>Adā gāmattayaṁ tassā deviyā so ma 
 						<lb n="12" break="no"/>hipati pasanno sabbadā dāsaparibhogena bhuñjituṁ 
 						<lb n="13"/>Aniccatāvasaṁ tassā gatāya pana deviyā rā 
 						<lb n="14" break="no"/>ja
-						rājakumārassa Adā gāmattaya puna <g type="ddanda">.</g> aṭṭhavīsa 
+						rājakumārassa Adā gāmattaya puna <g ref="sym:doubleBar" type="punctuation">.</g> aṭṭhavīsa 
 						<lb n="15" break="no"/>ti vassāni rajjaṁ dhammena kāriya māranantikarogassa 
-						<lb n="16"/> vasaṁ patte narādhipe <g type="ddanda">.</g> saranto dhammarājassa mahantaṁ gu 
+						<lb n="16"/> vasaṁ patte narādhipe <g ref="sym:doubleBar" type="punctuation">.</g> saranto dhammarājassa mahantaṁ gu 
 						<lb n="17" break="no"/>ṇasañcayaṁ kāretvā satthuno bimbaṁ sabbasovaṇṇa 
-						<lb n="18" break="no"/>yaṁ subhaṁ <g type="ddanda">.</g> gahetvā taṁ mahantena sakkārena sumānaso 
-						<lb n="19"/>Upasaṅkamma rājānaṁ Āha cintitam Attano <g type="ddanda">.</g> bhāgaṁ katvā 
+						<lb n="18" break="no"/>yaṁ subhaṁ <g ref="sym:doubleBar" type="punctuation">.</g> gahetvā taṁ mahantena sakkārena sumānaso 
+						<lb n="19"/>Upasaṅkamma rājānaṁ Āha cintitam Attano <g ref="sym:doubleBar" type="punctuation">.</g> bhāgaṁ katvā 
 						<lb n="20" break="no"/>nidaṁ satthubimbaṁ sovaṇṇayaṁ subhaṁ Akāsiṁ vo va 
-						<lb n="21" break="no"/>raṁ puññaṁ sāmi tumhe numodatha <g type="ddanda">.</g> gāmattayaṁ pi vo 
+						<lb n="21" break="no"/>raṁ puññaṁ sāmi tumhe numodatha <g ref="sym:doubleBar" type="punctuation">.</g> gāmattayaṁ pi vo 
 						<lb n="22"/>sāmi pubbe dinnan tu me Ahaṁ Imasseva munindassa demi ta 
-						<lb n="23" break="no"/>ñ cānumodatha <g type="ddanda">.</g>Evaṁ vutte mahīpālo roge 
+						<lb n="23" break="no"/>ñ cānumodatha <g ref="sym:doubleBar" type="punctuation">.</g>Evaṁ vutte mahīpālo roge 
 						<lb n="24" break="no"/>nāturamānaso sādhu sādhu ti vatvāna tuṭṭhahattho 
-						<lb n="25"/>pamodito <g type="ddanda">.</g> dayāparo mahāthero thero muggali 
+						<lb n="25"/>pamodito <g ref="sym:doubleBar" type="punctuation">.</g> dayāparo mahāthero thero muggali 
 						<lb n="26" break="no"/>puttako sumedhatta sumedho ti laddhanāmo ca paṇḍito
 						<lb n="27"/> brahmapālo tathā brahmadevo sampannasīlavā sono 
-						<lb n="28"/>bahussuto saṁghasenavho varapaṇḍito <g type="ddanda">.</g>Etesaṁ pa 
+						<lb n="28"/>bahussuto saṁghasenavho varapaṇḍito <g ref="sym:doubleBar" type="punctuation">.</g>Etesaṁ pa 
 						<lb n="29" break="no"/>na bhikkhūnaṁ saṁmukhā so sumānaso jalaṁ pātesi katvāna sa 
-						<lb n="30" break="no"/>kkhin tu vasudhātalaṁ <g type="ddanda">.</g> tato so taṁ mahāmacco bimbaṁ sova 
-						<lb n="31" break="no"/>ṇṇayaṁ subhaṁ patiṭṭhāpiya kāresi guhaṁ kañcanathūpikaṁ <g type="ddanda">.</g>
+						<lb n="30" break="no"/>kkhin tu vasudhātalaṁ <g ref="sym:doubleBar" type="punctuation">.</g> tato so taṁ mahāmacco bimbaṁ sova 
+						<lb n="31" break="no"/>ṇṇayaṁ subhaṁ patiṭṭhāpiya kāresi guhaṁ kañcanathūpikaṁ <g ref="sym:doubleBar" type="punctuation">.</g>
 						<lb n="32"/>katvāna maṅgalaṁ buddhapatimāya guhāya ca Akāsevaṁ paṇī 
-						<lb n="33" break="no"/>dhānaṁ nibbinno bhavasaṅkate <g type="ddanda">.</g> karontena mayā Etaṁ yaṁ pu 
+						<lb n="33" break="no"/>dhānaṁ nibbinno bhavasaṅkate <g ref="sym:doubleBar" type="punctuation">.</g> karontena mayā Etaṁ yaṁ pu 
 						<lb n="34" break="no"/>ññaṁ taṁ samācitaṁ hotu sabbaññutañāṇapativedhā 
-						<lb n="35" break="no"/>ya paccayo <g type="ddanda">.</g> yattakā tu mayā dāsā gāmattayanivā 
+						<lb n="35" break="no"/>ya paccayo <g ref="sym:doubleBar" type="punctuation">.</g> yattakā tu mayā dāsā gāmattayanivā 
 						<lb n="36" break="no"/>sino dinnā guhāya sovaṇṇapatimāya mahesi 
-						<lb n="37" break="no"/>no <g type="ddanda">.</g> putto me vā paputto vā Añño vā pana ñā
+						<lb n="37" break="no"/>no <g ref="sym:doubleBar" type="punctuation">.</g> putto me vā paputto vā Añño vā pana ñā
 						<lb n="38" break="no"/>tako yo kocipāpasaṁkappo naro Assaddha 
-						<lb n="39" break="no"/>mānaso <g type="ddanda">.</g> kareyyupadduvaṁ tesaṁ dāsānaṁ so narādhamo 
+						<lb n="39" break="no"/>mānaso <g ref="sym:doubleBar" type="punctuation">.</g> kareyyupadduvaṁ tesaṁ dāsānaṁ so narādhamo 
 						<lb n="40"/>metteyyadipadindassa dassanaṁ nāthigacchatū 
-						<lb n="41"/>ti <g type="ddanda">.</g><g>○</g><g type="ddanda">.</g>
+						<lb n="41"/>ti <g ref="sym:doubleBar" type="punctuation">.</g><g>○</g><g ref="sym:doubleBar" type="punctuation">.</g>
 						<!-- MM2AG:  how do I encode the circle between the final daṇḍas?-->
 						<!-- AG2MM: I think this is fine. Maybe no need for space on either side of the circle. -->
 						<!-- AG2MM: the metrical structure needs to be represented. I'll send you an example from my Campā corpus. -->
@@ -169,42 +169,42 @@
 				</div>
 				<div type="textpart" n="Old Mon" xml:lang="omx-Latn">
 					<ab>
-						<lb n="1"/><g type="ddanda">.</g> śrī <g type="ddanda">.</g> namo 	buddhāya <g type="ddanda">.</g> śrī <g type="ddanda">.</g> sās kyeK buddha tirley
+						<lb n="1"/><g ref="sym:doubleBar" type="punctuation">.</g> śrī <g ref="sym:doubleBar" type="punctuation">.</g> namo 	buddhāya <g ref="sym:doubleBar" type="punctuation">.</g> śrī <g ref="sym:doubleBar" type="punctuation">.</g> sās kyeK buddha tirley
 						<lb n="2"/>kuli ĀR moY lṅiM turov klaM ḅāR cvas diñcāM cnām
-						<lb n="3"/>tuY <g type="ddanda">.</g> ḍe<unclear>Y</unclear>	<unclear>ḍu</unclear>Ṅ <supplied reason="lost">A</supplied>rimaddanapuR vo'· smiṄ śrī tribhuvanādi
+						<lb n="3"/>tuY <g ref="sym:doubleBar" type="punctuation">.</g> ḍe<unclear>Y</unclear>	<unclear>ḍu</unclear>Ṅ <supplied reason="lost">A</supplied>rimaddanapuR vo'· smiṄ śrī tribhuvanādi
 						<!-- MM: check ḍey -->
-						<lb n="4" break="no"/>tyadhammarāj das· <g type="ddanda">.</g> gna kyeK smiṄ goḥh· moY<supplied reason="omitted"></supplied> tri
+						<lb n="4" break="no"/>tyadhammarāj das· <g ref="sym:doubleBar" type="punctuation">.</g> gna kyeK smiṄ goḥh· moY<supplied reason="omitted"/> tri
 						<!-- MM: left side of lo on line 4 -->
-						<lb n="5" break="no"/>lokavaṭaṁsakādevī Imo'· <g type="ddanda">.</g> koN gna kyeK goḥ
-						<lb n="6" break="no"/>h· rājakumāR Imo'· <g type="ddanda">.</g> smiṄ goḥh· kiL ḍiK pi tvā
-						<lb n="7" break="no"/>Ñ ku gna kyeK goḥh· <g type="ddanda">.</g> kāL gna kyeK goḥh· cuti 
-						<lb n="8"/>ĀR <g type="ddanda">.</g> A'uT kiryā gna kyeK goḥ ku ḍiK pi tvāÑ goḥ 
+						<lb n="5" break="no"/>lokavaṭaṁsakādevī Imo'· <g ref="sym:doubleBar" type="punctuation">.</g> koN gna kyeK goḥ
+						<lb n="6" break="no"/>h· rājakumāR Imo'· <g ref="sym:doubleBar" type="punctuation">.</g> smiṄ goḥh· kiL ḍiK pi tvā
+						<lb n="7" break="no"/>Ñ ku gna kyeK goḥh· <g ref="sym:doubleBar" type="punctuation">.</g> kāL gna kyeK goḥh· cuti 
+						<lb n="8"/>ĀR <g ref="sym:doubleBar" type="punctuation">.</g> A'uT kiryā gna kyeK goḥ ku ḍiK pi tvāÑ goḥ 
 						<lb n="9"/>smiṄ tuN kiL ku koN gna kyeK ma Imo'· rājaku 
-						<lb n="10" break="no"/>mār goḥ <g type="ddanda">.</g> smiṄ goḥh· kmiN ḅāR cvas· diñcāM cnāM tuY goḥ
-						<lb n="11"/><unclear>kā</unclear>L smiṄ goḥ 'jeY ñaN scuti <g type="ddanda">.</g> koN gna kyeK ma I 
+						<lb n="10" break="no"/>mār goḥ <g ref="sym:doubleBar" type="punctuation">.</g> smiṄ goḥh· kmiN ḅāR cvas· diñcāM cnāM tuY goḥ
+						<lb n="11"/><unclear>kā</unclear>L smiṄ goḥ 'jeY ñaN scuti <g ref="sym:doubleBar" type="punctuation">.</g> koN gna kyeK ma I 
 						<lb n="12" break="no"/>mo'· rājakumāR goḥ <unclear>m</unclear>irnās· guṇ· ma smiṄ IñciM 
 						<lb n="13"/>jirku kin<unclear>d</unclear>aṁ kyeK thaR moY ĀR tu<unclear>ḅ</unclear>oK smiṄ mu 
-						<lb n="14" break="no"/>nas· roV vo'· <g type="ddanda">.</g> kyeK thaR vo'· EY diK pa raṁ 
+						<lb n="14" break="no"/>nas· roV vo'· <g ref="sym:doubleBar" type="punctuation">.</g> kyeK thaR vo'· EY diK pa raṁ 
 						<lb n="15" break="no"/>po' tirla ḍik pi tvāÑ ma tirla kiL ku EY goḥh· 
 						<lb n="16"/>eY diK kiL ku kyeK vo'· tirla Anumodanā da'· 
-						<lb n="17"/><g type="ddanda">.</g> kāL goḥ smiṄ sḍiK gaP pumas· thiC Ā thiC Ā smiṄ pa
-						<lb n="18"/>sādhukāR <g type="ddanda">.</g> kāL goḥh· tirla poy			mhā<unclear>the</unclear>R <g type="ddanda">.</g> ticā 
-						<lb n="19" break="no"/>R muggaliputtat<supplied reason="lost">i</supplied>ssattheR <g type="ddanda">.</g> ticāR sumedhapaṇḍiT <g type="ddanda">.</g> ti
-						<lb n="20" break="no"/><unclear>cā</unclear>R brahmapāL <g type="ddanda">.</g> ticāR brahmadiV <g type="ddanda">.</g> ticāR soN 
-						<lb n="21"/><g type="ddanda">.</g> ticāR saṅghasenavarapaṇḍiT <g type="ddanda">.</g> kinta 		tirla 
-						<lb n="22"/>ta goḥ smiṄ cuT ḍeK haN ti <g type="ddanda">.</g> blaḥ goḥ koN gna kye 
+						<lb n="17"/><g ref="sym:doubleBar" type="punctuation">.</g> kāL goḥ smiṄ sḍiK gaP pumas· thiC Ā thiC Ā smiṄ pa
+						<lb n="18"/>sādhukāR <g ref="sym:doubleBar" type="punctuation">.</g> kāL goḥh· tirla poy			mhā<unclear>the</unclear>R <g ref="sym:doubleBar" type="punctuation">.</g> ticā 
+						<lb n="19" break="no"/>R muggaliputtat<supplied reason="lost">i</supplied>ssattheR <g ref="sym:doubleBar" type="punctuation">.</g> ticāR sumedhapaṇḍiT <g ref="sym:doubleBar" type="punctuation">.</g> ti
+						<lb n="20" break="no"/><unclear>cā</unclear>R brahmapāL <g ref="sym:doubleBar" type="punctuation">.</g> ticāR brahmadiV <g ref="sym:doubleBar" type="punctuation">.</g> ticāR soN 
+						<lb n="21"/><g ref="sym:doubleBar" type="punctuation">.</g> ticāR saṅghasenavarapaṇḍiT <g ref="sym:doubleBar" type="punctuation">.</g> kinta 		tirla 
+						<lb n="22"/>ta goḥ smiṄ cuT ḍeK haN ti <g ref="sym:doubleBar" type="punctuation">.</g> blaḥ goḥ koN gna kye 
 						<lb n="23" break="no"/>K ma Imo'· rājakumāR goḥ keT kyeK thaR goḥ 
-						<lb n="24"/>thāpanā kandaṁ guoh· cloṄ thaR <unclear>v</unclear>o'· <g type="ddanda">.</g> kāL busaC kye 
+						<lb n="24"/>thāpanā kandaṁ guoh· cloṄ thaR <unclear>v</unclear>o'· <g ref="sym:doubleBar" type="punctuation">.</g> kāL busaC kye 
 						<lb n="25" break="no"/>k guoh· vo'· koN gna kyeK goḥ keT saKmuna 
 						<!-- MM: the e half of lor· appears at the end of line 25 only to appear again at the start of line 26. How should the extra e at the end of line 25 be encoded? -->
-						<lb n="26" break="no"/>loR moY tvāÑ <g type="ddanda">.</g> rapāy moY tvāÑ <g type="ddanda">.</g> ñaḥh· <supplied reason="lost">gir'u</supplied>
-						<lb n="27" break="no"/><unclear>y</unclear> moY tvāÑ <g type="ddanda">.</g> A'uT ḍiK pi tvāÑ goḥ cuT ḍe<supplied reason="lost">K ku </supplied>
+						<lb n="26" break="no"/>loR moY tvāÑ <g ref="sym:doubleBar" type="punctuation">.</g> rapāy moY tvāÑ <g ref="sym:doubleBar" type="punctuation">.</g> ñaḥh· <supplied reason="lost">gir'u</supplied>
+						<lb n="27" break="no"/><unclear>y</unclear> moY tvāÑ <g ref="sym:doubleBar" type="punctuation">.</g> A'uT ḍiK pi tvāÑ goḥ cuT ḍe<supplied reason="lost">K ku </supplied>
 						<lb n="28"/>kyeK thaR ma māpanā hiN goḥ vo'· rādhanā roV vo'·
 						<!-- MM: need note re how m error for th in thāpana -->
-						<lb n="29"/><g type="ddanda">.</g> sinraṄ E'· vo'· oR das· heT ku gvo'· sarvvañ<supplied reason="lost">uta</supplied>
-						<lb n="30"/>ñaṇ· <g type="ddanda">.</g> koN EY laḥ <g type="ddanda">.</g> coV EY laḥ <g type="ddanda">.</g> ku<supplied reason="lost">lo</supplied>
+						<lb n="29"/><g ref="sym:doubleBar" type="punctuation">.</g> sinraṄ E'· vo'· oR das· heT ku gvo'· sarvvañ<supplied reason="lost">uta</supplied>
+						<lb n="30"/>ñaṇ· <g ref="sym:doubleBar" type="punctuation">.</g> koN EY laḥ <g ref="sym:doubleBar" type="punctuation">.</g> coV EY laḥ <g ref="sym:doubleBar" type="punctuation">.</g> ku<supplied reason="lost">lo</supplied>
 						<!-- MM: the e half of the o of lo is visible; should that be encoded? -->
-						<lb n="31"/>eY laḥ <g type="ddanda">.</g> ñaḥ c'eṄ laḥ <g type="ddanda">.</g> yaL pa X UpadroV ku ḍ<supplied reason="lost">i</supplied> 
+						<lb n="31"/>eY laḥ <g ref="sym:doubleBar" type="punctuation">.</g> ñaḥ c'eṄ laḥ <g ref="sym:doubleBar" type="punctuation">.</g> yaL pa X UpadroV ku ḍ<supplied reason="lost">i</supplied> 
 						<lb n="32" break="no"/>K ma EY kiL ku kyeK vo'· yaṄ ñiRñāC kye 
 						<lb n="33" break="no"/>K treY metteY laḥ oR ḍeh· go'· <g>||0||</g>
 					</ab>
@@ -213,7 +213,7 @@
 					<ab>
 						<!-- MM2AG: B-forms are in the commentary.-->
 						<!-- MM2AG: are Blagden1911, Blagden1919, and Krech @sources? -->
-						<lb n="1"/><g>1</g> <g type="ddanda">.</g> siri <g type="ddanda">.</g> dathagaṃda ḅa doṃ ḅaṁḥ ḅiṁḥ pduṃ
+						<lb n="1"/><g>1</g> <g ref="sym:doubleBar" type="punctuation">.</g> siri <g ref="sym:doubleBar" type="punctuation">.</g> dathagaṃda ḅa doṃ ḅaṁḥ ḅiṁḥ pduṃ
 						sgu daṃḥ ḅa tva
 						1000
 						<unclear>600</unclear>

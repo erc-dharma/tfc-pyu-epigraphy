@@ -72,8 +72,8 @@
       <body>
 			<div type="edition" xml:lang="pyx-Latn">
 				<ab>
-					<lb n="1"/>khaM <num value="10">10</num> <unclear><g type="danda">.</g></unclear>
-					<g type="danda">.</g>
+					<lb n="1"/>khaM <num value="10">10</num> <unclear><g ref="sym:bar" type="punctuation">.</g></unclear>
+					<g ref="sym:bar" type="punctuation">.</g>
 				</ab>
 			</div>
 			<div type="apparatus">

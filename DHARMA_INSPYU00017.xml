@@ -73,7 +73,7 @@
 			<div type="edition" xml:lang="pyx-Latn">
 				<ab>
 					<lb n="1"/>
-					1 siddha <g type="ddanda">.</g> ro jo nu tu
+					1 siddha <g ref="sym:doubleBar" type="punctuation">.</g> ro jo nu tu
 					<lb n="2"/>
 					knu O nḅuḥ kṣatri tdaṃḥ ḅaṁḥ viṃṁ
 					<lb n="3" break="no"/>
@@ -90,7 +90,7 @@
 					<lb n="7" break="no"/>
 					gha t<unclear>l</unclear>i kca diṃṁ <gap reason="illegible" quantity="1" unit="character"/> paṁḥ O pa vu <!-- MM2AG: looking at the mystery akṣara in the RTI, I wonder if it might be <la>; compare it to the <l> of <tli>, if the second consonant is <l>. I agree that <ku> is unlikely, and I would favor <kca>, as the second consonant has a /-shaped top left side rather than a curve. I made these changes in RTF.-->
 					<lb n="8"/>
-					ḅuḥ buḥ mvuḥ tvaṃ <g type="ddanda">.</g><g>@</g>
+					ḅuḥ buḥ mvuḥ tvaṃ <g ref="sym:doubleBar" type="punctuation">.</g><g>@</g>
 					<!-- MM2AG: [about what is now read as tvaṃ] looks like ndha using the criteria Julian and I have used to distinguish n/t: n connects to a subscript consonant without a ɔ-shaped bottom hook. Does the reading ntha assume tha is missing its dot? ndha also appeared in 027, but there we regarded it as a botched nba. The dha doesn't look like ba here, though. In any case, the akṣara is anomalous as the only case of dha in a non-Indic Pyu word. -->
 					<!-- AG2MM: yes, ntha supposes absence of dot inside tha. It seems that, besides the case of 027, there have been other cases where we have been tempted to read ndha at end of text. We may have to accept that such a syllable could exist there, for whatever reason. Evidence to be assembled by quickly looking at ends of all texts. That said, tva and ttha also seem quite possible here. Reading tvaṃ here would allow us to get rid of the anusvāra on preceding syllable, and hence to remove one anomalous case of anusvāra on vowel -u from the corpus. So perhaps tvaṃ the best choice? -->
 					<!-- MM2AG: quickly checked endings of all texts in 000 and don't see any other cases of nCV akṣaras. I missed the dot to the left before, and now I favor tvaṃ which could match tvat·ṃ in 012.1. I rule out tha because of th lack of a center dot and dha because the right side is not straight. ttha seems unlikely on phonotactic grounds as aspirate stops are rare in Pyu, and I suspect no Pyu roots have aspirate initials, so I wouldn't expect to see t-tha. I might expect to see ttha in an Indic loan, but there is no Indic word like mvuṁḥ ttha.  nv- is otherwise unattested in the corpus. Removed <choice><unclear>ntha</unclear><unclear>ndha</unclear><unclear>tva</unclear></choice> and replaced with tvaṃ. -->

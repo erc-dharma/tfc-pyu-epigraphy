@@ -72,7 +72,7 @@
       <body>
 			<div type="edition" xml:lang="pyx-Latn">
 				<ab>
-					<lb n="1"/><g>1</g><g type="ddanda">.</g> ḅaṁḥ deṃ <lb n="2"/>sa O ku pa <lb n="3"/>k<unclear>l</unclear>iṁḥ <unclear>c</unclear>o </ab>
+					<lb n="1"/><g>1</g><g ref="sym:doubleBar" type="punctuation">.</g> ḅaṁḥ deṃ <lb n="2"/>sa O ku pa <lb n="3"/>k<unclear>l</unclear>iṁḥ <unclear>c</unclear>o </ab>
 			</div>
 			<div type="apparatus">
 				<listApp/>

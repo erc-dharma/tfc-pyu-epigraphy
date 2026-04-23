@@ -79,11 +79,11 @@
 					<lb n="5"/><gap reason="illegible" quantity="1" unit="line"/>
 					<lb n="6"/><space type="horizontal" quantity="1" unit="character"/>
 					<gap reason="illegible" quantity="1" unit="character"/> CrV <gap reason="illegible" quantity="1" unit="character"/> CrV <gap reason="illegible" quantity="2" unit="character"/> pli pniMḥ tiṁ pgaṃḥ
-					tiṁ <gap reason="illegible" quantity="1" unit="character"/> hmauḥ pdra Ci Ci <gap reason="illegible" quantity="1" unit="character"/> tiṁ CVṁḥ tri <gap reason="illegible" quantity="1" unit="character"/> ra tiṁ Ci<seg type="component" subtype="subscript">C</seg> <lb n="7"/><g type="danda">.</g>nhoMḥ diNṃ tiṁ pCiR piNṁḥ na kiṁ kḅiYṁ viṃṁ
+					tiṁ <gap reason="illegible" quantity="1" unit="character"/> hmauḥ pdra Ci Ci <gap reason="illegible" quantity="1" unit="character"/> tiṁ CVṁḥ tri <gap reason="illegible" quantity="1" unit="character"/> ra tiṁ Ci<seg type="component" subtype="subscript">C</seg> <lb n="7"/><g ref="sym:bar" type="punctuation">.</g>nhoMḥ diNṃ tiṁ pCiR piNṁḥ na kiṁ kḅiYṁ viṃṁ
 					CiM nbiṁ dniTṁḥ O duKṃ laM paYṁḥ ḅeṄ pmiYṁ <space type="horizontal" quantity="1" unit="character"/>
 					<gap reason="illegible" quantity="1" unit="character"/> ki<seg type="component" subtype="subscript">C</seg> CiM tiṁ kniḥ tiṁ su <gap reason="illegible" quantity="16" unit="character"/>
 					<gap reason="lost" extent="unknown"/>
-					<lb n="8"/><gap reason="illegible" quantity="1" unit="line"/><g type="ddanda">.</g><g>@</g>
+					<lb n="8"/><gap reason="illegible" quantity="1" unit="line"/><g ref="sym:doubleBar" type="punctuation">.</g><g>@</g>
 				</ab>
 			</div>
 			<div type="apparatus">

@@ -72,7 +72,7 @@
       <body>
 			<div type="edition" xml:lang="pyx-Latn">
 				<ab>
-					<lb n="1"/> ḅaṁḥ raḥ ṇaṁ ḍaṁḥ ḅuña <lb n="2"/> ḅiṁḥ ciṁ yaṁ <g type="siddham"/>
+					<lb n="1"/> ḅaṁḥ raḥ ṇaṁ ḍaṁḥ ḅuña <lb n="2"/> ḅiṁḥ ciṁ yaṁ <g ref="sym:san-siddham" type="ideogram">@</g>
 					<!-- MM: not sure if @ should be encoded as siddham -->
 				</ab>
 			</div>

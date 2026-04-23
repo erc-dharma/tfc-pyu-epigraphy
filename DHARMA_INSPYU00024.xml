@@ -91,7 +91,7 @@
 					<ab xml:lang="pli-Latn">
 						<lb n="1"/><gap reason="lost" extent="unknown"/>
 						<gap reason="illegible" quantity="1" unit="character"/> 
-						ya namarūpaṁ <g type="ddanda">.</g><g>1</g>
+						ya namarūpaṁ <g ref="sym:doubleBar" type="punctuation">.</g><g>1</g>
 					</ab>
 					<ab xml:lang="pyx-Latn">
 						<lb n="1"/>baṁḥ ḅuddha kasyaṃba yaṁ
@@ -126,12 +126,12 @@
 				</div>
 				<div type="textpart" subtype="register" n="bottom">
 					<ab xml:lang="pyx-Latn">
-						<lb n="1"/>siddhaM <g type="ddanda">.</g> O pi[n]·ṁ da[<seg type="component" subtype="subscript">C</seg>]ṃṁ na(<seg type="component" subtype="subscript">C</seg>) kdiṃ ti[n]·ṁ
+						<lb n="1"/>siddhaM <g ref="sym:doubleBar" type="punctuation">.</g> O pi[n]·ṁ da[<seg type="component" subtype="subscript">C</seg>]ṃṁ na(<seg type="component" subtype="subscript">C</seg>) kdiṃ ti[n]·ṁ
 						droḥ ktoY kdiṃ tiNṁ tiṄṁ pi[n]·ṁḥ ta nu ki[m]·ṁḥ tiṁ pṅau[y]· yaṁ ka(<seg type="component" subtype="subscript">C</seg>)
 						pa(<seg type="component" subtype="subscript">C</seg>) kḅ[e](<seg type="component" subtype="subscript">C</seg>) ti(<seg type="component" subtype="subscript">C</seg>)ṁ k.i(<seg type="component" subtype="subscript">C</seg>)ṁḥ du(<seg type="component" subtype="subscript">C</seg>)ṃ <space type="horizontal" quantity="1" unit="character"/> plaṁ ḅuddha O vaḥ rcṅa(<seg type="component" subtype="subscript">C</seg>)ḥ ti(<seg type="component" subtype="subscript">C</seg>)ṁ
 						tdi(<seg type="component" subtype="subscript">C</seg>)ṁ kta(<seg type="component" subtype="subscript">C</seg>) k[ḅa](<seg type="component" subtype="subscript">C</seg>)ḥ O do <gap reason="lost" quantity="1" unit="character"/> .i <gap reason="lost" quantity="1" unit="character"/>
 						.i .i <gap reason="lost" quantity="1" unit="character"/> .i pi(<seg type="component" subtype="subscript">C</seg>)ṁ pa 
-						.i(<seg type="component" subtype="subscript">C</seg>)ṁ ni(<seg type="component" subtype="subscript">C</seg>)ṁ mau[r]· ḅi[<seg type="component" subtype="subscript">C</seg>]ṁḥ pcauM pnauRḥ nu yaḥ hra[t]·ṁ sauṄ pla[t]·ṁ kiP ndiNṃṁ doṃḥ doṃ <space type="horizontal" quantity="1" unit="character"/> yaṁ khyaṃ O tsiḥ tgaṃḥ tdiṁ pa viṃṁ tiṁ paḥ kḅaṁ hme(<seg type="component" subtype="subscript">C</seg>)ḥ va[Ṅ]ṃ vaṄṃ hliṁḥ kko tgaMṃḥ daVṃḥ tdaVḥ to śri prabhuva[R]rma kda[Ṅ] ka kiLṁ tgaMṃḥ daVḥ tdaVḥ nu va(L)ṃḥ śri p[r]abh[ud]evi <space type="horizontal" quantity="1" unit="character"/> O hnauT thraṄḥ ma tiTṁ biMṁ O voM la paYṁḥ reM kduK O puL barami O kliṁḥ ktoY <space type="horizontal" quantity="1" unit="character"/> tgaMṃḥ tiNṁ mu nuT kcoM kgoY k[ṅ]o(<seg type="component" subtype="subscript">C</seg>) ti(<seg type="component" subtype="subscript">C</seg>)ṁ [t]i(<seg type="component" subtype="subscript">C</seg>)ṁ <gap reason="lost" quantity="3" unit="character"/> <g type="ddanda">.</g> <space type="horizontal" quantity="3" unit="character"/> <g>@</g>
+						.i(<seg type="component" subtype="subscript">C</seg>)ṁ ni(<seg type="component" subtype="subscript">C</seg>)ṁ mau[r]· ḅi[<seg type="component" subtype="subscript">C</seg>]ṁḥ pcauM pnauRḥ nu yaḥ hra[t]·ṁ sauṄ pla[t]·ṁ kiP ndiNṃṁ doṃḥ doṃ <space type="horizontal" quantity="1" unit="character"/> yaṁ khyaṃ O tsiḥ tgaṃḥ tdiṁ pa viṃṁ tiṁ paḥ kḅaṁ hme(<seg type="component" subtype="subscript">C</seg>)ḥ va[Ṅ]ṃ vaṄṃ hliṁḥ kko tgaMṃḥ daVṃḥ tdaVḥ to śri prabhuva[R]rma kda[Ṅ] ka kiLṁ tgaMṃḥ daVḥ tdaVḥ nu va(L)ṃḥ śri p[r]abh[ud]evi <space type="horizontal" quantity="1" unit="character"/> O hnauT thraṄḥ ma tiTṁ biMṁ O voM la paYṁḥ reM kduK O puL barami O kliṁḥ ktoY <space type="horizontal" quantity="1" unit="character"/> tgaMṃḥ tiNṁ mu nuT kcoM kgoY k[ṅ]o(<seg type="component" subtype="subscript">C</seg>) ti(<seg type="component" subtype="subscript">C</seg>)ṁ [t]i(<seg type="component" subtype="subscript">C</seg>)ṁ <gap reason="lost" quantity="3" unit="character"/> <g ref="sym:doubleBar" type="punctuation">.</g> <space type="horizontal" quantity="3" unit="character"/> <g>@</g>
 					</ab>
 				</div>
 			</div>

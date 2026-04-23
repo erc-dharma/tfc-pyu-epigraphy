@@ -72,7 +72,7 @@
       <body>
 			<div type="edition" xml:lang="pyx-Latn">
 				<ab>
-					<lb n="1"/><g type="ddanda">.</g> ḅaṁḥ ḅudha
+					<lb n="1"/><g ref="sym:doubleBar" type="punctuation">.</g> ḅaṁḥ ḅudha
 					gaṃ
 					<gap reason="lost" extent="unknown" unit="character"/>
 					<lb n="2"/><gap reason="lost" quantity="1" unit="consonant"/>u
@@ -108,7 +108,7 @@
 			</div>
 			<div type="commentary">
 				<p>Not in Mya 1961a. Wrongly ascribed to Bawbawgyi pagoda by Duroiselle (1921).</p>
-				<p>Luce: <lb n="1"/><g type="ddanda">.</g> ḅaṁḥ ḅūdhda tda … <lb n="2"/>(m)ū … (n)ū paṁ h(n)au <lb n="3"/>vaṁ u </p>
+				<p>Luce: <lb n="1"/><g ref="sym:doubleBar" type="punctuation">.</g> ḅaṁḥ ḅūdhda tda … <lb n="2"/>(m)ū … (n)ū paṁ h(n)au <lb n="3"/>vaṁ u </p>
 			</div>
 			<div type="bibliography">
 				<!--ASI 1910-11, 93. — ASB 1911, 6, 41. — PPPB I, 158.-->

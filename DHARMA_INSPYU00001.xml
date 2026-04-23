@@ -73,7 +73,7 @@
 			<div type="edition" xml:lang="pyx-Latn">
 				<ab>
 					<lb n="1"/><seg type="siddham"/>
-					<g type="ddanda">.</g>
+					<g ref="sym:doubleBar" type="punctuation">.</g>
 					ḅaYṁḥ daKṃ viYṃṁ
 					tiMṁ
 					mliK O saḥ tgaṃ knoN O <unclear reason="damage">p</unclear>li 

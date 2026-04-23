@@ -73,8 +73,8 @@
 			<div type="edition">
 				<ab>
 					<lb n="1"/>
-					<g type="siddham"/>
-					<g type="ddanda">.</g> tdaṃḥ ḅaṁḥ O hi tr̥ hna ku harivikrama ḅaṁḥ sniḥ ṅa
+					<g ref="sym:san-siddham" type="ideogram">@</g>
+					<g ref="sym:doubleBar" type="punctuation">.</g> tdaṃḥ ḅaṁḥ O hi tr̥ hna ku harivikrama ḅaṁḥ sniḥ ṅa
 					<supplied reason="lost">s</supplied>u kni rla hniṁ tiṁ phvuṃ npu
 					plaṁ ta kiṁ kha O sniḥ sniḥ plaṁ
 					su taṁ rla kni tiṁ phvuṃ tko tiṁ tdaṃḥ ḅaṁḥ O ru kleḥ yaṁ <!-- MM2AG: should I do anything with the red in the RTF? -->

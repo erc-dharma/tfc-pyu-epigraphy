@@ -72,7 +72,7 @@
       <body>
 			<div type="edition" xml:lang="pyx-Latn">
 				<ab>
-					<lb n="1"/><g type="ddanda">.</g> tviYṃṁḥ tpaNḥ yaṁ <g type="ddanda">.</g><g>@</g>
+					<lb n="1"/><g ref="sym:doubleBar" type="punctuation">.</g> tviYṃṁḥ tpaNḥ yaṁ <g ref="sym:doubleBar" type="punctuation">.</g><g>@</g>
 					<!-- MM2AG: tp looks like np to me; the bottom right tail of the first consonant does not curve inward the way the t does in the previous akṣara. -->
 				</ab>
 			</div>

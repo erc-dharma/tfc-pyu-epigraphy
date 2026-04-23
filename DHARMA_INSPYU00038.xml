@@ -73,8 +73,8 @@
 			<div type="edition" xml:lang="pyx-Latn">
 				<ab>
 					<lb n="1"/>
-					<g>1</g><g type="ddanda">.</g>
-					<space type="horizontal" quantity="1" unit="character"/> ḅaYṁḥ kdlaV li mdrauṄ <space type="horizontal" quantity="1" unit="character"/> ḅaYṁḥ maY s<unclear>ku</unclear> tliY daṃṁ O paLḥ yaṁ <space type="horizontal" quantity="1" unit="character"/> O tuT hra<unclear>T</unclear>ṁ ṭra <g type="ddanda">.</g><g>@</g>
+					<g>1</g><g ref="sym:doubleBar" type="punctuation">.</g>
+					<space type="horizontal" quantity="1" unit="character"/> ḅaYṁḥ kdlaV li mdrauṄ <space type="horizontal" quantity="1" unit="character"/> ḅaYṁḥ maY s<unclear>ku</unclear> tliY daṃṁ O paLḥ yaṁ <space type="horizontal" quantity="1" unit="character"/> O tuT hra<unclear>T</unclear>ṁ ṭra <g ref="sym:doubleBar" type="punctuation">.</g><g>@</g>
 				</ab>
 			</div>
 			<div type="apparatus">

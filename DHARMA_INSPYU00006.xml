@@ -73,8 +73,8 @@
 			<div type="edition">
 				<ab>
 					<lb n="1"/>
-					<g type="siddham"/>
-					<g type="ddanda">.</g> tdaṃḥ ḅaṁḥ O lu
+					<g ref="sym:san-siddham" type="ideogram">@</g>
+					<g ref="sym:doubleBar" type="punctuation">.</g> tdaṃḥ ḅaṁḥ O lu
 					snuḥ
 					<supplied reason="lost">s</supplied>ihavikrama ḅaṁḥ sniḥ hraṁ su rla hniṁ tiṁ phvuṃ plaṁ ta kiṁ kha O sniḥ sniḥ plaṁ
 					su plaṁ rla

@@ -73,7 +73,7 @@
 			<div type="edition" xml:lang="pyx-Latn">
 				<ab>
 					<lb n="1"/><g>1</g> sīddhaM <g>2</g>
-					<g type="ddanda">.</g> ktoY tiNṁ mu tiNṁ gaMṃḥ O tma knuY rla kaR graha O
+					<g ref="sym:doubleBar" type="punctuation">.</g> ktoY tiNṁ mu tiNṁ gaMṃḥ O tma knuY rla kaR graha O
 					nhaYḥ tduY rliYṁ tmaYḥ O kdlaV mdiPṁ npa kdaṄṃ tnaV O daVṃḥ
 					thaK nu loḥ sduKṃ sdaVṃḥ duKṃ kgoY nu hnaM mra tmiR tiNṁ li tiMṁ
 					ṅoY kbo ḅa knaḥ tiNṁ kiRṁḥ ma tniṄ tniṄ <lb n="2"/>toY toY tiMṁ ñaḥ
@@ -124,7 +124,7 @@
 						<unclear>tr̥</unclear>
 						<unclear>nu</unclear>
 					</choice> hnaM tiNṁ giLṁ tiMṁ goLṃ tiMṁ ñaḥ O ḅiNṁḥ taMḥ ṅaRḥ paṄ laM ḅiṁ ṅaMḥ rma laM ḅiṁ hi ṅaT ṅiTṁ k<unclear>d</unclear>aṄ <unclear>O</unclear> kaP <space type="horizontal" quantity="6" unit="character"/>
-					<g type="ddanda">.</g><g>@</g>
+					<g ref="sym:doubleBar" type="punctuation">.</g><g>@</g>
 				</ab>
 			</div>
 			<div type="apparatus">

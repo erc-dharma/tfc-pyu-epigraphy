@@ -74,7 +74,7 @@
 				<ab><lb n="1"/>
 					<milestone unit="face" n="A"/>
 					<seg type="opening"/>
-					<g type="ddanda">.</g> ye dharmmā hetu </ab>
+					<g ref="sym:doubleBar" type="punctuation">.</g> ye dharmmā hetu </ab>
 			</div>
 			<div type="apparatus">
 				<listApp/>

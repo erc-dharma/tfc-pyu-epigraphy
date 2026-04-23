@@ -73,7 +73,7 @@
 			<div type="edition" xml:lang="pyx-Latn">
 				<ab>
 					<lb n="1"/><g>1</g>
-					<g type="ddanda">.</g> tdaVṃṁḥ baM gaṃḥ coK kiRṁḥ kdraṃḥ <!-- MM2AG: checked RTI; see bam· clearly without trace of a visarga; removed unclear tags;
+					<g ref="sym:doubleBar" type="punctuation">.</g> tdaVṃṁḥ baM gaṃḥ coK kiRṁḥ kdraṃḥ <!-- MM2AG: checked RTI; see bam· clearly without trace of a visarga; removed unclear tags;
 	no longer any resemblance to anything in 019.2, so removed note from both commentary and RTF. -->
 				</ab>
 			</div>

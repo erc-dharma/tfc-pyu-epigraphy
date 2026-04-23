@@ -73,7 +73,7 @@
 			<div type="edition" xml:lang="pyx-Latn">
 				<ab>
 					<lb n="1"/>
-					<supplied reason="lost">sid</supplied>dha<unclear>M</unclear> <g>2</g><g type="ddanda">.</g>  <g type="ddanda">.</g> ta ktoY tdaVḥ <gap reason="illegible" quantity="3" unit="character"/> hnaM kaṄ sgaṃ kraṄ kdaṄ saNḥ <gap reason="illegible" quantity="1" unit="character"/> kdiṄ <gap reason="illegible" quantity="5" unit="character"/>T <gap reason="illegible" quantity="1" unit="character"/>N <gap reason="illegible" quantity="1" unit="character"/> ta ḅiṁḥ roM taR ṅaV <gap reason="lost" extent="unknown" unit="character"/>
+					<supplied reason="lost">sid</supplied>dha<unclear>M</unclear> <g>2</g><g ref="sym:doubleBar" type="punctuation">.</g>  <g ref="sym:doubleBar" type="punctuation">.</g> ta ktoY tdaVḥ <gap reason="illegible" quantity="3" unit="character"/> hnaM kaṄ sgaṃ kraṄ kdaṄ saNḥ <gap reason="illegible" quantity="1" unit="character"/> kdiṄ <gap reason="illegible" quantity="5" unit="character"/>T <gap reason="illegible" quantity="1" unit="character"/>N <gap reason="illegible" quantity="1" unit="character"/> ta ḅiṁḥ roM taR ṅaV <gap reason="lost" extent="unknown" unit="character"/>
 					<lb n="2"/>
 					pr̥ kuL toY tkiRṃḥ ṭiḥ <gap reason="illegible" quantity="2" unit="character"/> taR ṅaVḥ <gap reason="illegible" quantity="1" unit="character"/> tvaṃṁ tiNṁ doṄ toL ṅaV toY tkiRṁḥ <unclear>O</unclear> saḥ tdaVḥ maY doṃ koY khmiKṁḥ kli skuY taR daVḥ kdaṄ saḥ <unclear>p</unclear>li pla <gap reason="lost" extent="unknown" unit="character"/>
 					<lb n="3"/>
@@ -88,7 +88,7 @@
 					<gap reason="illegible" quantity="4" unit="character"/> CiV <gap reason="illegible" quantity="1" unit="character"/> <unclear>r</unclear>la
 					duKṁ ceṄ tiṁ priṄḥ dhaT tgaMṃḥ piNṁḥ <space type="horizontal" quantity="1" unit="character"/> tdiMṃṁ mgauLṃ mra tiMṁ ñaḥ kda<unclear>Ṅ</unclear> sguṄṁ priṄḥ ti kduLḥ  pluM <space type="horizontal" quantity="1" unit="character"/> yaṁ tiVḥ tkiTṁ tiṄṁ ḅa taR ḅiNṁḥ roM ñaḥ duKṃ ḅaṁḥ ti<unclear>N</unclear> saT pCaY <space type="horizontal" quantity="1" unit="character"/> maT ta ṅuḥ <gap reason="illegible" quantity="6" unit="character"/>
 					<lb n="8"/>
-					CCiṁ ndaK skuY taM <unclear>ḅ</unclear>iṁ p<unclear>v</unclear>aṃ <space type="horizontal" quantity="1" unit="character"/> gaṃḥ tr̥ hnaM taM ḅiṁ tiṁ phi <space type="horizontal" quantity="1" unit="character"/> taM ḅiṁ piṁ tvoLṃḥ ḅaṁḥ tr̥ hnaM mra ḅiNṁḥ tseT <g type="ddanda">.</g> <g>@</g>
+					CCiṁ ndaK skuY taM <unclear>ḅ</unclear>iṁ p<unclear>v</unclear>aṃ <space type="horizontal" quantity="1" unit="character"/> gaṃḥ tr̥ hnaM taM ḅiṁ tiṁ phi <space type="horizontal" quantity="1" unit="character"/> taM ḅiṁ piṁ tvoLṃḥ ḅaṁḥ tr̥ hnaM mra ḅiNṁḥ tseT <g ref="sym:doubleBar" type="punctuation">.</g> <g>@</g>
 					<!--transcription here--></ab>
 			</div>
 			<div type="apparatus">

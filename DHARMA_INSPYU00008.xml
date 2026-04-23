@@ -208,7 +208,7 @@
 				</div>
 				<div type="textpart" n="Pyu" xml:lang="pyx-Latn">
 					<ab>
-						<lb n="1"/>1 <g type="ddanda">.</g> siri <g type="ddanda">.</g> dathagaṃda ḅa doṃ ḅaṁḥ ḅiṁḥ pduṃ sguṃ daṃḥ ḅa tva 1000 <unclear>600</unclear>
+						<lb n="1"/>1 <g ref="sym:doubleBar" type="punctuation">.</g> siri <g ref="sym:doubleBar" type="punctuation">.</g> dathagaṃda ḅa doṃ ḅaṁḥ ḅiṁḥ pduṃ sguṃ daṃḥ ḅa tva 1000 <unclear>600</unclear>
 						<lb n="2"/>20 hra<unclear>T</unclear>ṁ O sni<unclear>Ṅ</unclear>ḥ ḅiṁḥ tvaṄṃṁḥ tha daṄṃṁ yaṁ tiṁ priṄḥ rimadhaMnarbu O rmiṄ ḅiṁḥ si <g>//</g> sri tribhu <lb n="3" type="inWord"/>vaṃnadiTṃṁtya dhaMmaraja O rmiṄ ḅiṁḥ si <g>//</g> O doṄṃḥ ḍaZ ḅaṁḥ O rvaṄṃḥ ma yaḥ triḍo
 						<lb n="4" type="inWord"/>gavadasaga
 						<!-- MM2AG: not sure how to handle a word with a variant reading split
@@ -229,7 +229,7 @@
 						<lb n="25"/>ya<supplied reason="lost">ṁ</supplied>
 						<unclear>t</unclear>r<unclear>a</unclear><gap reason="illegible" quantity="1" unit="character"/><gap reason="lost" quantity="7" unit="character"/><unclear>sa</unclear>ḥ ḍa <g>/</g> gi pḍi ḍa <g>/</g> gi <supplied reason="lost">s</supplied>ruḥ <lb n="26"/>ḍa <g>/</g> mra ja <unclear>h</unclear>ṅa <unclear>ḍa /</unclear> ya<supplied reason="lost">ṁ</supplied> ḅudha O vaṁ gaṁḥ hḍiṁḥ toḥ <lb n="27"/>ma diṃṁ <g>/</g> ga hñiṁ ci ga bro pdaṃ ma taḥ ṅuḥ ḅuḥ <g>//</g>
 						yaṁ baṁḥ <lb n="28"/>ḅudha Arimedeyaṃ daṃṁ ḅaḥ kdiṃ kchiṁḥ tiṁ tmu ma paṁḥ <lb n="29"/>che choḥZ <space type="horizontal" quantity="1" unit="character"/>
-						<g type="ddanda">.</g><g>@</g>
+						<g ref="sym:doubleBar" type="punctuation">.</g><g>@</g>
 					</ab>
 				</div>
 			</div>

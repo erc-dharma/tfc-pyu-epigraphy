@@ -73,7 +73,7 @@
 			<div type="edition" xml:lang="pyx-Latn">
 				<ab>
 					<lb n="1"/>
-					<g type="ddanda">.</g> ḅaṁḥ roḥ co rya co <g type="ddanda">.</g>
+					<g ref="sym:doubleBar" type="punctuation">.</g> ḅaṁḥ roḥ co rya co <g ref="sym:doubleBar" type="punctuation">.</g>
 				</ab>
 			</div>
 			<div type="apparatus">

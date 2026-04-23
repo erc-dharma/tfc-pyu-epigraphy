@@ -72,10 +72,10 @@
       <body>
 			<div type="edition" xml:lang="pyx-Latn">
 				<ab>
-					<lb n="1"/> siddha<unclear>M</unclear> 2 <g type="ddanda">.</g>
+					<lb n="1"/> siddha<unclear>M</unclear> 2 <g ref="sym:doubleBar" type="punctuation">.</g>
 					<space type="horizontal" quantity="1" unit="character"/> ḅaYṁḥ kmaK <unclear>ḅa</unclear>Yṁḥ toṄ tṅaV tiṁ psiṁ <space type="horizontal" quantity="1" unit="character"/> ḅaYṁḥ saḥ ḅaYṁḥ goṃḥ <space type="horizontal" quantity="1" unit="character"/> O saḥ ḅaYṁḥ luṄ hi<unclear>P</unclear> <space type="horizontal" quantity="1" unit="character"/> ḅaYṁḥ luṄ ti<unclear>N</unclear>ṁ droḥ kdiṃ <space type="horizontal" quantity="1" unit="character"/> ḅaYṁḥ luṄ tdaVṃḥ
 						<space type="horizontal" quantity="1" unit="character"/> daṄṃṁ OY tsaṁḥ ḅuddha daṄḥ tiMṁ <unclear>m</unclear>l<unclear>i</unclear>Yṁ kdaṄ nhoḥ yaṁ <space type="horizontal" quantity="1" unit="character"/>
-					<g type="ddanda">.</g><g>@</g>
+					<g ref="sym:doubleBar" type="punctuation">.</g><g>@</g>
 				</ab>
 			</div>
 			<div type="apparatus">

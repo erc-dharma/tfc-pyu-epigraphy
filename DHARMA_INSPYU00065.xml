@@ -73,7 +73,7 @@
 			<div type="edition" xml:lang="pyx-Latn">
 				<ab>
 					<lb n="1"/>
-					<g type="ddanda">.</g> dra da to ca ḅiṁḥ Co X X <!-- MM: keep or replace X for mystery charactes? -->
+					<g ref="sym:doubleBar" type="punctuation">.</g> dra da to ca ḅiṁḥ Co X X <!-- MM: keep or replace X for mystery charactes? -->
 				</ab>
 			</div>
 			<div type="apparatus">

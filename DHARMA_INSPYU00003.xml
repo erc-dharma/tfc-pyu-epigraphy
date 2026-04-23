@@ -72,8 +72,8 @@
       <body>
 			<div type="edition" xml:lang="pyx-Latn">
 				<ab>
-					<lb n="1"/><g type="siddham"/>
-					<g type="ddanda">.</g> tdaṃḥ ḅaṁḥ O hi suriyavikrama ḅaṁḥ O rvaṃḥ ḅaṁḥ kmiṁ ḅaṁḥ vaṃ tiṁ dliṁ sniḥ hauḥ
+					<lb n="1"/><g ref="sym:san-siddham" type="ideogram">@</g>
+					<g ref="sym:doubleBar" type="punctuation">.</g> tdaṃḥ ḅaṁḥ O hi suriyavikrama ḅaṁḥ O rvaṃḥ ḅaṁḥ kmiṁ ḅaṁḥ vaṃ tiṁ dliṁ sniḥ hauḥ
 					su piṁ ṅa ta kiṁ kha O sniḥ ḅaṁḥ O ru kleḥ yaṁ </ab>
 			</div>
 			<div type="apparatus">

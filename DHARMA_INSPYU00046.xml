@@ -76,7 +76,7 @@
 					<ab>
 						<g>⎨||⋮||⎬</g>
 						<lb n="1"/>
-						<g type="ddanda">.</g>
+						<g ref="sym:doubleBar" type="punctuation">.</g>
 						ye
 						dhammā
 						hetupabhavā
@@ -94,7 +94,7 @@
 						Evaṁvādi
 						mahāsamano
 						ti
-						<g type="ddanda">.</g>
+						<g ref="sym:doubleBar" type="punctuation">.</g>
 						cattāro
 						Iddhipādā
 						<lb n="2"/>
@@ -134,7 +134,7 @@
 				<div type="textpart" n="Second leaf (Or5340B)">
 					<ab>
 						<lb n="1"/>
-						<g type="ddanda">.</g>
+						<g ref="sym:doubleBar" type="punctuation">.</g>
 						ye
 						dhammā
 						hetupabhavā
@@ -201,7 +201,7 @@
 				<listApp><!-- Finot 1912 readings still need to be collated -->
 					<app loc="1.margin">
 						<lem><g>⎨||⋮||⎬</g></lem>
-						<rdg resp="Tun Nyein"><g type="ddanda">.</g></rdg>
+						<rdg resp="Tun Nyein"><g ref="sym:doubleBar" type="punctuation">.</g></rdg>
 						<note>The opening mark stands in the margin; the same sign is repeated at
 							the end of leaf 2. It is a simpler version of the one seen at the end of PYU <ref target="DHARMA_INSPYU00044">44</ref>.</note>
 					</app>
@@ -245,7 +245,7 @@
 						<note>correcting <foreign xml:lang="pli-Latn">buddhayonī</foreign> in note; emend <foreign xml:lang="pli-Latn">buddhañāṇāni</foreign>.</note>
 					</app>
 					<app loc="2.1">
-						<lem><g type="ddanda">.</g></lem>
+						<lem><g ref="sym:doubleBar" type="punctuation">.</g></lem>
 						<note>The two bars are connected by a small cross-bar.</note>
 					</app>
 					<app loc="2.1">

@@ -73,7 +73,7 @@
 			<div type="edition" xml:lang="pyx-Latn">
 				<ab>
 					<lb n="1"/>khaM O hyaṃḥ <num value="10">10</num> <num value="10">2</num>
-					<g type="danda">.</g>
+					<g ref="sym:bar" type="punctuation">.</g>
 				</ab>
 			</div>
 			<div type="apparatus">

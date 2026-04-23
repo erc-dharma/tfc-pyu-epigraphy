@@ -186,7 +186,7 @@
 					AgrasamādhilābhinaM
 					<space quantity="1" unit="character"/>
 					kdaMṁ tiNṁ rniṄṁ sdiNṁ tdiKṃ O kdi<unclear>ṃ</unclear> ḅaYṁḥ di<unclear>Mṃṁ</unclear>
-					<g type="ddanda">.</g>
+					<g ref="sym:doubleBar" type="punctuation">.</g>
 					<space quantity="1" unit="character"/>
 					y<supplied reason="lost">ataḥ</supplied>
 					<milestone unit="face" n="b"/>
@@ -236,7 +236,7 @@
 					tdaVṃḥ
 					<space quantity="1" unit="character"/>
 					śrījayacandravarmmaṇā
-					srijaNtravaRma kviṃṁ O rmiṄ<g type="ddanda">.</g>
+					srijaNtravaRma kviṃṁ O rmiṄ<g ref="sym:doubleBar" type="punctuation">.</g>
 					<space quantity="1" unit="character"/>
 					Ataḥ
 					<lb n="3"/>
@@ -289,7 +289,7 @@
 					<space quantity="1" unit="character"/>
 					śrīhārivikra<unclear>m</unclear><supplied reason="lost">e</supplied><milestone unit="face" n="C"/><supplied reason="lost">ṇa ca</supplied>
 					<space quantity="1" unit="character"/>
-					<gap reason="illegible" quantity="5" unit="character"/> sri<unclear>ha</unclear>rivi<unclear>K</unclear>krama <unclear>O rm</unclear>iṄ<g type="ddanda">.</g>
+					<gap reason="illegible" quantity="5" unit="character"/> sri<unclear>ha</unclear>rivi<unclear>K</unclear>krama <unclear>O rm</unclear>iṄ<g ref="sym:doubleBar" type="punctuation">.</g>
 					<space quantity="1" unit="character"/>
 					bhaveyuḥ
 					<space quantity="1" unit="character"/>
@@ -334,7 +334,7 @@
 					<space quantity="1" unit="character"/>
 					paramparāgataiḥ
 					<space quantity="1" unit="character"/>
-					tiNṁ ḅuNḥ ti<unclear>M</unclear>ṁ deLṃṁḥ kiṁ ce hvuṃ vaṄṃ daṄṃ<g type="ddanda">.</g>
+					tiNṁ ḅuNḥ ti<unclear>M</unclear>ṁ deLṃṁḥ kiṁ ce hvuṃ vaṄṃ daṄṃ<g ref="sym:doubleBar" type="punctuation">.</g>
 					ImaM
 					<space quantity="1" unit="character"/>
 					naḥ yaṁ
@@ -399,7 +399,7 @@
 					<space quantity="1" unit="character"/>
 					Artthasiddhayaḥ
 					<space quantity="1" unit="character"/>
-					O paṄ sdlaṄḥ kliṁḥ khmi<unclear>Ṅ</unclear> kta vaṄṃ<g type="ddanda">.</g>
+					O paṄ sdlaṄḥ kliṁḥ khmi<unclear>Ṅ</unclear> kta vaṄṃ<g ref="sym:doubleBar" type="punctuation">.</g>
 					<lb n="5"/>
 					<milestone unit="face" n="A"/>
 					<unclear>v</unclear>i<unclear>la</unclear>ṅghito
@@ -452,7 +452,7 @@
 					<space quantity="1" unit="character"/>
 					niva<unclear>ddh</unclear>asid<unclear>dh</unclear>ayaḥ
 					<space quantity="1" unit="character"/>
-					taṁ tya<unclear>Ṅ</unclear>ḥ kviṃṁ O khmi<unclear>Ṅ</unclear> kta<g type="ddanda">.</g>
+					taṁ tya<unclear>Ṅ</unclear>ḥ kviṃṁ O khmi<unclear>Ṅ</unclear> kta<g ref="sym:doubleBar" type="punctuation">.</g>
 					<space quantity="1" unit="character"/>
 					AyaM
 					<space quantity="1" unit="character"/>
@@ -506,7 +506,7 @@
 					kramānugaiḥ
 					<space quantity="1" unit="character"/>
 					O da<unclear>L</unclear>ṃṁḥ daLṃṁḥ knaT<unclear>ṁ</unclear>ḥ tḅiṁḥ vaṃ
-					<g type="ddanda">.</g><g type="scroll"/>
+					<g ref="sym:doubleBar" type="punctuation">.</g><g ref="sym:flourish" type="symbol">*</g>
 				</ab>
 			</div>
 			<div type="apparatus"/>

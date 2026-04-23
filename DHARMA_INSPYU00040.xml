@@ -253,7 +253,7 @@
 						va
 						Obhāsaya
 						Antalikkheṁti
-						<g type="fleuron"/><g type="fleuron"/>
+						<g ref="sym:floret" type="symbol">*</g><g ref="sym:floret" type="symbol">*</g>
 					</ab>
 				</div>
 			</div>

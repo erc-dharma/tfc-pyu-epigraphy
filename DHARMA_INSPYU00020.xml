@@ -72,7 +72,7 @@
       <body>
 			<div type="edition" xml:lang="pyx-Latn">
 				<ab>
-					<lb n="1"/><g>1</g> siddhaM <g>2</g><g type="ddanda">.</g>Asama ḅa tgiMṁ tnaY piNṁḥ toNḥ tiṁ pṅauY plaTṁ tiRṁ kuNḥ truK thaYḥ ḅa ncuMḥ tkaRṁḥ psuYḥ ḅa knaṄ diKṃṁ nmaT goY kdliKṁ tiṁ gaṃ psuYḥ tiṁ kdiṄṁ barami O thmiNḥ kyiṁ ta kḅoṄḥ tiṁ nga mahagaruṇa tiṁ kyaNṁ ktoY piNṁḥ O piṁ thraḥ ma diṃṁ kdluḥ tiṁ pra tiṁ hna <gap reason="illegible" quantity="2" unit="character"/> ṅuḥ kto tiṁ gaṁ vaṃ <gap reason="illegible" quantity="1" unit="character"/> bi <gap reason="illegible" quantity="1" unit="character"/> ka ba<unclear>R</unclear> ta kdaNṁ khyaṃ tiNṁ viṃṁ <unclear>l</unclear>o nhoḥ <gap reason="lost" quantity="1" unit="character"/> O <gap reason="lost" quantity="3" unit="character"/>ḥ kvi ḅūdha ḅaYṁḥ kda <choice>
+					<lb n="1"/><g>1</g> siddhaM <g>2</g><g ref="sym:doubleBar" type="punctuation">.</g>Asama ḅa tgiMṁ tnaY piNṁḥ toNḥ tiṁ pṅauY plaTṁ tiRṁ kuNḥ truK thaYḥ ḅa ncuMḥ tkaRṁḥ psuYḥ ḅa knaṄ diKṃṁ nmaT goY kdliKṁ tiṁ gaṃ psuYḥ tiṁ kdiṄṁ barami O thmiNḥ kyiṁ ta kḅoṄḥ tiṁ nga mahagaruṇa tiṁ kyaNṁ ktoY piNṁḥ O piṁ thraḥ ma diṃṁ kdluḥ tiṁ pra tiṁ hna <gap reason="illegible" quantity="2" unit="character"/> ṅuḥ kto tiṁ gaṁ vaṃ <gap reason="illegible" quantity="1" unit="character"/> bi <gap reason="illegible" quantity="1" unit="character"/> ka ba<unclear>R</unclear> ta kdaNṁ khyaṃ tiNṁ viṃṁ <unclear>l</unclear>o nhoḥ <gap reason="lost" quantity="1" unit="character"/> O <gap reason="lost" quantity="3" unit="character"/>ḥ kvi ḅūdha ḅaYṁḥ kda <choice>
 						<unclear>tu</unclear>
 						<unclear>tda</unclear>
 						</choice>ḥ rya [s]da saḥ tliṄ saṄgha ḅa[Y]ṁḥ kviṃṁ O ḅiNṁḥ raY piRṁ hnaM O hnauT tsaṁḥ tiṁ kliṁḥ duṃ<add place="below">ḥ</add> ḅaḥ kkiR kvaY kviṃṁ O nyaṄ tiṁ kiTṁḥ ḅa knuY tyaṄ <space type="horizontal" quantity="1" unit="character"/>tiṁ giḥ nhoMḥ radaṃna ḅaYṁḥ kviṃṁ tṅaM piNṁḥ diNṃṁ pdiNṁ ptuK <space type="horizontal" quantity="1" unit="character"/> ktoY tiṁ tdluṄḥ O puN sri tdaVṃḥ ḅaYṁḥ sri OṄ luṄ hiP tiRṁ hnaM tiṁ sdiNṁ tiṁ tdiKṃ kviṃṁ O
@@ -147,7 +147,7 @@
 						<unclear>Cu</unclear>
 					</choice>
 					<gap reason="lost" quantity="3" unit="character"/> ta ḅa doṃ mra ba ndloM ba kca kkuṄḥ tiṁ tḅaKṁḥ knuR ti<seg type="component" subtype="subscript">C</seg>ṁ ṅaM kgaM tiMṁ gaṃ O plaṁḥ <space type="horizontal" quantity="1" unit="character"/> doNḥ ṅa<seg type="component" subtype="subscript">C</seg> nū roM ndloK ḅaYṁḥ O paYṁḥ hṅaMḥ pgoY cetya thuva O ñaḥ tiṁ hna dra mra kdaṄ vo vaṄṃ diNṃṁ ksiḥ piRṁ mo diNṃṁ kiNṁ sba diTṃṁ ptu pliṁ ngaMṃḥ kaPpa O nhra nu<seg type="component" subtype="subscript">C</seg> tiṁ kvo kuḥ kuṄḥ ḅnuḥ tiṁ gaṃ khi kha kṭloT tiṁ kdiTṁ paYṁḥ viṁ nguṃ tiṁ traT APbrameya kgoY tiNṁ maT kṭliK tiṁ tgiMṃṁḥ <space type="horizontal" quantity="3" unit="character"/> sīTdha sīTdha sīTdha sādhu sādhu sādhu kliṁḥ kliṁḥ kliṁḥ <space type="horizontal" quantity="3" unit="character"/>
-					<g type="ddanda">.</g><g>@</g>
+					<g ref="sym:doubleBar" type="punctuation">.</g><g>@</g>
 				</ab>
 			</div>
 			<div type="apparatus">

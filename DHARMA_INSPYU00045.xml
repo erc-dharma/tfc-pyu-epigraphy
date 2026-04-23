@@ -74,7 +74,7 @@
 				<ab>
 					<pb n="1"/>
 					<fw type="pageNum" place="marginleft"><num value="2">2</num></fw>
-					<lb n="1"/><g type="opening"/> siddhaM <g type="ddanda">.</g> Āvijjapaccayā saṅkhāra saṅkhārapaccayā viññaṇa <lb n="2"/>viññaṇapacca<space type="binding-hole"/>yā nāmarūpaṁ <space type="horizontal" quantity="1" unit="character"/> nāmarūpapaccayā <space type="binding-hole"/> saḷāyatanaṁ <lb n="3"/>saḷāyatanapaccayā phasso <space type="horizontal" quantity="1" unit="character"/> phassapaccayā vedanā <space type="horizontal" quantity="1" unit="character"/> vedanapaccayā </ab>
+					<lb n="1"/><g ref="sym:opening"/><!--CHECK SYMBOL encoding and content--> siddhaM <g ref="sym:doubleBar" type="punctuation">.</g> Āvijjapaccayā saṅkhāra saṅkhārapaccayā viññaṇa <lb n="2"/>viññaṇapacca<space type="binding-hole"/>yā nāmarūpaṁ <space type="horizontal" quantity="1" unit="character"/> nāmarūpapaccayā <space type="binding-hole"/> saḷāyatanaṁ <lb n="3"/>saḷāyatanapaccayā phasso <space type="horizontal" quantity="1" unit="character"/> phassapaccayā vedanā <space type="horizontal" quantity="1" unit="character"/> vedanapaccayā </ab>
 				<ab>
 					<pb n="2"/>
 					<fw type="pageNum" place="marginleft"><num value="3">3</num></fw>
@@ -101,7 +101,7 @@
 				<ab>
 					<pb n="5"/>
 					<fw type="pageNum" place="marginleft"><num value="6">6</num></fw>
-					<lb n="13"/>jātinirodhā <space type="horizontal" quantity="1" unit="character"/> jarāmaraṇasokaparidevitaduẖkhadomanassūpāyā <lb n="14" break="no"/>sa nirūjjhantī ti <space type="binding-hole"/> Evam etassa kevalassa duẖkha<space type="binding-hole"/>khandhassa nirodho <lb n="15"/>hotī ti <g>@</g><g type="ddanda">.</g><g>@</g><g type="ddanda">.</g><g>@</g> UdayavayabhaṅgabhayaAdinnavaniccidamuṁjatuUpekkha
+					<lb n="13"/>jātinirodhā <space type="horizontal" quantity="1" unit="character"/> jarāmaraṇasokaparidevitaduẖkhadomanassūpāyā <lb n="14" break="no"/>sa nirūjjhantī ti <space type="binding-hole"/> Evam etassa kevalassa duẖkha<space type="binding-hole"/>khandhassa nirodho <lb n="15"/>hotī ti <g>@</g><g ref="sym:doubleBar" type="punctuation">.</g><g>@</g><g ref="sym:doubleBar" type="punctuation">.</g><g>@</g> UdayavayabhaṅgabhayaAdinnavaniccidamuṁjatuUpekkha
 				</ab>
 				<ab>
 					<pb n="6"/>
@@ -173,7 +173,7 @@ then in div type="apparatus":
 				<ab>
 					<pb n="14"/>
 					<fw type="pageNum" place="marginleft"><num value="15">5 10</num></fw>
-					<lb n="40" break="no"/>ve nīmittaṁ Asamanupassanto khemapatto Abhayapatto viha <lb n="41" break="no"/>rāmi Imā<space type="binding-hole"/>ni kho bhikkhave <space type="horizontal" quantity="1" unit="character"/> cattāri tathāgata<space type="binding-hole"/>ssa vesāra <lb n="42" break="no"/>jjānītī ti <g type="ddanda">.</g><g>@</g> katamehi bhagavā <space type="horizontal" quantity="1" unit="character"/> cuddasehi buddhañāṇe </ab>
+					<lb n="40" break="no"/>ve nīmittaṁ Asamanupassanto khemapatto Abhayapatto viha <lb n="41" break="no"/>rāmi Imā<space type="binding-hole"/>ni kho bhikkhave <space type="horizontal" quantity="1" unit="character"/> cattāri tathāgata<space type="binding-hole"/>ssa vesāra <lb n="42" break="no"/>jjānītī ti <g ref="sym:doubleBar" type="punctuation">.</g><g>@</g> katamehi bhagavā <space type="horizontal" quantity="1" unit="character"/> cuddasehi buddhañāṇe </ab>
 				<ab>
 					<pb n="15"/>
 					<fw type="pageNum" place="marginleft"><num value="16">6 10</num></fw>
@@ -189,7 +189,7 @@ then in div type="apparatus":
 				<ab>
 					<pb n="17"/>
 					<fw type="pageNum" place="marginleft"><num value="18">8 10</num></fw>
-					<lb n="49"/>vehākarūṇasamāpattiyā ñāṇaṁ buddhañāṇaṁ savvaññutañāṇaṁ buddha <lb n="50" break="no"/>ñāṇaṁ Anāva<space type="binding-hole"/>raṇāñāṇaṁ buddhañāṇa <space type="horizontal" quantity="1" unit="character"/> Ime<space type="binding-hole"/>hi bhagavā <lb n="51"/>cuddasehi buddhañāṇehi samannāgato ti ti <g type="ddanda">.</g><g>@</g>
+					<lb n="49"/>vehākarūṇasamāpattiyā ñāṇaṁ buddhañāṇaṁ savvaññutañāṇaṁ buddha <lb n="50" break="no"/>ñāṇaṁ Anāva<space type="binding-hole"/>raṇāñāṇaṁ buddhañāṇa <space type="horizontal" quantity="1" unit="character"/> Ime<space type="binding-hole"/>hi bhagavā <lb n="51"/>cuddasehi buddhañāṇehi samannāgato ti ti <g ref="sym:doubleBar" type="punctuation">.</g><g>@</g>
 				</ab>
 				<ab>
 					<pb n="18"/>
@@ -197,17 +197,17 @@ then in div type="apparatus":
 					<!-- AG2MM: such number are presumbly noted in the system 10 9 = 19. If so, the encoding should be 
 <fw type="pageNum" place="margin"><num value=19>10 9</num></fw>.
 Apply this throughout the file.-->
-					<lb n="52"/>maggānaṭṭhaṅgiko seṭṭho <space type="horizontal" quantity="1" unit="character"/> saccānaṁ caturo padā <space type="horizontal" quantity="1" unit="character"/> virāgo se <lb n="53" break="no"/>ṭṭho dhammānaṁ <space type="binding-hole"/> dīpadānaṁ cecakkhumā ti <g type="ddanda">.</g><g>@</g>
+					<lb n="52"/>maggānaṭṭhaṅgiko seṭṭho <space type="horizontal" quantity="1" unit="character"/> saccānaṁ caturo padā <space type="horizontal" quantity="1" unit="character"/> virāgo se <lb n="53" break="no"/>ṭṭho dhammānaṁ <space type="binding-hole"/> dīpadānaṁ cecakkhumā ti <g ref="sym:doubleBar" type="punctuation">.</g><g>@</g>
 					<space type="binding-hole"/> siṁddhaṁ <space type="horizontal" quantity="1" unit="character"/> danto dantehi <lb n="54"/>saha puraṇajaṭilehi vippamuttehi <space type="horizontal" quantity="1" unit="character"/> siṁginikasavaṇṇo rājāgahaṁ pavisi bhagavā 1 </ab>
 				<ab>
 					<pb n="19"/>
 					<lb n="55"/>mutto muttehi saha puraṇajaṭilehi <space type="horizontal" quantity="1" unit="character"/> sigini<unclear>kasa</unclear>vaṇṇo rājāgahaṁ pavisi bhagavā <space type="horizontal" quantity="1" unit="character"/> 2 <lb n="56"/>tiṇṇo tiṇṇehi sa<space type="binding-hole"/>ha puraṇajaṭilehi <space type="horizontal" quantity="1" unit="character"/> vippamuttehi <space type="horizontal" quantity="1" unit="character"/> siginika<space type="binding-hole"/>vaṇṇo rājāgahaṁ pa
-						<lb n="57" break="no"/>visi bhagavā 3 dasabale dasavāso dasadhaṁma cupeto <space type="horizontal" quantity="1" unit="character"/> so dasasataṁparivaro rājagahaṁ pavisi bha <lb n="58" break="no"/>gavā 4 yo dhiro sabbadhi danto suddho Appaṭipuggalo Arahaṁ sugato loke tassahaṁ parivarako ti <g type="ddanda">.</g><g>@</g>
+						<lb n="57" break="no"/>visi bhagavā 3 dasabale dasavāso dasadhaṁma cupeto <space type="horizontal" quantity="1" unit="character"/> so dasasataṁparivaro rājagahaṁ pavisi bha <lb n="58" break="no"/>gavā 4 yo dhiro sabbadhi danto suddho Appaṭipuggalo Arahaṁ sugato loke tassahaṁ parivarako ti <g ref="sym:doubleBar" type="punctuation">.</g><g>@</g>
 				</ab>
 				<ab>
 					<pb n="20"/>
-					<lb n="59"/><g>@</g><g type="ddanda">.</g> Iti pi so tagavā Arahaṁ saṁmāsaṁbuddho vijjācaraṇasaṁpanno sugato lokavidū Anutta<unclear>r</unclear>o
-					<lb n="60"/>purisadaṁmasārathī <space type="binding-hole"/> satthā devāmanussānā<unclear>ṁ</unclear> bundho bhagavā ti <space type="binding-hole"/> sukhi bhavatu <g type="danda">.</g> 5
+					<lb n="59"/><g>@</g><g ref="sym:doubleBar" type="punctuation">.</g> Iti pi so tagavā Arahaṁ saṁmāsaṁbuddho vijjācaraṇasaṁpanno sugato lokavidū Anutta<unclear>r</unclear>o
+					<lb n="60"/>purisadaṁmasārathī <space type="binding-hole"/> satthā devāmanussānā<unclear>ṁ</unclear> bundho bhagavā ti <space type="binding-hole"/> sukhi bhavatu <g ref="sym:bar" type="punctuation">.</g> 5
 				</ab>
 			</div>
 			<div type="apparatus">
@@ -261,7 +261,7 @@ Apply this throughout the file.-->
 						<lem>devāmanussānā<unclear>ṁ</unclear> bundho</lem>
 						<rdg source="bib:Falk1997_01">devāmanussānā buddho</rdg>
 					</app><app loc="60">
-						<lem><g type="danda">.</g> 5</lem>
+						<lem><g ref="sym:bar" type="punctuation">.</g> 5</lem>
 						<rdg source="bib:Falk1997_01"><g>Schlußzeichen</g></rdg>
 					</app></listApp>
 			</div>

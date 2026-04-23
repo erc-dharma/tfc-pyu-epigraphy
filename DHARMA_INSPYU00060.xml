@@ -73,7 +73,7 @@
 			<div type="edition" xml:lang="pyx-Latn">
 				<ab>
 					<lb n="1"/>
-					<g>@</g><g type="ddanda">.</g> ḅaY mriK ḅaY lo pda saṁ guṄ ḅaY nuṄ O ḅaY O ? </ab>
+					<g>@</g><g ref="sym:doubleBar" type="punctuation">.</g> ḅaY mriK ḅaY lo pda saṁ guṄ ḅaY nuṄ O ḅaY O ? </ab>
 				<!-- MM: guṅ· looks like °oṅ· which is also in 012, 020, 027, 064, and 066. -->
 			</div>
 			<div type="apparatus">

@@ -72,7 +72,7 @@
       <body>
 			<div type="edition" xml:lang="pyx-Latn">
 				<ab>
-					<lb n="1"/><g>@</g><g type="ddanda">.</g> CCiL O kdlaV ḅaYṁḥ dhiYṁ slauṄṁ <space type="horizontal" quantity="1" unit="character"/> ḅaYṁḥ maY draṄ gaṃḥ O kaṄ daṄṃṁ tdi nda O tlaṄ yaṁ O ndaN naṁ X <g type="danda">.</g> s </ab>
+					<lb n="1"/><g>@</g><g ref="sym:doubleBar" type="punctuation">.</g> CCiL O kdlaV ḅaYṁḥ dhiYṁ slauṄṁ <space type="horizontal" quantity="1" unit="character"/> ḅaYṁḥ maY draṄ gaṃḥ O kaṄ daṄṃṁ tdi nda O tlaṄ yaṁ O ndaN naṁ X <g ref="sym:bar" type="punctuation">.</g> s </ab>
 			</div>
 			<div type="apparatus">
 				<listApp/>

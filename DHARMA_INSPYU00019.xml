@@ -72,13 +72,13 @@
       <body>
 			<div type="edition" xml:lang="pyx-Latn">
 				<ab>
-					<lb n="1"/><supplied reason="lost"><g>1</g> s</supplied><unclear>i</unclear>ddhaM <g>2</g><g type="ddanda">.</g> hmiṁ taR mi<unclear>ḥ</unclear> pu thṅa haMḥ <unclear>paṄ</unclear> O roḥ <unclear>mgaṃ</unclear>
+					<lb n="1"/><supplied reason="lost"><g>1</g> s</supplied><unclear>i</unclear>ddhaM <g>2</g><g ref="sym:doubleBar" type="punctuation">.</g> hmiṁ taR mi<unclear>ḥ</unclear> pu thṅa haMḥ <unclear>paṄ</unclear> O roḥ <unclear>mgaṃ</unclear>
 					<gap reason="lost" quantity="1" unit="character"/><seg type="component" subtype="subscript">C</seg>ḥ gaYṁḥ mvaYṃ tiṁ priṄḥ sa<supplied reason="lost">ḥ</supplied> mhuRḥ ha <lb n="2"/>O mra piTṁ taR ḅiNṁḥ taK ṭro<unclear>M</unclear>ḥ ta ḅi<unclear>N</unclear>ṁḥ roM dre <space type="horizontal" quantity="1" unit="character"/>
 					<unclear>t</unclear>aR ya<unclear>Ṅ</unclear>ḥ <unclear>t</unclear>yaṄḥ
 					k<unclear>ṅ</unclear>o<unclear>Y</unclear>
 					<unclear>si</unclear>R<supplied reason="lost">ṁ</supplied> kaT<supplied reason="lost">ṁ</supplied> msauṄ <unclear>ḅa</unclear> tniNḥ tdeRṃḥ ciK tiNṁ mu tiNṁ gaMṃḥ nuN <unclear>g</unclear>aM<unclear>ṃ</unclear>
 					<lb n="3"/>tiṁ pd<unclear>l</unclear>auT ḅa tmiT tṅaT <space type="horizontal" quantity="1" unit="character"/>
-					<g type="ddanda">.</g><g>@</g>
+					<g ref="sym:doubleBar" type="punctuation">.</g><g>@</g>
 				</ab>
 			</div>
 			<div type="apparatus">

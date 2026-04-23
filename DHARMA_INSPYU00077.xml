@@ -78,7 +78,7 @@
 					<gap reason="lost" extent="unknown"/>
 					<lb n="2"/>
 					sala<unclear>dham</unclear>m<unclear>ā</unclear>
-					<space type="horizontal" quantity="1" unit="chars"/><g type="ddanda">.</g>
+					<space type="horizontal" quantity="1" unit="chars"/><g ref="sym:doubleBar" type="punctuation">.</g>
 					A <gap reason="illegible" quantity="2" unit="chars"/>ka
 					<lb n="3"/>
 					<unclear>dham</unclear>mā

@@ -73,8 +73,8 @@
 			<div type="edition">
 				<ab>
 					<lb n="1"/>
-					<unclear><g type="siddham"/></unclear>
-						<g type="danda">.</g><g type="danda">.</g> tdaṃḥ ḅaṁḥ O hi suriyavikrama ḅaṁḥ sniḥ ṅa
+					<unclear><g ref="sym:san-siddham" type="ideogram">@</g></unclear>
+						<g ref="sym:bar" type="punctuation">.</g><g ref="sym:bar" type="punctuation">.</g> tdaṃḥ ḅaṁḥ O hi suriyavikrama ḅaṁḥ sniḥ ṅa
 					su rla
 					piṁ
 					ṅa ta kiṁ kha O <unclear>sn</unclear>iḥ sniḥ tru rla
