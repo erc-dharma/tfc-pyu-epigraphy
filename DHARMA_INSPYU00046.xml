@@ -299,7 +299,7 @@
 					<bibl><ptr target="bib:TawSeinKo1909-1910_01"/><citedRange unit="page">115</citedRange></bibl>
 					<bibl><ptr target="bib:MonBoKay1961_01"/><citedRange unit="page">112, 115</citedRange></bibl>
 					<bibl><ptr target="bib:ThaMyat1963_01"/><citedRange>44-56</citedRange></bibl>
-					<bibl><ptr target="bib:Luce1985_01"/><citedRange unit="volume">I</citedRange><citedRange unit="mixed">61, 73 n. 2, 175</citedRange></bibl>
+					<bibl><ptr target="bib:Luce1985_01"/><citedRange unit="volume">I</citedRange><citedRange unit="mixed">61, 73 n. 2, 175</citedRange><citedRange unit="volume">II</citedRange><citedRange unit="plate">98b i, ii</citedRange></bibl>
 				</listBibl>
 			</div>
 		</body>
