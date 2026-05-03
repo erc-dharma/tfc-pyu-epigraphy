@@ -207,6 +207,7 @@
 					<app loc="1r1">
 						<lem><g ref="sym:bar-ornate"/><g ref="sym:bullet-triple"/><g ref="sym:bar-ornate"/></lem>
 						<rdg source="bib:TunNyein1898-99_01"><g ref="sym:doubleBar"/></rdg>
+<!-- same opening/cvlosing mark surrounding triple dot and vertical bars as in PYU 39 -->
 						<note>The opening mark stands in the margin; the same sign is repeated atthe end of leaf 2. It is a simpler version of the one seen at the end of <ref target="DHARMA_INSPYU00044">PYU 44</ref>.</note>
 					</app>
 					<app loc="1r1">
