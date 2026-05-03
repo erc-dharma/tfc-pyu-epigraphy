@@ -290,7 +290,7 @@
 			<div type="bibliography">
 <!--Tun Nyein 1898-99. —ASI 1907-08, 41; 1909-10, 115. — Finot 1912: 130-2. — PR, 44-6. — PPPB I, 61, 73 n. 2, 175.-->
 				<p>First edited by Tun Nyein (<bibl rend="omitname"><ptr target="bib:TunNyein1898-99_01"/></bibl>); published again — with some improvements offset by a number of inaccuracies — by Finot (<bibl rend="omitname"><ptr target="bib:Finot1912_07"/></bibl>).</p>
-<p>Based on published reproductions and photographs furnished by the British Library, the inscription was re-edited and published in <bibl><ptr target="bib:Griffiths+al2017_01"/></bibl> besides on <ref target="http://hisoma.huma-num.fr/exist/apps/pyu/works/">our experimental website</ref>. The XML source code underlying the latter (<bibl><ptr target="bib:CPI2018_01"/></bibl>) was adapted for this database by Arlo Griffiths in 2026.</p>
+<p>Based on published reproductions and photographs furnished by the British Library, the inscription was re-edited and published on <ref target="http://hisoma.huma-num.fr/exist/apps/pyu/works/">our experimental website</ref>. The XML source code underlying the latter (<bibl><ptr target="bib:CPI2018_01"/></bibl>) was adapted for this database by Arlo Griffiths in 2026.</p>
 				<listBibl type="primary">
 			<bibl n="TN"><ptr target="bib:TunNyein1898-99_01"/></bibl>
 			<bibl n="F"><ptr target="bib:Finot1912_07"/><citedRange>130-132</citedRange></bibl>
