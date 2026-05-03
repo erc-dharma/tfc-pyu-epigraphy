@@ -8,14 +8,20 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Maunggan Gold Leaves</title>
+                <title>PYU 46. Maunggan Gold Leaves</title>
                 <respStmt>
                     <resp>author of digital edition</resp>
-                <persName ref="part:argr"><forename>Arlo</forename><surname>Griffiths</surname></persName><persName ref="part:dcla"><forename>D. Christian</forename><surname>Lammerts</surname></persName></respStmt>
+                <persName ref="part:argr">
+					<forename>Arlo</forename>
+					<surname>Griffiths</surname></persName>
+				<persName ref="part:dcla">
+				<forename>D. Christian</forename>
+				<surname>Lammerts</surname></persName>
+				</respStmt>
             </titleStmt>
             <publicationStmt>
                 <authority>DHARMA</authority>
-                <pubPlace><!-- Fill in here the place or places where the encoding has been done --></pubPlace>
+                <pubPlace>Lyon, Jakarta</pubPlace>
                 <idno type="filename">DHARMA_INSPYU00046</idno>
                 <availability>
                     <licence target="https://creativecommons.org/licenses/by/4.0/">
@@ -24,9 +30,10 @@
                             https://creativecommons.org/licenses/by/4.0/ or send a letter to
                             Creative Commons, 444 Castro Street, Suite 900, Mountain View,
                             California, 94041, USA.</p>
+                    	<p>Copyright © 2019-2026 by Arlo Griffiths &amp; D. Christian Lammerts.</p>
                     </licence>
                 </availability>
-                <date from="2019" to="2025">2019-2025</date>
+                <date from="2019" to="2026">2019-2026</date>
             </publicationStmt>
             <sourceDesc><!-- only the handDesc can be filled in at this stage -->
                 <msDesc><!-- //// NB: the msIdentifier had to be added for validation purposes ///. It will be edited later with the metadata spreadsheet -->
@@ -39,7 +46,7 @@
                     </msContents>
                     <physDesc>
                         <handDesc>
-                            <p><!-- The script name(s) will be inserted here at a later stage from the metadata spreasheet. At this stage, you can mention here in a free-text paragraph any characteristics of the writing observed more than once in this inscription that seem unusual/uncommon or otherwise noteworthy given the general characteristics of the script in question. See EGD 11.2. --></p>
+                            <p>Southeast Asian Brāhmī typical of the Pali inscriptions of the Pyu civilization.<!-- The script name(s) will be inserted here at a later stage from the metadata spreasheet. At this stage, you can mention here in a free-text paragraph any characteristics of the writing observed more than once in this inscription that seem unusual/uncommon or otherwise noteworthy given the general characteristics of the script in question. See EGD 11.2. --></p>
                             <!-- If you need to identify individual hands (EGD §7.5/) in addition to one or more paragraphs of general palaeographic description, wrap <summary> around the <p> or <p>s above, and, outside <summary>, create <handNote> elements for each hand as follows:
 						<summary><p><p/></summary>
 						<handNote xml:id="Pallava00001_hand1"></handNote>
@@ -65,32 +72,31 @@
             </listPrefixDef>
         </encodingDesc>
         <revisionDesc>
+        	<change who="part:argr" when="2026-05-03">Started manual modifications</change>
             <change who="part:mime" when="2026-03-02">Conversion to DHARMA guidelines</change>
         </revisionDesc>
     </teiHeader>
     <text xml:space="preserve">
       <body>
-			<div type="edition" xml:lang="pli-Latn">
-				<div type="textpart" n="First leaf (Or5340A)">
+			<div type="edition" xml:lang="pli-Latn" rendition="class:83227 maturity:83211">
+				<pb n="1r"/><label>First leaf (Or5340A)</label>
 					<!-- Or5340A before Or5340B unless B is meant to be read before A -->
-					<ab>
-						<g>⎨||⋮||⎬</g>
-						<lb n="1"/>
-						<g ref="sym:doubleBar" type="punctuation">.</g>
+					<p><lb n="1r1"/>
+						<g ref="sym:bar-ornate"/><g ref="sym:bullet-triple"/><g ref="sym:bar-ornate"/>
 						ye
 						dhammā
 						hetupabhavā
-						<space type="horizontal" quantity="1" unit="chars"/>
+						<space/>
 						tesaṁ
 						hetu<supplied reason="omitted">ṁ</supplied>
 						tathāgato
-						<space type="horizontal" quantity="1" unit="chars"/>
+						<space/>
 						Āha
 						tesañ
 						ca
 						yo
 						nirodho
-						<space type="horizontal" quantity="1" unit="chars"/>
+						<space/>
 						Evaṁvādi
 						mahāsamano
 						ti
@@ -100,59 +106,58 @@
 						<lb n="2"/>
 						cattāro
 						sammappadhānā
-						<space type="horizontal" quantity="1" unit="chars"/>
+						<space/>
 						cattāro
 						satipaṭṭhānā
-						<space type="horizontal" quantity="1" unit="chars"/>
+						<space/>
 						cattāri
 						Ariyasaccāni
-						<space type="horizontal" quantity="1" unit="chars"/>
+						<space/>
 						catuves<supplied reason="omitted">ā</supplied>rajjāni 
-						<space type="horizontal" quantity="1" unit="chars"/>
+						<space/>
 						pañcindriyāni
-						<space type="horizontal" quantity="1" unit="chars"/>
+						<space/>
 						pañcacakkhūni
-						<space type="horizontal" quantity="1" unit="chars"/>
+						<space/>
 						cha<lb n="3" break="no"/>Asaddhāraṇ<unclear>ā</unclear>ni 
-						<space type="horizontal" quantity="1" unit="chars"/>
+						<space/>
 						sattabojjhaṅgā
-						<space type="horizontal" quantity="1" unit="chars"/>
+						<space/>
 						Ariyo
 						Aṭṭhiṅgiko
 						maggo
-						<space type="horizontal" quantity="1" unit="chars"/>
+						<space/>
 						navalokuttarā
 						dhammā
-						<space type="horizontal" quantity="1" unit="chars"/>
+						<space/>
 						dasabal<supplied reason="omitted">ā</supplied>ni
-						<space type="horizontal" quantity="1" unit="chars"/>
+						<space/>
 						cundasa
 						buddhaññāni
 						Aṭṭhārasabuddhadhammāni
-					</ab>
-				</div>
-				<div type="textpart" n="Second leaf (Or5340B)">
-					<ab>
+					</p>
+				<pb n="2r"/><label>Second leaf (Or5340B)</label>
+					<p>
 						<lb n="1"/>
 						<g ref="sym:doubleBar" type="punctuation">.</g>
 						ye
 						dhammā
 						hetupabhavā
-						<space type="horizontal" quantity="1" unit="chars"/>
+						<space/>
 						tesa<supplied reason="omitted">ṁ</supplied>
 						hetu<supplied reason="omitted">ṁ</supplied>
 						tathāgato
 						Āha
-						<space type="horizontal" quantity="1" unit="chars"/>
+						<space/>
 						tesañ
 						ca
 						yo
 						nirodho
-						<space type="horizontal" quantity="1" unit="chars"/>
+						<space/>
 						Evaṁvādi
 						mahāsama<unclear>n</unclear>o
 						ti
-						<space type="horizontal" quantity="1" unit="chars"/>
+						<space/>
 						Iti
 						pi
 						so
@@ -160,18 +165,18 @@
 						Arahaṁ
 						<lb n="2"/>
 						sammāsaṁbuddho
-						<space type="horizontal" quantity="1" unit="chars"/>
+						<space/>
 						vijjācaraṇasappanno
-						<space type="horizontal" quantity="1" unit="chars"/>
+						<space/>
 						sugato
 						lokavidu
-						<space type="horizontal" quantity="1" unit="chars"/>
+						<space/>
 						Anuttaro
 						purisadammasārathī
-						<space type="horizontal" quantity="1" unit="chars"/>
+						<space/>
 						satthā
 						devamanussānaṁ
-						<space type="horizontal" quantity="1" unit="chars"/>
+						<space/>
 						buddho
 						bhagavā
 						ti
@@ -179,31 +184,30 @@
 						svākhyāto
 						bhagavatā
 						dhammo
-						<space type="horizontal" quantity="1" unit="chars"/>
+						<space/>
 						sandiṭṭhiko
-						<space type="horizontal" quantity="1" unit="chars"/>
+						<space/>
 						Akāl<supplied reason="omitted">i</supplied>ko
-						<space type="horizontal" quantity="1" unit="chars"/>
+						<space/>
 						Ehipassiko
-						<space type="horizontal" quantity="1" unit="chars"/>
+						<space/>
 						<supplied reason="lost">O</supplied>paṇāyiko
-						<space type="horizontal" quantity="1" unit="chars"/>
+						<space/>
 						paccattaṁ
 						veditavvo
-						<space type="horizontal" quantity="1" unit="chars"/>
+						<space/>
 						viññūhī
 						ti
 						<g>⎨||⋮||⎬</g>
-					</ab>
-				</div>
+					</p>
+				
 			</div>
 			<div type="apparatus">
 				<listApp><!-- Finot 1912 readings still need to be collated -->
 					<app loc="1.margin">
-						<lem><g>⎨||⋮||⎬</g></lem>
-						<rdg resp="Tun Nyein"><g ref="sym:doubleBar" type="punctuation">.</g></rdg>
-						<note>The opening mark stands in the margin; the same sign is repeated at
-							the end of leaf 2. It is a simpler version of the one seen at the end of PYU <ref target="DHARMA_INSPYU00044">44</ref>.</note>
+						<lem><g ref="sym:bar-ornate"/><g ref="sym:bullet-triple"/><g ref="sym:bar-ornate"/></lem>
+						<rdg source="bib:TunNyein1898-99_01"><g ref="sym:doubleBar"/></rdg>
+						<note>The opening mark stands in the margin; the same sign is repeated atthe end of leaf 2. It is a simpler version of the one seen at the end of <ref target="DHARMA_INSPYU00044">PYU 44</ref>.</note>
 					</app>
 					<app loc="1.1">
 						<lem>tesañ ca</lem>
@@ -215,12 +219,12 @@
 					</app>
 					<app loc="1.2">
 						<lem>satipaṭṭhānā</lem>
-						<rdg resp="Tun Nyein">satipaṭṭhāuā</rdg>
+						<rdg source="bib:TunNyein1898-99_01">satipaṭṭhāuā</rdg>
 						<note>(misprint)</note>
 					</app>
 					<app loc="1.2">
 						<lem>Ariyasaccāni</lem>
-						<rdg resp="Tun Nyein">Ariyasacohāni</rdg>
+						<rdg source="bib:TunNyein1898-99_01">Ariyasacohāni</rdg>
 						<note>(misprint)</note>
 					</app>
 					<app loc="1.3">
@@ -241,7 +245,7 @@
 					</app>
 					<app loc="1.3">
 						<lem>buddhaññāni</lem>
-						<rdg resp="Tun Nyein">buddhakoni</rdg>
+						<rdg source="bib:TunNyein1898-99_01">buddhakoni</rdg>
 						<note>correcting <foreign xml:lang="pli-Latn">buddhayonī</foreign> in note; emend <foreign xml:lang="pli-Latn">buddhañāṇāni</foreign>.</note>
 					</app>
 					<app loc="2.1">
@@ -258,11 +262,11 @@
 					</app>
 					<app loc="2.2">
 						<lem>-sārathī</lem>
-						<rdg resp="Tun Nyein">-sārathi</rdg>
+						<rdg source="bib:TunNyein1898-99_01">-sārathi</rdg>
 					</app>
 					<app loc="2.3">
 						<lem>Akāl<supplied reason="omitted">i</supplied>ko</lem>
-						<rdg resp="Tun Nyein">Akāliko</rdg>
+						<rdg source="bib:TunNyein1898-99_01">Akāliko</rdg>
 						<note>Silent correction.</note>
 					</app>
 					<app loc="2.3">
@@ -271,27 +275,32 @@
 					</app>
 					<app loc="2.3">
 						<lem><g>⎨||⋮||⎬</g></lem>
-						<rdg resp="Tun Nyein">||</rdg>
+						<rdg source="bib:TunNyein1898-99_01">||</rdg>
 						<note>The closing sign here corresponds to the opening sign of leaf 1, and clearly shows the two leaves form one whole.</note>
 					</app>
 				</listApp>
 			</div>
-			<div type="translation" xml:lang="eng">
-				<p><!--english translation here--></p>
-			</div>
+			<!--<div type="translation" xml:lang="eng">
+				<p><!-\-english translation here-\-></p>
+			</div>-->
 			<div type="commentary">
 				<p><!-- commentary --></p>
 			</div>
 			<div type="bibliography">
 				<!--Tun Nyein 1898-99. —ASI 1907-08, 41; 1909-10, 115. — Finot 1912: 130-2. — PR, 44-6. — PPPB I, 61, 73 n. 2, 175.-->
 				<!--[Todo: markup citedRange elements if necessary]-->
-				<p>First edited in <bibl><ptr target="bib:TunNyein1898-99_01"/></bibl>; published again (with some improvements offset by a number of inaccuracies) in <bibl><ptr target="bib:Finot1912"/><citedRange>130-2</citedRange></bibl>. Re-edited here from published reproductions and photographs furnished by the British Library.</p>
-				<listBibl type="primary"><bibl><ptr target="bib:CPI2018_01"/><citedRange unit="item">DHARMA_INSPYU00046</citedRange></bibl></listBibl><listBibl type="secondary">
+				<p>First edited by Tun Nyein (<bibl rend="omitname"><ptr target="bib:TunNyein1898-99_01"/></bibl>); published again (with some improvements offset by a number of inaccuracies) by Finot (<bibl rend="omitname"><ptr target="bib:Finot1912_07"/></bibl>. Re-edited here from published reproductions and photographs furnished by the British Library.</p>
+				<listBibl type="primary">
+			<bibl n="TN"><ptr target="bib:TunNyein1898-99_01"/></bibl>
+			<bibl n="F"><ptr target="bib:Finot1912_07"/><citedRange>130-132</citedRange></bibl>
+			<bibl><ptr target="bib:CPI2018_01"/><citedRange unit="item">DHARMA_INSPYU00046</citedRange></bibl>
+				</listBibl>
+				<listBibl type="secondary">
 					<bibl><ptr target="bib:ASI"/><citedRange>1907-08: 41</citedRange></bibl>
 					<bibl><ptr target="bib:ASI"/><citedRange>1909-10: 115</citedRange></bibl>
-					<bibl><ptr target="bib:MonBoKay1961a"/><citedRange>112, 115</citedRange></bibl>
-					<bibl><ptr target="bib:ThaMyat1963_01"/><citedRange>44-6</citedRange></bibl>
-					<bibl><ptr target="bib:Luce1985_01"/><citedRange>I, 61, 73 n. 2, 175</citedRange></bibl>
+					<bibl><ptr target="bib:MonBoKay1961_01"/><citedRange unit="page">112, 115</citedRange></bibl>
+					<bibl><ptr target="bib:ThaMyat1963_01"/><citedRange>44-56</citedRange></bibl>
+					<bibl><ptr target="bib:Luce1985_01"/><citedRange unit="volume">I</citedRange><citedRange unit="mixed">61, 73 n. 2, 175</citedRange></bibl>
 				</listBibl>
 			</div>
 		</body>
