@@ -294,7 +294,7 @@
 				<listBibl type="primary">
 			<bibl n="TN"><ptr target="bib:TunNyein1898-99_01"/></bibl>
 			<bibl n="F"><ptr target="bib:Finot1912_07"/><citedRange>130-132</citedRange></bibl>
-			<bibl><ptr target="bib:CPI2018_01"/><citedRange unit="item">DHARMA_INSPYU00046</citedRange></bibl>
+			<bibl><ptr target="bib:CPI2018_01"/><citedRange unit="item">PYU046</citedRange></bibl>
 				</listBibl>
 				<listBibl type="secondary">
 					<bibl><ptr target="bib:ARASI1907-1908"/><citedRange unit="page">41</citedRange></bibl>
@@ -302,6 +302,7 @@
 					<bibl><ptr target="bib:MonBoKay1961_01"/><citedRange unit="page">112, 115</citedRange></bibl>
 					<bibl><ptr target="bib:ThaMyat1963_01"/><citedRange>44-56</citedRange></bibl>
 					<bibl><ptr target="bib:Luce1985_01"/><citedRange unit="volume">I</citedRange><citedRange unit="mixed">61, 73 n. 2, 175</citedRange><citedRange unit="volume">II</citedRange><citedRange unit="plate">98b i, ii</citedRange></bibl>
+<bibl><ptr target="bib:Griffiths+al2017_01"/><citedRange unit="page">166-167</citedRange><citedRange unit="item">PYU 46</citedRange></bibl>
 				</listBibl>
 			</div>
 		</body>
