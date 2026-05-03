@@ -198,85 +198,85 @@
 						<space/>
 						viññūhī
 						ti
-						<g>⎨||⋮||⎬</g>
+						<g ref="sym:bar-ornate"/><g ref="sym:bullet-triple"/><g ref="sym:bar-ornate"/>
 					</p>
 				
 			</div>
 			<div type="apparatus">
 				<listApp><!-- Finot 1912 readings still need to be collated -->
-					<app loc="1.margin">
+					<app loc="1r1">
 						<lem><g ref="sym:bar-ornate"/><g ref="sym:bullet-triple"/><g ref="sym:bar-ornate"/></lem>
 						<rdg source="bib:TunNyein1898-99_01"><g ref="sym:doubleBar"/></rdg>
 						<note>The opening mark stands in the margin; the same sign is repeated atthe end of leaf 2. It is a simpler version of the one seen at the end of <ref target="DHARMA_INSPYU00044">PYU 44</ref>.</note>
 					</app>
-					<app loc="1.1">
+					<app loc="1r1">
 						<lem>tesañ ca</lem>
 						<note>There is a rightward curl at the top of the vertical element in &lt;ñ&gt;, that could possibly be interpreted as &lt;-ā&gt;, but we assume it is a somewhat overdone serif.</note>
 					</app>
-					<app loc="1.1">
+					<app loc="1r1">
 						<lem>Evaṁvādi mahāsamano</lem>
 						<note>The expected form would be <foreign xml:lang="pli-Latn">Evaṁvādī mahāsamaṇo</foreign>. Same irregularities in leaf 2.</note>
 					</app>
-					<app loc="1.2">
+					<app loc="1r2">
 						<lem>satipaṭṭhānā</lem>
 						<rdg source="bib:TunNyein1898-99_01">satipaṭṭhāuā</rdg>
 						<note>(misprint)</note>
 					</app>
-					<app loc="1.2">
+					<app loc="1r2">
 						<lem>Ariyasaccāni</lem>
 						<rdg source="bib:TunNyein1898-99_01">Ariyasacohāni</rdg>
 						<note>(misprint)</note>
 					</app>
-					<app loc="1.3">
+					<app loc="1r3">
 						<lem>Asaddhāraṇ<unclear>ā</unclear>ni</lem>
 						<note>Tun Nyein corrects <foreign xml:lang="pli-Latn">Asādhāraṇāni </foreign> in note.</note>
 					</app>
-					<app loc="1.3">
+					<app loc="1r3">
 						<lem>Aṭṭhiṅgiko</lem>
 						<note>Tun Nyein corrects <foreign xml:lang="pli-Latn">Aṭṭhaṅgiko</foreign> in note.</note>
 					</app>
-					<app loc="1.3">
+					<app loc="1r3">
 						<lem>dasabal<supplied reason="omitted">ā</supplied>ni</lem>
 						<note>Tun Nyein silently corrects <foreign xml:lang="pli-Latn">dasabalāni</foreign>.</note>
 					</app>
-					<app loc="1.3">
+					<app loc="1r3">
 						<lem>cundasa</lem>
 						<note>Tun Nyein silently corrects <foreign xml:lang="pli-Latn">cuddasa</foreign>.</note>
 					</app>
-					<app loc="1.3">
+					<app loc="1r3">
 						<lem>buddhaññāni</lem>
 						<rdg source="bib:TunNyein1898-99_01">buddhakoni</rdg>
 						<note>correcting <foreign xml:lang="pli-Latn">buddhayonī</foreign> in note; emend <foreign xml:lang="pli-Latn">buddhañāṇāni</foreign>.</note>
 					</app>
-					<app loc="2.1">
+					<app loc="2r1">
 						<lem><g ref="sym:doubleBar" type="punctuation">.</g></lem>
 						<note>The two bars are connected by a small cross-bar.</note>
 					</app>
-					<app loc="2.1">
+					<app loc="2r1">
 						<lem>Evaṁvādi mahāsamano</lem>
 						<note>The expected form would be <foreign xml:lang="pli-Latn">Evaṁvādī mahāsamaṇo</foreign>. Same irregularities in leaf 1.</note>
 					</app>
-					<app loc="2.2">
+					<app loc="2r2">
 						<lem>-sappanno</lem>
 						<note>Tun Nyein corrects <foreign xml:lang="pli-Latn">-sampanno</foreign> in note.</note>
 					</app>
-					<app loc="2.2">
+					<app loc="2r2">
 						<lem>-sārathī</lem>
 						<rdg source="bib:TunNyein1898-99_01">-sārathi</rdg>
 					</app>
-					<app loc="2.3">
+					<app loc="2r3">
 						<lem>Akāl<supplied reason="omitted">i</supplied>ko</lem>
 						<rdg source="bib:TunNyein1898-99_01">Akāliko</rdg>
 						<note>Silent correction.</note>
 					</app>
-					<app loc="2.3">
+					<app loc="2r3">
 						<lem><supplied reason="lost">O</supplied>paṇāyiko</lem>
-						<note>Tun Nyein corrects <foreign xml:lang="pli-Brah">Opanayiko</foreign> in note. Editions of the canon show either <foreign>Opaneyyika</foreign> or <foreign xml:lang="pli-Brah">Opanāyiko</foreign>.</note>
+						<note>Tun Nyein corrects <foreign>Opanayiko</foreign> in note. Editions of the canon show either <foreign>Opaneyyika</foreign> or <foreign>Opanāyiko</foreign>.</note>
 					</app>
-					<app loc="2.3">
-						<lem><g>⎨||⋮||⎬</g></lem>
+					<app loc="2r3">
+						<lem><g ref="sym:bar-ornate"/><g ref="sym:bullet-triple"/><g ref="sym:bar-ornate"/></lem>
 						<rdg source="bib:TunNyein1898-99_01">||</rdg>
-						<note>The closing sign here corresponds to the opening sign of leaf 1, and clearly shows the two leaves form one whole.</note>
+						<note>The closing sign here corresponds to the opening sign of leaf 1, and reveals that the two leaves form one whole.</note>
 					</app>
 				</listApp>
 			</div>
@@ -287,8 +287,7 @@
 				<p><!-- commentary --></p>
 			</div>
 			<div type="bibliography">
-				<!--Tun Nyein 1898-99. —ASI 1907-08, 41; 1909-10, 115. — Finot 1912: 130-2. — PR, 44-6. — PPPB I, 61, 73 n. 2, 175.-->
-				<!--[Todo: markup citedRange elements if necessary]-->
+<!--Tun Nyein 1898-99. —ASI 1907-08, 41; 1909-10, 115. — Finot 1912: 130-2. — PR, 44-6. — PPPB I, 61, 73 n. 2, 175.-->
 				<p>First edited by Tun Nyein (<bibl rend="omitname"><ptr target="bib:TunNyein1898-99_01"/></bibl>); published again (with some improvements offset by a number of inaccuracies) by Finot (<bibl rend="omitname"><ptr target="bib:Finot1912_07"/></bibl>. Re-edited here from published reproductions and photographs furnished by the British Library.</p>
 				<listBibl type="primary">
 			<bibl n="TN"><ptr target="bib:TunNyein1898-99_01"/></bibl>
@@ -296,8 +295,8 @@
 			<bibl><ptr target="bib:CPI2018_01"/><citedRange unit="item">DHARMA_INSPYU00046</citedRange></bibl>
 				</listBibl>
 				<listBibl type="secondary">
-					<bibl><ptr target="bib:ASI"/><citedRange>1907-08: 41</citedRange></bibl>
-					<bibl><ptr target="bib:ASI"/><citedRange>1909-10: 115</citedRange></bibl>
+					<bibl><ptr target="bib:ARASI1907-1908"/><citedRange unit="page">41</citedRange></bibl>
+					<bibl><ptr target="bib:TawSeinKo1909-1910_01"/><citedRange unit="page">115</citedRange></bibl>
 					<bibl><ptr target="bib:MonBoKay1961_01"/><citedRange unit="page">112, 115</citedRange></bibl>
 					<bibl><ptr target="bib:ThaMyat1963_01"/><citedRange>44-56</citedRange></bibl>
 					<bibl><ptr target="bib:Luce1985_01"/><citedRange unit="volume">I</citedRange><citedRange unit="mixed">61, 73 n. 2, 175</citedRange></bibl>
