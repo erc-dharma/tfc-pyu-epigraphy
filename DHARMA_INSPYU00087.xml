@@ -14,7 +14,7 @@
                 <persName ref="part:argr"><forename>Arlo</forename><surname>Griffiths</surname></persName><persName ref="part:mami"><forename>Marc</forename><surname>Miyake</surname></persName><persName ref="part:jukw"><forename>Julian Karl</forename><surname>Wheatley</surname></persName></respStmt>
             </titleStmt>
             <publicationStmt>
-                <authority>DHARMA</authority>
+                <authority><ref target="https://dharmalekha.info">DHARMA</ref></authority>
                 <pubPlace><!-- Fill in here the place or places where the encoding has been done --></pubPlace>
                 <idno type="filename">DHARMA_INSPYU00087.xml</idno>
                 <availability>
