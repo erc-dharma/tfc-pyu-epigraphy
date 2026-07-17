@@ -10,7 +10,7 @@
             <titleStmt>
                 <title>Bronze Buddha from Myinbahu, Sriksetra</title>
                 <respStmt>
-                    <resp>author of digital edition</resp>
+                    <resp key="creator">author of digital edition</resp>
                 <persName ref="part:argr"><forename>Arlo</forename><surname>Griffiths</surname></persName><persName ref="part:mami"><forename>Marc</forename><surname>Miyake</surname></persName><persName ref="part:jukw"><forename>Julian Karl</forename><surname>Wheatley</surname></persName></respStmt>
             </titleStmt>
             <publicationStmt>

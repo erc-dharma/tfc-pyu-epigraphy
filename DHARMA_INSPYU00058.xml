@@ -10,7 +10,7 @@
             <titleStmt>
                 <title>Gold foil from Kyundawzu village, Sriksetra</title>
                 <respStmt>
-                    <resp>author of digital edition</resp>
+                    <resp key="creator">author of digital edition</resp>
                 <persName ref="part:argr"><forename>Arlo</forename><surname>Griffiths</surname></persName><persName ref="part:dcla"><forename>D. Christian</forename><surname>Lammerts</surname></persName></respStmt>
             </titleStmt>
             <publicationStmt>
