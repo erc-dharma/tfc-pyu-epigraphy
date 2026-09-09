@@ -12,7 +12,7 @@
                 <respStmt>
                     <resp key="creator">author of digital edition</resp>
                 <persName ref="part:argr"><forename>Arlo</forename><surname>Griffiths</surname></persName><persName ref="part:mami"><forename>Marc</forename><surname>Miyake</surname></persName><persName ref="part:jukw"><forename>Julian Karl</forename><surname>Wheatley</surname></persName></respStmt>
-            </titleStmt>
+            <funder>European Research Council (ERC), grant agreement no 809994</funder></titleStmt>
             <publicationStmt>
                 <authority><ref target="https://dharmalekha.info">DHARMA</ref></authority>
                 <pubPlace><!-- Fill in here the place or places where the encoding has been done --></pubPlace>
